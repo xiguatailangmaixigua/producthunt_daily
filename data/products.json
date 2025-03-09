@@ -1,0 +1,394 @@
+{
+  "date": "2025-03-04",
+  "products": [
+    {
+      "name": "Pieces Long-Term Memory Agent",
+      "tagline": "The first AI that remembers everything you work on",
+      "url": "https://www.producthunt.com/posts/pieces-long-term-memory-agent",
+      "topics": [
+        "Productivity",
+        "Software Engineering",
+        "Developer Tools"
+      ],
+      "comments": 148,
+      "votes": 526
+    },
+    {
+      "name": "Greta",
+      "tagline": "If you can think it, you can build it!",
+      "url": "https://www.producthunt.com/posts/gretabyquestera",
+      "topics": [
+        "Website Builder",
+        "Developer Tools",
+        "No-Code"
+      ],
+      "comments": 51,
+      "votes": 360
+    },
+    {
+      "name": "Opera Operator",
+      "tagline": "Meet Opera’s AI Browser Operator",
+      "url": "https://www.producthunt.com/posts/opera-operator",
+      "topics": [
+        "Task Management",
+        "Artificial Intelligence"
+      ],
+      "comments": 9,
+      "votes": 268
+    },
+    {
+      "name": "One Task X",
+      "tagline": "One task today > ten half-done",
+      "url": "https://www.producthunt.com/posts/one-task-x",
+      "topics": [
+        "Productivity",
+        "Task Management"
+      ],
+      "comments": 20,
+      "votes": 233
+    },
+    {
+      "name": "Snapdeck beta",
+      "tagline": "Generate presentation slides in seconds with AI.",
+      "url": "https://www.producthunt.com/posts/snapdeck-beta",
+      "topics": [
+        "Design Tools",
+        "Productivity",
+        "SaaS"
+      ],
+      "comments": 12,
+      "votes": 201
+    },
+    {
+      "name": "Prism",
+      "tagline": "Competitive benchmarks for developer productivity",
+      "url": "https://www.producthunt.com/posts/prism-47b4a3d3-2a8a-46c0-9fce-297391103178",
+      "topics": [
+        "Developer Tools",
+        "Tech",
+        "Development"
+      ],
+      "comments": 14,
+      "votes": 169
+    },
+    {
+      "name": "Kive Product Shots",
+      "tagline": "Instant, on-brand product visuals – powered by custom AI.",
+      "url": "https://www.producthunt.com/posts/kive-product-shots",
+      "topics": [
+        "Design Tools",
+        "Marketing",
+        "Photography"
+      ],
+      "comments": 16,
+      "votes": 164
+    },
+    {
+      "name": "SpeedBump",
+      "tagline": "The intentionally annoying app to break doomscrolling",
+      "url": "https://www.producthunt.com/posts/speedbump",
+      "topics": [
+        "Android",
+        "Productivity",
+        "Lifestyle"
+      ],
+      "comments": 26,
+      "votes": 162
+    },
+    {
+      "name": "Aria Gen 2",
+      "tagline": "Future Glasses for AI and AR Research.",
+      "url": "https://www.producthunt.com/posts/aria-gen-2",
+      "topics": [
+        "Hardware",
+        "Artificial Intelligence",
+        "Augmented Reality"
+      ],
+      "comments": 4,
+      "votes": 151
+    },
+    {
+      "name": "GetESP",
+      "tagline": "Improve email deliverability with ESP matching",
+      "url": "https://www.producthunt.com/posts/getesp",
+      "topics": [
+        "Email Marketing",
+        "Marketing"
+      ],
+      "comments": 8,
+      "votes": 142
+    },
+    {
+      "name": "Quotes",
+      "tagline": "Local-first, Mac-native quotes management and revisiting app",
+      "url": "https://www.producthunt.com/posts/quotes-8",
+      "topics": [
+        "eBook Reader",
+        "Mac",
+        "Writing"
+      ],
+      "comments": 15,
+      "votes": 139
+    },
+    {
+      "name": "Microsoft Dragon Copilot",
+      "tagline": "The industry’s first AI assistant for clinical workflow",
+      "url": "https://www.producthunt.com/posts/microsoft-dragon-copilot",
+      "topics": [
+        "Fintech"
+      ],
+      "comments": 2,
+      "votes": 136
+    },
+    {
+      "name": "Luukilu",
+      "tagline": "Get daily ad fatigue alerts for Meta on your Slack/Email",
+      "url": "https://www.producthunt.com/posts/luukilu",
+      "topics": [
+        "Marketing",
+        "Advertising",
+        "Artificial Intelligence"
+      ],
+      "comments": 15,
+      "votes": 134
+    },
+    {
+      "name": "Vomyra AI – Voice AI Agent",
+      "tagline": "A low-code , No-Code Voice AI agents for everyone",
+      "url": "https://www.producthunt.com/posts/vomyra-ai-voice-ai-agent",
+      "topics": [
+        "SaaS",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ],
+      "comments": 12,
+      "votes": 132
+    },
+    {
+      "name": "NeoBase - AI Copilot for Database",
+      "tagline": "Chat & Question your Database in Natural Language.",
+      "url": "https://www.producthunt.com/posts/neobase-ai-copilot-for-database",
+      "topics": [
+        "Artificial Intelligence",
+        "GitHub",
+        "Data & Analytics"
+      ],
+      "comments": 8,
+      "votes": 130
+    },
+    {
+      "name": "Cursor Rules CLI",
+      "tagline": "Auto-install relevant Cursor rules with one simple command",
+      "url": "https://www.producthunt.com/posts/cursor-rules-cli",
+      "topics": [
+        "Open Source",
+        "Software Engineering",
+        "Developer Tools"
+      ],
+      "comments": 4,
+      "votes": 126
+    },
+    {
+      "name": "Cardamon",
+      "tagline": "Launch 10X faster with AI-enabled regulatory compliance",
+      "url": "https://www.producthunt.com/posts/cardamon",
+      "topics": [
+        "Fintech",
+        "SaaS",
+        "Artificial Intelligence"
+      ],
+      "comments": 5,
+      "votes": 121
+    },
+    {
+      "name": "TabType",
+      "tagline": "Turn browser tabs into attractive inline slides",
+      "url": "https://www.producthunt.com/posts/tabtype",
+      "topics": [
+        "Web App",
+        "Productivity",
+        "Notes"
+      ],
+      "comments": 8,
+      "votes": 118
+    },
+    {
+      "name": "MGX",
+      "tagline": "The first AI dev team",
+      "url": "https://www.producthunt.com/posts/mgx",
+      "topics": [
+        "Productivity",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ],
+      "comments": 158,
+      "votes": 895
+    },
+    {
+      "name": "Crosshatch",
+      "tagline": "Turn on hyper-personalization in your app",
+      "url": "https://www.producthunt.com/posts/crosshatch-2",
+      "topics": [
+        "User Experience",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ],
+      "comments": 52,
+      "votes": 482
+    },
+    {
+      "name": "Teamble AI",
+      "tagline": "Give and get 10X better feedback, unlock your potential",
+      "url": "https://www.producthunt.com/posts/teamble-ai",
+      "topics": [
+        "SaaS",
+        "Artificial Intelligence",
+        "Human Resources"
+      ],
+      "comments": 112,
+      "votes": 478
+    },
+    {
+      "name": "Producta",
+      "tagline": "Automate solving your Linear or Jira tickets",
+      "url": "https://www.producthunt.com/posts/producta-2",
+      "topics": [
+        "SaaS",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ],
+      "comments": 103,
+      "votes": 459
+    },
+    {
+      "name": "Reach by Artificial Societies",
+      "tagline": "Test content in a simulation of your own LinkedIn audience",
+      "url": "https://www.producthunt.com/posts/reach-by-artificial-societies",
+      "topics": [
+        "Artificial Intelligence",
+        "LinkedIn",
+        "Growth Hacks"
+      ],
+      "comments": 97,
+      "votes": 393
+    },
+    {
+      "name": "OpenArt Consistent Characters",
+      "tagline": "Craft your characters and stories with ease",
+      "url": "https://www.producthunt.com/posts/openart-consistent-characters",
+      "topics": [
+        "Art",
+        "Artificial Intelligence",
+        "Community"
+      ],
+      "comments": 164,
+      "votes": 1425
+    },
+    {
+      "name": "Basalt",
+      "tagline": "Integrate AI in your product in seconds",
+      "url": "https://www.producthunt.com/posts/basalt-1",
+      "topics": [
+        "Productivity",
+        "Software Engineering",
+        "Artificial Intelligence"
+      ],
+      "comments": 235,
+      "votes": 1330
+    },
+    {
+      "name": "Currents AI",
+      "tagline": "AI social media deep research 24/7",
+      "url": "https://www.producthunt.com/posts/currents-ai",
+      "topics": [
+        "Analytics",
+        "Growth Hacking",
+        "Artificial Intelligence"
+      ],
+      "comments": 130,
+      "votes": 857
+    },
+    {
+      "name": "Captiwate",
+      "tagline": "Instant inbound video calls with website visitors",
+      "url": "https://www.producthunt.com/posts/captiwate",
+      "topics": [
+        "Sales",
+        "Marketing",
+        "Meetings"
+      ],
+      "comments": 134,
+      "votes": 746
+    },
+    {
+      "name": "Claude Code and Claude 3.7 Sonnet",
+      "tagline": "Our most intelligent model to date",
+      "url": "https://www.producthunt.com/posts/claude-code-and-claude-3-7-sonnet",
+      "topics": [
+        "Artificial Intelligence"
+      ],
+      "comments": 21,
+      "votes": 758
+    },
+    {
+      "name": "Tana",
+      "tagline": "Put your notes to work with voice and AI",
+      "url": "https://www.producthunt.com/products/tana#tana-2",
+      "topics": [
+        "Productivity",
+        "Notes",
+        "Artificial Intelligence"
+      ],
+      "comments": 558,
+      "votes": 2338
+    },
+    {
+      "name": "Tanka",
+      "tagline": "AI Messenger with smart reply & long term memory for teams",
+      "url": "https://www.producthunt.com/products/tanka#tanka",
+      "topics": [
+        "Productivity",
+        "Messaging",
+        "Artificial Intelligence"
+      ],
+      "comments": 299,
+      "votes": 2020
+    },
+    {
+      "name": "Screen Studio 3.0",
+      "tagline": "Beautiful screen recordings with instant shareable links",
+      "url": "https://www.producthunt.com/products/screen-studio#screen-studio-3-0",
+      "topics": [
+        "Productivity",
+        "Marketing",
+        "Video"
+      ],
+      "comments": 308,
+      "votes": 1594
+    },
+    {
+      "name": "OpenArt Consistent Characters",
+      "tagline": "Craft your characters and stories with ease",
+      "url": "https://www.producthunt.com/posts/openart-consistent-characters",
+      "topics": [
+        "Art",
+        "Artificial Intelligence",
+        "Community"
+      ],
+      "comments": 164,
+      "votes": 1425
+    },
+    {
+      "name": "Basalt",
+      "tagline": "Integrate AI in your product in seconds",
+      "url": "https://www.producthunt.com/posts/basalt-1",
+      "topics": [
+        "Productivity",
+        "Software Engineering",
+        "Artificial Intelligence"
+      ],
+      "comments": 235,
+      "votes": 1330
+    }
+  ]
+}

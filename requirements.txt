@@ -1,4 +1,11 @@
-requests
+requests>=2.31.0
 beautifulsoup4
-openai>=1.0.0
+dashscope==1.13.6
+python-dotenv
 pytz
+cloudscraper==1.2.71
+producthunt==0.1.4
+selenium
+webdriver_manager
+feedparser>=6.0.11
+tenacity>=8.2.2
