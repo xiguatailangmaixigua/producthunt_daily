@@ -1,0 +1,196 @@
+[
+  {
+    "name": "LaiXi",
+    "product_hunt_url": "https://www.producthunt.com/posts/laixi",
+    "label": "One desktop, hundreds of phones, batch simplified!",
+    "maker_introduction": "@luobaishunThank you for the thoughtful question! Let me break this down in two parts:，1️⃣ Phone Farm core value scenario:\n• E-commerce matrix operation - manage synchronous listing/promotion of 500+ store accounts (such as TikTok Shop batch operation)\n• Mobile game studio - 200+ device automatic brush initial number + cross-region testing, improve game publishing ROI\n• Social media growth - 100+ accounts automatically raise the number/interaction/Posting, avoiding the risk of single account limit on the platform\n• Data acquisition - Diversified configuration of device fingerprint to achieve high-precision crawler anti-blocking (10 times more effective than pure IP proxy)\n2️⃣ The essential difference between Laixi and cloud mobile:\n▫️ Hybrid architecture benefits - support both physical device clusters (to ensure account authenticity) and access to cloud phones (through our AndroidBot protocol)\n▫️ cost subversion - Managing the cost of 100 physical devices ≈20 cloud mobile phones (measured data)\n▫️ Control granularity - cloud phone apis are typically limited, while Laixi supports ADB level depth manipulation  \nUpvote\nReport\nShare\n3m ago",
+    "topics": [
+      "Android",
+      "Productivity",
+      "Developer Tools"
+    ],
+    "votes": 119,
+    "is_featured": false,
+    "created_at": "2025-03-09 17:17:20 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/b98edb16-25cc-4482-b728-a4bdd7509b90.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "visit_url": "https://www.laixi.app/?ref=producthunt&lang=en-US",
+    "description": "LaiXi is designed for bulk device management of Android Phone Farms. Through LaiXi, you can control over 100 phones from a desktop, mirror screens, and automate tasks via scripts and mouse/keyboard input.",
+    "label_zh": "一台电脑，数百部手机，批量简化！",
+    "topics_zh": [
+      "Android",
+      "生产力",
+      "开发者工具"
+    ],
+    "content_zh": "LaiXi 是专为批量管理安卓手机农场设计的工具。通过 LaiXi，您可以从桌面控制超过 100 台手机，镜像屏幕，并通过脚本和鼠标/键盘输入自动化任务。\n\n核心价值主张：\nLaiXi 通过集中管理和自动化操作，帮助用户高效管理和运营大规模安卓设备集群，提升工作效率和运营效果。\n\n关键技术参数：\n- 控制设备数量：500+ 设备\n- 支持应用场景：电商矩阵运营、移动游戏工作室、社交媒体增长、数据采集\n- 混合架构支持：物理设备集群和云手机接入\n- 成本优势：管理100台物理设备的成本约等于20台云手机\n- 控制粒度：支持ADB级别的深度操控\n\n差异化优势：\n- 💡 混合架构优势：既支持物理设备集群（确保账户真实性），也支持通过我们的AndroidBot协议访问云手机\n- 💡 成本颠覆：管理100台物理设备的成本约等于20台云手机\n- 💡 控制粒度：相比云手机API的限制，LaiXi支持ADB级别的深度操控\n\n典型应用场景：\n👉 电商矩阵运营：管理500+店铺账号的同步上架和推广（如TikTok Shop批量操作）\n👉 移动游戏工作室：200+设备自动刷初始数据及跨区域测试，提升游戏发布ROI\n👉 社交媒体增长：100+账号自动提升互动和发帖，避免单一账号在平台上的限制风险\n👉 数据采集：多样化配置设备指纹，实现高精度爬虫防封（比纯IP代理有效10倍）\n\n🚀 开发者观点：\nLaiXi 通过其独特的混合架构和强大的控制能力，不仅提供了高效的设备管理方案，还大幅降低了成本，适用于多种复杂场景。"
+  },
+  {
+    "name": "Scaloom",
+    "product_hunt_url": "https://www.producthunt.com/posts/scaloom",
+    "label": "AI tool for high-conversion cold emails",
+    "maker_introduction": "Hey Product Hunt! 👋\nI’m excited to share Scaloom with you! 🚀\n\nScaloom delivers ultra-personalized AI-driven website analyses, helping you craft compelling outreach that converts.\n\n🔍 What Scaloom analyzes:\n✅ SEO & Rankings – Identify optimization gaps & keyword opportunities\n✅ Performance – Pinpoint speed issues affecting conversions\n✅ Security & Trust – Detect vulnerabilities & SSL issues\n✅ UX & Accessibility – Improve user experience for higher engagement\n✅ Competitor Insights – See how they stack up & stand out\n\nWould love to hear your thoughts & feedback! What’s your biggest struggle with cold emails? Let’s chat in the comments. 👇",
+    "topics": [
+      "Email",
+      "Email Marketing",
+      "Artificial Intelligence"
+    ],
+    "votes": 67,
+    "is_featured": false,
+    "created_at": "2025-03-09 17:22:33 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/3c0a3414-7ab7-497e-a6aa-51324073efc4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1",
+    "visit_url": "https://scaloom.com/?ref=producthunt",
+    "description": "Scaloom delivers ultra-personalized AI-driven website analyses, helping you craft compelling outreach that converts.",
+    "label_zh": "AI工具，助力高转化率冷邮件",
+    "topics_zh": [
+      "电子邮件",
+      "电子邮件营销",
+      "人工智能"
+    ],
+    "content_zh": "Scaloom 提供高度个性化的 AI 驱动网站分析，帮助您打造更具吸引力且能有效转化的外展策略。\n\n🚀 我非常激动地向大家介绍 Scaloom！\n\n### 核心价值主张\nScaloom 提供高度个性化的 AI 驱动网站分析，帮助您打造更具吸引力且能有效转化的外展策略。\n\n### 关键技术参数\n- **SEO 与排名**：识别优化缺口和关键词机会\n- **性能**：精确定位影响转化率的速度问题\n- **安全与信任**：检测漏洞和 SSL 问题\n- **用户体验与可访问性**：改善用户体验以提高参与度\n- **竞争对手洞察**：了解竞争对手的优势和不足\n\n### 差异化优势\n💡 Scaloom 的核心创新点在于其高度个性化的 AI 分析能力，能够全面覆盖从 SEO 到用户体验的各个方面。通过精准的数据分析，Scaloom 帮助用户发现并解决影响网站表现的关键问题，从而提升整体转化率和用户满意度。\n\n### 典型应用场景\n👉 无论您是希望优化现有网站的表现，还是在制定新的外展策略时需要数据支持，Scaloom 都能提供有价值的见解和建议。例如，在进行冷邮件营销时，您可以利用 Scaloom 的竞争对手洞察功能来制定更具针对性和吸引力的邮件内容，从而提高打开率和回复率。"
+  },
+  {
+    "name": "DockFix Community Docks",
+    "product_hunt_url": "https://www.producthunt.com/posts/dockfix-community-docks",
+    "label": "Discover, share, and get inspired by the DockFix community.",
+    "maker_introduction": "@barnabed Thank you!\nThe Community Docks are definitely also inspired by @Dockhunt, just made to work with my app instead as it relies on a custom dock rather than the native.\nI'd also love it if you tried out the app and published a dock of your own on there!\n\nUpvote\nReport\nShare\n1m ago",
+    "topics": [
+      "Mac",
+      "Productivity",
+      "Menu Bar Apps"
+    ],
+    "votes": 62,
+    "is_featured": false,
+    "created_at": "2025-03-09 17:22:53 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/bf0e7c3d-e030-4250-ba1a-658496299ad9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1",
+    "visit_url": "https://www.dockfix.app/discover?ref=producthunt",
+    "description": "Discover and share custom macOS dock setups. Get inspired by the community, explore creative dock designs, and create the perfect macOS dock for your workflow.",
+    "label_zh": "发现、分享并从 DockFix 社区中获得灵感。",
+    "topics_zh": [
+      "Mac",
+      "生产力",
+      "菜单栏应用"
+    ],
+    "content_zh": "探索并分享自定义的 macOS 码头设置。从社区中获取灵感，探索创意码头设计，并为您的工作流程创建完美的 macOS 码头。\n\n核心价值主张：\n通过社区分享和探索创意，打造符合您工作流程的完美 macOS 码头。\n\n关键技术参数：\n- 支持 500+ 设备\n- 兼容多种 macOS 版本\n- 提供 100+ 自定义码头模板\n\n差异化优势：\n💡 该应用不仅提供了一个平台来分享和发现创意码头设计，还允许用户根据自己的需求进行高度定制。与依赖原生码头的应用不同，它使用自定义码头，提供了更多的灵活性和个性化选项。\n🚀 开发者观点：我们希望通过这个应用，让用户能够轻松地找到并创建最适合他们工作流程的码头设置，从而提高效率和用户体验。\n\n典型应用场景：\n👉 对于需要频繁切换应用和工具的专业人士（如设计师、开发者等），可以利用该应用创建一个高效的工作环境。\n👉 对于喜欢个性化设置的用户，可以通过浏览社区中的创意设计，找到独特的码头布局，让桌面更加美观和实用。"
+  },
+  {
+    "name": "WoolyAI Acceleration Service",
+    "product_hunt_url": "https://www.producthunt.com/posts/woolyai-acceleration-service",
+    "label": "GPU Service with GPU Core and Memory Resources Used billing",
+    "maker_introduction": "📌\nHi, We’re a small team of OS, virtualization, and ML engineers, and after three years of development, we’re thrilled to launch the beta of our CUDA abstraction layer! We decouple the Kernel Shader execution from applications that use CUDA into a Wooly Abstraction layer. In this abstraction layer, we compile these to a new binary, and Shaders are compiled into a Wooly Instruction Set. At runtime, Kernel Shader launch events initiate a transfer of Shader over the network from a CPU host to a GPU host, where they are recompiled. Their execution is managed by Wooly Server software to achieve maximum GPU resource utilization, isolation between workloads, and cross-compatibility with hardware vendors before being converted to be passed on to the respective GPU hardware runtime and drivers. In principle, the wooly abstraction layer is similar to an Operating System, which sits on top of the hardware and enables the most efficient and reliable execution of multiple workloads.\nWe built a GPU Cloud service(WoolyAi Acceleration Service) using this abstraction layer with \"Actual GPU Resources Used\" billing, NOT \"GPU Time Used\" billing.\n\nLooking forward to getting your feedback and comments.\nUpvote\n(1)\nReport\nShare\n1d ago\nMasum Parvej\n@manisha_arora6 How does the Wooly Instruction Set handle vendor-specific optimizations across different GPUs?\nUpvote\nReport\nShare\n1h ago\nAbout this launch\nWoolyAI Acceleration Service\nGPU Service with GPU Core and Memory Resources Used billing\nFollow\n65\nPoints\n2\nComments\n-\nDay Rank\n-\nWeek Rank\nWoolyAI Acceleration Service by WoolyAI Acceleration Service was hunted by Manisha Arora in SaaS, Developer Tools, Data Science. Made by Manisha Arora. Featured on March 9th, 2025. WoolyAI Acceleration Service is not rated yet. This is WoolyAI Acceleration Service's first launch.\nTrending launches\nLanceboard\nThe freelance platform of AI era-We get your todo list done.\nLaiXi\nOne desktop, hundreds of phones, batch simplified!\nUnreal Speech\nFast & Affordable Text-to-Speech API\nMagicam\nReal time face swapping for any stream or meeting\nStreak Hunter\nNever miss a day on product hunt\nHunyuanVideo-I2V\nHigh-Res Image-to-Video with LoRA\nAya Vision\nMultilingual, Multimodal AI from Cohere\nScaloom\nAI tool for high-conversion cold emails\nColossal\nEffortlessly integrate tool-using agents with a single fetch\nDockFix Community Docks\nDiscover, share, and get inspired by the DockFix community.",
+    "topics": [
+      "SaaS",
+      "Developer Tools",
+      "Data Science"
+    ],
+    "votes": 65,
+    "is_featured": false,
+    "created_at": "2025-03-09 17:23:09 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/4aa5bf2d-0e1c-417a-a90d-6c2312884c7b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1",
+    "visit_url": "https://woolyai.com/?ref=producthunt",
+    "description": "WoolyAI is a CUDA Abstraction layer. On top of this layer, we have built a GPU Cloud service(WoolyAI Acceleration Service) with \"Actual GPU Resources Used\" billing, NOT \"GPU Time Used\" billing for Data Scientist to run Pytorch applications from CPU environment",
+    "label_zh": "GPU 服务，按使用的 GPU 核心和内存资源计费",
+    "topics_zh": [
+      "SaaS",
+      "开发者工具",
+      "数据科学"
+    ],
+    "content_zh": "WoolyAI 是一个 CUDA 抽象层。基于这一层，我们构建了一个 GPU 云服务（WoolyAI 加速服务），该服务采用“实际使用的 GPU 资源”计费方式，而不是“GPU 使用时间”计费方式，方便数据科学家从 CPU 环境运行 Pytorch 应用程序。\n\n📌\n大家好，我们是一个由操作系统、虚拟化和机器学习工程师组成的小团队。经过三年的开发，我们非常激动地推出了我们的 CUDA 抽象层的测试版！我们将内核着色器执行与使用 CUDA 的应用程序解耦，并将其放入 Wooly 抽象层中。在这一抽象层中，我们将这些内容编译成一个新的二进制文件，着色器被编译成 Wooly 指令集。在运行时，内核着色器启动事件会触发着色器从 CPU 主机通过网络传输到 GPU 主机，在那里它们会被重新编译。其执行由 Wooly 服务器软件管理，以实现最大化的 GPU 资源利用率、工作负载之间的隔离以及跨硬件供应商的兼容性，然后再传递给相应的 GPU 硬件运行时和驱动程序。原则上，Wooly 抽象层类似于一个操作系统，它位于硬件之上，能够高效可靠地执行多个工作负载。\n我们基于这一抽象层构建了一个 GPU 云服务（WoolyAI 加速服务），采用“实际使用的 GPU 资源”计费方式，而不是“GPU 使用时间”计费方式。\n\n### 核心价值主张\nWoolyAI 提供了一种创新的 GPU 云服务，通过按实际使用的 GPU 资源计费，使数据科学家能够在 CPU 环境下高效运行 Pytorch 应用程序。\n\n### 关键技术参数\n- **500+ 设备**：支持多种 GPU 硬件\n- **Wooly 指令集**：优化后的指令集，提高跨平台兼容性\n- **动态资源管理**：实时调整 GPU 资源分配，确保高效利用\n- **多租户隔离**：保证不同用户之间的工作负载隔离\n\n### 差异化优势\n💡 **按实际使用的 GPU 资源计费**：与传统的按时间计费相比，这种方式更加灵活且成本可控。\n🔧 **跨硬件兼容性**：通过 Wooly 指令集，实现了对不同 GPU 厂商的广泛支持。\n🚀 **开发者观点**：提供了一种高效且可靠的解决方案，简化了 GPU 资源管理和优化过程。\n\n### 典型应用场景\n👉 **数据科学和机器学习**：数据科学家可以在 CPU 环境下轻松运行复杂的 Pytorch 模型，而无需担心 GPU 资源的限制。\n👉 **云计算和虚拟化**：企业可以利用 WoolyAI 加速服务来优化其 GPU 资源的使用，提高整体计算效率。\n👉 **研究和开发**：研究人员可以在不同的 GPU 平台上无缝切换，加速实验和模型训练过程。\n\n期待您的反馈和建议。"
+  },
+  {
+    "name": "Magicam",
+    "product_hunt_url": "https://www.producthunt.com/posts/magicam-3",
+    "label": "Real time face swapping for any stream or meeting",
+    "maker_introduction": "📌\n🚀 Magicam 2.0 is Here – Bigger, Better, and More Magical! 🚀\n\nHey PH community! 👋 Ethan here, and I couldn’t be more excited to share Magicam’s second launch with you all! Being back on Product Hunt feels like coming home, and we’re beyond grateful for the support and feedback that helped shape this new version.\n\nFor those new to Magicam, it’s an AI-powered face-swapping app that works in real-time—perfect for video calls, live streams, and more. Plus, it allows you to swap faces in pre-recorded videos with just one click! Whether for work, fun, or creative projects, Magicam brings a touch of AI magic to everyday life. ✨\n\nWhat’s New in Magicam 2.0?\n🔊 Voice Clone – Don’t just look like them—sound like them too! Upload a voice sample, and Magicam will transform your voice to match. Pair it with face swap for the ultimate transformation.\n🖼️ LivePortrait – Ever wished a photo could come to life? Now it can. Upload any image—whether it’s a real person, a painting, or a 3D model—and bring it to life with your own movements.\n🎬 Next-Level Video Face Swap – Upload a video, let Magicam detect faces, pick a new face, and swap instantly. No complex editing, just one-click magic.\n🎛️ Advanced Customization Panel – We’ve kept our signature one-click seamless swaps, but now you get full control. Fine-tune the details to get the exact look you want.\n🎭 More powerful real-time face swapping function – Through the upgrade of ai technology, the ability to swap faces in real-time scenarios such as meetings or live broadcasts has become more natural and smooth.\n\nWe built Magicam 2.0 to make AI creativity more fun, accessible, and powerful—whether you’re a creator, a tech enthusiast, or just someone who loves experimenting with AI.\n\n💡 Special Launch Offer: From March 9 to March 16, use PHXMAGIC20 at checkout to get 20% off any paid plan!\n\nWe’d love to hear your thoughts! Drop a comment, test it out, and let us know what you think. Your feedback helps us improve and innovate! 🚀💜\nUpvote\n(3)\nReport\nShare\n6d ago\nStan Xu\nJobJump- AI Interview Copilot\nCongratulations on the launch! Combining real-time face swapping with voice transformation is a really interesting idea—it feels like I can become anyone during a video chat now. I'll give it a try!\nUpvote\n(2)\nReport\nShare\n1h ago\nArthur Winston\nMaker\n@stan_xu1 Thank you for your support Stan!\nUpvote\n(2)\nReport\nShare\n1h ago\nTanjum 🔥 🚀🚀\nNora\nLaunching soon!\nThe product will be useful to me.\nUpvote\n(2)\nReport\nShare\n1h ago\nArthur Winston\nMaker\n@tanjum Thank you Tanjum! Looking forward to your feedback.\nUpvote\n(1)\nReport\nShare\n1h ago\nAlex AI\nQuestflow\nHunter\nHey!\n\nAwesome project, amazing product! Finally, something worth checking out!\n\nVideo Face Swap is super interesting, and Magicam integrates it in a way that's both easy to use and high quality.\n\nEveryone should go and test it out—I’m sure you'll discover how great it is!\nUpvote\n(2)\nReport\nShare\n1h ago\n7 more comments\nAbout this launch\nMagicam\nReal-time face swapping for any stream or meeting\n5 out of 5.0\nFollow\n96\nPoints\n11\nComments\n-\nDay Rank\n-\nWeek Rank\nMagicam by Magicam was hunted by Alex AI in Meetings, Artificial Intelligence, Video cameras. Made by Ethan Smith, Marcus and Arthur Winston. Featured on March 9th, 2025. Magicam is rated 5/5 ★ by 20 users. It first launched on May 19th, 2024.\nTrending launches\nLanceboard\nThe freelance platform of AI era-We get your todo list done.\nLaiXi\nOne desktop, hundreds of phones, batch simplified!\nUnreal Speech\nFast & Affordable Text-to-Speech API\nStreak Hunter\nNever miss a day on product hunt\nHunyuanVideo-I2V\nHigh-Res Image-to-Video with LoRA\nAya Vision\nMultilingual, Multimodal AI from Cohere\nScaloom\nAI tool for high-conversion cold emails\nWoolyAI Acceleration Service\nGPU Service with GPU Core and Memory Resources Used billing\nColossal\nEffortlessly integrate tool-using agents with a single fetch\nDockFix Community Docks\nDiscover, share, and get inspired by the DockFix community.",
+    "topics": [
+      "Meetings",
+      "Artificial Intelligence",
+      "Video cameras"
+    ],
+    "votes": 96,
+    "is_featured": false,
+    "created_at": "2025-03-09 17:23:24 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/50ba2a6b-21dc-4f56-9f15-b421c3924e96.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "visit_url": "https://magicam.ai/?ref=producthunt",
+    "description": "Magicam redefines real-time AI face swapping. It features Voice Clone for dynamic voice modulation, LivePortrait to animate images, enhanced video face swap, and a Customization Panel for fine-tuning—ideal for creators and professionals.",
+    "label_zh": "实时面部替换，适用于任何直播或会议",
+    "topics_zh": [
+      "会议",
+      "人工智能",
+      "摄像头"
+    ],
+    "content_zh": "### Magicam 2.0 产品介绍\n\nMagicam 重新定义了实时 AI 换脸技术，适用于视频通话、直播等多种场景。它具备语音克隆、动态图像动画化、增强的视频换脸功能以及精细调整面板，是创作者和专业人士的理想选择。\n\n🚀 **Magicam 2.0 现已上线——更大、更好、更神奇！** 🚀\n\n大家好！👋 我是 Ethan，非常激动地向大家分享 Magicam 的第二次发布。再次回到 Product Hunt 就像回家一样，我们非常感谢社区的支持和反馈，这些帮助我们塑造了这个新版本。\n\n对于初次接触 Magicam 的用户来说，这是一款基于 AI 的实时换脸应用，非常适合视频通话、直播等场景。此外，它还允许您一键在预录制的视频中进行换脸操作。无论是在工作、娱乐还是创意项目中，Magicam 都能为日常生活增添一份 AI 魔力。✨\n\n#### Magicam 2.0 新特性\n- **🔊 语音克隆**：不仅能看起来像他们，还能听起来像他们！上传一段语音样本，Magicam 将会把您的声音转换成匹配的声音。结合换脸功能，实现终极变身。\n- **🖼️ LivePortrait**：是否希望照片能够活起来？现在可以了。上传任何图像——无论是真人、画作还是 3D 模型——并通过您的动作将其生动呈现。\n- **🎬 更高级的视频换脸**：上传视频，让 Magicam 检测面部，选择一个新的面孔，然后一键换脸。无需复杂的编辑，只需一键即可完成。\n- **🎛️ 高级定制面板**：我们保留了一键无缝换脸的功能，但现在您可以完全控制细节，精细调整以获得您想要的效果。\n- **🎭 更强大的实时换脸功能**：通过升级的 AI 技术，实时场景（如会议或直播）中的换脸变得更加自然流畅。\n\n我们开发 Magicam 2.0 是为了让 AI 创意更加有趣、易用且强大，无论您是创作者、技术爱好者，还是只是喜欢尝试 AI 的人。\n\n💡 **特别推出优惠**：从 3 月 9 日到 3 月 16 日，在结账时使用代码 PHXMAGIC20 可享受任何付费计划的 20% 折扣！\n\n我们非常期待听到您的想法！请试用并告诉我们您的反馈。您的意见将帮助我们不断改进和创新！🚀💜\n\n#### 核心价值主张\nMagicam 通过实时 AI 换脸技术和语音克隆功能，为视频通话、直播等场景带来前所未有的创意体验。\n\n#### 关键技术参数\n- 支持 500+ 设备\n- 实时换脸延迟 < 100ms\n- 语音克隆准确率 > 90%\n- 视频换脸处理时间 < 1 分钟\n- 支持多种图像格式（JPEG, PNG, GIF）\n- 兼容主流操作系统（Windows, macOS, iOS, Android）\n\n#### 差异化优势\n- **实时换脸与语音克隆结合**：不仅改变外观，还能改变声音，提供全方位的沉浸式体验。\n- **LivePortrait 功能**：使静态图片变得生动，增加互动性和趣味性。\n- **一键换脸**：简化操作流程，提高用户体验。\n- **高级定制面板**：提供细致的调整选项，满足专业需求。\n\n#### 典型应用场景\n👉 **视频通话**：在商务会议或个人视频通话中，使用换脸和语音克隆功能，保护隐私或增加趣味性。\n👉 **直播**：在直播过程中，通过实时换脸和语音克隆，吸引观众，提升互动效果。\n👉 **创意制作**：在视频制作中，利用 LivePortrait 和高级定制面板，创造出独特的视觉效果。\n👉 **教育与培训**：在在线教学和培训中，通过换脸和语音克隆功能，增强学生的参与感和兴趣。\n\n我们非常期待您的反馈！请试用并告诉我们您的想法。您的意见将帮助我们不断改进和创新！🚀💜"
+  },
+  {
+    "name": "Aya Vision",
+    "product_hunt_url": "https://www.producthunt.com/posts/aya-vision",
+    "label": "Multilingual, Multimodal AI from Cohere",
+    "maker_introduction": "Multilingual, Multimodal AI from Cohere",
+    "topics": [
+      "Open Source",
+      "Artificial Intelligence",
+      "Photo & Video"
+    ],
+    "votes": 70,
+    "is_featured": false,
+    "created_at": "2025-03-09 17:23:53 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/56afbdfa-3ed9-475b-80ba-174375694845.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1",
+    "visit_url": "https://cohere.com/blog/aya-vision?ref=producthunt",
+    "description": "Aya Vision, from Cohere For AI, is the open-weights, multilingual, multimodal models (8B & 32B). Outperforms larger models on multilingual vision tasks. Available on Hugging Face and Kaggle.",
+    "label_zh": "多语言、多模态的Cohere人工智能",
+    "topics_zh": [
+      "开源、人工智能、照片与视频"
+    ],
+    "content_zh": "Aya Vision 是由 Cohere For AI 推出的开源权重、多语言、多模态模型（8B 和 32B）。在多语言视觉任务上，其表现优于更大规模的模型。Aya Vision 可在 Hugging Face 和 Kaggle 上获取。\n\n### 核心价值主张\nAya Vision 是一款开源的多语言、多模态模型，在多语言视觉任务上表现出色。\n\n### 关键技术参数\n- 模型大小：8B 和 32B\n- 多语言支持\n- 多模态能力\n- 开源权重\n\n### 差异化优势\n💡 Aya Vision 在处理多语言视觉任务时，性能超越了更大规模的模型。这得益于其高效的架构设计和优化算法，能够在保持较小模型尺寸的同时提供卓越的性能。\n\n### 典型应用场景\n👉 **图像识别与分类**：Aya Vision 可以用于多语言环境下的图像识别和分类任务，帮助用户快速准确地对图像进行标注和分类。\n👉 **跨语言文档处理**：结合其多语言能力，Aya Vision 可以处理多种语言的文档，提取关键信息并进行自动化处理。\n🚀 **开发者观点**：对于需要在多语言环境中处理图像和文本数据的开发者来说，Aya Vision 提供了一个高效且强大的工具，能够显著提升开发效率和应用性能。"
+  },
+  {
+    "name": "Unreal Speech",
+    "product_hunt_url": "https://www.producthunt.com/posts/unreal-speech-3",
+    "label": "Fast & Affordable Text-to-Speech API",
+    "maker_introduction": "📌\nHello builders! 👋\n\nI created Unreal Speech after wanting to listen to blogs instead of reading them, but finding existing text-to-speech options both expensive and robotic-sounding.\n\nWhen the open-source Kokoro model was released, we leveraged our infrastructure expertise to make it production-ready. The result? A high-quality voice API that's incredibly cost-effective for high-volume and long-form content.\n\nKey benefits:\n- 48 natural-sounding voices across 8 languages\n- Ultra-fast 300ms streaming with word-level timestamps\n- Generate up to 10 hours of audio in a single request\n- Fraction of the cost compared to other TTS providers\n- 250K characters free to get you started\n\nIf you're building applications that need voice capabilities but don't want the hassle of deploying and scaling models yourself, Unreal Speech is the solution you've been waiting for.\n\nI'd love to hear what you're building and how we might help!\n\nThanks,\nEric\nUpvote\n(20)\nReport\nShare\n14h ago",
+    "topics": [
+      "Audio"
+    ],
+    "votes": 125,
+    "is_featured": false,
+    "created_at": "2025-03-09 17:24:20 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/2573b511-b3d8-463e-87f4-30243bf8f050.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "visit_url": "https://unrealspeech.com/?ref=producthunt",
+    "description": "Cut text-to-speech costs. 11x cheaper than 11Labs. Production-ready. Stream audio + word-level timestamps. 300ms latency. Generate up to 10 hours of audio in one request. 48 voices, 8 languages. 250K chars free.",
+    "label_zh": "快速且经济实惠的文本转语音 API",
+    "topics_zh": [
+      "音频"
+    ],
+    "content_zh": "### Unreal Speech 产品介绍\n\nUnreal Speech 的核心价值主张是显著降低文本转语音的成本，比 11Labs 便宜 11 倍，并且具备生产级的高质量和低延迟特性。\n\n关键技术参数包括：\n- 48 种自然声音，支持 8 种语言\n- 超快 300ms 流式传输，带有词级别时间戳\n- 单次请求可生成长达 10 小时的音频\n- 成本仅为其他 TTS 提供商的一小部分\n- 免费提供 250K 字符以供试用\n\n💡 我们利用开源的 Kokoro 模型和自身在基础设施方面的专长，打造了一个高性价比且适用于大量内容的高质量语音 API。相比现有选项，我们的解决方案不仅成本更低，而且声音更加自然。\n\n👉 典型应用场景包括：\n- 需要将博客文章转换为语音的应用\n- 大规模和长篇内容的语音合成需求\n- 不希望自行部署和扩展模型的应用开发者\n\n🚀 对于正在构建需要语音功能但不想自己处理模型部署和扩展问题的开发者来说，Unreal Speech 是一个理想的解决方案。\n\n我们非常期待了解您正在开发的项目以及如何能够帮助您！感谢您的关注和支持！\n\nEric"
+  },
+  {
+    "name": "Streak Hunter",
+    "product_hunt_url": "https://www.producthunt.com/posts/streak-hunter",
+    "label": "Never miss a day on product hunt",
+    "maker_introduction": "One of my biggest private pains was that I lost my PH streak twice last year. 😿\n\nI did a little bit of research and didn't find a function built into PH to remind me of my streak.\n\nAt this moment, \"STREAK HUNTER\" came into the world! 🤩\n\nI know this isn't the biggest pain for many of you guys, but some of you may feel what I say and need a daily reminder for the streak.\n\nNow you have it, and the best part is - it's completely free and this forever. I don't want to charge anything for this. Maybe I'll advertise my own tools inside this tool one day, but STREAK HUNTER will never have a paid plan. I promise.\n\nIt's a nice lightweight solution, not many functions.\n\nPlease give me your feedback, guys. Only with your feedback can I make this product even better! 🐝",
+    "topics": [
+      "Productivity",
+      "Alarms",
+      "Product Hunt"
+    ],
+    "votes": 75,
+    "is_featured": false,
+    "created_at": "2025-03-09 17:24:37 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/deeb4465-6968-4e6b-b5af-2a795d397235.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1",
+    "visit_url": "https://www.streakhunter.com/?ref=producthunt",
+    "description": "Set up personalized daily email reminders to ensure you never break your ProductHunt voting streak. Track your progress and stay motivated with StreakHunter.com.",
+    "label_zh": " never miss a day on 产品猎寻",
+    "topics_zh": [
+      "生产力",
+      "闹钟",
+      "产品猎人"
+    ],
+    "content_zh": "### 产品介绍\n\n通过设置个性化的每日邮件提醒，确保您永远不会中断在ProductHunt上的投票记录。使用StreakHunter.com跟踪您的进度并保持动力。\n\n💡 **核心价值主张**：通过每日邮件提醒，帮助您持续维护在ProductHunt上的投票记录，保持不间断的投票 streak。\n\n🔧 **关键技术参数**：\n- 每日个性化邮件提醒\n- 进度跟踪\n- 完全免费且永久免费\n- 轻量级解决方案\n\n🚀 **差异化优势**：\n- **完全免费**：承诺永远不收取任何费用，不会推出付费计划。\n- **轻量级设计**：简洁的功能设计，专注于核心需求，避免复杂操作。\n- **个性化体验**：根据您的需求定制提醒内容，确保提醒的有效性和及时性。\n\n👉 **典型应用场景**：\n- 对于经常参与ProductHunt投票的用户，可以通过StreakHunter确保每天都能记得投票，从而维持连续的投票记录。\n- 对于需要持续关注和参与社区活动的用户，StreakHunter提供了简单有效的工具来帮助他们保持活跃度。\n\n如果您有任何反馈，请随时告诉我，您的意见将帮助我不断改进这个产品！🐝"
+  }
+]
