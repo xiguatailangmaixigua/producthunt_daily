@@ -86,10 +86,10 @@ def main():
             "path": os.path.join(script_dir, "generate_chinese_md.py"),
             "description": "生成中文Markdown文件"
         },
-        {
-            "path": os.path.join(script_dir, "generate_cover_image.py"),
-            "description": "生成微信公众号封面图片"
-        },
+        # {
+        #     "path": os.path.join(script_dir, "generate_cover_image.py"),
+        #     "description": "生成微信公众号封面图片"
+        # },
         {
             "path": os.path.join(script_dir, "generate_chinese_md.py"),
             "description": "生成中文Markdown文件"
@@ -104,46 +104,46 @@ def main():
             return
     
     # 询问是否发布到微信公众号
-    if args.non_interactive and args.mode:
-        choice = str(args.mode)
-    elif args.non_interactive:
-        choice = "3"
-    else:
-        print("\n请选择微信公众号发布方式：")
-        print("1. 保存到微信公众号草稿箱（需要配置API凭证）")
-        print("2. 直接发布到微信公众号（需要配置API凭证和IP白名单）")
-        print("3. 生成HTML和封面图片，手动发布")
-        print("4. 跳过微信公众号发布")
-        choice = input("请输入选项（1-4）: ").strip()
+    # if args.non_interactive and args.mode:
+    #     choice = str(args.mode)
+    # elif args.non_interactive:
+    #     choice = "3"
+    # else:
+    #     print("\n请选择微信公众号发布方式：")
+    #     print("1. 保存到微信公众号草稿箱（需要配置API凭证）")
+    #     print("2. 直接发布到微信公众号（需要配置API凭证和IP白名单）")
+    #     print("3. 生成HTML和封面图片，手动发布")
+    #     print("4. 跳过微信公众号发布")
+    #     choice = input("请输入选项（1-4）: ").strip()
     
-    if choice == "1":
-        # 保存到微信公众号草稿箱
-        draft_script = os.path.join(script_dir, "save_to_wechat_draft.py")
-        run_script(draft_script, "保存到微信公众号草稿箱", date_str)
-    elif choice == "2":
-        # 直接发布到微信公众号
-        wechat_script = os.path.join(script_dir, "publish_to_wechat.py")
-        run_script(wechat_script, "发布到微信公众号", date_str)
-    elif choice == "3":
-        # 提示用户手动发布
-        html_file_path = os.path.abspath(f"data/{date_str}_wechat.html")
-        cover_image_path = os.path.abspath(f"assets/cover_{date_str}.jpg")
+    # if choice == "1":
+    #     # 保存到微信公众号草稿箱
+    #     draft_script = os.path.join(script_dir, "save_to_wechat_draft.py")
+    #     run_script(draft_script, "保存到微信公众号草稿箱", date_str)
+    # elif choice == "2":
+    #     # 直接发布到微信公众号
+    #     wechat_script = os.path.join(script_dir, "publish_to_wechat.py")
+    #     run_script(wechat_script, "发布到微信公众号", date_str)
+    # elif choice == "3":
+    #     # 提示用户手动发布
+    #     html_file_path = os.path.abspath(f"data/{date_str}_wechat.html")
+    #     cover_image_path = os.path.abspath(f"assets/cover_{date_str}.jpg")
         
-        logging.info(f"您可以手动将以下文件内容复制到微信公众号后台进行发布：")
-        logging.info(f"HTML文件：{html_file_path}")
-        logging.info(f"封面图片：{cover_image_path}")
+    #     logging.info(f"您可以手动将以下文件内容复制到微信公众号后台进行发布：")
+    #     logging.info(f"HTML文件：{html_file_path}")
+    #     logging.info(f"封面图片：{cover_image_path}")
         
-        logging.info("手动发布步骤：")
-        logging.info("1. 打开微信公众号后台（https://mp.weixin.qq.com/）")
-        logging.info('2. 点击"图文消息" -> "写图文消息"')
-        logging.info('3. 在编辑器中点击"HTML"按钮')
-        logging.info("4. 打开生成的HTML文件，复制其中的全部内容")
-        logging.info("5. 粘贴到微信公众号编辑器的HTML编辑框中")
-        logging.info("6. 上传封面图片")
-        logging.info('7. 编辑标题（建议使用"Product Hunt 每日精选 YYYY-MM-DD"格式）')
-        logging.info('8. 点击"发布"按钮')
-    else:
-        logging.info("跳过微信公众号发布步骤")
+    #     logging.info("手动发布步骤：")
+    #     logging.info("1. 打开微信公众号后台（https://mp.weixin.qq.com/）")
+    #     logging.info('2. 点击"图文消息" -> "写图文消息"')
+    #     logging.info('3. 在编辑器中点击"HTML"按钮')
+    #     logging.info("4. 打开生成的HTML文件，复制其中的全部内容")
+    #     logging.info("5. 粘贴到微信公众号编辑器的HTML编辑框中")
+    #     logging.info("6. 上传封面图片")
+    #     logging.info('7. 编辑标题（建议使用"Product Hunt 每日精选 YYYY-MM-DD"格式）')
+    #     logging.info('8. 点击"发布"按钮')
+    # else:
+    #     logging.info("跳过微信公众号发布步骤")
     
     logging.info("一键运行程序执行完成")
 

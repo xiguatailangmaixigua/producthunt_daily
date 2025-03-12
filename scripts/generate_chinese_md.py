@@ -8,6 +8,7 @@ import re
 from datetime import datetime
 import pytz
 from dotenv import load_dotenv
+import urllib.parse
 
 # 配置日志
 logging.basicConfig(
@@ -36,6 +37,14 @@ def clean_translation_content(content):
     
     return content.strip()
 
+def clean_url(url):
+    """清理URL，去掉查询参数"""
+    if not url:
+        return url
+    parsed_url = urllib.parse.urlparse(url)
+    clean_url = urllib.parse.urlunparse((parsed_url.scheme, parsed_url.netloc, parsed_url.path, '', '', ''))
+    return clean_url
+
 def generate_chinese_markdown(products, date_str):
     """生成中文版的Markdown文件"""
     logger.info("开始生成中文Markdown文件...")
@@ -46,6 +55,10 @@ def generate_chinese_markdown(products, date_str):
         # 获取产品信息
         name = product.get('name', '')
         product_hunt_url = product.get('product_hunt_url', '')
+        
+        # 清理URL，去掉查询参数
+        product_hunt_url = clean_url(product_hunt_url)
+        visit_url = clean_url(product.get('visit_url', ''))
         
         # 使用label_zh作为标语
         label_zh = product.get('label_zh', product.get('label', ''))
@@ -69,17 +82,16 @@ def generate_chinese_markdown(products, date_str):
         created_at = product.get('created_at', '')
         icon = product.get('icon', '')
         image = product.get('image', '')
-        visit_url = product.get('visit_url', '')
         
         # 生成Markdown内容
-        markdown_content += f"## [{i}. {name}]({product_hunt_url}?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+decohack+%28ID%3A+172745%29)\n"
+        markdown_content += f"## [{i}. {name}]({product_hunt_url})\n"
         markdown_content += f"**简介**：{label_zh}\n"
         markdown_content += f"**功能**：{detailed_content}\n"
-        markdown_content += f"**产品网站**: [立即访问]({visit_url}?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+decohack+%28ID%3A+172745%29)\n"
-        markdown_content += f"**Product Hunt**: [立即访问]({product_hunt_url}?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+decohack+%28ID%3A+172745%29)\n\n"
+        markdown_content += f"**产品网站**: {visit_url}\n"
+        markdown_content += f"**Product Hunt**: {product_hunt_url}\n\n"
         
         # 添加图片
-        markdown_content += f"![]({image})"
+        markdown_content += f"![]({image})\n"
         
         # 添加主题标签
         if topics_zh:
