@@ -1,0 +1,493 @@
+
+            <!DOCTYPE html>
+            <html>
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Product Hunt 每日精选 | 2025-03-09</title>
+                <style>
+                    body {
+                        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                        line-height: 1.6;
+                        color: #333;
+                        background-color: #f8f8f8;
+                        margin: 0;
+                        padding: 0;
+                    }
+                    
+                    .header {
+                        text-align: center;
+                        padding: 20px 15px;
+                        background-color: #fff;
+                        margin-bottom: 20px;
+                        border-bottom: 1px solid #eaeaea;
+                        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+                    }
+                    
+                    .header h1 {
+                        margin: 0;
+                        font-size: 22px;
+                        font-weight: 600;
+                        color: #333;
+                    }
+                    
+                    .products-container {
+                        max-width: 800px;
+                        margin: 0 auto;
+                        padding: 0 15px;
+                    }
+                    
+                    .product-card {
+                        background-color: #fff;
+                        border-radius: 12px;
+                        overflow: hidden;
+                        margin-bottom: 25px;
+                        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+                        transition: transform 0.2s ease, box-shadow 0.2s ease;
+                    }
+                    
+                    .product-card:hover {
+                        transform: translateY(-2px);
+                        box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+                    }
+                    
+                    .product-header {
+                        padding: 16px;
+                        border-bottom: 1px solid #f0f0f0;
+                        display: flex;
+                        align-items: center;
+                    }
+                    
+                    .product-icon {
+                        width: 36px;
+                        height: 36px;
+                        margin-right: 12px;
+                        border-radius: 8px;
+                        overflow: hidden;
+                        flex-shrink: 0;
+                    }
+                    
+                    .product-icon img {
+                        width: 100%;
+                        height: 100%;
+                        object-fit: cover;
+                    }
+                    
+                    .product-title {
+                        margin: 0;
+                        font-size: 18px;
+                        font-weight: 600;
+                        color: #333;
+                        flex-grow: 1;
+                    }
+                    
+                    .product-image {
+                        width: 100%;
+                        height: auto;
+                        background-color: #f5f5f5;
+                        text-align: center;
+                        max-height: 400px;
+                        overflow: hidden;
+                    }
+                    
+                    .product-image img {
+                        width: 100%;
+                        height: auto;
+                        display: block;
+                        object-fit: cover;
+                    }
+                    
+                    .product-info {
+                        padding: 20px;
+                    }
+                    
+                    .product-label {
+                        margin-bottom: 12px;
+                        font-size: 16px;
+                        color: #444;
+                        font-weight: 500;
+                    }
+                    
+                    .product-description {
+                        margin-bottom: 16px;
+                        font-size: 15px;
+                        color: #666;
+                        line-height: 1.5;
+                    }
+                    
+                    .product-content {
+                        margin-bottom: 16px;
+                        font-size: 14px;
+                        color: #666;
+                        line-height: 1.5;
+                        border-left: 3px solid #f0f0f0;
+                        padding-left: 12px;
+                        background-color: #f9f9f9;
+                        padding: 10px 12px;
+                    }
+                    
+                    .product-meta {
+                        display: flex;
+                        justify-content: space-between;
+                        align-items: center;
+                        margin-bottom: 16px;
+                        padding: 10px 0;
+                        border-top: 1px solid #f0f0f0;
+                        border-bottom: 1px solid #f0f0f0;
+                    }
+                    
+                    .product-votes {
+                        font-size: 14px;
+                        color: #666;
+                    }
+                    
+                    .vote-count {
+                        color: #ff6154;
+                        font-weight: 600;
+                    }
+                    
+                    .product-topics {
+                        font-size: 13px;
+                        color: #888;
+                        max-width: 60%;
+                    }
+                    
+                    .product-links {
+                        margin-top: 16px;
+                        display: flex;
+                        justify-content: flex-end;
+                    }
+                    
+                    .product-link {
+                        display: inline-block;
+                        padding: 8px 16px;
+                        background-color: #ff6154;
+                        color: white;
+                        text-decoration: none;
+                        border-radius: 6px;
+                        font-size: 14px;
+                        font-weight: 500;
+                        transition: background-color 0.2s;
+                    }
+                    
+                    .product-link:hover {
+                        background-color: #e55a4f;
+                    }
+                    
+                    .footer {
+                        margin: 40px 15px 30px;
+                        padding-top: 20px;
+                        border-top: 1px solid #eee;
+                        font-size: 13px;
+                        color: #888;
+                        text-align: center;
+                    }
+                    
+                    /* 响应式设计 */
+                    @media (max-width: 600px) {
+                        .product-meta {
+                            flex-direction: column;
+                            align-items: flex-start;
+                            gap: 8px;
+                        }
+                        
+                        .product-topics {
+                            max-width: 100%;
+                        }
+                        
+                        .product-header {
+                            padding: 12px;
+                        }
+                        
+                        .product-info {
+                            padding: 15px;
+                        }
+                    }
+                </style>
+            </head>
+            <body>
+                
+            <div class="header">
+                <h1>PH今日热榜 | 2025-03-09</h1>
+            </div>
+            <div class="products-container">
+                
+                <div class="product-card">
+                    <div class="product-header">
+                        <div class="product-icon">
+                            <img src="" alt="图标" />
+                        </div>
+                        <h2 class="product-title">LaiXi</h2>
+                    </div>
+                    
+                    <div class="product-image">
+                        <img src="" alt="LaiXi" />
+                    </div>
+                    
+                    <div class="product-info">
+                        <div class="product-label">一台电脑，数百部手机，批量简化！</div>
+                        <div class="product-description">LaiXi is designed for bulk device management of Android Phone Farms. Through LaiXi, you can control over 100 phones from a desktop, mirror screens, and automate tasks via scripts and mouse/keyboard input.</div>
+                        <div class="product-content">LaiXi 是专为批量管理安卓手机农场设计的工具。通过 LaiXi，您可以从桌面控制超过 100 台手机，镜像屏幕，并通过脚本和鼠标/键盘输入自动化任务。
+
+核心价值主张：
+LaiXi 通过集中管理和自动化操作，帮助用户高效管理和运营大规模安卓设备集群，提升工作效率和运营效果。
+
+关键技术参数：
+- 控制设备数量：500+ 设备
+- 支持应用场景：电商矩阵运营、移动游戏工作室、社交媒体增长、数据采...</div>
+                        <div class="product-meta">
+                            <div class="product-votes"><span class="vote-count">▲ 119</span> 票</div>
+                            <div class="product-topics">Android, 生产力, 开发者工具</div>
+                        </div>
+                        <div class="product-links">
+                            <a href="https://www.producthunt.com/posts/laixi" class="product-link" target="_blank">在 Product Hunt 上查看</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="product-card">
+                    <div class="product-header">
+                        <div class="product-icon">
+                            <img src="" alt="图标" />
+                        </div>
+                        <h2 class="product-title">Scaloom</h2>
+                    </div>
+                    
+                    <div class="product-image">
+                        <img src="" alt="Scaloom" />
+                    </div>
+                    
+                    <div class="product-info">
+                        <div class="product-label">AI工具，助力高转化率冷邮件</div>
+                        <div class="product-description">Scaloom delivers ultra-personalized AI-driven website analyses, helping you craft compelling outreach that converts.</div>
+                        <div class="product-content">Scaloom 提供高度个性化的 AI 驱动网站分析，帮助您打造更具吸引力且能有效转化的外展策略。
+
+🚀 我非常激动地向大家介绍 Scaloom！
+
+### 核心价值主张
+Scaloom 提供高度个性化的 AI 驱动网站分析，帮助您打造更具吸引力且能有效转化的外展策略。
+
+### 关键技术参数
+- **SEO 与排名**：识别优化缺口和关键词机会
+- **性能**：精确定位影响转化率的速度问题
+-...</div>
+                        <div class="product-meta">
+                            <div class="product-votes"><span class="vote-count">▲ 67</span> 票</div>
+                            <div class="product-topics">电子邮件, 电子邮件营销, 人工智能</div>
+                        </div>
+                        <div class="product-links">
+                            <a href="https://www.producthunt.com/posts/scaloom" class="product-link" target="_blank">在 Product Hunt 上查看</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="product-card">
+                    <div class="product-header">
+                        <div class="product-icon">
+                            <img src="" alt="图标" />
+                        </div>
+                        <h2 class="product-title">DockFix Community Docks</h2>
+                    </div>
+                    
+                    <div class="product-image">
+                        <img src="" alt="DockFix Community Docks" />
+                    </div>
+                    
+                    <div class="product-info">
+                        <div class="product-label">发现、分享并从 DockFix 社区中获得灵感。</div>
+                        <div class="product-description">Discover and share custom macOS dock setups. Get inspired by the community, explore creative dock designs, and create the perfect macOS dock for your workflow.</div>
+                        <div class="product-content">探索并分享自定义的 macOS 码头设置。从社区中获取灵感，探索创意码头设计，并为您的工作流程创建完美的 macOS 码头。
+
+核心价值主张：
+通过社区分享和探索创意，打造符合您工作流程的完美 macOS 码头。
+
+关键技术参数：
+- 支持 500+ 设备
+- 兼容多种 macOS 版本
+- 提供 100+ 自定义码头模板
+
+差异化优势：
+💡 该应用不仅提供了一个平台来分享和发现创意码头设计，还允...</div>
+                        <div class="product-meta">
+                            <div class="product-votes"><span class="vote-count">▲ 62</span> 票</div>
+                            <div class="product-topics">Mac, 生产力, 菜单栏应用</div>
+                        </div>
+                        <div class="product-links">
+                            <a href="https://www.producthunt.com/posts/dockfix-community-docks" class="product-link" target="_blank">在 Product Hunt 上查看</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="product-card">
+                    <div class="product-header">
+                        <div class="product-icon">
+                            <img src="" alt="图标" />
+                        </div>
+                        <h2 class="product-title">WoolyAI Acceleration Service</h2>
+                    </div>
+                    
+                    <div class="product-image">
+                        <img src="" alt="WoolyAI Acceleration Service" />
+                    </div>
+                    
+                    <div class="product-info">
+                        <div class="product-label">GPU 服务，按使用的 GPU 核心和内存资源计费</div>
+                        <div class="product-description">WoolyAI is a CUDA Abstraction layer. On top of this layer, we have built a GPU Cloud service(WoolyAI Acceleration Service) with "Actual GPU Resources Used" billing, NOT "GPU Time Used" billing for Data Scientist to run Pytorch applications from CPU environment</div>
+                        <div class="product-content">WoolyAI 是一个 CUDA 抽象层。基于这一层，我们构建了一个 GPU 云服务（WoolyAI 加速服务），该服务采用“实际使用的 GPU 资源”计费方式，而不是“GPU 使用时间”计费方式，方便数据科学家从 CPU 环境运行 Pytorch 应用程序。
+
+📌
+大家好，我们是一个由操作系统、虚拟化和机器学习工程师组成的小团队。经过三年的开发，我们非常激动地推出了我们的 CUDA 抽象层的测试...</div>
+                        <div class="product-meta">
+                            <div class="product-votes"><span class="vote-count">▲ 65</span> 票</div>
+                            <div class="product-topics">SaaS, 开发者工具, 数据科学</div>
+                        </div>
+                        <div class="product-links">
+                            <a href="https://www.producthunt.com/posts/woolyai-acceleration-service" class="product-link" target="_blank">在 Product Hunt 上查看</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="product-card">
+                    <div class="product-header">
+                        <div class="product-icon">
+                            <img src="" alt="图标" />
+                        </div>
+                        <h2 class="product-title">Magicam</h2>
+                    </div>
+                    
+                    <div class="product-image">
+                        <img src="" alt="Magicam" />
+                    </div>
+                    
+                    <div class="product-info">
+                        <div class="product-label">实时面部替换，适用于任何直播或会议</div>
+                        <div class="product-description">Magicam redefines real-time AI face swapping. It features Voice Clone for dynamic voice modulation, LivePortrait to animate images, enhanced video face swap, and a Customization Panel for fine-tuning—ideal for creators and professionals.</div>
+                        <div class="product-content">### Magicam 2.0 产品介绍
+
+Magicam 重新定义了实时 AI 换脸技术，适用于视频通话、直播等多种场景。它具备语音克隆、动态图像动画化、增强的视频换脸功能以及精细调整面板，是创作者和专业人士的理想选择。
+
+🚀 **Magicam 2.0 现已上线——更大、更好、更神奇！** 🚀
+
+大家好！👋 我是 Ethan，非常激动地向大家分享 Magicam 的第二次发布。再次回到 Pro...</div>
+                        <div class="product-meta">
+                            <div class="product-votes"><span class="vote-count">▲ 96</span> 票</div>
+                            <div class="product-topics">会议, 人工智能, 摄像头</div>
+                        </div>
+                        <div class="product-links">
+                            <a href="https://www.producthunt.com/posts/magicam-3" class="product-link" target="_blank">在 Product Hunt 上查看</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="product-card">
+                    <div class="product-header">
+                        <div class="product-icon">
+                            <img src="" alt="图标" />
+                        </div>
+                        <h2 class="product-title">Aya Vision</h2>
+                    </div>
+                    
+                    <div class="product-image">
+                        <img src="" alt="Aya Vision" />
+                    </div>
+                    
+                    <div class="product-info">
+                        <div class="product-label">多语言、多模态的Cohere人工智能</div>
+                        <div class="product-description">Aya Vision, from Cohere For AI, is the open-weights, multilingual, multimodal models (8B & 32B). Outperforms larger models on multilingual vision tasks. Available on Hugging Face and Kaggle.</div>
+                        <div class="product-content">Aya Vision 是由 Cohere For AI 推出的开源权重、多语言、多模态模型（8B 和 32B）。在多语言视觉任务上，其表现优于更大规模的模型。Aya Vision 可在 Hugging Face 和 Kaggle 上获取。
+
+### 核心价值主张
+Aya Vision 是一款开源的多语言、多模态模型，在多语言视觉任务上表现出色。
+
+### 关键技术参数
+- 模型大小：8B 和 32...</div>
+                        <div class="product-meta">
+                            <div class="product-votes"><span class="vote-count">▲ 70</span> 票</div>
+                            <div class="product-topics">开源、人工智能、照片与视频</div>
+                        </div>
+                        <div class="product-links">
+                            <a href="https://www.producthunt.com/posts/aya-vision" class="product-link" target="_blank">在 Product Hunt 上查看</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="product-card">
+                    <div class="product-header">
+                        <div class="product-icon">
+                            <img src="" alt="图标" />
+                        </div>
+                        <h2 class="product-title">Unreal Speech</h2>
+                    </div>
+                    
+                    <div class="product-image">
+                        <img src="" alt="Unreal Speech" />
+                    </div>
+                    
+                    <div class="product-info">
+                        <div class="product-label">快速且经济实惠的文本转语音 API</div>
+                        <div class="product-description">Cut text-to-speech costs. 11x cheaper than 11Labs. Production-ready. Stream audio + word-level timestamps. 300ms latency. Generate up to 10 hours of audio in one request. 48 voices, 8 languages. 250K chars free.</div>
+                        <div class="product-content">### Unreal Speech 产品介绍
+
+Unreal Speech 的核心价值主张是显著降低文本转语音的成本，比 11Labs 便宜 11 倍，并且具备生产级的高质量和低延迟特性。
+
+关键技术参数包括：
+- 48 种自然声音，支持 8 种语言
+- 超快 300ms 流式传输，带有词级别时间戳
+- 单次请求可生成长达 10 小时的音频
+- 成本仅为其他 TTS 提供商的一小部分
+- 免费提供...</div>
+                        <div class="product-meta">
+                            <div class="product-votes"><span class="vote-count">▲ 125</span> 票</div>
+                            <div class="product-topics">音频</div>
+                        </div>
+                        <div class="product-links">
+                            <a href="https://www.producthunt.com/posts/unreal-speech-3" class="product-link" target="_blank">在 Product Hunt 上查看</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="product-card">
+                    <div class="product-header">
+                        <div class="product-icon">
+                            <img src="" alt="图标" />
+                        </div>
+                        <h2 class="product-title">Streak Hunter</h2>
+                    </div>
+                    
+                    <div class="product-image">
+                        <img src="" alt="Streak Hunter" />
+                    </div>
+                    
+                    <div class="product-info">
+                        <div class="product-label"> never miss a day on 产品猎寻</div>
+                        <div class="product-description">Set up personalized daily email reminders to ensure you never break your ProductHunt voting streak. Track your progress and stay motivated with StreakHunter.com.</div>
+                        <div class="product-content">### 产品介绍
+
+通过设置个性化的每日邮件提醒，确保您永远不会中断在ProductHunt上的投票记录。使用StreakHunter.com跟踪您的进度并保持动力。
+
+💡 **核心价值主张**：通过每日邮件提醒，帮助您持续维护在ProductHunt上的投票记录，保持不间断的投票 streak。
+
+🔧 **关键技术参数**：
+- 每日个性化邮件提醒
+- 进度跟踪
+- 完全免费且永久免费
+- 轻量...</div>
+                        <div class="product-meta">
+                            <div class="product-votes"><span class="vote-count">▲ 75</span> 票</div>
+                            <div class="product-topics">生产力, 闹钟, 产品猎人</div>
+                        </div>
+                        <div class="product-links">
+                            <a href="https://www.producthunt.com/posts/streak-hunter" class="product-link" target="_blank">在 Product Hunt 上查看</a>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            
+                <div class="footer">
+                    <p>本文由 Product Hunt Daily 自动生成，每日更新最新科技产品信息。</p>
+                    <p>Powered by ReadPo</p>
+                </div>
+            </body>
+            </html>
+            

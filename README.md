@@ -18,6 +18,8 @@ Product Hunt 每日热榜是一个基于 GitHub Action 的自动化工具，它�
 - **关键词生成**：生成简洁易懂的中文关键词，帮助用户更好地理解产品内容。
 - **高质量翻译**：使用 OpenAI 的 GPT-4 模型对产品描述进行高质量翻译。
 - **Markdown 文件生成**：生成包含产品数据、关键词和翻译描述的 Markdown 文件，方便在网站或其他平台上发布。
+- **HTML 页面生成**：生成美观的 HTML 页面，包含产品卡片和索引页面，方便在网站上直接展示。
+- **微信公众号草稿生成**：生成适合微信公众号发布的 HTML 草稿，包含精美的产品卡片布局。
 - **每日自动化**：通过 GitHub Actions 自动生成并提交每日的 Markdown 文件。
 - **可配置工作流**：支持手动触发或通过 GitHub Actions 定时生成内容。
 - **灵活定制**：脚本易于扩展或修改，可以包括额外的产品细节或调整文件格式。
@@ -77,6 +79,54 @@ pip install -r requirements.txt
 ### 使用
 
 设置完成后，GitHub Action 将自动生成并提交包含 Product Hunt 每日热门产品的 Markdown 文件，并自动发布到 WordPress 网站。文件存储在 `data/` 目录下。
+
+#### 微信公众号草稿生成
+
+可以使用以下命令生成适合微信公众号的HTML草稿：
+
+```bash
+python scripts/save_to_wechat_draft.py --date 2025-03-09
+```
+
+生成的HTML文件将保存在`drafts`目录下。
+
+#### 微信公众号Markdown排版
+
+为了获得更好的微信公众号排版效果，我们提供了一种新的方法，使用[doocs/md](https://github.com/doocs/md)微信Markdown编辑器：
+
+1. 首先生成适合微信公众号的Markdown文件：
+
+```bash
+python scripts/generate_wechat_md.py --date 2025-03-09
+```
+
+2. 生成的Markdown文件将保存在`wechat_md`目录下。
+
+3. 打开[doocs/md在线编辑器](https://doocs.github.io/md)，将生成的Markdown内容复制粘贴到编辑器中。
+
+4. 编辑器会自动渲染为美观的微信公众号格式，您可以直接复制到微信公众号后台。
+
+5. 您还可以在编辑器中进一步自定义样式、主题色等，使排版更符合您的需求。
+
+#### HTML页面生成
+
+您可以使用 `scripts/generate_html_page.py` 脚本生成美观的 HTML 页面：
+
+```bash
+# 生成指定日期的 HTML 页面
+python scripts/generate_html_page.py --date YYYY-MM-DD
+
+# 使用指定的 JSON 文件生成 HTML 页面
+python scripts/generate_html_page.py --json path/to/json/file.json
+
+# 指定输出 HTML 文件路径
+python scripts/generate_html_page.py --date YYYY-MM-DD --output path/to/output.html
+
+# 仅生成索引页面
+python scripts/generate_html_page.py --index
+```
+
+生成的 HTML 页面将保存在 `pages/` 目录下，并自动生成索引页面。
 
 ### 自定义
 

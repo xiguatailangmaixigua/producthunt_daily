@@ -13206,3 +13206,1615 @@ I did a little bit of research and didn't find a function built into ...
 2025-03-09 17:24:40,435 - INFO - Markdown文件已保存到: data/2025-03-09.md
 2025-03-09 17:24:40,436 - INFO - JSON文件已保存到: data/product_2025-03-09.json
 2025-03-09 17:24:40,437 - INFO - 程序执行完成
+2025-03-12 07:44:34,325 - INFO - 开始执行主程序...
+2025-03-12 07:44:34,356 - INFO - 获取 2025-03-12 的产品列表...
+2025-03-12 07:44:34,356 - INFO - ====== WebDriver manager ======
+2025-03-12 07:44:44,371 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-12 07:44:45,509 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-12 07:44:46,532 - INFO - There is no [mac64] chromedriver "134.0.6998.88" for browser google-chrome "134.0.6998" in cache
+2025-03-12 07:44:46,542 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-12 07:44:48,985 - INFO - WebDriver version 134.0.6998.88 selected
+2025-03-12 07:44:48,989 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/mac-x64/chromedriver-mac-x64.zip
+2025-03-12 07:44:48,989 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.88/mac-x64/chromedriver-mac-x64.zip
+2025-03-12 07:44:49,989 - INFO - Driver downloading response is 200
+2025-03-12 07:44:51,705 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-12 07:44:53,028 - INFO - Driver has been saved in cache [/Users/zhouqingyi/.wdm/drivers/chromedriver/mac64/134.0.6998.88]
+2025-03-12 07:44:56,210 - INFO - 访问Product Hunt主页...
+2025-03-12 07:44:56,693 - INFO - 等待页面加载...
+2025-03-12 07:45:11,701 - INFO - 滚动页面以加载更多内容...
+2025-03-12 07:45:16,744 - INFO - 收集产品元素...
+2025-03-12 07:45:16,824 - INFO - 使用选择器 'div > a[href*='/posts/']' 找到 86 个产品元素
+2025-03-12 07:45:16,824 - INFO - 找到 86 个产品元素
+2025-03-12 07:45:17,600 - INFO - 成功缓存 15 个产品元素的信息
+2025-03-12 07:45:17,601 - INFO - 
+元素 0:
+2025-03-12 07:45:17,601 - INFO - 链接: https://www.producthunt.com/posts/fluently-4
+2025-03-12 07:45:17,601 - INFO - 文本: 1. Fluently...
+2025-03-12 07:45:17,601 - INFO - 位置: {'x': 96, 'y': 292}
+2025-03-12 07:45:17,601 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:45:17,601 - INFO - 
+元素 1:
+2025-03-12 07:45:17,601 - INFO - 链接: https://www.producthunt.com/posts/fluently-4
+2025-03-12 07:45:17,601 - INFO - 文本: Start speaking English as well as your native language...
+2025-03-12 07:45:17,601 - INFO - 位置: {'x': 96, 'y': 316}
+2025-03-12 07:45:17,601 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:45:17,602 - INFO - 
+元素 2:
+2025-03-12 07:45:17,602 - INFO - 链接: https://www.producthunt.com/posts/skarbe
+2025-03-12 07:45:17,602 - INFO - 文本: 2. Skarbe...
+2025-03-12 07:45:17,602 - INFO - 位置: {'x': 96, 'y': 400}
+2025-03-12 07:45:17,602 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:45:17,602 - INFO - 
+元素 3:
+2025-03-12 07:45:17,602 - INFO - 链接: https://www.producthunt.com/posts/skarbe
+2025-03-12 07:45:17,602 - INFO - 文本: The pro-active sales engine that is CRM-free...
+2025-03-12 07:45:17,602 - INFO - 位置: {'x': 96, 'y': 424}
+2025-03-12 07:45:17,602 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:45:17,602 - INFO - 
+元素 4:
+2025-03-12 07:45:17,602 - INFO - 链接: https://www.producthunt.com/posts/iki-ai-2-0
+2025-03-12 07:45:17,602 - INFO - 文本: 3. IKI.AI 2.0...
+2025-03-12 07:45:17,602 - INFO - 位置: {'x': 96, 'y': 508}
+2025-03-12 07:45:17,602 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:45:17,603 - INFO - 
+元素 5:
+2025-03-12 07:45:17,603 - INFO - 链接: https://www.producthunt.com/posts/iki-ai-2-0
+2025-03-12 07:45:17,603 - INFO - 文本: LLM-native space for professional knowledge...
+2025-03-12 07:45:17,603 - INFO - 位置: {'x': 96, 'y': 532}
+2025-03-12 07:45:17,603 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:45:17,603 - INFO - 
+元素 6:
+2025-03-12 07:45:17,603 - INFO - 链接: https://www.producthunt.com/posts/eraser-ai-2
+2025-03-12 07:45:17,603 - INFO - 文本: 4. Eraser AI...
+2025-03-12 07:45:17,603 - INFO - 位置: {'x': 96, 'y': 616}
+2025-03-12 07:45:17,603 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:45:17,603 - INFO - 
+元素 7:
+2025-03-12 07:45:17,603 - INFO - 链接: https://www.producthunt.com/posts/eraser-ai-2
+2025-03-12 07:45:17,603 - INFO - 文本: Codebase diagrams that update themselves...
+2025-03-12 07:45:17,603 - INFO - 位置: {'x': 96, 'y': 640}
+2025-03-12 07:45:17,603 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:45:17,603 - INFO - 
+元素 8:
+2025-03-12 07:45:17,603 - INFO - 链接: https://www.producthunt.com/posts/qodo-gen
+2025-03-12 07:45:17,603 - INFO - 文本: 5. Qodo Gen...
+2025-03-12 07:45:17,603 - INFO - 位置: {'x': 96, 'y': 724}
+2025-03-12 07:45:17,603 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:45:17,603 - INFO - 
+元素 9:
+2025-03-12 07:45:17,604 - INFO - 链接: https://www.producthunt.com/posts/qodo-gen
+2025-03-12 07:45:17,604 - INFO - 文本: Agentic coding to generate confidence, not just code....
+2025-03-12 07:45:17,604 - INFO - 位置: {'x': 96, 'y': 748}
+2025-03-12 07:45:17,604 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:45:17,604 - INFO - 
+元素 10:
+2025-03-12 07:45:17,604 - INFO - 链接: https://www.producthunt.com/posts/embra
+2025-03-12 07:45:17,604 - INFO - 文本: 6. Embra...
+2025-03-12 07:45:17,604 - INFO - 位置: {'x': 96, 'y': 1150}
+2025-03-12 07:45:17,604 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:45:17,604 - INFO - 
+元素 11:
+2025-03-12 07:45:17,604 - INFO - 链接: https://www.producthunt.com/posts/embra
+2025-03-12 07:45:17,604 - INFO - 文本: Unify work with AI agents - meetings, CRM, research & email...
+2025-03-12 07:45:17,604 - INFO - 位置: {'x': 96, 'y': 1174}
+2025-03-12 07:45:17,604 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:45:17,604 - INFO - 
+元素 12:
+2025-03-12 07:45:17,604 - INFO - 链接: https://www.producthunt.com/posts/withmantle
+2025-03-12 07:45:17,604 - INFO - 文本: 7. Mantle...
+2025-03-12 07:45:17,605 - INFO - 位置: {'x': 96, 'y': 1258}
+2025-03-12 07:45:17,605 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:45:17,605 - INFO - 
+元素 13:
+2025-03-12 07:45:17,605 - INFO - 链接: https://www.producthunt.com/posts/withmantle
+2025-03-12 07:45:17,605 - INFO - 文本: AI-native cap table management for modern founders...
+2025-03-12 07:45:17,605 - INFO - 位置: {'x': 96, 'y': 1282}
+2025-03-12 07:45:17,605 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:45:17,605 - INFO - 
+元素 14:
+2025-03-12 07:45:17,605 - INFO - 链接: https://www.producthunt.com/posts/linktodm
+2025-03-12 07:45:17,605 - INFO - 文本: 8. LinktoDM...
+2025-03-12 07:45:17,605 - INFO - 位置: {'x': 96, 'y': 1366}
+2025-03-12 07:45:17,605 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:45:19,352 - INFO - 访问产品页面: https://www.producthunt.com/posts/fluently-4
+2025-03-12 07:45:19,403 - INFO - 已保存页面源代码到temp_page.html
+2025-03-12 07:45:19,404 - INFO - 尝试查找包含'Hey Product Hunt'的文本
+2025-03-12 07:45:19,420 - INFO - 找到 123 个div元素
+2025-03-12 07:45:22,267 - INFO - 找到 0 个包含'Hey Product Hunt'的元素
+2025-03-12 07:45:22,268 - INFO - 没有找到包含'Hey Product Hunt'的文本，尝试查找Maker的发言
+2025-03-12 07:45:22,529 - INFO - 找到包含'Maker'的元素 0: Launches
+Products
+News
+Forums
+Advertise
+Subscribe
+Sign in
+Home
+Product
+Fluently
+Fluently
+Start speaking English as well as your native language
+Visit
+...
+2025-03-12 07:45:23,299 - INFO - 找到包含'Maker'的元素 62: Home
+Product
+Fluently
+Fluently
+Start speaking English as well as your native language
+Visit
+Upvote 763
+Imagine a human-like English coach, available 2...
+2025-03-12 07:45:23,465 - INFO - 找到包含'Maker'的元素 63: Home
+Product
+Fluently
+Fluently
+Start speaking English as well as your native language
+Visit
+Upvote 763
+Imagine a human-like English coach, available 2...
+2025-03-12 07:45:23,669 - INFO - 找到包含'Maker'的元素 64: Home
+Product
+Fluently
+Fluently
+Start speaking English as well as your native language
+Visit
+Upvote 763
+Imagine a human-like English coach, available 2...
+2025-03-12 07:45:24,241 - INFO - 找到 4 个包含'Maker'的元素
+2025-03-12 07:45:24,243 - INFO - 提取的Maker介绍: 📌
+Hi PH community, I’m Yurii, the founder of Fluently✌️ Great to meet you all! Huge thanks to @garrytan and @Y Combinator for the hunt.
+
+I built Fluen...
+2025-03-12 07:45:24,305 - INFO - 方法1：使用meta描述: Imagine a human-like English coach, available 24/7 and 15x cheaper. That’s Fluently 🚀 Fix your mistakes, improve your vocabulary, pronunciation, and g...
+2025-03-12 07:45:24,318 - ERROR - 方法1获取image失败: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[data-test='post-header-image']"}
+  (Session info: chrome=134.0.6998.46); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000106f6e808 chromedriver + 6105096
+1   chromedriver                        0x0000000106f6640a chromedriver + 6071306
+2   chromedriver                        0x0000000106a01600 chromedriver + 415232
+3   chromedriver                        0x0000000106a532c0 chromedriver + 750272
+4   chromedriver                        0x0000000106a53511 chromedriver + 750865
+5   chromedriver                        0x0000000106aa39c4 chromedriver + 1079748
+6   chromedriver                        0x0000000106a7963d chromedriver + 906813
+7   chromedriver                        0x0000000106aa0c3d chromedriver + 1068093
+8   chromedriver                        0x0000000106a793e3 chromedriver + 906211
+9   chromedriver                        0x0000000106a4529a chromedriver + 692890
+10  chromedriver                        0x0000000106a463f1 chromedriver + 697329
+11  chromedriver                        0x0000000106f2dd00 chromedriver + 5840128
+12  chromedriver                        0x0000000106f31bd4 chromedriver + 5856212
+13  chromedriver                        0x0000000106f08936 chromedriver + 5687606
+14  chromedriver                        0x0000000106f325cb chromedriver + 5858763
+15  chromedriver                        0x0000000106ef7024 chromedriver + 5615652
+16  chromedriver                        0x0000000106f54368 chromedriver + 5997416
+17  chromedriver                        0x0000000106f5452f chromedriver + 5997871
+18  chromedriver                        0x0000000106f65fe8 chromedriver + 6070248
+19  libsystem_pthread.dylib             0x00007ff80cb0c253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80cb07bef thread_start + 15
+
+2025-03-12 07:45:24,661 - INFO - 方法3成功获取产品图片: https://ph-files.imgix.net/3b203fd7-9852-46f8-991d-8768278da844.png?auto=format&fit=crop&frame=1&h=512&w=1024
+2025-03-12 07:45:28,376 - INFO - 尝试从JavaScript数据中提取访问链接
+2025-03-12 07:45:28,379 - INFO - 尝试模拟点击'Visit'按钮
+2025-03-12 07:46:08,417 - INFO - 开始执行主程序...
+2025-03-12 07:46:08,449 - INFO - 获取 2025-03-12 的产品列表...
+2025-03-12 07:46:08,449 - INFO - ====== WebDriver manager ======
+2025-03-12 07:46:08,740 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-12 07:46:09,897 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-12 07:46:10,909 - INFO - Driver [/Users/zhouqingyi/.wdm/drivers/chromedriver/mac64/134.0.6998.88/chromedriver-mac-x64/chromedriver] found in cache
+2025-03-12 07:46:12,971 - INFO - 访问Product Hunt主页...
+2025-03-12 07:46:16,542 - INFO - 等待页面加载...
+2025-03-12 07:46:31,564 - INFO - 滚动页面以加载更多内容...
+2025-03-12 07:46:38,229 - INFO - 收集产品元素...
+2025-03-12 07:46:38,282 - INFO - 使用选择器 'div > a[href*='/posts/']' 找到 86 个产品元素
+2025-03-12 07:46:38,282 - INFO - 找到 86 个产品元素
+2025-03-12 07:46:38,962 - INFO - 成功缓存 15 个产品元素的信息
+2025-03-12 07:46:38,962 - INFO - 
+元素 0:
+2025-03-12 07:46:38,962 - INFO - 链接: https://www.producthunt.com/posts/fluently-4
+2025-03-12 07:46:38,962 - INFO - 文本: 1. Fluently...
+2025-03-12 07:46:38,962 - INFO - 位置: {'x': 96, 'y': 292}
+2025-03-12 07:46:38,962 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:46:38,962 - INFO - 
+元素 1:
+2025-03-12 07:46:38,963 - INFO - 链接: https://www.producthunt.com/posts/fluently-4
+2025-03-12 07:46:38,963 - INFO - 文本: Start speaking English as well as your native language...
+2025-03-12 07:46:38,963 - INFO - 位置: {'x': 96, 'y': 316}
+2025-03-12 07:46:38,963 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:46:38,963 - INFO - 
+元素 2:
+2025-03-12 07:46:38,963 - INFO - 链接: https://www.producthunt.com/posts/skarbe
+2025-03-12 07:46:38,963 - INFO - 文本: 2. Skarbe...
+2025-03-12 07:46:38,963 - INFO - 位置: {'x': 96, 'y': 400}
+2025-03-12 07:46:38,963 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:46:38,964 - INFO - 
+元素 3:
+2025-03-12 07:46:38,964 - INFO - 链接: https://www.producthunt.com/posts/skarbe
+2025-03-12 07:46:38,964 - INFO - 文本: The pro-active sales engine that is CRM-free...
+2025-03-12 07:46:38,964 - INFO - 位置: {'x': 96, 'y': 424}
+2025-03-12 07:46:38,964 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:46:38,964 - INFO - 
+元素 4:
+2025-03-12 07:46:38,964 - INFO - 链接: https://www.producthunt.com/posts/iki-ai-2-0
+2025-03-12 07:46:38,964 - INFO - 文本: 3. IKI.AI 2.0...
+2025-03-12 07:46:38,964 - INFO - 位置: {'x': 96, 'y': 508}
+2025-03-12 07:46:38,964 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:46:38,964 - INFO - 
+元素 5:
+2025-03-12 07:46:38,964 - INFO - 链接: https://www.producthunt.com/posts/iki-ai-2-0
+2025-03-12 07:46:38,964 - INFO - 文本: LLM-native space for professional knowledge...
+2025-03-12 07:46:38,964 - INFO - 位置: {'x': 96, 'y': 532}
+2025-03-12 07:46:38,964 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:46:38,965 - INFO - 
+元素 6:
+2025-03-12 07:46:38,965 - INFO - 链接: https://www.producthunt.com/posts/eraser-ai-2
+2025-03-12 07:46:38,965 - INFO - 文本: 4. Eraser AI...
+2025-03-12 07:46:38,965 - INFO - 位置: {'x': 96, 'y': 616}
+2025-03-12 07:46:38,965 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:46:38,965 - INFO - 
+元素 7:
+2025-03-12 07:46:38,965 - INFO - 链接: https://www.producthunt.com/posts/eraser-ai-2
+2025-03-12 07:46:38,965 - INFO - 文本: Codebase diagrams that update themselves...
+2025-03-12 07:46:38,965 - INFO - 位置: {'x': 96, 'y': 640}
+2025-03-12 07:46:38,965 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:46:38,965 - INFO - 
+元素 8:
+2025-03-12 07:46:38,965 - INFO - 链接: https://www.producthunt.com/posts/qodo-gen
+2025-03-12 07:46:38,965 - INFO - 文本: 5. Qodo Gen...
+2025-03-12 07:46:38,965 - INFO - 位置: {'x': 96, 'y': 724}
+2025-03-12 07:46:38,965 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:46:38,966 - INFO - 
+元素 9:
+2025-03-12 07:46:38,966 - INFO - 链接: https://www.producthunt.com/posts/qodo-gen
+2025-03-12 07:46:38,966 - INFO - 文本: Agentic coding to generate confidence, not just code....
+2025-03-12 07:46:38,966 - INFO - 位置: {'x': 96, 'y': 748}
+2025-03-12 07:46:38,966 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:46:38,966 - INFO - 
+元素 10:
+2025-03-12 07:46:38,966 - INFO - 链接: https://www.producthunt.com/posts/embra
+2025-03-12 07:46:38,966 - INFO - 文本: 6. Embra...
+2025-03-12 07:46:38,966 - INFO - 位置: {'x': 96, 'y': 1150}
+2025-03-12 07:46:38,966 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:46:38,966 - INFO - 
+元素 11:
+2025-03-12 07:46:38,966 - INFO - 链接: https://www.producthunt.com/posts/embra
+2025-03-12 07:46:38,966 - INFO - 文本: Unify work with AI agents - meetings, CRM, research & email...
+2025-03-12 07:46:38,966 - INFO - 位置: {'x': 96, 'y': 1174}
+2025-03-12 07:46:38,966 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:46:38,966 - INFO - 
+元素 12:
+2025-03-12 07:46:38,966 - INFO - 链接: https://www.producthunt.com/posts/withmantle
+2025-03-12 07:46:38,966 - INFO - 文本: 7. Mantle...
+2025-03-12 07:46:38,967 - INFO - 位置: {'x': 96, 'y': 1258}
+2025-03-12 07:46:38,967 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:46:38,967 - INFO - 
+元素 13:
+2025-03-12 07:46:38,967 - INFO - 链接: https://www.producthunt.com/posts/withmantle
+2025-03-12 07:46:38,967 - INFO - 文本: AI-native cap table management for modern founders...
+2025-03-12 07:46:38,967 - INFO - 位置: {'x': 96, 'y': 1282}
+2025-03-12 07:46:38,967 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:46:38,967 - INFO - 
+元素 14:
+2025-03-12 07:46:38,967 - INFO - 链接: https://www.producthunt.com/posts/linktodm
+2025-03-12 07:46:38,967 - INFO - 文本: 8. LinktoDM...
+2025-03-12 07:46:38,967 - INFO - 位置: {'x': 96, 'y': 1366}
+2025-03-12 07:46:38,967 - INFO - 大小: {'height': 24, 'width': 620}
+
+2025-03-12 07:46:40,386 - INFO - 访问产品页面: https://www.producthunt.com/posts/fluently-4
+2025-03-12 07:46:40,625 - INFO - 已保存页面源代码到temp_page.html
+2025-03-12 07:46:40,625 - INFO - 尝试查找包含'Hey Product Hunt'的文本
+2025-03-12 07:46:40,649 - INFO - 找到 123 个div元素
+2025-03-12 07:46:43,821 - INFO - 找到 0 个包含'Hey Product Hunt'的元素
+2025-03-12 07:46:43,821 - INFO - 没有找到包含'Hey Product Hunt'的文本，尝试查找Maker的发言
+2025-03-12 07:46:44,236 - INFO - 找到包含'Maker'的元素 0: Launches
+Products
+News
+Forums
+Advertise
+Subscribe
+Sign in
+Home
+Product
+Fluently
+Fluently
+Start speaking English as well as your native language
+Visit
+...
+2025-03-12 07:46:45,333 - INFO - 找到包含'Maker'的元素 62: Home
+Product
+Fluently
+Fluently
+Start speaking English as well as your native language
+Visit
+Upvote 763
+Imagine a human-like English coach, available 2...
+2025-03-12 07:46:45,678 - INFO - 找到包含'Maker'的元素 63: Home
+Product
+Fluently
+Fluently
+Start speaking English as well as your native language
+Visit
+Upvote 763
+Imagine a human-like English coach, available 2...
+2025-03-12 07:46:45,852 - INFO - 找到包含'Maker'的元素 64: Home
+Product
+Fluently
+Fluently
+Start speaking English as well as your native language
+Visit
+Upvote 763
+Imagine a human-like English coach, available 2...
+2025-03-12 07:46:46,532 - INFO - 找到 4 个包含'Maker'的元素
+2025-03-12 07:46:46,533 - INFO - 提取的Maker介绍: 📌
+Hi PH community, I’m Yurii, the founder of Fluently✌️ Great to meet you all! Huge thanks to @garrytan and @Y Combinator for the hunt.
+
+I built Fluen...
+2025-03-12 07:46:46,553 - INFO - 方法1：使用meta描述: Imagine a human-like English coach, available 24/7 and 15x cheaper. That’s Fluently 🚀 Fix your mistakes, improve your vocabulary, pronunciation, and g...
+2025-03-12 07:46:46,567 - ERROR - 方法1获取image失败: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[data-test='post-header-image']"}
+  (Session info: chrome=134.0.6998.46); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010da10808 chromedriver + 6105096
+1   chromedriver                        0x000000010da0840a chromedriver + 6071306
+2   chromedriver                        0x000000010d4a3600 chromedriver + 415232
+3   chromedriver                        0x000000010d4f52c0 chromedriver + 750272
+4   chromedriver                        0x000000010d4f5511 chromedriver + 750865
+5   chromedriver                        0x000000010d5459c4 chromedriver + 1079748
+6   chromedriver                        0x000000010d51b63d chromedriver + 906813
+7   chromedriver                        0x000000010d542c3d chromedriver + 1068093
+8   chromedriver                        0x000000010d51b3e3 chromedriver + 906211
+9   chromedriver                        0x000000010d4e729a chromedriver + 692890
+10  chromedriver                        0x000000010d4e83f1 chromedriver + 697329
+11  chromedriver                        0x000000010d9cfd00 chromedriver + 5840128
+12  chromedriver                        0x000000010d9d3bd4 chromedriver + 5856212
+13  chromedriver                        0x000000010d9aa936 chromedriver + 5687606
+14  chromedriver                        0x000000010d9d45cb chromedriver + 5858763
+15  chromedriver                        0x000000010d999024 chromedriver + 5615652
+16  chromedriver                        0x000000010d9f6368 chromedriver + 5997416
+17  chromedriver                        0x000000010d9f652f chromedriver + 5997871
+18  chromedriver                        0x000000010da07fe8 chromedriver + 6070248
+19  libsystem_pthread.dylib             0x00007ff80cb0c253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80cb07bef thread_start + 15
+
+2025-03-12 07:46:46,970 - INFO - 方法3成功获取产品图片: https://ph-files.imgix.net/3b203fd7-9852-46f8-991d-8768278da844.png?auto=format&fit=crop&frame=1&h=512&w=1024
+2025-03-12 07:46:49,871 - INFO - 尝试从JavaScript数据中提取访问链接
+2025-03-12 07:46:49,872 - INFO - 尝试模拟点击'Visit'按钮
+2025-03-12 07:47:23,812 - INFO - 方法5成功获取访问链接(新标签页): https://getfluently.app/?ref=producthunt
+2025-03-12 07:47:23,905 - INFO - 成功获取产品 Fluently 的信息
+2025-03-12 07:47:23,905 - INFO - 成功获取第 1 个产品的信息
+2025-03-12 07:47:30,749 - INFO - 访问产品页面: https://www.producthunt.com/posts/skarbe
+2025-03-12 07:47:30,948 - INFO - 已保存页面源代码到temp_page.html
+2025-03-12 07:47:30,949 - INFO - 尝试查找包含'Hey Product Hunt'的文本
+2025-03-12 07:47:31,017 - INFO - 找到 431 个div元素
+2025-03-12 07:47:31,538 - INFO - 找到包含'Hey Product Hunt'的元素 0: Launches
+Products
+News
+Forums
+Advertise
+Subscribe
+Sign in
+Home
+Product
+Skarbe
+Skarbe
+The pro-active sales engine that is CRM-free
+Visit
+Upvote 604
+Sal...
+2025-03-12 07:47:34,035 - INFO - 找到包含'Hey Product Hunt'的元素 118: Home
+Product
+Skarbe
+Skarbe
+The pro-active sales engine that is CRM-free
+Visit
+Upvote 604
+Sales flexing platform built specifically for SMB - people wh...
+2025-03-12 07:47:34,338 - INFO - 找到包含'Hey Product Hunt'的元素 119: Home
+Product
+Skarbe
+Skarbe
+The pro-active sales engine that is CRM-free
+Visit
+Upvote 604
+Sales flexing platform built specifically for SMB - people wh...
+2025-03-12 07:47:34,734 - INFO - 找到包含'Hey Product Hunt'的元素 120: Home
+Product
+Skarbe
+Skarbe
+The pro-active sales engine that is CRM-free
+Visit
+Upvote 604
+Sales flexing platform built specifically for SMB - people wh...
+2025-03-12 07:47:35,583 - INFO - 找到包含'Hey Product Hunt'的元素 164: What do you think? …
+Login to comment
+Best
+Mikita Martynau
+Maker
+📌
+Hey Product Hunt! 👋
+
+My name is Mikita, CEO and co-founder of Skarbe. We built Skar...
+2025-03-12 07:47:36,191 - INFO - 找到包含'Hey Product Hunt'的元素 175: Mikita Martynau
+Maker
+📌
+Hey Product Hunt! 👋
+
+My name is Mikita, CEO and co-founder of Skarbe. We built Skarbe for founders and small sales teams - peo...
+2025-03-12 07:47:36,350 - INFO - 找到包含'Hey Product Hunt'的元素 176: Mikita Martynau
+Maker
+📌
+Hey Product Hunt! 👋
+
+My name is Mikita, CEO and co-founder of Skarbe. We built Skarbe for founders and small sales teams - peo...
+2025-03-12 07:47:36,444 - INFO - 找到包含'Hey Product Hunt'的元素 179: Mikita Martynau
+Maker
+📌
+Hey Product Hunt! 👋
+
+My name is Mikita, CEO and co-founder of Skarbe. We built Skarbe for founders and small sales teams - peo...
+2025-03-12 07:47:36,531 - INFO - 找到包含'Hey Product Hunt'的元素 180: Mikita Martynau
+Maker
+📌
+Hey Product Hunt! 👋
+
+My name is Mikita, CEO and co-founder of Skarbe. We built Skarbe for founders and small sales teams - peo...
+2025-03-12 07:47:36,634 - INFO - 找到包含'Hey Product Hunt'的元素 182: Mikita Martynau
+Maker
+📌
+Hey Product Hunt! 👋
+
+My name is Mikita, CEO and co-founder of Skarbe. We built Skarbe for founders and small sales teams - peo...
+2025-03-12 07:47:36,733 - INFO - 找到包含'Hey Product Hunt'的元素 187: Hey Product Hunt! 👋
+
+My name is Mikita, CEO and co-founder of Skarbe. We built Skarbe for founders and small sales teams - people who have been ignore...
+2025-03-12 07:47:36,757 - INFO - 找到包含'Hey Product Hunt'的元素 188: Hey Product Hunt! 👋
+
+My name is Mikita, CEO and co-founder of Skarbe. We built Skarbe for founders and small sales teams - people who have been ignore...
+2025-03-12 07:47:38,541 - INFO - 找到包含'Hey Product Hunt'的元素 271: Ilya Korzun
+Maker
+Hey Product Hunt community!
+
+I'm Ilŷa, COO and co-founder of Skarbe. We have done an incredibly difficult job to make life easier fo...
+2025-03-12 07:47:38,662 - INFO - 找到包含'Hey Product Hunt'的元素 272: Ilya Korzun
+Maker
+Hey Product Hunt community!
+
+I'm Ilŷa, COO and co-founder of Skarbe. We have done an incredibly difficult job to make life easier fo...
+2025-03-12 07:47:38,722 - INFO - 找到包含'Hey Product Hunt'的元素 273: Ilya Korzun
+Maker
+Hey Product Hunt community!
+
+I'm Ilŷa, COO and co-founder of Skarbe. We have done an incredibly difficult job to make life easier fo...
+2025-03-12 07:47:38,770 - INFO - 找到包含'Hey Product Hunt'的元素 275: Ilya Korzun
+Maker
+Hey Product Hunt community!
+
+I'm Ilŷa, COO and co-founder of Skarbe. We have done an incredibly difficult job to make life easier fo...
+2025-03-12 07:47:38,844 - INFO - 找到包含'Hey Product Hunt'的元素 279: Hey Product Hunt community!
+
+I'm Ilŷa, COO and co-founder of Skarbe. We have done an incredibly difficult job to make life easier for startups and fou...
+2025-03-12 07:47:38,863 - INFO - 找到包含'Hey Product Hunt'的元素 280: Hey Product Hunt community!
+
+I'm Ilŷa, COO and co-founder of Skarbe. We have done an incredibly difficult job to make life easier for startups and fou...
+2025-03-12 07:47:42,315 - INFO - 找到 18 个包含'Hey Product Hunt'的元素
+2025-03-12 07:47:42,315 - INFO - 提取的Maker介绍: Hey Product Hunt community!
+
+I'm Ilŷa, COO and co-founder of Skarbe. We have done an incredibly difficult job to make life easier for startups and fou...
+2025-03-12 07:47:42,349 - INFO - 方法1：使用meta描述: Sales flexing platform built specifically for SMB - people who sell and hate CRMs. Unlike legacy CRMs made for spreadsheet lovers, Skarbe is for close...
+2025-03-12 07:47:42,524 - ERROR - 方法1获取image失败: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[data-test='post-header-image']"}
+  (Session info: chrome=134.0.6998.46); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010da10808 chromedriver + 6105096
+1   chromedriver                        0x000000010da0840a chromedriver + 6071306
+2   chromedriver                        0x000000010d4a3600 chromedriver + 415232
+3   chromedriver                        0x000000010d4f52c0 chromedriver + 750272
+4   chromedriver                        0x000000010d4f5511 chromedriver + 750865
+5   chromedriver                        0x000000010d5459c4 chromedriver + 1079748
+6   chromedriver                        0x000000010d51b63d chromedriver + 906813
+7   chromedriver                        0x000000010d542c3d chromedriver + 1068093
+8   chromedriver                        0x000000010d51b3e3 chromedriver + 906211
+9   chromedriver                        0x000000010d4e729a chromedriver + 692890
+10  chromedriver                        0x000000010d4e83f1 chromedriver + 697329
+11  chromedriver                        0x000000010d9cfd00 chromedriver + 5840128
+12  chromedriver                        0x000000010d9d3bd4 chromedriver + 5856212
+13  chromedriver                        0x000000010d9aa936 chromedriver + 5687606
+14  chromedriver                        0x000000010d9d45cb chromedriver + 5858763
+15  chromedriver                        0x000000010d999024 chromedriver + 5615652
+16  chromedriver                        0x000000010d9f6368 chromedriver + 5997416
+17  chromedriver                        0x000000010d9f652f chromedriver + 5997871
+18  chromedriver                        0x000000010da07fe8 chromedriver + 6070248
+19  libsystem_pthread.dylib             0x00007ff80cb0c253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80cb07bef thread_start + 15
+
+2025-03-12 07:47:43,498 - INFO - 方法3成功获取产品图片: https://ph-files.imgix.net/c330a57e-b3ad-4afa-bf14-f3a1f5e3010b.png?auto=format&fit=crop&frame=1&h=512&w=1024
+2025-03-12 07:47:46,878 - INFO - 尝试从JavaScript数据中提取访问链接
+2025-03-12 07:47:46,880 - INFO - 尝试模拟点击'Visit'按钮
+2025-03-12 07:47:53,932 - INFO - 方法5成功获取访问链接(新标签页): https://skarbe.com/?ref=producthunt
+2025-03-12 07:47:54,024 - INFO - 成功获取产品 Skarbe 的信息
+2025-03-12 07:47:54,024 - INFO - 成功获取第 2 个产品的信息
+2025-03-12 07:48:07,678 - INFO - 访问产品页面: https://www.producthunt.com/posts/iki-ai-2-0
+2025-03-12 07:48:07,800 - INFO - 已保存页面源代码到temp_page.html
+2025-03-12 07:48:07,801 - INFO - 尝试查找包含'Hey Product Hunt'的文本
+2025-03-12 07:48:07,855 - INFO - 找到 466 个div元素
+2025-03-12 07:48:19,505 - INFO - 找到 0 个包含'Hey Product Hunt'的元素
+2025-03-12 07:48:19,506 - INFO - 没有找到包含'Hey Product Hunt'的文本，尝试查找Maker的发言
+2025-03-12 07:48:20,392 - INFO - 找到包含'Maker'的元素 0: Launches
+Products
+News
+Forums
+Advertise
+Subscribe
+Sign in
+Home
+Product
+IKI.AI 2.0
+This is a launch from IKI.AI
+See 1 previous launch
+IKI.AI 2.0
+LLM-na...
+2025-03-12 07:48:23,247 - INFO - 找到包含'Maker'的元素 118: Home
+Product
+IKI.AI 2.0
+This is a launch from IKI.AI
+See 1 previous launch
+IKI.AI 2.0
+LLM-native space for professional knowledge
+Visit
+Upvote 493
+IKI...
+2025-03-12 07:48:23,575 - INFO - 找到包含'Maker'的元素 119: Home
+Product
+IKI.AI 2.0
+This is a launch from IKI.AI
+See 1 previous launch
+IKI.AI 2.0
+LLM-native space for professional knowledge
+Visit
+Upvote 493
+IKI...
+2025-03-12 07:48:23,847 - INFO - 找到包含'Maker'的元素 120: Home
+Product
+IKI.AI 2.0
+This is a launch from IKI.AI
+See 1 previous launch
+IKI.AI 2.0
+LLM-native space for professional knowledge
+Visit
+Upvote 493
+IKI...
+2025-03-12 07:48:24,958 - INFO - 找到包含'Maker'的元素 175: What do you think? …
+Login to comment
+Best
+Ivan Ilin
+IKI.AI
+Maker
+📌
+🏄‍♂️ Aloha, Product Hunt!
+We’re happy to invite you to IKI 2.0 – an LLM-native spa...
+2025-03-12 07:48:25,269 - INFO - 找到包含'Maker'的元素 186: Ivan Ilin
+IKI.AI
+Maker
+📌
+🏄‍♂️ Aloha, Product Hunt!
+We’re happy to invite you to IKI 2.0 – an LLM-native space for your knowledge.
+🖥️ First and foremos...
+2025-03-12 07:48:25,331 - INFO - 找到包含'Maker'的元素 187: Ivan Ilin
+IKI.AI
+Maker
+📌
+🏄‍♂️ Aloha, Product Hunt!
+We’re happy to invite you to IKI 2.0 – an LLM-native space for your knowledge.
+🖥️ First and foremos...
+2025-03-12 07:48:25,492 - INFO - 找到包含'Maker'的元素 190: Ivan Ilin
+IKI.AI
+Maker
+📌
+🏄‍♂️ Aloha, Product Hunt!
+We’re happy to invite you to IKI 2.0 – an LLM-native space for your knowledge.
+🖥️ First and foremos...
+2025-03-12 07:48:25,608 - INFO - 找到包含'Maker'的元素 191: Ivan Ilin
+IKI.AI
+Maker
+📌
+🏄‍♂️ Aloha, Product Hunt!
+We’re happy to invite you to IKI 2.0 – an LLM-native space for your knowledge.
+🖥️ First and foremos...
+2025-03-12 07:48:25,788 - INFO - 找到包含'Maker'的元素 193: Ivan Ilin
+IKI.AI
+Maker
+📌
+🏄‍♂️ Aloha, Product Hunt!
+We’re happy to invite you to IKI 2.0 – an LLM-native space for your knowledge.
+🖥️ First and foremos...
+2025-03-12 07:48:26,976 - INFO - 找到包含'Maker'的元素 251: Victor Metelskiy
+ARTI.PICS
+For me, iki.ai is like Cursor but for non-coding stuff, totally recommend.
+Congrats on the launch!
+Upvote
+(4)
+Report
+Share
+...
+2025-03-12 07:48:27,672 - INFO - 找到包含'Maker'的元素 269: Ivan Ilin
+IKI.AI
+Maker
+@victor_metelskiy That's quite accurate, dear Victor! Thank you for your support, man!
+Upvote
+(2)
+Report
+Share
+14h ago
+Victor M...
+2025-03-12 07:48:27,783 - INFO - 找到包含'Maker'的元素 270: Ivan Ilin
+IKI.AI
+Maker
+@victor_metelskiy That's quite accurate, dear Victor! Thank you for your support, man!
+Upvote
+(2)
+Report
+Share
+14h ago...
+2025-03-12 07:48:27,851 - INFO - 找到包含'Maker'的元素 273: Ivan Ilin
+IKI.AI
+Maker
+@victor_metelskiy That's quite accurate, dear Victor! Thank you for your support, man!
+Upvote
+(2)
+Report
+Share
+14h ago...
+2025-03-12 07:48:28,653 - INFO - 找到包含'Maker'的元素 301: Ivan Ilin
+IKI.AI
+Maker
+@victor_metelskiy IDK what happened to my brain when I was replying to you, bro!
+We're well acquainted, that's some sort of sho...
+2025-03-12 07:48:28,844 - INFO - 找到包含'Maker'的元素 304: Ivan Ilin
+IKI.AI
+Maker
+@victor_metelskiy IDK what happened to my brain when I was replying to you, bro!
+We're well acquainted, that's some sort of sho...
+2025-03-12 07:48:29,552 - INFO - 找到包含'Maker'的元素 317: Dimitris Effrosynidis
+Launching soon!
+Reminds me of what Notion tried to do with second brain. Basically use your whole Notion resources and their LLM...
+2025-03-12 07:48:30,008 - INFO - 找到包含'Maker'的元素 336: Ivan Ilin
+IKI.AI
+Maker
+@deffro Thank you for getting the vision, dear Dimitris! Yes, it's like Notion that was built to be LLM-first. BTW here is a gr...
+2025-03-12 07:48:30,067 - INFO - 找到包含'Maker'的元素 337: Ivan Ilin
+IKI.AI
+Maker
+@deffro Thank you for getting the vision, dear Dimitris! Yes, it's like Notion that was built to be LLM-first. BTW here is a gr...
+2025-03-12 07:48:30,136 - INFO - 找到包含'Maker'的元素 340: Ivan Ilin
+IKI.AI
+Maker
+@deffro Thank you for getting the vision, dear Dimitris! Yes, it's like Notion that was built to be LLM-first. BTW here is a gr...
+2025-03-12 07:48:30,602 - INFO - 找到包含'Maker'的元素 354: Christophe HK
+Happy IKIer here. Can't thanks enough Ivan and the entire IKI team for this gem, their support, and their motivation for making IKI bett...
+2025-03-12 07:48:31,497 - INFO - 找到包含'Maker'的元素 371: Ivan Ilin
+IKI.AI
+Maker
+@christophe_h Hey, Christophe, happy to see you in comments! Thank you so much for being our early adopter!
+Upvote
+(3)
+Report
+S...
+2025-03-12 07:48:31,559 - INFO - 找到包含'Maker'的元素 372: Ivan Ilin
+IKI.AI
+Maker
+@christophe_h Hey, Christophe, happy to see you in comments! Thank you so much for being our early adopter!
+Upvote
+(3)
+Report
+S...
+2025-03-12 07:48:31,607 - INFO - 找到包含'Maker'的元素 375: Ivan Ilin
+IKI.AI
+Maker
+@christophe_h Hey, Christophe, happy to see you in comments! Thank you so much for being our early adopter!
+Upvote
+(3)
+Report
+S...
+2025-03-12 07:48:33,043 - INFO - 找到 24 个包含'Maker'的元素
+2025-03-12 07:48:33,043 - INFO - 提取的Maker介绍: @victor_metelskiy That's quite accurate, dear Victor! Thank you for your support, man!
+Upvote
+(2)
+Report
+Share
+14h ago...
+2025-03-12 07:48:33,110 - INFO - 方法1：使用meta描述: IKI.AI is an LLM-native space for your knowledge - Save URLs, YouTube videos, PDFs, txts, or sync your cloud drive - Enjoy advanced assistant to fetch...
+2025-03-12 07:48:33,166 - INFO - 方法1成功获取产品图片: https://ph-files.imgix.net/447f9b8e-a296-470a-92bd-d1114cd108eb.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1
+2025-03-12 07:48:37,409 - INFO - 尝试从JavaScript数据中提取访问链接
+2025-03-12 07:48:37,412 - INFO - 尝试模拟点击'Visit'按钮
+2025-03-12 07:48:42,665 - INFO - 方法5成功获取访问链接(新标签页): https://iki.ai/?ref=producthunt
+2025-03-12 07:48:42,820 - INFO - 成功获取产品 IKI.AI 2.0 的信息
+2025-03-12 07:48:42,821 - INFO - 成功获取第 3 个产品的信息
+2025-03-12 07:48:50,324 - INFO - 访问产品页面: https://www.producthunt.com/posts/eraser-ai-2
+2025-03-12 07:48:50,420 - INFO - 已保存页面源代码到temp_page.html
+2025-03-12 07:48:50,421 - INFO - 尝试查找包含'Hey Product Hunt'的文本
+2025-03-12 07:48:50,484 - INFO - 找到 523 个div元素
+2025-03-12 07:49:03,574 - INFO - 找到 0 个包含'Hey Product Hunt'的元素
+2025-03-12 07:49:03,575 - INFO - 没有找到包含'Hey Product Hunt'的文本，尝试查找Maker的发言
+2025-03-12 07:49:03,872 - INFO - 找到包含'Maker'的元素 0: Launches
+Products
+News
+Forums
+Advertise
+Subscribe
+Sign in
+Home
+Product
+Eraser AI
+This is a launch from Eraser
+See 3 previous launches
+Eraser AI
+Codeba...
+2025-03-12 07:49:06,178 - INFO - 找到包含'Maker'的元素 118: Home
+Product
+Eraser AI
+This is a launch from Eraser
+See 3 previous launches
+Eraser AI
+Codebase diagrams that update themselves
+Visit
+Upvote 371
+Genera...
+2025-03-12 07:49:07,872 - INFO - 找到包含'Maker'的元素 119: Home
+Product
+Eraser AI
+This is a launch from Eraser
+See 3 previous launches
+Eraser AI
+Codebase diagrams that update themselves
+Visit
+Upvote 371
+Genera...
+2025-03-12 07:49:09,387 - INFO - 找到包含'Maker'的元素 120: Home
+Product
+Eraser AI
+This is a launch from Eraser
+See 3 previous launches
+Eraser AI
+Codebase diagrams that update themselves
+Visit
+Upvote 371
+Genera...
+2025-03-12 07:49:10,973 - INFO - 找到包含'Maker'的元素 163: What do you think? …
+Login to comment
+Best
+Shin Kim
+Eraser
+Maker
+📌
+Hi Product Hunt! 👋
+
+Every technical team wants great diagrams for their codebase, b...
+2025-03-12 07:49:11,287 - INFO - 找到包含'Maker'的元素 174: Shin Kim
+Eraser
+Maker
+📌
+Hi Product Hunt! 👋
+
+Every technical team wants great diagrams for their codebase, but they take forever to create and quickly ...
+2025-03-12 07:49:11,395 - INFO - 找到包含'Maker'的元素 175: Shin Kim
+Eraser
+Maker
+📌
+Hi Product Hunt! 👋
+
+Every technical team wants great diagrams for their codebase, but they take forever to create and quickly ...
+2025-03-12 07:49:11,483 - INFO - 找到包含'Maker'的元素 178: Shin Kim
+Eraser
+Maker
+📌
+Hi Product Hunt! 👋
+
+Every technical team wants great diagrams for their codebase, but they take forever to create and quickly ...
+2025-03-12 07:49:11,511 - INFO - 找到包含'Maker'的元素 179: Shin Kim
+Eraser
+Maker
+📌
+Hi Product Hunt! 👋
+
+Every technical team wants great diagrams for their codebase, but they take forever to create and quickly ...
+2025-03-12 07:49:11,548 - INFO - 找到包含'Maker'的元素 181: Shin Kim
+Eraser
+Maker
+📌
+Hi Product Hunt! 👋
+
+Every technical team wants great diagrams for their codebase, but they take forever to create and quickly ...
+2025-03-12 07:49:11,761 - INFO - 找到包含'Maker'的元素 195: Masum Parvej
+@shin_kim1 Can it focus on specific parts of the codebase for diagram generation?
+Upvote
+(4)
+Report
+Share
+16h ago
+Shin Kim
+Eraser
+Maker
+@...
+2025-03-12 07:49:12,069 - INFO - 找到包含'Maker'的元素 210: Shin Kim
+Eraser
+Maker
+@masump Yes, you can specify what you'd like it to focus on via prompting. You could specify a folder path or filenames, or you ...
+2025-03-12 07:49:12,303 - INFO - 找到包含'Maker'的元素 213: Shin Kim
+Eraser
+Maker
+@masump Yes, you can specify what you'd like it to focus on via prompting. You could specify a folder path or filenames, or you ...
+2025-03-12 07:49:13,131 - INFO - 找到包含'Maker'的元素 242: Shin Kim
+Eraser
+Maker
+@dineshan_sithamparanathan Thanks Dineshan! Let me know how it goes when you take it for a spin!
+Upvote
+Report
+Share
+7h ago...
+2025-03-12 07:49:13,219 - INFO - 找到包含'Maker'的元素 245: Shin Kim
+Eraser
+Maker
+@dineshan_sithamparanathan Thanks Dineshan! Let me know how it goes when you take it for a spin!
+Upvote
+Report
+Share
+7h ago...
+2025-03-12 07:49:13,581 - INFO - 找到包含'Maker'的元素 258: Hitesh Choudhary
+Eraser is my goto tool to explain in depth concept in all of my coding bootcamps. 
+Whole of our team as well as students love eraser ...
+2025-03-12 07:49:13,971 - INFO - 找到包含'Maker'的元素 275: Vitalii Kukhar
+@hiteshchoudhary That’s awesome! Really cool to hear Eraser is a go-to for your bootcamps and your team loves it 😌. Appreciate the supp...
+2025-03-12 07:49:14,179 - INFO - 找到包含'Maker'的元素 290: Shin Kim
+Eraser
+Maker
+@hiteshchoudhary Thanks so much for dropping by on our launch post! Honored that we can play a role in your teaching!
+Upvote
+(1)...
+2025-03-12 07:49:14,219 - INFO - 找到包含'Maker'的元素 293: Shin Kim
+Eraser
+Maker
+@hiteshchoudhary Thanks so much for dropping by on our launch post! Honored that we can play a role in your teaching!
+Upvote
+(1)...
+2025-03-12 07:49:14,390 - INFO - 找到包含'Maker'的元素 306: Yoel Tadmor
+Eraser
+Maker
+@hiteshchoudhary Thanks for kind words Hitesh. As a bootcamp grad once upon a time, it's amazing to see something I've worked...
+2025-03-12 07:49:14,436 - INFO - 找到包含'Maker'的元素 309: Yoel Tadmor
+Eraser
+Maker
+@hiteshchoudhary Thanks for kind words Hitesh. As a bootcamp grad once upon a time, it's amazing to see something I've worked...
+2025-03-12 07:49:14,802 - INFO - 找到包含'Maker'的元素 322: Mohamed Gaber
+Faltah Interview Simulator
+Hello,
+I have been using this product from almost 6 months now and it saved me hours of working. I even wrote...
+2025-03-12 07:49:15,186 - INFO - 找到包含'Maker'的元素 340: Shin Kim
+Eraser
+Maker
+@mohamed_gaber4 Thanks so much for sharing this. Your workflow of using Eraser AI along with Claude is really clever and a smart...
+2025-03-12 07:49:15,214 - INFO - 找到包含'Maker'的元素 341: Shin Kim
+Eraser
+Maker
+@mohamed_gaber4 Thanks so much for sharing this. Your workflow of using Eraser AI along with Claude is really clever and a smart...
+2025-03-12 07:49:15,359 - INFO - 找到包含'Maker'的元素 344: Shin Kim
+Eraser
+Maker
+@mohamed_gaber4 Thanks so much for sharing this. Your workflow of using Eraser AI along with Claude is really clever and a smart...
+2025-03-12 07:49:15,958 - INFO - 找到包含'Maker'的元素 371: Yoel Tadmor
+Eraser
+Maker
+@mohamed_gaber4 Thanks for the kind words and support Mohamed.
+Upvote
+Report
+Share
+12h ago...
+2025-03-12 07:49:15,999 - INFO - 找到包含'Maker'的元素 374: Yoel Tadmor
+Eraser
+Maker
+@mohamed_gaber4 Thanks for the kind words and support Mohamed.
+Upvote
+Report
+Share
+12h ago...
+2025-03-12 07:49:16,247 - INFO - 找到包含'Maker'的元素 387: Sauron918
+I've been using Eraser for a few months now and really love it. Thanks to markdown support and code block highlighting, it is particularly u...
+2025-03-12 07:49:16,604 - INFO - 找到包含'Maker'的元素 404: Vitalii Kukhar
+@sauron918 Thanks for the love! 💙 We’re glad Eraser helps with your docs and system overviews.
+
+Totally hear you on keyboard navigation...
+2025-03-12 07:49:17,041 - INFO - 找到包含'Maker'的元素 419: Shin Kim
+Eraser
+Maker
+@sauron918 Really appreciate the feedback! Noted on keyboard shortcuts – there are admittedly a few missing ones!
+Upvote
+(1)
+Rep...
+2025-03-12 07:49:17,099 - INFO - 找到包含'Maker'的元素 422: Shin Kim
+Eraser
+Maker
+@sauron918 Really appreciate the feedback! Noted on keyboard shortcuts – there are admittedly a few missing ones!
+Upvote
+(1)
+Rep...
+2025-03-12 07:49:17,335 - INFO - 找到包含'Maker'的元素 435: Yoel Tadmor
+Eraser
+Maker
+@sauron918 Thanks for the kind words and the feedback as well! Would love to hear what navigation specifically you're looking...
+2025-03-12 07:49:17,483 - INFO - 找到包含'Maker'的元素 438: Yoel Tadmor
+Eraser
+Maker
+@sauron918 Thanks for the kind words and the feedback as well! Would love to hear what navigation specifically you're looking...
+2025-03-12 07:49:18,823 - INFO - 找到 33 个包含'Maker'的元素
+2025-03-12 07:49:18,823 - INFO - 提取的Maker介绍: @mohamed_gaber4 Thanks for the kind words and support Mohamed.
+Upvote
+Report
+Share
+12h ago...
+2025-03-12 07:49:18,847 - INFO - 方法1：使用meta描述: Generate live diagrams from your codebase that stay up to date automatically. Visualize your infrastructure, system architecture, data models, and app...
+2025-03-12 07:49:18,863 - ERROR - 方法1获取image失败: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[data-test='post-header-image']"}
+  (Session info: chrome=134.0.6998.46); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010da10808 chromedriver + 6105096
+1   chromedriver                        0x000000010da0840a chromedriver + 6071306
+2   chromedriver                        0x000000010d4a3600 chromedriver + 415232
+3   chromedriver                        0x000000010d4f52c0 chromedriver + 750272
+4   chromedriver                        0x000000010d4f5511 chromedriver + 750865
+5   chromedriver                        0x000000010d5459c4 chromedriver + 1079748
+6   chromedriver                        0x000000010d51b63d chromedriver + 906813
+7   chromedriver                        0x000000010d542c3d chromedriver + 1068093
+8   chromedriver                        0x000000010d51b3e3 chromedriver + 906211
+9   chromedriver                        0x000000010d4e729a chromedriver + 692890
+10  chromedriver                        0x000000010d4e83f1 chromedriver + 697329
+11  chromedriver                        0x000000010d9cfd00 chromedriver + 5840128
+12  chromedriver                        0x000000010d9d3bd4 chromedriver + 5856212
+13  chromedriver                        0x000000010d9aa936 chromedriver + 5687606
+14  chromedriver                        0x000000010d9d45cb chromedriver + 5858763
+15  chromedriver                        0x000000010d999024 chromedriver + 5615652
+16  chromedriver                        0x000000010d9f6368 chromedriver + 5997416
+17  chromedriver                        0x000000010d9f652f chromedriver + 5997871
+18  chromedriver                        0x000000010da07fe8 chromedriver + 6070248
+19  libsystem_pthread.dylib             0x00007ff80cb0c253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff80cb07bef thread_start + 15
+
+2025-03-12 07:49:19,400 - INFO - 方法3成功获取产品图片: https://ph-files.imgix.net/222b371d-9ace-4ed7-8ac9-795b241f1411.png?auto=format&fit=crop&frame=1&h=512&w=1024
+2025-03-12 07:49:23,214 - INFO - 尝试从JavaScript数据中提取访问链接
+2025-03-12 07:49:23,215 - INFO - 尝试模拟点击'Visit'按钮
+2025-03-12 07:49:27,804 - INFO - 方法5成功获取访问链接(新标签页): https://www.eraser.io/product/eraserbot?ref=producthunt
+2025-03-12 07:49:28,017 - INFO - 成功获取产品 Eraser AI 的信息
+2025-03-12 07:49:28,017 - INFO - 成功获取第 4 个产品的信息
+2025-03-12 07:49:34,320 - INFO - 访问产品页面: https://www.producthunt.com/posts/qodo-gen
+2025-03-12 07:49:34,503 - INFO - 已保存页面源代码到temp_page.html
+2025-03-12 07:49:34,503 - INFO - 尝试查找包含'Hey Product Hunt'的文本
+2025-03-12 07:49:34,547 - INFO - 找到 440 个div元素
+2025-03-12 07:49:44,689 - INFO - 找到 0 个包含'Hey Product Hunt'的元素
+2025-03-12 07:49:44,689 - INFO - 没有找到包含'Hey Product Hunt'的文本，尝试查找Maker的发言
+2025-03-12 07:49:45,492 - INFO - 找到包含'Maker'的元素 0: Launches
+Products
+News
+Forums
+Advertise
+Subscribe
+Sign in
+Home
+Product
+Qodo Gen
+This is a launch from Qodo (formerly CodiumAI)
+See 3 previous launches...
+2025-03-12 07:49:47,403 - INFO - 找到包含'Maker'的元素 118: Home
+Product
+Qodo Gen
+This is a launch from Qodo (formerly CodiumAI)
+See 3 previous launches
+Qodo Gen
+Agentic coding to generate confidence, not just ...
+2025-03-12 07:49:47,627 - INFO - 找到包含'Maker'的元素 119: Home
+Product
+Qodo Gen
+This is a launch from Qodo (formerly CodiumAI)
+See 3 previous launches
+Qodo Gen
+Agentic coding to generate confidence, not just ...
+2025-03-12 07:49:47,904 - INFO - 找到包含'Maker'的元素 120: Home
+Product
+Qodo Gen
+This is a launch from Qodo (formerly CodiumAI)
+See 3 previous launches
+Qodo Gen
+Agentic coding to generate confidence, not just ...
+2025-03-12 07:49:49,161 - INFO - 找到包含'Maker'的元素 165: What do you think? …
+Login to comment
+Best
+Almog Lavi
+Qodo (formerly CodiumAI)
+Maker
+📌
+Hi Product Hunt,
+I’m Almog, the lead product manager of Qodo Ge...
+2025-03-12 07:49:49,435 - INFO - 找到包含'Maker'的元素 176: Almog Lavi
+Qodo (formerly CodiumAI)
+Maker
+📌
+Hi Product Hunt,
+I’m Almog, the lead product manager of Qodo Gen ✨.
+We first released Qodo Gen, our IDE pl...
+2025-03-12 07:49:49,485 - INFO - 找到包含'Maker'的元素 177: Almog Lavi
+Qodo (formerly CodiumAI)
+Maker
+📌
+Hi Product Hunt,
+I’m Almog, the lead product manager of Qodo Gen ✨.
+We first released Qodo Gen, our IDE pl...
+2025-03-12 07:49:49,549 - INFO - 找到包含'Maker'的元素 180: Almog Lavi
+Qodo (formerly CodiumAI)
+Maker
+📌
+Hi Product Hunt,
+I’m Almog, the lead product manager of Qodo Gen ✨.
+We first released Qodo Gen, our IDE pl...
+2025-03-12 07:49:49,589 - INFO - 找到包含'Maker'的元素 181: Almog Lavi
+Qodo (formerly CodiumAI)
+Maker
+📌
+Hi Product Hunt,
+I’m Almog, the lead product manager of Qodo Gen ✨.
+We first released Qodo Gen, our IDE pl...
+2025-03-12 07:49:49,647 - INFO - 找到包含'Maker'的元素 183: Almog Lavi
+Qodo (formerly CodiumAI)
+Maker
+📌
+Hi Product Hunt,
+I’m Almog, the lead product manager of Qodo Gen ✨.
+We first released Qodo Gen, our IDE pl...
+2025-03-12 07:49:50,026 - INFO - 找到包含'Maker'的元素 197: Itamar Friedman
+Qodo (formerly CodiumAI)
+Maker
+@almog_lv , how do you think teams should manage MCPs? Or should people handle this individually?
+Upvot...
+2025-03-12 07:49:50,112 - INFO - 找到包含'Maker'的元素 198: Itamar Friedman
+Qodo (formerly CodiumAI)
+Maker
+@almog_lv , how do you think teams should manage MCPs? Or should people handle this individually?
+Upvot...
+2025-03-12 07:49:50,166 - INFO - 找到包含'Maker'的元素 201: Itamar Friedman
+Qodo (formerly CodiumAI)
+Maker
+@almog_lv , how do you think teams should manage MCPs? Or should people handle this individually?
+Upvot...
+2025-03-12 07:49:50,459 - INFO - 找到包含'Maker'的元素 214: Sagi Medina
+Qodo (formerly CodiumAI)
+Maker
+@almog_lv @maritamar 
+We actually thought about this before 1.0 launch. We MCP servers tend to be a matter ...
+2025-03-12 07:49:50,555 - INFO - 找到包含'Maker'的元素 217: Sagi Medina
+Qodo (formerly CodiumAI)
+Maker
+@almog_lv @maritamar 
+We actually thought about this before 1.0 launch. We MCP servers tend to be a matter ...
+2025-03-12 07:49:51,901 - INFO - 找到包含'Maker'的元素 230: Liran Tal
+Installed the Qodo extension for VS Code and it just one-shotted a feature from a pull request, all code, along with tests, even with some c...
+2025-03-12 07:49:52,531 - INFO - 找到包含'Maker'的元素 247: Sagi Medina
+Qodo (formerly CodiumAI)
+Maker
+@liran_tal1 
+Thanks for the positive feedback, Liran! Great to hear Qodo's extension delivered such a compl...
+2025-03-12 07:49:52,668 - INFO - 找到包含'Maker'的元素 248: Sagi Medina
+Qodo (formerly CodiumAI)
+Maker
+@liran_tal1 
+Thanks for the positive feedback, Liran! Great to hear Qodo's extension delivered such a compl...
+2025-03-12 07:49:52,920 - INFO - 找到包含'Maker'的元素 251: Sagi Medina
+Qodo (formerly CodiumAI)
+Maker
+@liran_tal1 
+Thanks for the positive feedback, Liran! Great to hear Qodo's extension delivered such a compl...
+2025-03-12 07:49:54,023 - INFO - 找到包含'Maker'的元素 278: Nadav Cohen
+All you need from your coding assistant in the IDE you already love using. Can't beat this experience! (I'm biased. My super talented team...
+2025-03-12 07:49:55,031 - INFO - 找到包含'Maker'的元素 295: Itamar Friedman
+Qodo (formerly CodiumAI)
+Maker
+@tiny_the_hunter , how many human developers and how many artificial?
+Upvote
+Report
+Share
+13h ago
+Sagi ...
+2025-03-12 07:49:55,139 - INFO - 找到包含'Maker'的元素 296: Itamar Friedman
+Qodo (formerly CodiumAI)
+Maker
+@tiny_the_hunter , how many human developers and how many artificial?
+Upvote
+Report
+Share
+13h ago...
+2025-03-12 07:49:55,216 - INFO - 找到包含'Maker'的元素 299: Itamar Friedman
+Qodo (formerly CodiumAI)
+Maker
+@tiny_the_hunter , how many human developers and how many artificial?
+Upvote
+Report
+Share
+13h ago...
+2025-03-12 07:49:56,006 - INFO - 找到包含'Maker'的元素 312: Sagi Medina
+Qodo (formerly CodiumAI)
+Maker
+@tiny_the_hunter @maritamar And how many hybrid?
+Upvote
+Report
+Share
+11h ago...
+2025-03-12 07:49:56,104 - INFO - 找到包含'Maker'的元素 315: Sagi Medina
+Qodo (formerly CodiumAI)
+Maker
+@tiny_the_hunter @maritamar And how many hybrid?
+Upvote
+Report
+Share
+11h ago...
+2025-03-12 07:49:56,400 - INFO - 找到包含'Maker'的元素 328: Hamza Afzal Butt
+Success.ai
+Launching soon!
+I am particularly excited about the semi-agentic test generation, can Qodo Gen analyze past test results t...
+2025-03-12 07:49:56,881 - INFO - 找到包含'Maker'的元素 346: Sagi Medina
+Qodo (formerly CodiumAI)
+Maker
+@hamza_afzal_butt 
+Yes, Qodo Gen's semi-agentic test generation can analyze past test results to iterativel...
+2025-03-12 07:49:56,955 - INFO - 找到包含'Maker'的元素 347: Sagi Medina
+Qodo (formerly CodiumAI)
+Maker
+@hamza_afzal_butt 
+Yes, Qodo Gen's semi-agentic test generation can analyze past test results to iterativel...
+2025-03-12 07:49:57,108 - INFO - 找到包含'Maker'的元素 350: Sagi Medina
+Qodo (formerly CodiumAI)
+Maker
+@hamza_afzal_butt 
+Yes, Qodo Gen's semi-agentic test generation can analyze past test results to iterativel...
+2025-03-12 07:49:58,635 - INFO - 找到 29 个包含'Maker'的元素
+2025-03-12 07:49:58,636 - INFO - 提取的Maker介绍: @tiny_the_hunter @maritamar And how many hybrid?
+Upvote
+Report
+Share
+11h ago...
+2025-03-12 07:49:58,664 - INFO - 方法1：使用meta描述: Qodo Gen, part of Qodo's code integrity platform, embeds AI agents into IDEs to improve coding, testing, and quality workflows. With deep context awar...
+2025-03-12 07:49:58,689 - INFO - 方法1成功获取产品图片: https://ph-files.imgix.net/09d5bb02-3f4d-4778-b0b8-424717a49958.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1
+2025-03-12 07:50:03,080 - INFO - 尝试从JavaScript数据中提取访问链接
+2025-03-12 07:50:03,082 - INFO - 尝试模拟点击'Visit'按钮
+2025-03-12 07:50:12,302 - INFO - 方法5成功获取访问链接(新标签页): https://plugins.jetbrains.com/plugin/21206-qodo-gen-formerly-codiumate-?ref=producthunt
+2025-03-12 07:50:12,448 - INFO - 成功获取产品 Qodo Gen 的信息
+2025-03-12 07:50:12,448 - INFO - 成功获取第 5 个产品的信息
+2025-03-12 07:50:18,890 - INFO - 访问产品页面: https://www.producthunt.com/posts/embra
+2025-03-12 07:50:19,021 - INFO - 已保存页面源代码到temp_page.html
+2025-03-12 07:50:19,021 - INFO - 尝试查找包含'Hey Product Hunt'的文本
+2025-03-12 07:50:19,087 - INFO - 找到 446 个div元素
+2025-03-12 07:50:20,065 - INFO - 找到包含'Hey Product Hunt'的元素 0: Launches
+Products
+News
+Forums
+Advertise
+Subscribe
+Sign in
+Home
+Product
+Embra
+Embra
+Unify work with AI agents - meetings, CRM, research & email
+Visit
+U...
+2025-03-12 07:50:22,620 - INFO - 找到包含'Hey Product Hunt'的元素 118: Home
+Product
+Embra
+Embra
+Unify work with AI agents - meetings, CRM, research & email
+Visit
+Upvote 329
+Embra is a powerful AI operating system. Acceler...
+2025-03-12 07:50:23,425 - INFO - 找到包含'Hey Product Hunt'的元素 119: Home
+Product
+Embra
+Embra
+Unify work with AI agents - meetings, CRM, research & email
+Visit
+Upvote 329
+Embra is a powerful AI operating system. Acceler...
+2025-03-12 07:50:24,173 - INFO - 找到包含'Hey Product Hunt'的元素 120: Home
+Product
+Embra
+Embra
+Unify work with AI agents - meetings, CRM, research & email
+Visit
+Upvote 329
+Embra is a powerful AI operating system. Acceler...
+2025-03-12 07:50:25,255 - INFO - 找到包含'Hey Product Hunt'的元素 162: What do you think? …
+Login to comment
+Best
+Zach Tratar
+Embra - The AI Operating System
+Maker
+📌
+Hey Product Hunt! I'm Zach, founder of Embra. 👋
+
+18 mon...
+2025-03-12 07:50:25,794 - INFO - 找到包含'Hey Product Hunt'的元素 173: Zach Tratar
+Embra - The AI Operating System
+Maker
+📌
+Hey Product Hunt! I'm Zach, founder of Embra. 👋
+
+18 months ago, we pivoted to build "An AI that kn...
+2025-03-12 07:50:25,871 - INFO - 找到包含'Hey Product Hunt'的元素 174: Zach Tratar
+Embra - The AI Operating System
+Maker
+📌
+Hey Product Hunt! I'm Zach, founder of Embra. 👋
+
+18 months ago, we pivoted to build "An AI that kn...
+2025-03-12 07:50:25,956 - INFO - 找到包含'Hey Product Hunt'的元素 177: Zach Tratar
+Embra - The AI Operating System
+Maker
+📌
+Hey Product Hunt! I'm Zach, founder of Embra. 👋
+
+18 months ago, we pivoted to build "An AI that kn...
+2025-03-12 07:50:26,028 - INFO - 找到包含'Hey Product Hunt'的元素 178: Zach Tratar
+Embra - The AI Operating System
+Maker
+📌
+Hey Product Hunt! I'm Zach, founder of Embra. 👋
+
+18 months ago, we pivoted to build "An AI that kn...
+2025-03-12 07:50:26,101 - INFO - 找到包含'Hey Product Hunt'的元素 180: Zach Tratar
+Embra - The AI Operating System
+Maker
+📌
+Hey Product Hunt! I'm Zach, founder of Embra. 👋
+
+18 months ago, we pivoted to build "An AI that kn...
+2025-03-12 07:50:26,180 - INFO - 找到包含'Hey Product Hunt'的元素 186: Hey Product Hunt! I'm Zach, founder of Embra. 👋
+
+18 months ago, we pivoted to build "An AI that knows the business better than the CEO." After a lot o...
+2025-03-12 07:50:26,206 - INFO - 找到包含'Hey Product Hunt'的元素 187: Hey Product Hunt! I'm Zach, founder of Embra. 👋
+
+18 months ago, we pivoted to build "An AI that knows the business better than the CEO." After a lot o...
+2025-03-12 07:50:31,768 - INFO - 找到 12 个包含'Hey Product Hunt'的元素
+2025-03-12 07:50:31,769 - INFO - 提取的Maker介绍: Hey Product Hunt! I'm Zach, founder of Embra. 👋
+
+18 months ago, we pivoted to build "An AI that knows the business better than the CEO." After a lot o...
+2025-03-12 07:50:31,796 - INFO - 方法1：使用meta描述: Embra is a powerful AI operating system. Accelerate sales & product development with your team of AI agents that know your business. The AI OS include...
+2025-03-12 07:50:31,820 - INFO - 方法1成功获取产品图片: https://ph-files.imgix.net/61a5e2d4-633c-4844-878a-37e56118092b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1
+2025-03-12 07:50:35,532 - INFO - 尝试从JavaScript数据中提取访问链接
+2025-03-12 07:50:35,534 - INFO - 尝试模拟点击'Visit'按钮
+2025-03-12 07:50:41,265 - INFO - 方法5成功获取访问链接(新标签页): https://www.embra.ai/?utm_source=producthunt&utm_medium=ph&utm_campaign=ph&ref=producthunt
+2025-03-12 07:50:41,350 - INFO - 成功获取产品 Embra 的信息
+2025-03-12 07:50:41,350 - INFO - 成功获取第 6 个产品的信息
+2025-03-12 07:50:49,479 - INFO - 访问产品页面: https://www.producthunt.com/posts/withmantle
+2025-03-12 07:50:49,969 - INFO - 已保存页面源代码到temp_page.html
+2025-03-12 07:50:49,969 - INFO - 尝试查找包含'Hey Product Hunt'的文本
+2025-03-12 07:50:50,022 - INFO - 找到 461 个div元素
+2025-03-12 07:51:01,154 - INFO - 找到 0 个包含'Hey Product Hunt'的元素
+2025-03-12 07:51:01,154 - INFO - 没有找到包含'Hey Product Hunt'的文本，尝试查找Maker的发言
+2025-03-12 07:51:01,391 - INFO - 找到包含'Maker'的元素 0: Launches
+Products
+News
+Forums
+Advertise
+Subscribe
+Sign in
+Home
+Product
+Mantle
+Mantle
+AI-native cap table management for modern founders
+Visit
+Upvote 2...
+2025-03-12 07:51:03,657 - INFO - 找到包含'Maker'的元素 118: Home
+Product
+Mantle
+Mantle
+AI-native cap table management for modern founders
+Visit
+Upvote 294
+Tired of spreadsheets or overpriced cap table software?...
+2025-03-12 07:51:04,134 - INFO - 找到包含'Maker'的元素 119: Home
+Product
+Mantle
+Mantle
+AI-native cap table management for modern founders
+Visit
+Upvote 294
+Tired of spreadsheets or overpriced cap table software?...
+2025-03-12 07:51:04,569 - INFO - 找到包含'Maker'的元素 120: Home
+Product
+Mantle
+Mantle
+AI-native cap table management for modern founders
+Visit
+Upvote 294
+Tired of spreadsheets or overpriced cap table software?...
+2025-03-12 07:51:05,473 - INFO - 找到包含'Maker'的元素 168: What do you think? …
+Login to comment
+Best
+Amar Varma
+Maker
+📌
+For 15 years, our tight-knit team of 9 co-founders has lived and breathed the startup li...
+2025-03-12 07:51:05,742 - INFO - 找到包含'Maker'的元素 179: Amar Varma
+Maker
+📌
+For 15 years, our tight-knit team of 9 co-founders has lived and breathed the startup life, from those exhilarating ideation days t...
+2025-03-12 07:51:05,815 - INFO - 找到包含'Maker'的元素 180: Amar Varma
+Maker
+📌
+For 15 years, our tight-knit team of 9 co-founders has lived and breathed the startup life, from those exhilarating ideation days t...
+2025-03-12 07:51:05,889 - INFO - 找到包含'Maker'的元素 183: Amar Varma
+Maker
+📌
+For 15 years, our tight-knit team of 9 co-founders has lived and breathed the startup life, from those exhilarating ideation days t...
+2025-03-12 07:51:05,923 - INFO - 找到包含'Maker'的元素 184: Amar Varma
+Maker
+📌
+For 15 years, our tight-knit team of 9 co-founders has lived and breathed the startup life, from those exhilarating ideation days t...
+2025-03-12 07:51:05,990 - INFO - 找到包含'Maker'的元素 186: Amar Varma
+Maker
+📌
+For 15 years, our tight-knit team of 9 co-founders has lived and breathed the startup life, from those exhilarating ideation days t...
+2025-03-12 07:51:08,529 - INFO - 找到包含'Maker'的元素 308: Jon Wesselink
+Fedica
+Launching soon!
+This looks awesome! When I finally get my company up and running, I'm totally gonna jump on this. Mantle seems li...
+2025-03-12 07:51:09,507 - INFO - 找到包含'Maker'的元素 344: Dimitris Effrosynidis
+Launching soon!
+You weren't kidding about the "modern" in description! Kudos!
+Upvote
+(4)
+Report
+Share
+11h ago
+Amar Varma
+Maker
+@...
+2025-03-12 07:51:09,958 - INFO - 找到包含'Maker'的元素 363: Amar Varma
+Maker
+@deffro Appreciate the support. Best of luck on your upcoming launch!
+Upvote
+(3)
+Report
+Share
+11h ago...
+2025-03-12 07:51:10,048 - INFO - 找到包含'Maker'的元素 364: Amar Varma
+Maker
+@deffro Appreciate the support. Best of luck on your upcoming launch!
+Upvote
+(3)
+Report
+Share
+11h ago...
+2025-03-12 07:51:10,113 - INFO - 找到包含'Maker'的元素 367: Amar Varma
+Maker
+@deffro Appreciate the support. Best of luck on your upcoming launch!
+Upvote
+(3)
+Report
+Share
+11h ago...
+2025-03-12 07:51:11,580 - INFO - 找到 15 个包含'Maker'的元素
+2025-03-12 07:51:11,609 - INFO - 提取的Maker介绍: @deffro Appreciate the support. Best of luck on your upcoming launch!
+Upvote
+(3)
+Report
+Share
+11h ago...
+2025-03-12 07:51:11,655 - INFO - 方法1：使用meta描述: Tired of spreadsheets or overpriced cap table software? Enjoy a modern, AI-native cap table management platform with unlimited stakeholders. Free cap ...
+2025-03-12 07:51:11,707 - INFO - 方法1成功获取产品图片: https://ph-files.imgix.net/8f6a1f5f-64ae-4267-8b67-a349f5868983.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1
+2025-03-12 07:51:15,659 - INFO - 尝试从JavaScript数据中提取访问链接
+2025-03-12 07:51:15,662 - INFO - 尝试模拟点击'Visit'按钮
+2025-03-12 07:51:26,487 - INFO - 方法5成功获取访问链接(新标签页): https://withmantle.com/product-hunt?utm_source=producthunt&utm_medium=ph-launch-page&utm_campaign=2025-03-ph-launch-page&ref=producthunt
+2025-03-12 07:51:26,634 - INFO - 成功获取产品 Mantle 的信息
+2025-03-12 07:51:26,635 - INFO - 成功获取第 7 个产品的信息
+2025-03-12 07:51:30,289 - INFO - 访问产品页面: https://www.producthunt.com/posts/linktodm
+2025-03-12 07:51:32,923 - INFO - 已保存页面源代码到temp_page.html
+2025-03-12 07:51:32,924 - INFO - 尝试查找包含'Hey Product Hunt'的文本
+2025-03-12 07:51:32,989 - INFO - 找到 375 个div元素
+2025-03-12 07:51:42,894 - INFO - 找到 0 个包含'Hey Product Hunt'的元素
+2025-03-12 07:51:42,895 - INFO - 没有找到包含'Hey Product Hunt'的文本，尝试查找Maker的发言
+2025-03-12 07:51:43,606 - INFO - 找到包含'Maker'的元素 0: Launches
+Products
+News
+Forums
+Advertise
+Subscribe
+Sign in
+Home
+Product
+LinktoDM
+LinktoDM
+Automate your Instagram DMs in seconds
+Visit
+Upvote 217
+Take ...
+2025-03-12 07:51:45,567 - INFO - 找到包含'Maker'的元素 118: Home
+Product
+LinktoDM
+LinktoDM
+Automate your Instagram DMs in seconds
+Visit
+Upvote 217
+Take your Instagram growth to the next level by automating comm...
+2025-03-12 07:51:45,782 - INFO - 找到包含'Maker'的元素 119: Home
+Product
+LinktoDM
+LinktoDM
+Automate your Instagram DMs in seconds
+Visit
+Upvote 217
+Take your Instagram growth to the next level by automating comm...
+2025-03-12 07:51:46,741 - INFO - 找到包含'Maker'的元素 120: Home
+Product
+LinktoDM
+LinktoDM
+Automate your Instagram DMs in seconds
+Visit
+Upvote 217
+Take your Instagram growth to the next level by automating comm...
+2025-03-12 07:51:47,374 - INFO - 找到包含'Maker'的元素 156: What do you think? …
+Login to comment
+Best
+Kiran Raj
+Maker
+Hey everyone! 👋
+I’m super excited to share that LinktoDM is now live on Product Hunt! 🚀
+
+🎯 ...
+2025-03-12 07:51:47,856 - INFO - 找到包含'Maker'的元素 167: Kiran Raj
+Maker
+Hey everyone! 👋
+I’m super excited to share that LinktoDM is now live on Product Hunt! 🚀
+
+🎯 What is LinktoDM?
+It’s a powerful Instagram...
+2025-03-12 07:51:47,997 - INFO - 找到包含'Maker'的元素 168: Kiran Raj
+Maker
+Hey everyone! 👋
+I’m super excited to share that LinktoDM is now live on Product Hunt! 🚀
+
+🎯 What is LinktoDM?
+It’s a powerful Instagram...
+2025-03-12 07:51:48,083 - INFO - 找到包含'Maker'的元素 171: Kiran Raj
+Maker
+Hey everyone! 👋
+I’m super excited to share that LinktoDM is now live on Product Hunt! 🚀
+
+🎯 What is LinktoDM?
+It’s a powerful Instagram...
+2025-03-12 07:51:48,123 - INFO - 找到包含'Maker'的元素 172: Kiran Raj
+Maker
+Hey everyone! 👋
+I’m super excited to share that LinktoDM is now live on Product Hunt! 🚀
+
+🎯 What is LinktoDM?
+It’s a powerful Instagram...
+2025-03-12 07:51:48,240 - INFO - 找到包含'Maker'的元素 174: Kiran Raj
+Maker
+Hey everyone! 👋
+I’m super excited to share that LinktoDM is now live on Product Hunt! 🚀
+
+🎯 What is LinktoDM?
+It’s a powerful Instagram...
+2025-03-12 07:51:48,539 - INFO - 找到包含'Maker'的元素 186: Masum Parvej
+@kiran_raj7 This is awesome! Automating DMs and replies without messy workflows?
+Upvote
+(1)
+Report
+Share
+16h ago
+Kiran Raj
+Maker
+@masump ...
+2025-03-12 07:51:48,789 - INFO - 找到包含'Maker'的元素 201: Kiran Raj
+Maker
+@masump Thanks so much! 😊 Yes, exactly—that’s what we aimed for! No messy workflows, just simple, conversational automation that actua...
+2025-03-12 07:51:48,834 - INFO - 找到包含'Maker'的元素 204: Kiran Raj
+Maker
+@masump Thanks so much! 😊 Yes, exactly—that’s what we aimed for! No messy workflows, just simple, conversational automation that actua...
+2025-03-12 07:51:49,072 - INFO - 找到包含'Maker'的元素 216: Phuong Le
+Launching soon!
+This is like manychat but tailored to IG?
+Upvote
+(5)
+Report
+Share
+14h ago
+Kiran Raj
+Maker
+@phuongle1237353 Yes, we specializ...
+2025-03-12 07:51:49,616 - INFO - 找到包含'Maker'的元素 233: Kiran Raj
+Maker
+@phuongle1237353 Yes, we specialize in Instagram DM automation, offering a faster and more intuitive automation workflow.
+Upvote
+(2)
+R...
+2025-03-12 07:51:49,680 - INFO - 找到包含'Maker'的元素 234: Kiran Raj
+Maker
+@phuongle1237353 Yes, we specialize in Instagram DM automation, offering a faster and more intuitive automation workflow.
+Upvote
+(2)
+R...
+2025-03-12 07:51:49,788 - INFO - 找到包含'Maker'的元素 237: Kiran Raj
+Maker
+@phuongle1237353 Yes, we specialize in Instagram DM automation, offering a faster and more intuitive automation workflow.
+Upvote
+(2)
+R...
+2025-03-12 07:51:50,051 - INFO - 找到包含'Maker'的元素 249: Suraj Kiran
+Maker
+Hi mates,
+
+I’m incredibly excited to finally share this with you all.
+We built LinktoDM with a clear mission: make Instagram DM auto...
+2025-03-12 07:51:50,098 - INFO - 找到包含'Maker'的元素 250: Suraj Kiran
+Maker
+Hi mates,
+
+I’m incredibly excited to finally share this with you all.
+We built LinktoDM with a clear mission: make Instagram DM auto...
+2025-03-12 07:51:50,138 - INFO - 找到包含'Maker'的元素 251: Suraj Kiran
+Maker
+Hi mates,
+
+I’m incredibly excited to finally share this with you all.
+We built LinktoDM with a clear mission: make Instagram DM auto...
+2025-03-12 07:51:50,188 - INFO - 找到包含'Maker'的元素 253: Suraj Kiran
+Maker
+Hi mates,
+
+I’m incredibly excited to finally share this with you all.
+We built LinktoDM with a clear mission: make Instagram DM auto...
+2025-03-12 07:51:50,872 - INFO - 找到包含'Maker'的元素 266: Mohamed Zakarya
+BITHUB
+Launching soon!
+
+So much hard work and dedication must have gone into this! Truly inspiring. Wishing you the best! 🌟
+Upvote
+(4)...
+2025-03-12 07:51:53,567 - INFO - 找到 22 个包含'Maker'的元素
+2025-03-12 07:51:53,567 - INFO - 提取的Maker介绍: @phuongle1237353 Yes, we specialize in Instagram DM automation, offering a faster and more intuitive automation workflow.
+Upvote
+(2)
+Report
+Share
+14h ...
+2025-03-12 07:51:53,597 - INFO - 方法1：使用meta描述: Take your Instagram growth to the next level by automating comments, DMs, and story replies....
+2025-03-12 07:51:53,627 - INFO - 方法1成功获取产品图片: https://ph-files.imgix.net/361b1d8f-a5f2-428b-9103-88bb97b71a56.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1
+2025-03-12 07:51:57,298 - INFO - 尝试从JavaScript数据中提取访问链接
+2025-03-12 07:51:57,304 - INFO - 尝试模拟点击'Visit'按钮
+2025-03-12 07:51:59,779 - INFO - 方法5成功获取访问链接(新标签页): https://linktodm.com/?ref=producthunt
+2025-03-12 07:51:59,891 - INFO - 成功获取产品 LinktoDM 的信息
+2025-03-12 07:51:59,894 - INFO - 成功获取第 8 个产品的信息
+2025-03-12 07:52:02,629 - INFO - 成功获取到 8 个产品
+2025-03-12 07:52:02,634 - INFO - Markdown文件已保存到: data/2025-03-12.md
+2025-03-12 07:52:02,650 - INFO - JSON文件已保存到: data/product_2025-03-12.json
+2025-03-12 07:52:02,650 - INFO - 程序执行完成

@@ -4,6 +4,7 @@
 import json
 import os
 import logging
+import re
 from datetime import datetime
 import pytz
 from dotenv import load_dotenv
@@ -19,23 +20,41 @@ logger = logging.getLogger(__name__)
 # 加载环境变量
 load_dotenv()
 
+def clean_translation_content(content):
+    """清理翻译内容，去掉"第一次直译"和"第二次意译"的标记，只保留第二次意译的内容"""
+    if not content:
+        return content
+    
+    # 查找第二次意译的内容
+    second_translation_match = re.search(r'###\s*第二次意译\s*([\s\S]+?)(?=###|$)', content)
+    if second_translation_match:
+        # 返回第二次意译的内容，并去掉可能的前后空白
+        return second_translation_match.group(1).strip()
+    
+    # 如果没有找到第二次意译，则去掉第一次直译的标记
+    content = re.sub(r'###\s*第一次直译\s*', '', content)
+    
+    return content.strip()
+
 def generate_chinese_markdown(products, date_str):
     """生成中文版的Markdown文件"""
     logger.info("开始生成中文Markdown文件...")
     
-    markdown_content = ""
+    markdown_content = f"# ProductHunt热门应用 | {date_str}\n\n"
     
-    for product in products:
+    for i, product in enumerate(products, 1):
         # 获取产品信息
         name = product.get('name', '')
         product_hunt_url = product.get('product_hunt_url', '')
         
-        # 使用label_zh作为简介
+        # 使用label_zh作为标语
         label_zh = product.get('label_zh', product.get('label', ''))
         
-        # 使用content_zh作为详细介绍，如果没有则回退到其他字段
+        # 使用content_zh作为介绍，如果没有则回退到其他字段
         if 'content_zh' in product:
             detailed_content = product.get('content_zh', '')
+            # 清理翻译内容
+            detailed_content = clean_translation_content(detailed_content)
         else:
             # 向后兼容
             maker_introduction_zh = product.get('maker_introduction_zh', product.get('maker_introduction', ''))
@@ -53,21 +72,24 @@ def generate_chinese_markdown(products, date_str):
         visit_url = product.get('visit_url', '')
         
         # 生成Markdown内容
-        markdown_content += f"## [{name}]({product_hunt_url})\n"
-        markdown_content += f"![图标]({icon})\n"
+        markdown_content += f"## [{i}. {name}]({product_hunt_url}?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+decohack+%28ID%3A+172745%29)\n"
         markdown_content += f"**简介**：{label_zh}\n"
-        markdown_content += f"**详细介绍**：{detailed_content}\n"
-        markdown_content += f"![产品图片]({image})\n"
-        markdown_content += f"**产品描述**：{product.get('description_zh', product.get('description', ''))}\n"
-        markdown_content += f"**访问链接**: [{name}]({visit_url})\n"
-        markdown_content += f"**Product Hunt**: [在Product Hunt上查看]({product_hunt_url})\n\n"
+        markdown_content += f"**功能**：{detailed_content}\n"
+        markdown_content += f"**产品网站**: [立即访问]({visit_url}?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+decohack+%28ID%3A+172745%29)\n"
+        markdown_content += f"**Product Hunt**: [立即访问]({product_hunt_url}?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+decohack+%28ID%3A+172745%29)\n\n"
+        
+        # 添加图片
+        markdown_content += f"![]({image})"
         
         # 添加主题标签
         if topics_zh:
-            markdown_content += f"**关键词**：{', '.join(topics_zh)}\n"
+            if isinstance(topics_zh, list):
+                markdown_content += f"**关键词**：{', '.join(topics_zh)}\n"
+            else:
+                markdown_content += f"**关键词**：{topics_zh}\n"
         
         # 添加投票数
-        markdown_content += f"**票数**: {votes}\n"
+        markdown_content += f"**票数**: 🔺{votes}\n"
         
         # 添加是否精选
         markdown_content += f"**是否精选**：{'是' if is_featured else '否'}\n"
@@ -76,14 +98,14 @@ def generate_chinese_markdown(products, date_str):
         markdown_content += f"**发布时间**：{created_at}\n\n"
         
         # 添加分隔线
-        markdown_content += "---\n"
+        markdown_content += "---\n\n"
     
     # 移除最后一个分隔线
-    if markdown_content.endswith("---\n"):
-        markdown_content = markdown_content[:-4]
+    if markdown_content.endswith("---\n\n"):
+        markdown_content = markdown_content[:-5]
     
     # 保存Markdown文件
-    output_file_path = f"data/{date_str}_zh.md"
+    output_file_path = f"data/producthunt-daily-{date_str}.md"
     with open(output_file_path, 'w', encoding='utf-8') as f:
         f.write(markdown_content)
     
@@ -95,10 +117,14 @@ def main():
     try:
         logger.info("开始执行生成中文Markdown程序...")
         
-        # 检查是否有命令行参数指定日期
-        import sys
-        if len(sys.argv) > 1:
-            date_str = sys.argv[1]
+        # 解析命令行参数
+        import argparse
+        parser = argparse.ArgumentParser(description='生成中文Markdown文件')
+        parser.add_argument('--date', type=str, help='指定日期，格式为YYYY-MM-DD')
+        args = parser.parse_args()
+        
+        if args.date:
+            date_str = args.date
             logger.info(f"使用指定日期: {date_str}")
         else:
             # 获取当前日期
