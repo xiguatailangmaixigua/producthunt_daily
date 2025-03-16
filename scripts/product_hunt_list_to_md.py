@@ -721,23 +721,25 @@ class Product:
         }
 
 async def generate_markdown(products, date_str):
-    """生成Markdown格式的产品列表"""
-    if not products:
-        return
+    """生成Markdown文件"""
+    # 确保目录存在
+    data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data')
+    os.makedirs(data_dir, exist_ok=True)
     
-    # 生成markdown文件
-    markdown_content = ""
+    # 生成markdown内容
+    markdown_content = f"# Product Hunt 每日精选 {date_str}\n\n"
+    
     for product in products:
         markdown_content += product.to_markdown()
     
     # 保存markdown文件
-    output_file = f'data/{date_str}.md'
+    output_file = os.path.join(data_dir, f"{date_str}.md")
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(markdown_content)
     logger.info(f"Markdown文件已保存到: {output_file}")
     
     # 保存JSON文件
-    json_file = f'data/product_{date_str}.json'
+    json_file = os.path.join(data_dir, f"product_{date_str}.json")
     with open(json_file, 'w', encoding='utf-8') as f:
         json.dump([product.to_dict() for product in products], f, ensure_ascii=False, indent=2)
     logger.info(f"JSON文件已保存到: {json_file}")

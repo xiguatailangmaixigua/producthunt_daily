@@ -88,7 +88,7 @@ def generate_chinese_markdown(products, date_str):
         markdown_content += f"**简介**：{label_zh}\n"
         markdown_content += f"**功能**：{detailed_content}\n"
         markdown_content += f"**产品网站**: {visit_url}\n"
-        markdown_content += f"**Product Hunt**: {product_hunt_url}\n\n"
+        markdown_content += f"**ProductHunt**: {product_hunt_url}\n\n"
         
         # 添加图片
         markdown_content += f"![]({image})\n"
@@ -117,7 +117,8 @@ def generate_chinese_markdown(products, date_str):
         markdown_content = markdown_content[:-5]
     
     # 保存Markdown文件
-    output_file_path = f"data/producthunt-daily-{date_str}.md"
+    data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data')
+    output_file_path = os.path.join(data_dir, f"producthunt-daily-{date_str}.md")
     with open(output_file_path, 'w', encoding='utf-8') as f:
         f.write(markdown_content)
     
@@ -145,8 +146,12 @@ def main():
             date_str = current_time.strftime('%Y-%m-%d')
             logger.info(f"使用当前日期: {date_str}")
         
+        # 确保目录存在
+        data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data')
+        os.makedirs(data_dir, exist_ok=True)
+        
         # 读取翻译后的JSON文件
-        json_file_path = f"data/product_{date_str}_zh.json"
+        json_file_path = os.path.join(data_dir, f"product_{date_str}_zh.json")
         if not os.path.exists(json_file_path):
             logger.error(f"文件不存在: {json_file_path}")
             return

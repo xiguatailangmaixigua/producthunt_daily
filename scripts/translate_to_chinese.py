@@ -251,8 +251,12 @@ async def main():
             date_str = current_time.strftime('%Y-%m-%d')
             logger.info(f"使用当前日期: {date_str}")
         
+        # 确保目录存在
+        data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data')
+        os.makedirs(data_dir, exist_ok=True)
+        
         # 读取JSON文件
-        json_file_path = f"data/product_{date_str}.json"
+        json_file_path = os.path.join(data_dir, f"product_{date_str}.json")
         if not os.path.exists(json_file_path):
             logger.error(f"文件不存在: {json_file_path}")
             return
@@ -269,7 +273,7 @@ async def main():
             translated_products.append(translated_product)
         
         # 保存翻译后的JSON文件
-        output_file_path = f"data/product_{date_str}_zh.json"
+        output_file_path = os.path.join(data_dir, f"product_{date_str}_zh.json")
         with open(output_file_path, 'w', encoding='utf-8') as f:
             json.dump(translated_products, f, ensure_ascii=False, indent=2)
         

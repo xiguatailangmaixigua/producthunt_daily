@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Zencoder",
+    "product_hunt_url": "https://www.producthunt.com/posts/zencoder",
+    "label": "Integrated, customizable, and intuitive coding agent",
+    "maker_introduction": "📌\nI’m Andrew, the Founder of Zencoder. In my previous organization, despite having a large engineering team with hundreds of people, we could only implement a small fraction of our ideas. Imagine how much more value we would generate if we could innovate 10 times faster. We built Zencoder to help you ship better products faster. Our coding and testing agents help developers spend less time on routine and more time creating amazing things.\n\nWe support 70+ programming languages and integrate seamlessly with VS Code, JetBrains and Android Studio, offering robust support for technologies and frameworks. Our AI research team constantly benchmarks Zencoder’s AI agents to push them toward state-of-the-art performance. As of March 2025, we’re at 60%+ on SWE-Bench-Verified and ~30%+ on SWE-Bench-Multimodal(#1), delivering best-in-class coding assistance right inside your IDE.\n\nBeyond coding, we offer 20+ DevOps integrations (making us the most integrated coding agent)—including JIRA, Sentry, GitHub, and GitLab—to help you ship faster. To help you ship better, we've built a unit testing agent for maintainable, high-quality code. With our AI Agents, speed and quality can come together; you don't have to pick one. Our unique Repo Grokking technology helps Zencoder better understand large codebases, generate, test, repair, and refine code, making your workflow smoother than ever. We’d love your feedback—what do you love, what needs tweaking, and which features do you want to see next? Thanks for stopping by.\n\nDo join our community on Slack and Discord\nUpvote\n(36)\nReport\nShare\n1d ago\nMasum Parvej\n@andrewsthoughts AI that codes, tests, and integrates with my dev tools?Brilliant\nUpvote\n(14)\nReport\nShare\n15h ago\nVibor Cipan\nMaker\n@andrewsthoughts @masump Hey Masum, that's literally what we do. We have a robust technology (Agentic Pipeline) that will go through several steps. So, instead of just spitting out the first things that come to LLM's \"mind,\" we run a series of steps.\n\nWe start with code validation and testing\nOur pipeline checks generated code against your codebase, not just general syntax rules. Before generating any code, we run syntax and code correction, check imports and dependencies, and validate within your project's specifics.\n\nThen, we'll do an Automated Repair Loop.\nWhen issues are detected, agents don't give up - they initiate repair cycles. The pipeline diagnoses problems, applies fixes, and re-validates until the code meets quality thresholds - bringing you to the production-level code quality.\n\nAnd it powers all our agents through our Unified Agent Infra\nSo, essentially the same validation pipeline powers all our specialized agents. Whether generating new files, or making changes to existing ones, or making unit tests, each agent benefits from the context of your repository and continuous improvement cycles.\n\nThanks for your comment. If you are interested in joining our communities, I'd like to invite you to join our community on Slack and Discord.\n\n\n\nUpvote\n(7)\nReport\nShare\n15h ago\nDineshan\nLaunching soon!\n@andrewsthoughts @masump @vibor_cipan The deep IDE integrations, strong AI benchmarks, and Repo Grokking tech set it apart. Congrats on the launch\nUpvote\n(9)\nReport\nShare\n13h ago\nVibor Cipan\nMaker\n@andrewsthoughts @masump @dineshan_sithamparanathan Thank you — your comments are spot on! Deep IDE integrations, 60%+ SWE-Bench scores, and Repo Grokking make Zencoder a standout for developers. We’re happy with the early response and value your support.\n\nStay tuned for more at our 6 PM CET webinar! Feel free to join if you are around - we'll be demoing all these things and more: https://zencoder.ai/webinars/maximize-productivity-with-zencoder\nUpvote\n(7)\nReport\nShare\n13h ago\nPooran Prasad Rajanna\n1Page\n@andrewsthoughts Love it\nUpvote\n(6)\nReport\nShare\n12h ago\nshow more replies\nSimona O'Neill\nSounds amazing ! Congrats on the launch. 🙂 I know how useful these type of tools are for people like me, who aren’t coders. I’m using Claude at the moment, what would make me switch to your solution instead?\nUpvote\n(9)\nReport\nShare\n14h ago\nVibor Cipan\nMaker\n@simona_o_neill3 that's a fair question and I'll try to give a meaningful answer!\n\nWhile Zencoder works great even for people who are not pro engineers, people who are technical or semi-technical generally get the most out of it. That being said, for example, I don't know much about Kotlin mobile app development, but I was able to use Zencoder in Android Studio to build some mobile apps.\n\nOne of the most significant differences between us and just using one LLM is the fact that we are eliminating the entire process of copy-pasting different file versions, and you have it all in one nice and professional IDE. Even if you need to team up with pro engineers later on, they can take the code and environment over easily.\nAdditionally, we are not using just one model. In the background, we rely on a family of different models, each primed for specific tasks. We have 5-9 models and their instances running at any given moment based on different tasks.\n\nSo, while Model A can be excellent for code generation, it might be less optimal for code completion than Model B. So, we follow the \"best tool for the job\" approach and dynamically, in the background, figure out which models to use for you - so for one subscription, you are getting a bunch of models, each optimized for specific tasks.\nAlso, we have something called an agentic pipeline. So instead of just using the code that Claude spits out (and you might need to fix), we will first try running it, check for its syntax correctness, do some reviews and even self-repair it so you don't end up with the first thing that comes to LLMs' \"mind\" but code that's at or very, very close to the production level.\n\nHope this helps and gives you some context.\n\nAlso, if you are interested in joining our communities, I'd like to invite you to join our community on Slack and Discord.\nUpvote\n(10)\nReport\nShare\n14h ago\nSimona O'Neill\n@vibor_cipan wow great answer and totally makes sense now. Thank you 😉I see the price is pretty much the same too so I’ll be definitely checking it out !\nUpvote\n(3)\nReport\nShare\n12h ago\nVibor Cipan\nMaker\n@simona_o_neill3 Thanks, let me know if you have any other questions, happy to help!\nUpvote\nReport\nShare\n11h ago\nSimona O'Neill\n@vibor_cipan ok, I’m impressed. I integrated Zencoder with my VS Code and I love how I can chat to the agent directly in my dev environment, push suggested commands in one click etc. Very cool. It does require a bit more prompting in terms of getting Zencoder to amend the provided code for example . Claude automatically offers me an amended version but here I had to ask for it. And I wish there was an option to add screenshots in the chat , but overall it’s definitely a very cool product 🙂\nUpvote\n(2)\nReport\nShare\n10h ago\nVibor Cipan\nMaker\n@simona_o_neill3 At the bottom of the chat window, there is a toggle Coding Agent Beta, make sure to turn it on, and then it will generate all the diffs for you and you can easily apply them - no need to do it manually.\nUpvote\n(3)\nReport\nShare\n10h ago\nshow more replies\nTigran Karakhanyan\nsuch a crowded space, it takes real guts to step into it despite the aggressive competition.\n\ngood luck, guys! hope it works out.\nUpvote\n(16)\nReport\nShare\n15h ago\nVibor Cipan\nMaker\n@tigran_iii You are 100% right, but we've been working on this for quite some time, have good scores, and users love it. Thanks for your comment and feedback.\n\nIf you have any suggestions or feedback, feel free to share it with us. We reply to every comment and take it very seriously as we build the best possible agent and assistant for every engineer.\nUpvote\n(6)\nReport\nShare\n15h ago\nZepeng She\n🎉 Congrats Andrew @andrewsthoughts and team on the Zencoder launch! Love how deeply it integrates with IDEs and the Repo Grokking tech—game-changer for large codebases! 🔥 The 20+ DevOps integrations (JIRA + Sentry combo? 👏) and unit testing agent make \"speed + quality\" feel achievable.\nOne ask: Any plans for a CLI tool/API access? That’d make CI/CD automation chef’s kiss.\nPS: How are you prioritizing SWE-Bench improvements vs. new integrations? Rooting for you! 🚀\nUpvote\n(10)\nReport\nShare\n13h ago\nVibor Cipan\nMaker\n@andrewsthoughts @rocsheh Thanks for the congrats and support! I'm happy you love the IDE integrations and Repo Grokking — key for large codebases.\n\nThe 20+ DevOps integrations, including Jira and Sentry, plus the unit testing agent, are designed for that ‘speed + quality’ balance you are mentioning.\n\nNo CLI/API access yet, but we’re demoing MCP (Model Context Protocol) support at our 6 PM CET webinar—stay tuned: https://zencoder.ai/webinars/maximize-productivity-with-zencoder.\n\nOn SWE-Bench, it’s a very useful benchmark, but we prioritize real dev productivity and ease of use—SWE-Bench just quantifies those gains in some aspects. Appreciate you rooting for us!\nUpvote\n(6)\nReport\nShare\n13h ago\n80 more comments\nAbout this launch\nZencoder\nYour mindful AI coding agent\n5 out of 5.0\nFollow\n514\nPoints\n84\nComments\n#1\nDay Rank\n#12\nWeek Rank\nZencoder by Zencoder was hunted by Andrew Filev in Software Engineering, Developer Tools, Artificial Intelligence. Made by Archie Sharma, Andrew Filev, Vibor Cipan, David Mekerishvili and Alex Shershebnev. Featured on March 13th, 2025. Zencoder is rated 5/5 ★ by 5 users. This is Zencoder 's first launch.\nTrending launches\nBolt x Figma\nTurn Figma designs into production-ready apps in one click.\nSTORI\nAI building your inbound\nEddie AI 2.0\nThe assistant editor for people that actually create video\nBreak Me\nInteractive website to relax and clear your mind\nThe DuckDB Local UI\nEasily explore local data files with DuckDB\nWaitlist.Email\nUnlimited, unbranded email waitlists for developers\nGemma 3\nBuild with multimodal AI from Google\nHoop\nTasks from every call, no bots needed\nApertureDB Multimodal AI Workflows\nAutomate common AI tasks for multimodal data\nYadaphone\nIn-browser international calls at low rates",
+    "topics": [
+      "Software Engineering",
+      "Developer Tools",
+      "Artificial Intelligence"
+    ],
+    "votes": 514,
+    "is_featured": false,
+    "created_at": "2025-03-14 06:29:07 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/c79518eb-0b64-4e1a-aa3d-51bd2bd3ac9c.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "visit_url": "https://zencoder-community.slack.com/ssb/redirect",
+    "description": "Zencoder – AI coding assistant helping developers ship products faster. With deep contextual awareness, AI agents, and 20+ integrations, we help developers effortlessly build production ready solutions, right inside VS Code and JetBrains.",
+    "label_zh": "集成、可定制且直观的编码代理",
+    "topics_zh": [
+      "软件工程",
+      "开发者工具",
+      "人工智能"
+    ],
+    "content_zh": "Zencoder – 一款AI编程助手，帮助开发者更快地推出产品。通过深度上下文感知、AI代理和20多种集成，我们让开发者能够轻松构建生产就绪的解决方案，直接在VS Code和JetBrains中使用。"
+  },
+  {
+    "name": "Bolt x Figma",
+    "product_hunt_url": "https://www.producthunt.com/posts/bolt-x-figma",
+    "label": "Turn Figma designs into production-ready apps in one click.",
+    "maker_introduction": "@seantiffonnet Everyone gets 3 free conversions so go try it out!\nUpvote\n(2)\nReport\nShare\n7h ago",
+    "topics": [
+      "Design Tools",
+      "Productivity",
+      "Artificial Intelligence"
+    ],
+    "votes": 503,
+    "is_featured": false,
+    "created_at": "2025-03-14 06:29:34 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/8d6b2e59-9d08-47c1-a42e-a5b573bfe9f5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1",
+    "visit_url": "https://bolt.new/?ref=producthunt",
+    "description": "You can now turn any Figma design into a pixel-perfect full stack app. Simply select a frame and put bolt.new in front of the Figma URL to start building rapid prototypes and production-ready apps.",
+    "label_zh": "一键将Figma设计转化为可投产的应用。",
+    "topics_zh": [
+      "设计工具",
+      "生产力",
+      "人工智能"
+    ],
+    "content_zh": "现在，你可以将任何Figma设计转化为像素完美的全栈应用。只需选择一个框架，在Figma网址前加上bolt.new，就可以开始构建快速原型和生产就绪的应用了。"
+  },
+  {
+    "name": "STORI",
+    "product_hunt_url": "https://www.producthunt.com/posts/stori-69db606b-ca59-4790-94bb-e64f3a37c993",
+    "label": "AI building your inbound",
+    "maker_introduction": "@niko13 yes, but we want to keep human in the loop more. New updates coming later today\nUpvote\n(1)\nReport\nShare\n13h ago",
+    "topics": [
+      "Marketing",
+      "SaaS",
+      "Artificial Intelligence"
+    ],
+    "votes": 363,
+    "is_featured": false,
+    "created_at": "2025-03-14 06:29:52 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/3e4db000-98fc-4e71-b67a-0fe8d73fac88.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1",
+    "visit_url": "https://storiai.com/?ref=producthunt",
+    "description": "STORI is a content marketing platform enabling teams of any size to build inbound channels. Automated frameworks, raw data structuring and industry insights enable you to plan and execute campaigns strategically.",
+    "label_zh": "AI 构建您的引入流量",
+    "topics_zh": [
+      "市场营销",
+      "SaaS",
+      "人工智能"
+    ],
+    "content_zh": "STORI 是一个内容营销平台，帮助各种规模的团队建立吸引客户的渠道。通过自动化框架、原始数据整理和行业洞察，您可以战略性地规划和执行营销活动。"
+  },
+  {
+    "name": "Eddie AI 2.0",
+    "product_hunt_url": "https://www.producthunt.com/posts/eddie-ai-2-0",
+    "label": "The assistant editor for people that actually create video",
+    "maker_introduction": "@thisiskp_ @dineshan_sithamparanathan thank you so much!\nUpvote\n(2)\nReport\nShare\n7h ago",
+    "topics": [
+      "Productivity",
+      "Artificial Intelligence",
+      "Video"
+    ],
+    "votes": 332,
+    "is_featured": false,
+    "created_at": "2025-03-14 06:30:16 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/d6274e7c-324e-4728-817e-13c40e14492b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1",
+    "visit_url": "https://www.heyeddie.ai/?ref=producthunt",
+    "description": "Eddie is the assistant AI video editor for video pros. Create great rough cuts, log A and B rolls, and automatically edit multicams, seamlessly connected to your video editing applications like Adobe Premiere, DaVinci Resolve, and Final Cut Pro.",
+    "label_zh": "适用于真正创作视频的辅助编辑器",
+    "topics_zh": [
+      "生产力",
+      "人工智能",
+      "视频"
+    ],
+    "content_zh": "Eddie AI 2.0 是专为视频专业人士设计的智能视频编辑助手。它可以帮助你快速生成高质量的粗剪版本，整理A卷和B卷素材，并自动编辑多机位视频。此外，它还能无缝连接到你的视频编辑软件，如Adobe Premiere、DaVinci Resolve和Final Cut Pro。"
+  },
+  {
+    "name": "Break Me",
+    "product_hunt_url": "https://www.producthunt.com/posts/break-me",
+    "label": "Interactive website to relax and clear your mind",
+    "maker_introduction": "@dineshan_sithamparanathan Thanks, appreciate it!\nUpvote\nReport\nShare\n13h ago",
+    "topics": [
+      "Productivity",
+      "Funny Games",
+      "Games"
+    ],
+    "votes": 256,
+    "is_featured": false,
+    "created_at": "2025-03-14 06:31:02 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/023943dd-fcb5-4993-b321-55161c85ef0e.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "visit_url": "https://breakme.vercel.app/?ref=producthunt",
+    "description": "Break Me is a fun little time-waster that helps you relax and clears your mind. It’s super simple—just mess around and, out of nowhere, it'll hit you with something you weren’t even thinking about. It’s weirdly fun",
+    "label_zh": "互动网站，助您放松心情，清空思绪",
+    "topics_zh": [
+      "productivity",
+      "有趣的游戏",
+      "游戏"
+    ],
+    "content_zh": "Break Me 是一个有趣的小游戏，能帮你放松心情、清空思绪。玩法非常简单——随便捣鼓一下，它就会突然给你带来一些你根本没想到的东西。这种体验还挺好玩的。"
+  },
+  {
+    "name": "Waitlist.Email",
+    "product_hunt_url": "https://www.producthunt.com/posts/waitlist-email-2",
+    "label": "Unlimited, unbranded email waitlists for developers",
+    "maker_introduction": "@busmark_w_nika Just updated this now - should be much cleaner!\nUpvote\nReport\nShare\n41m ago",
+    "topics": [
+      "API",
+      "Email Marketing",
+      "Marketing"
+    ],
+    "votes": 178,
+    "is_featured": false,
+    "created_at": "2025-03-14 06:31:24 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/7512ba91-5f4e-491a-a0b8-1c52d2690370.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "visit_url": "https://www.waitlist.email/?ref=producthunt",
+    "description": "Waitlist.email is a developer-first email waitlist platform. 🚀 Launch in 5 mins – unlimited subscribers, live analytics, referral tracking, no third-party branding. 💡 Clean REST API, white-label pages + built-in referral system. Founded by @haydenbleasel",
+    "label_zh": "无限制、无品牌标识的开发者电子邮件等待列表",
+    "topics_zh": [
+      "API",
+      "电子邮件营销",
+      "营销"
+    ],
+    "content_zh": "Waitlist.Email 是一个面向开发者的电子邮件等待列表平台。只需5分钟即可启动，支持无限订阅者，提供实时分析和推荐追踪功能，没有任何第三方品牌标识。它拥有简洁的REST API、可自定义的品牌页面以及内置的推荐系统。该平台由 Hayden Bleasel 创立。"
+  },
+  {
+    "name": "The DuckDB Local UI",
+    "product_hunt_url": "https://www.producthunt.com/posts/the-duckdb-local-ui",
+    "label": "Easily explore local data files with DuckDB",
+    "maker_introduction": "📌\nDuckDB is fairly new to the modern data scene, but it has quickly become the go-to choice for developers, analysts, and data engineers who want a fast, efficient, local analytics workflow.\n\nToday, we’re proud to share a first-class UI experience for DuckDB, a project built in collaboration with DuckDB Labs to support the broader DuckDB community.\n\nThis lightweight, intuitive interface makes it easier than ever to explore data, write queries, and get instant insights, all powered by DuckDB.\n\nAfter three years of working with DuckDB, I continue to be surprised by its speed, power, and simplicity. I'm thrilled to introduce another way to make DuckDB even more accessible for everyone, from individual analysts to large data teams.\n\nWe’d love for you to take a quack at the DuckDB UI and let us know what you think.\nUpvote\n(10)\nReport\nShare\n24h ago",
+    "topics": [
+      "Developer Tools",
+      "Data & Analytics",
+      "Database"
+    ],
+    "votes": 178,
+    "is_featured": false,
+    "created_at": "2025-03-14 06:31:41 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/1e35ac56-d879-4a11-bd3e-6da461c63555.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1",
+    "visit_url": "https://duckdb.org/2025/03/12/duckdb-ui?ref=producthunt",
+    "description": "The DuckDB UI makes powerful local data analysis work for everyone with a fast, efficient user experience. You can also sign in to MotherDuck to persist files and tables to a cloud data warehouse crafted for using DuckDB at scale for analytics and sharing data",
+    "label_zh": "轻松探索本地数据文件，尽在 DuckDB",
+    "topics_zh": [
+      "开发者工具",
+      "数据与分析",
+      "数据库"
+    ],
+    "content_zh": "The DuckDB Local UI 让每个人都能轻松进行高效的数据分析，提供快速且用户友好的体验。你还可以登录 MotherDuck，将文件和表格保存到专为大规模使用 DuckDB 进行数据分析和数据共享而设计的云数据仓库中。"
+  },
+  {
+    "name": "Gemma 3",
+    "product_hunt_url": "https://www.producthunt.com/posts/gemma-3",
+    "label": "Build with multimodal AI from Google",
+    "maker_introduction": "Build with multimodal AI from Google",
+    "topics": [
+      "Open Source",
+      "Artificial Intelligence",
+      "Development"
+    ],
+    "votes": 165,
+    "is_featured": false,
+    "created_at": "2025-03-14 06:32:06 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/542b9b02-d4d1-4715-8e10-e5526a76689e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1",
+    "visit_url": "https://ai.google.dev/gemma?ref=producthunt&hl=zh-cn",
+    "description": "Gemma 3 is Google's new models for multimodal AI (text, images, video). 1B-27B sizes, 128K context, 140+ languages. Includes ShieldGemma 2 for safety.",
+    "label_zh": "构建自谷歌的多模态人工智能",
+    "topics_zh": [
+      "开源",
+      "人工智能",
+      "开发"
+    ],
+    "content_zh": "Gemma 3 是谷歌的新一代多模态 AI 模型，支持文本、图像和视频。模型大小从 10 亿到 270 亿参数不等，上下文窗口为 128K，并支持 140 多种语言。此外，它还包含了 ShieldGemma 2 来确保安全性。"
+  }
+]
