@@ -322,45 +322,45 @@ class Product:
             description = description[:497] + "..."
         return description
 
-    def to_markdown(self):
-        """转换为Markdown格式"""
-        markdown = f"## [{self.name}]({self.product_hunt_url})\n"
-        if self.icon:
-            markdown += f"![icon]({self.icon})\n"
-        markdown += f"**简介**：{self.label}\n"
-        markdown += f"**详细介绍**：{self.format_description(self.maker_introduction)}\n"
+    # def to_markdown(self):
+    #     """转换为Markdown格式"""
+    #     markdown = f"## [{self.name}]({self.product_hunt_url})\n"
+    #     if self.icon:
+    #         markdown += f"![icon]({self.icon})\n"
+    #     markdown += f"**简介**：{self.label}\n"
+    #     markdown += f"**详细介绍**：{self.format_description(self.maker_introduction)}\n"
         
-        # 添加产品图片
-        if self.image:
-            markdown += f"![产品图片]({self.image})\n"
+    #     # 添加产品图片
+    #     if self.image:
+    #         markdown += f"![产品图片]({self.image})\n"
             
-        # 添加产品描述
-        if self.description:
-            markdown += f"**产品描述**：{self.format_description(self.description)}\n"
+    #     # 添加产品描述
+    #     if self.description:
+    #         markdown += f"**产品描述**：{self.format_description(self.description)}\n"
             
-        # 添加产品链接
-        if self.visit_url:
-            markdown += f"**访问链接**: [{self.name}]({self.visit_url})\n"
+    #     # 添加产品链接
+    #     if self.visit_url:
+    #         markdown += f"**访问链接**: [{self.name}]({self.visit_url})\n"
             
-        markdown += f"**Product Hunt**: [View on Product Hunt]({self.product_hunt_url})\n\n"
+    #     markdown += f"**Product Hunt**: [View on Product Hunt]({self.product_hunt_url})\n\n"
         
-        # 改进关键词格式
-        keywords = []
-        unique_topics = list(dict.fromkeys(self.topics))
-        for topic in unique_topics:
-            # 将英文单词直接添加，不分割字符
-            if topic and topic.strip():  # 确保关键词不为空
-                keywords.append(topic.strip())
-        if keywords:
-            markdown += f"**关键词**：{'、'.join(keywords)}\n"
-        else:
-            markdown += "**关键词**：暂无\n"
+    #     # 改进关键词格式
+    #     keywords = []
+    #     unique_topics = list(dict.fromkeys(self.topics))
+    #     for topic in unique_topics:
+    #         # 将英文单词直接添加，不分割字符
+    #         if topic and topic.strip():  # 确保关键词不为空
+    #             keywords.append(topic.strip())
+    #     if keywords:
+    #         markdown += f"**关键词**：{'、'.join(keywords)}\n"
+    #     else:
+    #         markdown += "**关键词**：暂无\n"
         
-        markdown += f"**票数**: {self.votes}\n"
-        markdown += f"**是否精选**：{'是' if self.is_featured else '否'}\n"
-        markdown += f"**发布时间**：{self.created_at}\n\n"
-        markdown += "---\n"
-        return markdown
+    #     markdown += f"**票数**: {self.votes}\n"
+    #     markdown += f"**是否精选**：{'是' if self.is_featured else '否'}\n"
+    #     markdown += f"**发布时间**：{self.created_at}\n\n"
+    #     markdown += "---\n"
+    #     return markdown
 
     def to_dict(self):
         """将产品对象转换为可JSON序列化的字典"""
@@ -385,17 +385,17 @@ async def generate_markdown(products, date_str):
     data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data')
     os.makedirs(data_dir, exist_ok=True)
     
-    # 生成markdown内容
-    markdown_content = f"# Product Hunt 每日精选 {date_str}\n\n"
+    # # 生成markdown内容
+    # markdown_content = f"# Product Hunt 每日精选 {date_str}\n\n"
     
-    for product in products:
-        markdown_content += product.to_markdown()
+    # for product in products:
+    #     markdown_content += product.to_markdown()
     
-    # 保存markdown文件
-    output_file = os.path.join(data_dir, f"{date_str}.md")
-    with open(output_file, 'w', encoding='utf-8') as f:
-        f.write(markdown_content)
-    logger.info(f"Markdown文件已保存到: {output_file}")
+    # # 保存markdown文件
+    # output_file = os.path.join(data_dir, f"{date_str}.md")
+    # with open(output_file, 'w', encoding='utf-8') as f:
+    #     f.write(markdown_content)
+    # logger.info(f"Markdown文件已保存到: {output_file}")
     
     # 保存JSON文件
     json_file = os.path.join(data_dir, f"product_{date_str}.json")
@@ -425,31 +425,7 @@ async def main():
     # 初始化爬虫
     scraper = ProductHuntScraper()
     
-    # 尝试获取产品列表
-    success = False
-    
-    # 尝试使用Selenium方法
-    # try:
-    #     logger.info("尝试使用Selenium方法获取产品列表...")
-    #     success = await scraper.fetch_product_list()
-    # except Exception as e:
-    #     logger.error(f"使用Selenium获取产品列表失败: {str(e)}")
-    
-    # 如果Selenium方法失败，尝试使用RSS方法
-    # if not success:
-    #     logger.info("Selenium方法失败，尝试使用RSS方法...")
-    #     try:
-    #         success = await scraper.fetch_product_list_from_rss()
-    #     except Exception as e:
-    #         logger.error(f"使用RSS方法获取产品列表失败: {str(e)}")
-
-     # 初始化Selenium驱动
-    # if not self.driver:
-    #     self.init_selenium_driver()
-    
-    #尝试使用DrissionPage方法
-    # if not success:
-    #     logger.info("RSS方法失败，尝试使用DrissionPage方法...")
+ 
     try:
         success = await scraper.fetch_with_drission_page()
     except Exception as e:
@@ -550,8 +526,8 @@ async def main():
                                 logger.info(f"使用DrissionPage获取到产品label: {label}")
                                 
                                 # 如果成功获取到label，则将产品添加到列表中
-                                if product_id not in products:
-                                    products.append(product_id)
+                                # if product_id not in products:
+                                #     products.append(product_id)
                             
                     # 获取产品描述
                     description = ""
