@@ -1,0 +1,145 @@
+[
+  {
+    "name": "1. TalkMe",
+    "product_hunt_url": "https://www.producthunt.com/posts/talkme",
+    "label": "Personal AI Tutoring Makes Language Learning Fun & Effective",
+    "maker_introduction": "Hey Product Hunt fam! 👋🏻 I'm Lea, co-founder of TalkMe AI.\n\nYears ago, I found myself in a situation where I had studied a language for ages, but when it came time to actually talk to someone, my brain just…froze. It felt like all those hours of studying were locked behind a door I couldn't open. And I realized, it wasn't just me. So many people face this – the gap between textbook learning and real-world conversation.\n\nThat's why we built TalkMe AI. We wanted to bridge that gap, to create a space where language learning isn't just about memorizing rules, but about having real conversations.\n\nSo, what does TalkMe actually do?\n📚 Personalized Study Plan: We craft lessons based on your interests, language level and needs. Everything is made to suit you!\n⌚️ Real-Time Feedback: Our AI doesn't just talk; it listens and guides, helping you nail pronunciation and grammar.\n👩🏻 Ultra-realistic AI Avatars: TalkMe's Al tutors come from all over the world, with diverse backgrounds, personalities, and accents, and can respond according to the context.\n💬 Everyday Scenarios: From ordering coffee to pitching a business idea, we've got you covered. You can even create your own scenarios.\n👑 Track Your Wins: See your progress, review what you've learned, and compete with users in leaderboards.\n\nWe're all about making language learning adaptive, effective, flexible, and affordable.\n\n🎁 To celebrate our launch here on Product Hunt, we're offering a special deal for our new friends: Use code 【999999】 for a sweet 52% off on our annual plan.\n\nPlease support us and let's make language learning an adventure, not a chore!\n\n- Website: https://talkme.ai/\n- Instagram: talkme.ai\n- Contact Us: business@talkme.ai",
+    "topics": [
+      "Android",
+      "Languages",
+      "Artificial Intelligence"
+    ],
+    "votes": 269,
+    "is_featured": false,
+    "created_at": "2025-03-17 21:44:03 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/bba1e5e7-62c5-4c63-9cf7-642882c84bad.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1",
+    "visit_url": "https://www.talkme.ai/?ref=producthunt",
+    "description": "An AI-powered app that helps you \"Learn Easily & Speak Fluently.\" Practice with ultra-realistic AI tutors, they'll create personalized study plans and offer instant feedback to you."
+  },
+  {
+    "name": "2. Prompt Engineering Studio",
+    "product_hunt_url": "https://www.producthunt.com/posts/prompt-engineering-studio",
+    "label": "Build, test & deploy AI prompts across 1600+ models at scale",
+    "maker_introduction": "Hey Product Hunt! I’m Ayush, Co-Founder and CTO of Portkey AI\n\nWe're very excited to introduce Portkey's Prompt Engineering Studio on Product Hunt\n\nAfter seeing teams struggle with inconsistent prompt performance and scattered tooling, we built the solution prompt engineers have been waiting for.\n\nToday we're launching the world's most advanced prompt engineering toolkit at prompts.new 🚀\n\nWhy we built this: Working with AI models requires precision in prompting, but existing solutions leave teams guessing with slow, manual processes and no version control.\n\nWhat makes our Portkey’s Prompt Studio special:\n- Powerful playground with side-by-side model comparison\n- Test across 1600+ AI models instantly\n- Version control with labeled deployments\n- Collaborative prompt libraries\n- Mustache templating and reusable partials\n- A-powered prompt optimization\n- Native support for LangGraph, CrewAI and other agent frameworksI\n\nOur platform helps teams craft, optimize, and deploy AI prompts 75% faster, from experimentation to production.\nWe've put a lot care into building Portkey, and we really hope you like the product !\n\nCheck it out at prompts.new and let us know what you think!\n\nP.S. we call the IDE for Prompt Engineers",
+    "topics": [
+      "SaaS",
+      "Developer Tools",
+      "Artificial Intelligence"
+    ],
+    "votes": 191,
+    "is_featured": false,
+    "created_at": "2025-03-17 21:44:35 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/9e463941-330d-4ac0-817b-be0cc44cd1f0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1",
+    "visit_url": "https://portkey.ai/features/prompt-management?ref=producthunt",
+    "description": "Prompt engineering studio lets teams build, test, and deploy AI prompts at scale. Includes prompt playground, version control, collaborative editing, and AI gateway integration supporting 1600+ models and AI agent frameworks."
+  },
+  {
+    "name": "3. IndieMerger",
+    "product_hunt_url": "https://www.producthunt.com/posts/indiemerger-3",
+    "label": "Find your ideal co-founder in days",
+    "maker_introduction": "Hey Product Hunt community! 👋\n\nI'm excited to share the completely revamped IndieMerger with you today!\n\nAfter months of development and feedback from our 500+ startup founders, we've transformed our co-founder matching platform with:\n\n- An enhanced AI matching system that finds complementary skills and compatible personalities\n- Redesigned UX/UI for messaging and profiles\n- Expanded search filters for pinpoint accuracy in finding your ideal partner\n- New profile fields for location, achievements, and product showcase\n- Priority profile visibility options\n- A completely overhauled dashboard experience\n\nOur mission is simple: help founders find their ideal co-founder in days, not months.\n\nWe've all heard the stories of solo founders struggling to take their ideas to the next level. IndieMerger was born from my own experience - I spent 9 months looking for a technical co-founder for my previous startup before finally finding the right match, which helped us grow to $10K MRR within months.\n\nI'd love to hear your thoughts and answer any questions!\n\nAlex\nFounder, IndieMerger",
+    "topics": [
+      "Hiring",
+      "Marketing",
+      "SaaS"
+    ],
+    "votes": 186,
+    "is_featured": false,
+    "created_at": "2025-03-17 21:45:23 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/956ae895-8fbc-4350-a4a0-c79e75c6265d.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "visit_url": "https://indiemerger.com/?ref=producthunt",
+    "description": "Find your ideal co-founder in days, not months. Connect with verified tech and marketing co-founders to build your next big idea. Smart matching, secure communication, and all the tools you need to find the perfect co-founder."
+  },
+  {
+    "name": "4. People Search GPT by Redrob",
+    "product_hunt_url": "https://www.producthunt.com/posts/people-search-gpt-by-redrob",
+    "label": "ChatGPT For Finding Anyone, Anywhere",
+    "maker_introduction": "Hi @masump, Good question! Yes, early versions of that features is live now. We’re actively refining it to make it even smoother and more intuitive. Check it out—we’d love your feedback!\nUpvote\nReport\nShare\n31m ago",
+    "topics": [
+      "Hiring",
+      "Sales",
+      "Artificial Intelligence"
+    ],
+    "votes": 167,
+    "is_featured": false,
+    "created_at": "2025-03-17 21:45:49 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/1b562620-c875-428d-9fe3-b41968f856a6.webp?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1",
+    "visit_url": "https://www.redrob.io/app/auth/signup?rid=PHLaunch25&ref=producthunt",
+    "description": "Redrob is a LinkedIn alternative that skips the noise with a high-signal people search engine. Describe who you want to meet, and People Search GPT scans 700M+ profiles to find them—perfect for sales, fundraising, recruiting, and a much more."
+  },
+  {
+    "name": "5. Arcade AI",
+    "product_hunt_url": "https://www.producthunt.com/posts/arcade-ai",
+    "label": "Create demos quickly with AI",
+    "maker_introduction": "📌\nHi Product Hunt! \n\nIt's been a bit. \n\nAt Arcade, our mission is to empower teams become great storytellers. That’s why we’re thrilled to unveil a major new feature that supports this mission: automated content generation through AI! After collaboration with our early access partners, this functionality is now available to all users.\n\nFeedback from these early adopters has been overwhelmingly positive, with many reporting that it has significantly reduced time to value and streamlined their workflows.\n\n\"Avery just blew my mind, how did it know what captions to generate!?\"\n\"It saves a lot of time for creation. Very nice addition.\"\n\"It took me two minutes to do something that took me two hours with other software.\"\n\nSince quietly releasing this a few weeks ago, we’ve seen a record number of Arcades published. We’re launching this feature free of charge for all users during the initial rollout phase. Over the next month, we’ll be gathering feedback to fine-tune the experience and ensure it meets your needs. Long-term, automated hotspot generation will become a paid feature, so now is the perfect time to try it out and let us know what you think!\nUpvote\n(3)\nReport\nShare\n1d ago",
+    "topics": [
+      "Design Tools",
+      "SaaS"
+    ],
+    "votes": 154,
+    "is_featured": false,
+    "created_at": "2025-03-17 21:46:28 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/74097a8e-14f6-447a-8858-833c2d301475.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "visit_url": "https://www.arcade.software/?ref=producthunt",
+    "description": "Announcing AI-Powered Content Generation through Arcade! At Arcade, our mission is to empower teams become great storytellers. That’s why we’re thrilled to unveil a major new feature that supports this mission: automated content generation through AI!"
+  },
+  {
+    "name": "6. Gov Action List",
+    "product_hunt_url": "https://www.producthunt.com/posts/gov-action-list",
+    "label": "Track, monitor, and stay informed on Government Actions",
+    "maker_introduction": "@busmark_w_nika  Currently its just the US Federal Government, but if there's other countries you'd like to see let us know!\nUpvote\n(1)\nReport\nShare\n2h ago",
+    "topics": [
+      "News",
+      "Politics",
+      "Political news"
+    ],
+    "votes": 135,
+    "is_featured": false,
+    "created_at": "2025-03-17 21:46:50 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/d4f639b6-713f-4d12-9ad5-841ee312d0e0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=900&h=288&fit=crop&dpr=1",
+    "visit_url": "https://www.govactionlist.com/?ref=producthunt",
+    "description": "Tired of the exhausting news cycle? We built a simple site that tracks executive actions, congressional bills, and Supreme Court decisions in real-time, to answer \"what is happening?\" without the noise. Stay informed, take action."
+  },
+  {
+    "name": "7. Bread Budgeting 2.0",
+    "product_hunt_url": "https://www.producthunt.com/posts/bread-budgeting-2-0",
+    "label": "A cute budgeting app to help manage your bread",
+    "maker_introduction": "📌\nHi everyone! This is the 2.0 launch of my personal budgeting app, Bread Budgeting!\n\nI initially created this app because I had been told by so many people that they wanted to get into the habit of budgeting and planning their personal finances, but didn't want to resort to using an excel spreadsheet or some other clunky software. Hence the idea of bread budgeting was born. \n\nThe core idea is that you keep within your budget every month to earn new bread characters, and keep Brad the bread alive. Stray beyond your self-defined limits, and Brad will be toast! (literally)\n\nIn the past year, based on feedback from our amazing community, we have added a plethora of new features, including the ability to add friends and your partner to budget together. See how everyone else is doing on their goals, and flex your earned breads on your personal profile!\n\nWe have also added new visualisations and insights, such as a recurring transaction calendar, to keep track of those pesky subscriptions, and an annual dashboard view, to get an even better understanding of your own spending habits. \n\nWe hope you enjoy the app, and please let us know if you have any feedback or suggestions!\nUpvote\n(1)\nReport\nShare\n15h ago",
+    "topics": [
+      "Education",
+      "Money",
+      "Budgeting"
+    ],
+    "votes": 135,
+    "is_featured": false,
+    "created_at": "2025-03-17 21:47:08 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/6b32d7bf-018c-48eb-a59f-5c642f3193b2.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "visit_url": "https://www.breadmoney.app/?ref=producthunt",
+    "description": "Struggling to stick to your budget? Bread Budgeting turns personal finance into a fun game. Unlock new unique bread characters each month you stay in your budget, and add your partner, family and friends to see how they are doing on their monthly goals!"
+  },
+  {
+    "name": "8. BeeDone",
+    "product_hunt_url": "https://www.producthunt.com/posts/beedone-4",
+    "label": "Get hooked on achieving your goals with AI agent",
+    "maker_introduction": "@faizanjan_ yes few people ask for that for a while I move this on my top priority thank for your feedback\nUpvote\nReport\nShare\n5h ago",
+    "topics": [
+      "Productivity",
+      "Task Management",
+      "SaaS"
+    ],
+    "votes": 129,
+    "is_featured": false,
+    "created_at": "2025-03-17 21:47:37 ",
+    "icon": "https://ph-static.imgix.net/golden-kitty/2024/PHLogoDark.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=40&h=40&fit=max&frame=1",
+    "image": "https://ph-files.imgix.net/889c65a0-5188-41d4-8d48-522552af3684.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "visit_url": "https://beedone.co/?ref=producthunt",
+    "description": "Maximize focus, prioritize effortlessly, build habit, maintain routine and conquer goals your AI-powered productivity playground."
+  }
+]

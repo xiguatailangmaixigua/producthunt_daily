@@ -84,7 +84,7 @@ def generate_chinese_markdown(products, date_str):
         image = product.get('image', '')
         
         # 生成Markdown内容
-        markdown_content += f"## [{i}. {name}]({product_hunt_url})\n"
+        markdown_content += f"## {i}. {name}\n"
         markdown_content += f"**简介**：{label_zh}\n"
         markdown_content += f"**功能**：{detailed_content}\n"
         markdown_content += f"**产品网站**: {visit_url}\n"

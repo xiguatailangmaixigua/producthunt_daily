@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Claude Web Search",
+    "description": "Claude can now search the web",
+    "product_hunt_url": "https://www.producthunt.com/posts/claude-web-search",
+    "created_at": "",
+    "id": "claude-web-search",
+    "label": "Claude can now search the web",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "votes": 494,
+    "visit_url": "/categories/website-analytics",
+    "image": "https://ph-files.imgix.net/acfcab5a-f3e6-46ef-91b3-67a46599a055.jpeg"
+  },
+  {
+    "name": "Here, let me AI that for you.",
+    "description": "for that friend who's too lazy to open ChatGPT",
+    "product_hunt_url": "https://www.producthunt.com/posts/here-let-me-ai-that-for-you",
+    "created_at": "",
+    "id": "here-let-me-ai-that-for-you",
+    "label": "for that friend who's too lazy to open ChatGPT",
+    "topics": [
+      "Funny"
+    ],
+    "votes": 293,
+    "visit_url": "/categories/website-analytics",
+    "image": "https://ph-files.imgix.net/cf0d744e-4793-41d5-96ab-1dd1d8e83ed1.png"
+  },
+  {
+    "name": "Stealthly for macOS",
+    "description": "Automated privacy for macOS screen sharing",
+    "product_hunt_url": "https://www.producthunt.com/posts/stealthly-for-macos",
+    "created_at": "",
+    "id": "stealthly-for-macos",
+    "label": "Automated privacy for macOS screen sharing",
+    "topics": [
+      "Privacy",
+      "User Experience",
+      "Productivity"
+    ],
+    "votes": 250,
+    "visit_url": "/categories/website-analytics",
+    "image": "https://ph-files.imgix.net/e77eb509-4951-47a4-af90-8ffe05ebf970.png"
+  },
+  {
+    "name": "In My Pocket",
+    "description": "Your secure personal vault for everything that matters",
+    "product_hunt_url": "https://www.producthunt.com/posts/in-my-pocket",
+    "created_at": "",
+    "id": "in-my-pocket",
+    "label": "Your secure personal vault for everything that matters",
+    "topics": [
+      "iOS",
+      "Apple"
+    ],
+    "votes": 206,
+    "visit_url": "/categories/website-analytics",
+    "image": "https://ph-files.imgix.net/0ffca4e3-d199-4954-b520-9526e5bb3342.png"
+  },
+  {
+    "name": "Hunyuan-T1",
+    "description": "The first Mamba-powered ultra-large model",
+    "product_hunt_url": "https://www.producthunt.com/posts/hunyuan-t1",
+    "created_at": "",
+    "id": "hunyuan-t1",
+    "label": "The first Mamba-powered ultra-large model",
+    "topics": [
+      "Artificial Intelligence",
+      "Bots"
+    ],
+    "votes": 175,
+    "visit_url": "/categories/website-analytics",
+    "image": "https://ph-files.imgix.net/1a1eb4a2-da25-41af-a173-fe9367991887.jpeg"
+  }
+]
