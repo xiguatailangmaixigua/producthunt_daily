@@ -184,8 +184,23 @@ class ProductHuntScraper:
                 f.write(page_source)
             logger.info(f"已保存页面源代码到 {html_file}")
             
-         
-
+            # 尝试查找产品链接
+            try:
+                links = page.eles('a:has-text("/posts/")')
+                logger.info(f"使用DrissionPage找到 {len(links)} 个产品链接")
+            except Exception as e:
+                logger.warning(f"使用:has-text选择器失败: {str(e)}")
+                links = []
+            
+            # 如果找不到链接，尝试使用CSS选择器
+            if not links:
+                logger.info("尝试使用CSS选择器查找产品链接...")
+                try:
+                    links = page.eles('a[href*="/posts/"]')
+                    logger.info(f"使用CSS选择器找到 {len(links)} 个产品链接")
+                except Exception as e:
+                    logger.warning(f"使用CSS选择器失败: {str(e)}")
+                    links = []
             
             # 如果仍然找不到链接，尝试使用BeautifulSoup解析
             if not links:
@@ -1005,7 +1020,7 @@ async def main():
                 }
             
             
-            logger.info('link>>>>', link)  
+            logger.info('开始处理产品链接: %s', link)  
            
             # 尝试从链接中提取产品网站
             try:
@@ -1034,14 +1049,25 @@ async def main():
                     # 获取页面源代码
                     soup = BeautifulSoup(page.html, 'html.parser')
                     
-                    # 获取产品名称
-                    h1_elements = soup.find_all('h1')
-                    if h1_elements:
-                        product_name = h1_elements[0].text.strip()
+                    # 获取产品名称和label
+                    h1_element = soup.find('h1', class_='text-24')
+                    if h1_element:
+                        product_name = h1_element.text.strip()
                         if product_name:
                             product_data[product_id]['name'] = product_name
                             logger.info(f"使用DrissionPage获取到产品名称: {product_name}")
-                    
+                            
+                            # 查找h1的下一个兄弟元素作为label
+                            label_div = h1_element.find_next_sibling('div', class_='text-18')
+                            if label_div:
+                                label = label_div.text.strip()
+                                product_data[product_id]['label'] = label
+                                logger.info(f"使用DrissionPage获取到产品label: {label}")
+                                
+                                # 如果成功获取到label，则将产品添加到列表中
+                                if product_id not in products:
+                                    products.append(product_id)
+                            
                     # 获取产品描述
                     header_section = soup.find('section', class_='group/header-base')
                     if header_section:
@@ -1217,7 +1243,7 @@ async def main():
         # 将合并后的产品数据添加到产品列表中
         for product_id, product in product_data.items():
             # 只添加有名称的产品
-            if product['name']:
+            if product['name'] and product['label']:
                 # 查找对应的产品信息，获取图片URL
                 for i, info in scraper.product_info.items():
                     if '/posts/' in info.get('link', '') and product_id in info.get('link', ''):
