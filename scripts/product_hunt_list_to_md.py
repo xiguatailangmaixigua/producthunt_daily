@@ -1069,17 +1069,25 @@ async def main():
                                     products.append(product_id)
                             
                     # 获取产品描述
+                    description = ""
+                    
+                    # 先尝试从header_section的下一个div获取
                     header_section = soup.find('section', class_='group/header-base')
                     if header_section:
                         next_div = header_section.find_next_sibling('div')
                         if next_div:
                             description = next_div.text.strip()
-                            product_data[product_id]['description'] = description
-                        else:
-                            # 如果找不到下一个div，尝试在section内查找描述
-                            description_div = header_section.find('div', class_=re.compile(r'styles_tagline__.*'))
-                            if description_div:
-                                description = description_div.text.strip()
+                            logger.info(f"从header_section获取到description: {description}")
+                    
+                    # 如果没有获取到description，尝试从styles_htmlText类获取
+                    if not description:
+                        html_text_div = soup.find('div', class_=re.compile(r'styles_htmlText__.*'))
+                        if html_text_div:
+                            description = html_text_div.text.strip()
+                            logger.info(f"从styles_htmlText获取到description: {description}")
+                    
+                    if description:
+                        product_data[product_id]['description'] = description
                     
                     # 寻找"Visit"按钮或链接
                     visit_links = soup.find_all('a', text=re.compile(r'Visit|Website', re.IGNORECASE))
