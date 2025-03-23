@@ -218,12 +218,13 @@ class ProductHuntScraper:
                         product_description = product_links[2].text.strip() if len(product_links) > 2 else ""
                         
                         # 获取主题标签
-                        topics = []
+                        topics = set()  # 使用set来自动去重
                         topic_links = section.find_all('a', href=re.compile(r'^/topics/'))
                         for topic_link in topic_links:
                             topic = topic_link.text.strip()
                             if topic:
-                                topics.append(topic)
+                                topics.add(topic)
+                        topics = list(topics)  # 转换回列表
                         
                         # 获取投票数
                         vote_button = section.find('button', attrs={'data-test': 'vote-button'})
@@ -593,7 +594,12 @@ async def main():
                     # 寻找主题标签
                     topic_elements = soup.find_all('a', href=re.compile(r'/topics/'))
                     if topic_elements:
-                        topics = [elem.text.strip() for elem in topic_elements if elem.text.strip()]
+                        topics = set()  # 使用set来自动去重
+                        for topic_link in topic_elements:
+                            topic = topic_link.text.strip()
+                            if topic:
+                                topics.add(topic)
+                        topics = list(topics)  # 转换回列表
                         if topics:
                             product_data[product_id]['topics'] = topics
                             logger.info(f"使用DrissionPage获取到主题标签: {topics}")
@@ -685,7 +691,12 @@ async def main():
                             # 寻找主题标签
                             topic_elements = soup.find_all('a', href=re.compile(r'/topics/'))
                             if topic_elements:
-                                topics = [elem.text.strip() for elem in topic_elements if elem.text.strip()]
+                                topics = set()  # 使用set来自动去重
+                                for topic_link in topic_elements:
+                                    topic = topic_link.text.strip()
+                                    if topic:
+                                        topics.add(topic)
+                                topics = list(topics)  # 转换回列表
                                 if topics:
                                     product_data[product_id]['topics'] = topics
                                     logger.info(f"获取到主题标签: {topics}")
