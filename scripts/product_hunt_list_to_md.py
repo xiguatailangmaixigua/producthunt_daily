@@ -159,9 +159,14 @@ class ProductHuntScraper:
             # 设置页面大小
             page.set.window.size(1920, 1080)
             
-            # 访问Product Hunt主页
-            logger.info("访问Product Hunt主页...")
-            page.get('https://www.producthunt.com')
+            # 获取昨天的日期
+            yesterday = datetime.now() - timedelta(days=1)
+            # 构建URL
+            url = f'https://www.producthunt.com/leaderboard/daily/{yesterday.year}/{yesterday.month}/{yesterday.day}/all'
+            
+            # 访问昨天的产品页面
+            logger.info(f"访问昨天的Product Hunt排行榜页面: {url}")
+            page.get(url)
             
             # 等待页面加载完成
             time.sleep(random.uniform(3, 5))
@@ -185,6 +190,7 @@ class ProductHuntScraper:
             # 使用BeautifulSoup解析页面
             logger.info("尝试使用BeautifulSoup解析页面...")
             soup = BeautifulSoup(page_source, 'html.parser')
+            
             # 查找所有产品section
             product_sections = soup.find_all('section', attrs={'data-test': re.compile(r'^post-item-')})
             logger.info(f"使用BeautifulSoup找到 {len(product_sections)} 个产品section")
