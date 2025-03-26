@@ -89,11 +89,7 @@ def main():
         # {
         #     "path": os.path.join(script_dir, "generate_cover_image.py"),
         #     "description": "生成微信公众号封面图片"
-        # },
-        {
-            "path": os.path.join(script_dir, "generate_chinese_md.py"),
-            "description": "生成中文Markdown文件"
-        }
+        # }
     ]
     
     # 依次执行每个脚本

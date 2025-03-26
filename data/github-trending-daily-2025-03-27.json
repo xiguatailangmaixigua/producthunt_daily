@@ -1,0 +1,491 @@
+[
+  {
+    "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+    "language": "Python",
+    "name": "khoj-ai/khoj",
+    "stars": "27298",
+    "url": "https://github.com/khoj-ai/khoj",
+    "topics": [
+      "chat",
+      "agent",
+      "productivity",
+      "research",
+      "ai",
+      "emacs",
+      "self-hosted",
+      "assistant",
+      "image-generation",
+      "obsidian",
+      "stt",
+      "semantic-search",
+      "rag",
+      "obsidian-md",
+      "llm",
+      "chatgpt",
+      "whatsapp-ai",
+      "llamacpp",
+      "offline-llm",
+      "llama3"
+    ],
+    "readme_images": [
+      "https://camo.githubusercontent.com/6500f8db6e92ec3ec31c34cb4acf9342133ee8e310fae69ff70fa28cf0472665/68747470733a2f2f6173736574732e6b686f6a2e6465762f6b686f6a2d6c6f676f2d73696465776179732d31323030783534302e706e67",
+      "https://camo.githubusercontent.com/92379b2aabaa9c5e53eae6642fc1b4bd38e777f6b46fb726abf1dc3f4cba4355/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f313131323036353935363634373238343735363f7374796c653d706c6173746963266c6162656c3d646973636f7264",
+      "https://github.com/khoj-ai/khoj/raw/master/documentation/assets/img/quadratic_equation_khoj_web.gif?raw=true",
+      "https://github.com/khoj-ai/khoj/raw/master/documentation/assets/img/quadratic_equation_khoj_web.gif?raw=true",
+      "https://camo.githubusercontent.com/8645c6cd67bc5d865c4856c500e125b86f48bef3623dcecb1667aa49d48a62a8/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d6b686f6a2d61692f6b686f6a"
+    ],
+    "description_zh": "你的AI第二大脑。可自托管。从网络或文档中获取答案。构建自定义代理，安排自动化任务，进行深度研究。将任何在线或本地的大型语言模型转变为你的个人自主AI（gpt, claude, gemini, llama, qwen, mistral）。立即开始 - 免费。",
+    "topics_zh": [
+      "聊天",
+      "代理",
+      "生产力",
+      "研究",
+      "人工智能",
+      "Emacs",
+      "自托管",
+      "助手",
+      "图像生成",
+      "Obsidian",
+      "语音转文字",
+      "语义搜索",
+      "RAG",
+      "Obsidian-MD",
+      "大型语言模型",
+      "ChatGPT",
+      "WhatsApp-AI",
+      "LlamaCPP",
+      "离线大型语言模型",
+      "Llama3"
+    ]
+  },
+  {
+    "description": "Ingress NGINX Controller for Kubernetes",
+    "language": "Go",
+    "name": "kubernetes/ingress-nginx",
+    "stars": "18151",
+    "url": "https://github.com/kubernetes/ingress-nginx",
+    "topics": [
+      "nginx",
+      "kubernetes",
+      "ingress-controller"
+    ],
+    "readme_images": [
+      "https://camo.githubusercontent.com/9545bb24907230631dea3dc3a077c89853e97a8afaff447392f5c14e0ece75e7/68747470733a2f2f626573747072616374696365732e636f7265696e6672617374727563747572652e6f72672f70726f6a656374732f353639312f6261646765",
+      "https://camo.githubusercontent.com/9e182b4074b404138c6f6eb1d1f6609c6047e2959e5e21de9a8a335842ff5ca3/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6b756265726e657465732f696e67726573732d6e67696e782e737667",
+      "https://camo.githubusercontent.com/87ddab2ef405aee70f76af73b8184fccbe88f9f3551c178af03018ac86db8bfc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e747269627574696f6e732d77656c636f6d652d6f72616e67652e737667"
+    ],
+    "description_zh": "Kubernetes 的 Ingress NGINX 控制器",
+    "topics_zh": [
+      "nginx",
+      "Kubernetes",
+      "入口控制器"
+    ]
+  },
+  {
+    "description": "Agentic AI Framework for Java Developers",
+    "language": "Java",
+    "name": "alibaba/spring-ai-alibaba",
+    "stars": "1559",
+    "url": "https://github.com/alibaba/spring-ai-alibaba",
+    "topics": [],
+    "readme_images": [
+      "https://github.com/alibaba/spring-ai-alibaba/raw/main/docs/imgs/spring-ai-alibaba-arch.png",
+      "https://github.com/alibaba/spring-ai-alibaba/raw/main/docs/imgs/wechat-account.png"
+    ],
+    "description_zh": "面向代理的AI框架供Java开发者使用"
+  },
+  {
+    "description": "Elegant reading of real-time and hottest news",
+    "language": "TypeScript",
+    "name": "ourongxing/newsnow",
+    "stars": "5574",
+    "url": "https://github.com/ourongxing/newsnow",
+    "topics": [
+      "news",
+      "elegant"
+    ],
+    "readme_images": [
+      "https://github.com/ourongxing/newsnow/raw/main/screenshots/preview-1.png",
+      "https://github.com/ourongxing/newsnow/raw/main/screenshots/preview-2.png"
+    ],
+    "description_zh": "优雅地阅读实时和最热门的新闻",
+    "topics_zh": [
+      "新闻",
+      "优雅"
+    ]
+  },
+  {
+    "description": "For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.",
+    "language": "",
+    "name": "Cryakl/Ultimate-RAT-Collection",
+    "stars": "2019",
+    "url": "https://github.com/Cryakl/Ultimate-RAT-Collection",
+    "topics": [
+      "remote-control",
+      "backdoor",
+      "malware",
+      "hacking",
+      "blackhat",
+      "trojan",
+      "rat",
+      "malware-analysis",
+      "malware-research",
+      "malware-samples",
+      "backdoors",
+      "remote-admin-tool",
+      "malware-sample",
+      "trojan-rat",
+      "hacking-tools",
+      "trojan-malware",
+      "backdoor-attacks",
+      "malware-database",
+      "rat-builder",
+      "trojan-builder"
+    ],
+    "readme_images": [
+      "https://user-images.githubusercontent.com/128066597/264610335-49e0a590-20fd-4b0a-b8e3-05e9aa137cdc.png",
+      "https://camo.githubusercontent.com/06adf264708958f81c3403875c9a05b1250d36573b9c414b1190bb1b25ed352a/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7265706f2d73697a652f437279616b6c2f556c74696d6174652d5241542d436f6c6c656374696f6e"
+    ],
+    "description_zh": "仅供教育用途，450多个经典/现代木马生成器的详尽样本包括截图。",
+    "topics_zh": [
+      "远程控制",
+      "后门",
+      "恶意软件",
+      "黑客攻击",
+      "黑帽",
+      "木马",
+      "远程管理工具",
+      "恶意软件分析",
+      "恶意软件研究",
+      "恶意软件样本",
+      "后门程序",
+      "远程管理工具",
+      "恶意软件样本",
+      "木马-远程管理工具",
+      "黑客工具",
+      "木马-恶意软件",
+      "后门攻击",
+      "恶意软件数据库",
+      "远程管理工具生成器",
+      "木马生成器"
+    ]
+  },
+  {
+    "description": "StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.",
+    "language": "Python",
+    "name": "joanrod/star-vector",
+    "stars": "2511",
+    "url": "https://github.com/joanrod/star-vector",
+    "topics": [
+      "svg",
+      "vlm",
+      "llm",
+      "multimodal-large-language-models"
+    ],
+    "readme_images": [
+      "https://github.com/joanrod/star-vector/raw/main/assets/starvector-xyz.png",
+      "https://camo.githubusercontent.com/41519882882e67f01321e227b129d38a5b7042a8edc4dd1595240e604c322a67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61725869762d53746172566563746f722d7265643f6c6f676f3d6172786976",
+      "https://camo.githubusercontent.com/330e0fd06fc836b03f11962ff968c27ffc74e873f3222b82d0cf823fce129af3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652ff09f8c8e5f576562736974652d73746172766563746f722e6769746875622e696f2d626c75652e737667",
+      "https://camo.githubusercontent.com/d8bd8bcca6214a922a81cee3a55b500b3da5d2178ad182cda9b52049e27e0194/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2546302539462541342539372532305f4d6f64656c2d53746172566563746f722d2d31422d6666633130373f636f6c6f723d666663313037266c6f676f436f6c6f723d7768697465",
+      "https://camo.githubusercontent.com/2003e009432a0788aa17f7f0ff1d014530e11e2ec6f2040188c3e7b4481f54f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2546302539462541342539372532305f4d6f64656c2d53746172566563746f722d2d38422d6666633130373f636f6c6f723d666663313037266c6f676f436f6c6f723d7768697465",
+      "https://camo.githubusercontent.com/5e6dc38a180d34025ecb30455e7eca45bb0d84caa43acf502bfef37ca479bd4e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2546302539462541342539372532305f446174612d5356472d2d537461636b2d6666633130373f636f6c6f723d666663313037266c6f676f436f6c6f723d7768697465",
+      "https://camo.githubusercontent.com/fe9155d02395d80fca08416ab35091cbb89aa76d7bdb91ac7869dc1c15c33133/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2546302539462541342539372532305f42656e63686d61726b2d5356472d2d42656e63682d6666633130373f636f6c6f723d666663313037266c6f676f436f6c6f723d7768697465",
+      "https://github.com/joanrod/star-vector/raw/main/assets/starvector-teaser.png",
+      "https://github.com/joanrod/star-vector/raw/main/assets/starvector-arch.png"
+    ],
+    "description_zh": "StarVector 是一个用于生成SVG的基础模型，它将矢量化转换为代码生成任务。通过使用视觉-语言建模架构，StarVector 处理视觉和文本输入以生成高质量且精确度极高的SVG代码。",
+    "topics_zh": [
+      "svg",
+      "vlm",
+      "llm",
+      "多模态大型语言模型"
+    ]
+  },
+  {
+    "description": "No description, website, or topics provided.",
+    "language": "Python",
+    "name": "deepseek-ai/DeepSeek-V3",
+    "stars": "93807",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+    "topics": [],
+    "readme_images": [
+      "https://github.com/deepseek-ai/DeepSeek-V2/raw/main/figures/logo.svg?raw=true",
+      "https://camo.githubusercontent.com/00ba04aacbe45f97b5ebcc3d1b9c0f546e0ce3981265e97a110994184ef67fc8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652ff09fa496253230436861742d446565705365656b25323056332d3533366166353f636f6c6f723d353336616635266c6f676f436f6c6f723d7768697465",
+      "https://camo.githubusercontent.com/5e3115539d4583e22d65cb89eb1759e767cb9e1d70772923292fcfc80a654be4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25463025394625413425393725323048756767696e67253230466163652d446565705365656b25323041492d6666633130373f636f6c6f723d666663313037266c6f676f436f6c6f723d7768697465",
+      "https://camo.githubusercontent.com/e227481a149714ed5187e4fd0b60b9f736099c2dd2083e6c091e29f1446cbb1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d446565705365656b25323041492d3732383964613f6c6f676f3d646973636f7264266c6f676f436f6c6f723d776869746526636f6c6f723d373238396461",
+      "https://camo.githubusercontent.com/562efc618da65f0a69bc804395005b8124f5c2ed2eb73441c4e359185cc01467/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5765436861742d446565705365656b25323041492d627269676874677265656e3f6c6f676f3d776563686174266c6f676f436f6c6f723d7768697465",
+      "https://camo.githubusercontent.com/8272710ecd020c821b4f62c1c455efb89e0db4eb179c5f5f971c3c1f69452c54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d646565707365656b5f61692d77686974653f6c6f676f3d78266c6f676f436f6c6f723d7768697465",
+      "https://camo.githubusercontent.com/d8caf1d64169802e8094bcf0013f0b54d3a9547263b4e59eb43531d7d77993e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64655f4c6963656e73652d4d49542d6635646535333f26636f6c6f723d663564653533",
+      "https://camo.githubusercontent.com/edb8b566827851c52a732ee62c71e1c0231f588d5181c5925a518d98f35b4ff4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f64656c5f4c6963656e73652d4d6f64656c5f41677265656d656e742d6635646535333f26636f6c6f723d663564653533",
+      "https://github.com/deepseek-ai/DeepSeek-V3/raw/main/figures/benchmark.png",
+      "https://github.com/deepseek-ai/DeepSeek-V3/raw/main/figures/niah.png"
+    ],
+    "description_zh": "未提供描述、网站或主题。"
+  },
+  {
+    "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+    "language": "C++",
+    "name": "shadps4-emu/shadPS4",
+    "stars": "19495",
+    "url": "https://github.com/shadps4-emu/shadPS4",
+    "topics": [
+      "windows",
+      "macos",
+      "linux",
+      "emulator",
+      "cpp",
+      "vulkan",
+      "emulation",
+      "imgui",
+      "ps4",
+      "cpp20",
+      "playstation4",
+      "sdl3"
+    ],
+    "readme_images": [
+      "https://github.com/shadps4-emu/shadPS4/raw/main/.github/shadps4.png",
+      "https://camo.githubusercontent.com/966c97a8eb9101a565eb85fb42a74515c86cd90effe937a36894be6e36b4802a/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f313038303038393135373535343135353539303f636f6c6f723d353836354632266c6162656c3d7368616450533420446973636f7264266c6f676f3d446973636f7264266c6f676f436f6c6f723d7768697465",
+      "https://camo.githubusercontent.com/67e7112ecae764680b2a4a55d255ba3167256c0ad5708da6ce242254c92b93e8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f736861647073342d656d752f736861645053342f746f74616c2e737667",
+      "https://camo.githubusercontent.com/d4fa3108c1c505e41516f150ee3bfdf3c6d194e7a42b75c8f21e114d3938b4cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736861645053342d776562736974652d384132424532",
+      "https://camo.githubusercontent.com/5b6474f839993ebfdb9bf488c93ff40d4eca3537a610be16739d6a9403123cf3/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f736861647073342d656d752f73686164505334",
+      "https://github.com/shadps4-emu/shadPS4/raw/main/documents/Screenshots/1.png",
+      "https://github.com/shadps4-emu/shadPS4/raw/main/documents/Screenshots/2.png",
+      "https://github.com/shadps4-emu/shadPS4/raw/main/documents/Screenshots/3.png",
+      "https://github.com/shadps4-emu/shadPS4/raw/main/documents/Screenshots/4.png",
+      "https://camo.githubusercontent.com/4a5e6005d940d723a9cf2fe2f8de2ae96e5f2ea71e9e26cc0db3b7e600b58609/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d736861647073342d656d752f73686164505334266d61783d3135"
+    ],
+    "description_zh": "PlayStation 4 模拟器，适用于 Windows、Linux 和 macOS，用 C++ 编写",
+    "topics_zh": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "模拟器",
+      "C++",
+      "Vulkan",
+      "模拟",
+      "ImGui",
+      "PS4",
+      "C++20",
+      "PlayStation4",
+      "SDL3"
+    ]
+  },
+  {
+    "description": "This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)",
+    "language": "Python",
+    "name": "Akkudoktor-EOS/EOS",
+    "stars": "779",
+    "url": "https://github.com/Akkudoktor-EOS/EOS",
+    "topics": [],
+    "readme_images": [],
+    "description_zh": "该仓库展示了一个能源优化系统（EOS），用于优化电池、热泵和家用设备的能源分配与使用。它包括电价预测模型（计划中）、负荷预测及动态优化，以最大化能源效率并最小化成本。创始人Andreas Schmitz博士（YouTube @akkudoktor）"
+  },
+  {
+    "description": "Make websites accessible for AI agents",
+    "language": "Python",
+    "name": "browser-use/browser-use",
+    "stars": "49169",
+    "url": "https://github.com/browser-use/browser-use",
+    "topics": [
+      "python",
+      "browser-automation",
+      "ai-agents",
+      "ai-tools",
+      "llm"
+    ],
+    "readme_images": [
+      "https://github.com/browser-use/browser-use/raw/main/static/browser-use.png",
+      "https://camo.githubusercontent.com/3d2c750e6207adb7f3fe4b1ed35677bc0b7a12e67bbd3d5e6678a1de6df4c217/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f313330333734393232303834323334303431323f636f6c6f723d373238394441266c6162656c3d446973636f7264266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465",
+      "https://camo.githubusercontent.com/7f6d88507e659f89eb75356e49b3e34237a3118de06ec289f5b8614eef0db6ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f63756d656e746174696f6e2d2546302539462539332539352d626c7565",
+      "https://camo.githubusercontent.com/43ecab07dd115c164a7cddcc48ac1f2cf29fac3feb0fea9622075c0345a80083/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f477265676f723f7374796c653d736f6369616c",
+      "https://camo.githubusercontent.com/cc71749cd2ee32cde0bbd96d99c062c14ccfaed867d2d9c5766d4c955352e130/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f4d61676e75733f7374796c653d736f6369616c",
+      "https://private-user-images.githubusercontent.com/67061560/410923398-d9359085-bde6-41d4-aa4e-6520d0221872.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwMjg5NTEsIm5iZiI6MTc0MzAyODY1MSwicGF0aCI6Ii82NzA2MTU2MC80MTA5MjMzOTgtZDkzNTkwODUtYmRlNi00MWQ0LWFhNGUtNjUyMGQwMjIxODcyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI2VDIyMzczMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTllMTNhOTQyNDRkZWMxMTAyZjUzZjZlN2M4ZmE2MzZlZGE0MTMxNGRlMGQyZWFiYzVmMzYyMTA0MTFjYjIzNGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.CMuukhpjZR9MAg1EtXuAqnax6JcK5M3i5fzXHT1cNo0",
+      "https://private-user-images.githubusercontent.com/67061560/410923398-d9359085-bde6-41d4-aa4e-6520d0221872.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwMjg5NTEsIm5iZiI6MTc0MzAyODY1MSwicGF0aCI6Ii82NzA2MTU2MC80MTA5MjMzOTgtZDkzNTkwODUtYmRlNi00MWQ0LWFhNGUtNjUyMGQwMjIxODcyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI2VDIyMzczMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTllMTNhOTQyNDRkZWMxMTAyZjUzZjZlN2M4ZmE2MzZlZGE0MTMxNGRlMGQyZWFiYzVmMzYyMTA0MTFjYjIzNGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.CMuukhpjZR9MAg1EtXuAqnax6JcK5M3i5fzXHT1cNo0",
+      "https://private-user-images.githubusercontent.com/67061560/410929479-1440affc-a552-442e-b702-d0d3b277b0ae.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwMjg5NTEsIm5iZiI6MTc0MzAyODY1MSwicGF0aCI6Ii82NzA2MTU2MC80MTA5Mjk0NzktMTQ0MGFmZmMtYTU1Mi00NDJlLWI3MDItZDBkM2IyNzdiMGFlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI2VDIyMzczMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxZGJhNmVmNTliOGVkMDY4ODcwMzQ1YTFjNDcyMjQyYTFhZWJlNDhkNWExMzUyZGIxNGVjM2UwYTAwZjU0ZDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.EZogh9jOcneCkvLX_qErgpXgsM1ucyUza5ikfOzgLzQ",
+      "https://private-user-images.githubusercontent.com/67061560/410929479-1440affc-a552-442e-b702-d0d3b277b0ae.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwMjg5NTEsIm5iZiI6MTc0MzAyODY1MSwicGF0aCI6Ii82NzA2MTU2MC80MTA5Mjk0NzktMTQ0MGFmZmMtYTU1Mi00NDJlLWI3MDItZDBkM2IyNzdiMGFlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI2VDIyMzczMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxZGJhNmVmNTliOGVkMDY4ODcwMzQ1YTFjNDcyMjQyYTFhZWJlNDhkNWExMzUyZGIxNGVjM2UwYTAwZjU0ZDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.EZogh9jOcneCkvLX_qErgpXgsM1ucyUza5ikfOzgLzQ",
+      "https://private-user-images.githubusercontent.com/67061560/398959783-242ade3e-15bc-41c2-988f-cbc5415a66aa.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwMjg5NTEsIm5iZiI6MTc0MzAyODY1MSwicGF0aCI6Ii82NzA2MTU2MC8zOTg5NTk3ODMtMjQyYWRlM2UtMTViYy00MWMyLTk4OGYtY2JjNTQxNWE2NmFhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI2VDIyMzczMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUwM2VmMTU1ODE3ZDQzNGE1MzRiMDAwNWNlNTU1MGJkMTU2NTM4NDgxZGRhNjZlZTVhNTM5MjNmODM5ZDM1OTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.e-mk4VeJyi0DyNTWgThb4f-JpXkF-mRLFj_KoY3MgSU",
+      "https://private-user-images.githubusercontent.com/67061560/398959783-242ade3e-15bc-41c2-988f-cbc5415a66aa.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwMjg5NTEsIm5iZiI6MTc0MzAyODY1MSwicGF0aCI6Ii82NzA2MTU2MC8zOTg5NTk3ODMtMjQyYWRlM2UtMTViYy00MWMyLTk4OGYtY2JjNTQxNWE2NmFhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI2VDIyMzczMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUwM2VmMTU1ODE3ZDQzNGE1MzRiMDAwNWNlNTU1MGJkMTU2NTM4NDgxZGRhNjZlZTVhNTM5MjNmODM5ZDM1OTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.e-mk4VeJyi0DyNTWgThb4f-JpXkF-mRLFj_KoY3MgSU",
+      "https://private-user-images.githubusercontent.com/67061560/425692580-06fa3078-8461-4560-b434-445510c1766f.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwMjg5NTEsIm5iZiI6MTc0MzAyODY1MSwicGF0aCI6Ii82NzA2MTU2MC80MjU2OTI1ODAtMDZmYTMwNzgtODQ2MS00NTYwLWI0MzQtNDQ1NTEwYzE3NjZmLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyNlQyMjM3MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NGVjYzg0YjlmOWU3YjY1NzMwNzAwZGY1N2M2ZGU4ZTI0YTA2ZTJlMTkwNDdlMzVkNDc0ODIxZDdlYjAyZmRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.acKDHzne_wewKs1yuzAlDtftIOMo4qmM8bwuFeUDGNg",
+      "https://camo.githubusercontent.com/43ecab07dd115c164a7cddcc48ac1f2cf29fac3feb0fea9622075c0345a80083/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f477265676f723f7374796c653d736f6369616c",
+      "https://camo.githubusercontent.com/cc71749cd2ee32cde0bbd96d99c062c14ccfaed867d2d9c5766d4c955352e130/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f4d61676e75733f7374796c653d736f6369616c"
+    ],
+    "description_zh": "使网站对AI代理可访问",
+    "topics_zh": [
+      "Python",
+      "浏览器自动化",
+      "AI代理",
+      "AI工具",
+      "LLM"
+    ]
+  },
+  {
+    "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/GenAI_Agents",
+    "stars": "10116",
+    "url": "https://github.com/NirDiamant/GenAI_Agents",
+    "topics": [
+      "ai",
+      "tutorials",
+      "openai",
+      "agents",
+      "llm",
+      "llms",
+      "langchain",
+      "genai",
+      "langgraph"
+    ],
+    "readme_images": [
+      "https://camo.githubusercontent.com/7f4fa09b1856697217ac8392123d9ab7b47e4d8f8b96d82fb5ba375f7b5f0406/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d436f6e6e6563742d626c7565",
+      "https://camo.githubusercontent.com/77144d97330c42418af5c6a0db3e37f7776815dc76ce06c4dc436b5c7ee5c00c/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f4e69724469616d616e7441493f6c6162656c3d466f6c6c6f77253230404e69724469616d616e744149267374796c653d736f6369616c",
+      "https://camo.githubusercontent.com/9e829a68987b31f1ac8844d03ba67f279dbced2cc7f46d5ec42a35f7b5d5ec93/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d4a6f696e2532306f7572253230636f6d6d756e6974792d3732383964613f7374796c653d666c61742d737175617265266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465",
+      "https://github.com/NirDiamant/GenAI_Agents/raw/main/images/subscribe-button.svg",
+      "https://github.com/NirDiamant/GenAI_Agents/raw/main/images/substack_image.png",
+      "https://camo.githubusercontent.com/a0bdadd04daeec604823a67754956f7f592bdb64f5453294ba4b103afac76e64/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d4e69724469616d616e742f47656e41495f4167656e7473"
+    ],
+    "description_zh": "该仓库提供了从基础到高级的各种生成式AI代理技术的教程和实现。它作为构建智能交互式AI系统的全面指南。",
+    "topics_zh": [
+      "人工智能",
+      "教程",
+      "OpenAI",
+      "代理",
+      "大型语言模型",
+      "大型语言模型们",
+      "LangChain",
+      "生成式人工智能",
+      "LangGraph"
+    ]
+  },
+  {
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "name": "bregman-arie/devops-exercises",
+    "stars": "71710",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "topics": [
+      "python",
+      "git",
+      "linux",
+      "docker",
+      "kubernetes",
+      "aws",
+      "ansible",
+      "devops",
+      "sql",
+      "azure",
+      "containers",
+      "terraform",
+      "openstack",
+      "interview",
+      "prometheus",
+      "coding",
+      "sre",
+      "interview-questions",
+      "production-engineer"
+    ],
+    "readme_images": [
+      "https://github.com/bregman-arie/devops-exercises/raw/master/images/devops_exercises.png",
+      "https://github.com/bregman-arie/devops-exercises/raw/master/images/apps/kubeprep.png",
+      "https://github.com/bregman-arie/devops-exercises/raw/master/images/apps/linux_master.png",
+      "https://github.com/bregman-arie/devops-exercises/raw/master/images/apps/system_design_hero.png",
+      "https://github.com/bregman-arie/devops-exercises/raw/master/images/distributed/distributed_design_standby.png",
+      "https://github.com/bregman-arie/devops-exercises/raw/master/images/distributed/distributed_design_lb.png",
+      "https://github.com/bregman-arie/devops-exercises/raw/master/images/design/cdn-no-downtime.png",
+      "https://github.com/bregman-arie/devops-exercises/raw/master/images/design/producers_consumers_issue.png",
+      "https://github.com/bregman-arie/devops-exercises/raw/master/images/design/producers_consumers_fix.png",
+      "https://github.com/bregman-arie/devops-exercises/raw/master/images/design/input-process-output.png",
+      "https://github.com/bregman-arie/devops-exercises/raw/master/images/system_design_notebook.png",
+      "https://github.com/bregman-arie/devops-exercises/raw/master/images/sre_checklist.png",
+      "https://github.com/bregman-arie/devops-exercises/raw/master/images/how_they_devops.png",
+      "https://github.com/bregman-arie/devops-exercises/raw/master/images/devops_resources.png",
+      "https://github.com/bregman-arie/devops-exercises/raw/master/images/infraverse.png",
+      "https://camo.githubusercontent.com/f07d7f42f9a5b334a6b1ed882339ca35412bffbcd7263c1b272dde4c687537b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d434325323042592d2d4e432d2d4e44253230332e302d6c69676874677265792e737667"
+    ],
+    "description_zh": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, 网络, 虚拟化。DevOps 面试问题",
+    "topics_zh": [
+      "Python",
+      "Git",
+      "Linux",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Ansible",
+      "DevOps",
+      "SQL",
+      "Azure",
+      "容器",
+      "Terraform",
+      "OpenStack",
+      "面试",
+      "Prometheus",
+      "编程",
+      "SRE",
+      "面试问题",
+      "生产工程师"
+    ]
+  },
+  {
+    "description": "A private messenger for Android.",
+    "language": "Kotlin",
+    "name": "signalapp/Signal-Android",
+    "stars": "26418",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "topics": [],
+    "readme_images": [
+      "https://camo.githubusercontent.com/1c498046b5901ad8edbda2642aac002794df0c6f17aac9787f648bf776912914/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e5f62616467655f7765625f67656e657269632e706e67"
+    ],
+    "description_zh": "一款适用于Android的私人通讯应用。"
+  },
+  {
+    "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "language": "Rust",
+    "name": "juspay/hyperswitch",
+    "stars": "14249",
+    "url": "https://github.com/juspay/hyperswitch",
+    "topics": [
+      "rust",
+      "redis",
+      "open-source",
+      "finance",
+      "sdk",
+      "high-performance",
+      "postgresql",
+      "payments",
+      "orchestration",
+      "restful-api",
+      "beginner-friendly",
+      "hacktoberfest",
+      "featured",
+      "works-with-react"
+    ],
+    "readme_images": [
+      "https://github.com/juspay/hyperswitch/raw/main/docs/imgs/hyperswitch-logo-light.svg#gh-light-mode-only",
+      "https://camo.githubusercontent.com/8b6abd47e4ad91c3e841869da3503f7092e73c097f04802a41a9b8a9971d6b36/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6a75737061792f6879706572737769746368",
+      "https://camo.githubusercontent.com/b287f126d22e1a1b9bf7b1a3f3eb1130b90f25ed5b38427eb99a42f9dee8599e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666f6c6c6f772d68797065727377697463682d626c75653f6c6f676f3d6c696e6b6564696e266c6162656c436f6c6f723d67726579",
+      "https://camo.githubusercontent.com/b581f5a2ce8a74ca4335ab12530e435401a2e516eb588a43e6da857bb392d5b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666f6c6c6f772d2534306879706572737769746368696f2d77686974653f6c6f676f3d78266c6162656c436f6c6f723d67726579",
+      "https://camo.githubusercontent.com/2d81b0cb26483761830b796fa649eeae0e483da5dd5d0c6991772001a95fbb39/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d6f6e5f736c61636b2d626c75653f6c6f676f3d736c61636b266c6162656c436f6c6f723d6772657926636f6c6f723d253233336630653430",
+      "https://github.com/juspay/hyperswitch/raw/main/docs/imgs/features.png",
+      "https://github.com/juspay/hyperswitch/raw/main/docs/imgs/non-functional-features.png",
+      "https://github.com/juspay/hyperswitch/raw/main/docs/imgs/hyperswitch-architecture-v1.png",
+      "https://github.com/juspay/hyperswitch/raw/main/docs/imgs/aws_button.png?raw=true",
+      "https://camo.githubusercontent.com/75b33c4ca818a8585b3fe7bc92186ee18d392fff399e6da37011445a95733327/68747470733a2f2f636f6e7472696275746f72732d696d672e7765622e6170702f696d6167653f7265706f3d6a75737061792f6879706572737769746368"
+    ],
+    "description_zh": "一个用Rust编写的开源支付交换系统，旨在使支付快速、可靠且经济实惠",
+    "topics_zh": [
+      "Rust",
+      "Redis",
+      "开源",
+      "金融",
+      "SDK",
+      "高性能",
+      "PostgreSQL",
+      "支付",
+      "编排",
+      "RESTful API",
+      "初学者友好",
+      "Hacktoberfest",
+      "精选",
+      "与React兼容"
+    ]
+  }
+]

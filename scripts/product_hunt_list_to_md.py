@@ -23,6 +23,8 @@ import argparse
 import urllib.request
 from tenacity import retry, wait_exponential, stop_after_attempt
 import requests
+import tempfile
+import shutil
 
 # 配置日志
 logging.basicConfig(
@@ -62,7 +64,18 @@ class ProductHuntScraper:
         self.product_elements = []
         self.product_info = {}
         self.page = None  # 用于DrissionPage
-
+        self.temp_dir = None
+        
+    def __enter__(self):
+        # 创建临时目录
+        self.temp_dir = tempfile.mkdtemp()
+        return self
+        
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        # 删除临时目录及其内容
+        if self.temp_dir and os.path.exists(self.temp_dir):
+            shutil.rmtree(self.temp_dir)
+        
     def init_selenium_driver(self):
         """初始化Selenium驱动"""
         logger.info("====== WebDriver manager ======")
@@ -133,59 +146,37 @@ class ProductHuntScraper:
         self.driver = driver
         return driver
 
-    async def fetch_with_drission_page(self):
+    async def fetch_with_drission_page(self, date_str):
         """使用DrissionPage获取Product Hunt页面内容"""
-        logger.info("尝试使用DrissionPage获取Product Hunt页面内容...")
-        
-        # 检查DrissionPage是否可用
-        if 'DrissionPage' not in sys.modules:
-            logger.error("DrissionPage库未安装，无法使用此方法")
-            return False
-        
         try:
-            # 创建ChromiumPage对象
-            page = ChromiumPage()
+            logger.info(f"获取 {date_str} 的Product Hunt热门产品")
+            logger.info("尝试使用DrissionPage获取Product Hunt页面内容...")
             
-            # 设置页面加载超时时间 (根据最新API调整)
+            # 初始化DrissionPage
+            page = get_drission_page()
+            
+            # 设置页面加载超时时间
             try:
-                page.timeout = 30  # 新版本
-            except:
-                try:
-                    page.set.load_timeout(30)  # 旧版本
-                except:
-                    # 如果两种方式都不支持，则忽略超时设置
-                    logger.warning("无法设置DrissionPage的超时时间，使用默认值")
+                page.set.load_timeout(20)
+            except Exception as e:
+                logger.warning("无法设置DrissionPage的超时时间，使用默认值")
             
-            # 设置页面大小
-            page.set.window.size(1920, 1080)
-            
-            # 获取昨天的日期
-            yesterday = datetime.now() - timedelta(days=1)
-            # 构建URL
-            url = f'https://www.producthunt.com/leaderboard/daily/{yesterday.year}/{yesterday.month}/{yesterday.day}/all'
-            
-            # 访问昨天的产品页面
+            # 访问昨天的排行榜页面
+            yesterday = (datetime.strptime(date_str, '%Y-%m-%d') - timedelta(days=1)).strftime('%Y/%-m/%-d')
+            url = f'https://www.producthunt.com/leaderboard/daily/{yesterday}/all'
             logger.info(f"访问昨天的Product Hunt排行榜页面: {url}")
             page.get(url)
             
-            # 等待页面加载完成
-            time.sleep(random.uniform(3, 5))
-            
-            # 模拟人类行为：随机滚动
-            for _ in range(3):
-                # 随机滚动距离
-                scroll_distance = random.randint(300, 700)
-                page.scroll.down(scroll_distance)
-                # 随机等待
-                time.sleep(random.uniform(1, 3))
-            
-            # 保存页面源代码以便分析
+            # 获取页面源代码
             page_source = page.html
-            timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-            html_file = f"producthunt_drission_{timestamp}.html"
-            with open(html_file, "w", encoding="utf-8") as f:
+            if not page_source:
+                raise Exception("获取页面源代码失败")
+                
+            # 保存页面源代码到临时文件
+            temp_html_path = os.path.join(self.temp_dir, f'producthunt_drission_{datetime.now().strftime("%Y%m%d_%H%M%S")}.html')
+            with open(temp_html_path, 'w', encoding='utf-8') as f:
                 f.write(page_source)
-            logger.info(f"已保存页面源代码到 {html_file}")
+            logger.info(f"已保存页面源代码到 {os.path.basename(temp_html_path)}")
             
             # 使用BeautifulSoup解析页面
             logger.info("尝试使用BeautifulSoup解析页面...")
@@ -199,7 +190,7 @@ class ProductHuntScraper:
                 self.product_elements = []
                 self.product_info = {}
                 
-                for i, section in enumerate(product_sections[:15]):  # 只处理前15个
+                for i, section in enumerate(product_sections[:15]):
                     try:
                         # 获取产品链接和名称
                         product_links = section.find_all('a', href=lambda href: href and '/posts/' in href)
@@ -210,69 +201,29 @@ class ProductHuntScraper:
                         product_url = product_links[1]['href']  # 使用产品名称链接
                         if not product_url.startswith('http'):
                             product_url = 'https://www.producthunt.com' + product_url
+                            
+                        product_id = product_url.split('/')[-1]
                         
-                        # 获取产品名称
-                        product_name = product_links[1].text.strip()
-                        
-                        # 获取产品描述（第三个链接的文本）
-                        product_description = product_links[2].text.strip() if len(product_links) > 2 else ""
-                        
-                        # 获取主题标签
-                        topics = set()  # 使用set来自动去重
-                        topic_links = section.find_all('a', href=re.compile(r'^/topics/'))
-                        for topic_link in topic_links:
-                            topic = topic_link.text.strip()
-                            if topic:
-                                topics.add(topic)
-                        topics = list(topics)  # 转换回列表
-                        
-                        # 获取投票数
-                        vote_button = section.find('button', attrs={'data-test': 'vote-button'})
-                        vote_count = 0
-                        if vote_button:
-                            vote_text = vote_button.find('div', class_='text-14').text.strip()
-                            try:
-                                vote_count = int(vote_text) if vote_text != '—' else 0
-                            except ValueError:
-                                pass
-                        
-                        # 缓存元素信息
+                        # 记录产品信息
                         self.product_info[i] = {
                             'link': product_url,
-                            'text': product_name,
-                            'description': product_description,
-                            'topics': topics,
-                            'votes': vote_count,
-                            'location': {'x': 0, 'y': 0},
-                            'size': {'width': 0, 'height': 0}
+                            'id': product_id,
+                            'text': product_links[1].text.strip()
                         }
-                        logger.info(f"成功处理产品 {i+1}: {product_name}")
+                        
+                        logger.info(f"成功处理产品 {i+1}: {product_links[1].text.strip()}")
+                        
                     except Exception as e:
-                        logger.error(f"处理产品section {i} 时出错: {str(e)}")
+                        logger.warning(f"处理产品section {i} 时出错: {str(e)}")
+                        continue
                 
                 logger.info(f"成功缓存 {len(self.product_info)} 个产品元素的信息")
-                
-                # 关闭页面
-                page.quit()
-                
-                return len(self.product_info) > 0
-            
-            logger.warning("未找到产品section")
-            
-            # 关闭页面
-            page.quit()
+                return True
             
             return False
             
         except Exception as e:
             logger.error(f"使用DrissionPage获取Product Hunt页面内容时出错: {str(e)}")
-            
-            # 确保页面关闭
-            try:
-                page.quit()
-            except:
-                pass
-                
             return False
 
     def init_drission_page(self):
@@ -386,6 +337,12 @@ class Product:
             'description': self.description
         }
 
+def get_drission_page():
+    """获取DrissionPage实例"""
+    page = ChromiumPage()
+    page.set.window.size(1920, 1080)
+    return page
+
 async def generate_markdown(products, date_str):
     """生成Markdown文件"""
     # 确保目录存在
@@ -412,110 +369,61 @@ async def generate_markdown(products, date_str):
 
 async def main():
     """主函数"""
-    parser = argparse.ArgumentParser(description='获取Product Hunt每日热门产品并生成Markdown文件')
-    parser.add_argument('--date', type=str, help='指定日期，格式为YYYY-MM-DD，默认为今天')
-    args = parser.parse_args()
-
-    # 获取指定日期或今天的日期
-    if args.date:
+    # 获取当前日期
+    current_date = datetime.now().strftime('%Y-%m-%d')
+    
+    with ProductHuntScraper() as scraper:
+        # 尝试获取产品列表
         try:
-            date_obj = datetime.strptime(args.date, '%Y-%m-%d')
-            date_str = date_obj.strftime('%Y-%m-%d')
-        except ValueError:
-            logger.error("日期格式错误，请使用YYYY-MM-DD格式")
-            return
-    else:
-        date_str = datetime.now().strftime('%Y-%m-%d')
-
-    logger.info(f"获取 {date_str} 的Product Hunt热门产品")
-
-    # 初始化爬虫
-    scraper = ProductHuntScraper()
-    
- 
-    try:
-        success = await scraper.fetch_with_drission_page()
-    except Exception as e:
-        logger.error(f"使用DrissionPage方法获取产品列表失败: {str(e)}")
-    
-    # 如果所有方法都失败，退出程序
-    if not success:
-        logger.error("所有获取产品列表的方法都失败，程序退出")
-        return
-    
-    # 获取产品详细信息并生成Markdown文件
-    products = []
-    
-    # 获取产品元素数量
-    product_count = len(scraper.product_info)
-    logger.info(f"找到 {product_count} 个产品")
-    
-    # 尝试使用DrissionPage直接从产品信息构建数据
-    logger.info("尝试使用DrissionPage方法构建产品数据...")
-    try:
-        # 直接从RSS数据构建产品信息
-        product_data = {}  # 用于合并同一产品的不同部分
-        
-        for i, info in scraper.product_info.items():
-            if i >= 45:  # 只处理前45个（可能每个产品有多个条目）
-                break
-            
-            text = info.get('text', '').strip()
-            link = info.get('link', '')
-            
-            if not link:
-                continue
-            
-            # 提取产品ID
-            product_id = link.split('/posts/')[-1] if '/posts/' in link else ""
-            
-            if not product_id:
-                continue
-            
-            # 初始化产品数据
-            if product_id not in product_data:
-                product_data[product_id] = {
-                    'name': '',
-                    'description': '',
-                    'product_hunt_url': link,
-                    'created_at': info.get('published', ''),
-                    'id': product_id,
-                    'label': '',
-                    'topics': [],
-                    'votes': 0,
-                    'visit_url': '',
-                    'image': ''
-                }
-            
-            
-            logger.info('开始处理产品链接: %s', link)  
-           
-            # 尝试从链接中提取产品网站
-            try:
-                # 访问产品页面
-                logger.info(f"尝试获取产品 {product_id} 的详细信息...")
+            success = await scraper.fetch_with_drission_page(current_date)
+            if not success:
+                logger.error("使用DrissionPage获取Product Hunt页面内容失败")
+                sys.exit(1)
                 
-                # 尝试使用DrissionPage获取产品详细信息
+            # 获取产品详细信息
+            products = []
+            product_count = len(scraper.product_info)
+            logger.info(f"找到 {product_count} 个产品")
+            
+            # 尝试使用DrissionPage构建产品数据
+            logger.info("尝试使用DrissionPage方法构建产品数据...")
+            product_data = {}
+            
+            for i, info in scraper.product_info.items():
+                product_url = info.get('link')
+                product_id = info.get('id')
+                
+                if not product_url or not product_id:
+                    continue
+                    
+                # 获取产品详细信息
                 try:
-                    if not hasattr(scraper, 'page') or not scraper.page:
-                        scraper.init_drission_page()
+                    page = get_drission_page()
+                    logger.info(f"使用DrissionPage访问产品页面: {product_url}")
+                    page.get(product_url)
                     
-                    page = scraper.page
-                    page.get(link)
-                    logger.info(f"使用DrissionPage访问产品页面: {link}")
-                    
-                    # 等待页面加载
-                    time.sleep(5)  # 增加等待时间
-                    
-                    # 保存页面源代码以便调试
-                    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-                    debug_file = f"producthunt_product_{product_id}_{timestamp}.html"
-                    with open(debug_file, "w", encoding="utf-8") as f:
+                    # 保存页面源代码到临时文件
+                    temp_html_path = os.path.join(scraper.temp_dir, f'producthunt_product_{product_id}.html')
+                    with open(temp_html_path, 'w', encoding='utf-8') as f:
                         f.write(page.html)
-                    logger.info(f"已保存产品页面源代码到 {debug_file}")
+                    logger.info(f"已保存产品页面源代码到 {os.path.basename(temp_html_path)}")
                     
-                    # 获取页面源代码
+                    # 解析产品信息
                     soup = BeautifulSoup(page.html, 'html.parser')
+                    
+                    # 初始化产品数据
+                    product_data[product_id] = {
+                        'name': '',
+                        'description': '',
+                        'product_hunt_url': product_url,
+                        'created_at': '',
+                        'id': product_id,
+                        'label': '',
+                        'topics': [],
+                        'votes': 0,
+                        'visit_url': '',
+                        'image': ''
+                    }
                     
                     # 获取产品名称和label
                     h1_element = soup.find('h1', class_='text-24')
@@ -525,243 +433,76 @@ async def main():
                             product_data[product_id]['name'] = product_name
                             logger.info(f"使用DrissionPage获取到产品名称: {product_name}")
                             
-                            # 查找h1的下一个兄弟元素作为label
+                            # 获取label
                             label_div = h1_element.find_next_sibling('div', class_='text-18')
                             if label_div:
                                 label = label_div.text.strip()
                                 product_data[product_id]['label'] = label
                                 logger.info(f"使用DrissionPage获取到产品label: {label}")
-                                
-                                # 如果成功获取到label，则将产品添加到列表中
-                                # if product_id not in products:
-                                #     products.append(product_id)
-                            
+                    
                     # 获取产品描述
-                    description = ""
-                    
-                    # 先尝试从header_section的下一个div获取
-                    header_section = soup.find('section', class_='group/header-base')
-                    if header_section:
-                        next_div = header_section.find_next_sibling('div')
-                        if next_div:
-                            description = next_div.text.strip()
-                            logger.info(f"从header_section获取到description: {description}")
-                    
-                    # 如果没有获取到description，尝试从styles_htmlText类获取
-                    if not description:
-                        html_text_div = soup.find('div', class_=re.compile(r'styles_htmlText__.*'))
-                        if html_text_div:
-                            description = html_text_div.text.strip()
-                            logger.info(f"从styles_htmlText获取到description: {description}")
-                    
-                    if description:
+                    html_text_div = soup.find('div', class_=re.compile(r'styles_htmlText__.*'))
+                    if html_text_div:
+                        description = html_text_div.text.strip()
                         product_data[product_id]['description'] = description
+                        logger.info(f"从styles_htmlText获取到description: {description}")
                     
-                    # 寻找"Visit"按钮或链接
-                    visit_links = soup.find_all('a', text=re.compile(r'Visit|Website', re.IGNORECASE))
-                    if visit_links:
-                        product_data[product_id]['visit_url'] = visit_links[0].get('href', '')
-                        logger.info(f"使用DrissionPage从文本中获取到产品访问链接: {product_data[product_id]['visit_url']}")
-                    else:
-                        # 尝试查找包含"visit"或"website"的链接
-                        visit_links = soup.find_all('a', href=re.compile(r'http'))
-                        for link_elem in visit_links:
-                            link_text = link_elem.text.strip().lower()
-                            if 'visit' in link_text or 'website' in link_text:
-                                product_data[product_id]['visit_url'] = link_elem.get('href', '')
-                                logger.info(f"使用DrissionPage从文本中获取到产品访问链接: {product_data[product_id]['visit_url']}")
-                                break
+                    # 获取visit_url
+                    primary_link = soup.find('script', string=re.compile(r'"primaryLink".*?"url"'))
+                    if primary_link:
+                        url_match = re.search(r'"primaryLink".*?"url":"([^"]+)"', primary_link.string)
+                        if url_match:
+                            visit_url = url_match.group(1)
+                            product_data[product_id]['visit_url'] = visit_url
+                            logger.info(f"从primaryLink获取到visit_url: {visit_url}")
                     
-                    # 寻找产品图片image1
-                    # 获取产品图片
-                    image = ""
-                    try:
-                        # 尝试从data-test="post-header-image"的元素中获取图片URL
-                        header_image = soup.find(attrs={'data-test': 'post-header-image'})
-                        logger.info(f"header_image: {header_image}")
-                        if header_image:
-                            style = header_image.get('style', '')
-                            if style:
-                                # 使用正则表达式提取URL
-                                urls = re.findall(r'url\((https://ph-files\.imgix\.net/[^?]+)', style)
-                                if urls:
-                                    # 获取第一个URL
-                                    image = urls[0]
-                                    logger.info(f"成功获取产品图片: {image}")
-                    except Exception as e:
-                        logger.error(f"获取产品图片失败: {str(e)}")
-                    
-                    # 寻找主题标签
-                    topic_elements = soup.find_all('a', href=re.compile(r'/topics/'))
+                    # 获取主题标签
+                    topic_elements = soup.find_all('a', href=re.compile(r'^/topics/'))
                     if topic_elements:
-                        topics = set()  # 使用set来自动去重
-                        for topic_link in topic_elements:
-                            topic = topic_link.text.strip()
-                            if topic:
-                                topics.add(topic)
-                        topics = list(topics)  # 转换回列表
-                        if topics:
-                            product_data[product_id]['topics'] = topics
-                            logger.info(f"使用DrissionPage获取到主题标签: {topics}")
+                        topics = list({topic.text.strip() for topic in topic_elements if topic.text.strip()})
+                        product_data[product_id]['topics'] = topics
+                        logger.info(f"使用DrissionPage获取到主题标签: {topics}")
                     
-                    # 寻找投票数
+                    # 获取投票数
                     vote_elements = soup.find_all(attrs={"data-test": "vote-button"})
-                    if vote_elements:
+                    if vote_elements and len(vote_elements) > 0:
                         vote_text = vote_elements[0].text.strip()
-                        if "Upvote" in vote_text:
-                            votes_str = vote_text.replace("Upvote", "").strip()
-                            votes_str = votes_str.replace(",", "")
-                            if votes_str.isdigit():
-                                product_data[product_id]['votes'] = int(votes_str)
-                                logger.info(f"使用DrissionPage获取到投票数: {product_data[product_id]['votes']}")
-                    else:
-                        # 尝试查找包含数字的元素
-                        vote_elements = soup.find_all(text=re.compile(r'\d+\s*upvote', re.IGNORECASE))
-                        if vote_elements:
-                            for vote_text in vote_elements:
-                                votes_match = re.search(r'(\d+)', vote_text)
-                                if votes_match:
-                                    product_data[product_id]['votes'] = int(votes_match.group(1))
-                                    logger.info(f"使用DrissionPage从文本中获取到投票数: {product_data[product_id]['votes']}")
-                                    break
-                    # 获取产品图片和描述
-                    try:
-                        image = ""
-                        header_image = soup.find(attrs={'data-test': 'post-header-image'})
-                        logger.info(f"header_image: {header_image}")
-                        
-                        # 获取图片URL
-                        if header_image:
-                            style = header_image.get('style', '')
-                            if style:
-                                urls = re.findall(r'url\((https://ph-files\.imgix\.net/[^?]+)', style)
-                                if urls:
-                                    image = urls[0]
-                                    product_data[product_id]['image'] = image
-                                    logger.info(f"成功从style属性获取产品图片: {image}")
-                        
-                        # 如果从style属性没有找到图片，尝试从meta标签获取
-                        if not image:
-                            meta_image = soup.find('meta', property='og:image')
-                            if meta_image:
-                                image_url = meta_image.get('content', '')
-                                if image_url and 'ph-files.imgix.net' in image_url:
-                                    image = image_url.split('?')[0]
-                                    product_data[product_id]['image'] = image
-                                    logger.info(f"成功从meta标签获取产品图片: {image}")
-                        
-                        # 获取产品描述
-                        if header_image:
-                            parent_section = header_image.find_parent('section')
-                            if parent_section:
-                                # 查找紧邻的描述文本
-                                next_div = parent_section.find('div')
-                                if next_div:
-                                    description = next_div.get_text(strip=True)
-                                    if description:
-                                        product_data[product_id]['description'] = description
-                                        logger.info(f"成功获取产品描述: {description[:100]}...")
-                    except Exception as e:
-                        logger.error(f"获取产品图片和描述失败: {str(e)}")
-                except Exception as e:
-                    logger.warning(f"使用DrissionPage获取产品 {product_id} 的详细信息失败: {str(e)}")
+                        votes_str = re.search(r'\d+', vote_text)
+                        if votes_str:
+                            product_data[product_id]['votes'] = int(votes_str.group())
+                            logger.info(f"使用DrissionPage获取到投票数: {product_data[product_id]['votes']}")
                     
-                    # 如果DrissionPage失败，尝试使用requests
-                    try:
-                        response = requests.get(link, headers=HEADERS, timeout=10)
-                        if response.status_code == 200:
-                            soup = BeautifulSoup(response.text, 'html.parser')
-                            
-                            # 寻找"Visit"按钮或链接
-                            visit_links = soup.find_all('a', text=re.compile(r'Visit|Website', re.IGNORECASE))
-                            if visit_links:
-                                product_data[product_id]['visit_url'] = visit_links[0].get('href', '')
-                                logger.info(f"获取到产品访问链接: {product_data[product_id]['visit_url']}")
-                            else:
-                                # 尝试查找包含"visit"或"website"的链接
-                                visit_links = soup.find_all('a', href=re.compile(r'http'))
-                                for link_elem in visit_links:
-                                    link_text = link_elem.text.strip().lower()
-                                    if 'visit' in link_text or 'website' in link_text:
-                                        product_data[product_id]['visit_url'] = link_elem.get('href', '')
-                                        logger.info(f"从文本中获取到产品访问链接: {product_data[product_id]['visit_url']}")
-                                        break
-        
-                            
-                            # 寻找主题标签
-                            topic_elements = soup.find_all('a', href=re.compile(r'/topics/'))
-                            if topic_elements:
-                                topics = set()  # 使用set来自动去重
-                                for topic_link in topic_elements:
-                                    topic = topic_link.text.strip()
-                                    if topic:
-                                        topics.add(topic)
-                                topics = list(topics)  # 转换回列表
-                                if topics:
-                                    product_data[product_id]['topics'] = topics
-                                    logger.info(f"获取到主题标签: {topics}")
-                            
-                            # 寻找投票数
-                            vote_elements = soup.find_all(attrs={"data-test": "vote-button"})
-                            if vote_elements:
-                                vote_text = vote_elements[0].text.strip()
-                                if "Upvote" in vote_text:
-                                    votes_str = vote_text.replace("Upvote", "").strip()
-                                    votes_str = votes_str.replace(",", "")
-                                    if votes_str.isdigit():
-                                        product_data[product_id]['votes'] = int(votes_str)
-                                        logger.info(f"获取到投票数: {product_data[product_id]['votes']}")
-                            else:
-                                # 尝试查找包含数字的元素
-                                vote_elements = soup.find_all(text=re.compile(r'\d+\s*upvote', re.IGNORECASE))
-                                if vote_elements:
-                                    for vote_text in vote_elements:
-                                        votes_match = re.search(r'(\d+)', vote_text)
-                                        if votes_match:
-                                            product_data[product_id]['votes'] = int(votes_match.group(1))
-                                            logger.info(f"从文本中获取到投票数: {product_data[product_id]['votes']}")
-                                            break
-                    except Exception as e:
-                        logger.warning(f"获取产品 {product_id} 的额外信息时出错: {str(e)}")
-            except Exception as e:
-                logger.warning(f"处理链接 {i} 时出错: {str(e)}")
-        
-        # 将合并后的产品数据添加到产品列表中
-        for product_id, product in product_data.items():
-            # 只添加有名称的产品
-            if product['name'] and product['label']:
-                # 查找对应的产品信息，获取图片URL
-                for i, info in scraper.product_info.items():
-                    if '/posts/' in info.get('link', '') and product_id in info.get('link', ''):
-                        # 使用在fetch_product_list中获取的图片URL
-                        if 'image' in info and info['image']:
-                            product['image'] = info['image']
-                            logger.info(f"使用列表点击方式获取的图片URL: {product['image']}")
-                            break
-                
-                products.append(product)
-                logger.info(f"使用备用方法添加产品: {product['name']}")
-    except Exception as e:
-        logger.error(f"使用备用方法构建产品数据失败: {str(e)}")
-    
-    # 如果仍然没有获取到任何产品，退出程序
-    if not products:
-        logger.error("无法获取任何产品信息，程序退出")
-        return
-    
-    # 保存产品信息到JSON文件
-    output_file = f'data/product_{date_str}.json'
-    os.makedirs(os.path.dirname(output_file), exist_ok=True)
-    
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(products, f, ensure_ascii=False, indent=2)
-    
-    logger.info(f"成功保存 {len(products)} 个产品信息到 {output_file}")
-    
-    # 关闭Selenium驱动
-    if hasattr(scraper, 'driver') and scraper.driver:
-        scraper.driver.quit()
-        logger.info("已关闭Selenium驱动")
+                    # 获取产品图片
+                    meta_image = soup.find('meta', property='og:image')
+                    if meta_image:
+                        image_url = meta_image.get('content', '')
+                        if image_url and 'ph-files.imgix.net' in image_url:
+                            image = image_url.split('?')[0]
+                            product_data[product_id]['image'] = image
+                            logger.info(f"成功从meta标签获取产品图片: {image}")
+                    
+                except Exception as e:
+                    logger.warning(f"获取产品 {product_id} 详细信息失败: {str(e)}")
+                    continue
+            
+            # 将产品数据添加到列表
+            for product_id, product in product_data.items():
+                if product['name'] and product['label']:
+                    products.append(product)
+                    logger.info(f"使用备用方法添加产品: {product['name']}")
+            
+            # 保存产品信息到JSON文件
+            output_file = f'data/product_{current_date}.json'
+            os.makedirs(os.path.dirname(output_file), exist_ok=True)
+            
+            with open(output_file, 'w', encoding='utf-8') as f:
+                json.dump(products, f, ensure_ascii=False, indent=2)
+            
+            logger.info(f"成功保存 {len(products)} 个产品信息到 {output_file}")
+            
+        except Exception as e:
+            logger.error(f"获取产品信息失败: {str(e)}")
+            sys.exit(1)
 
 if __name__ == "__main__":
     import asyncio

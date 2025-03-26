@@ -103,14 +103,11 @@ def generate_chinese_markdown(products, date_str):
         # 添加投票数
         markdown_content += f"**票数**: 🔺{votes}\n"
         
-        # 添加是否精选
-        markdown_content += f"**是否精选**：{'是' if is_featured else '否'}\n"
-        
-        # 添加发布时间
-        markdown_content += f"**发布时间**：{created_at}\n\n"
+        # # 添加是否精选
+        # markdown_content += f"**是否精选**：{'是' if is_featured else '否'}\n"
         
         # 添加分隔线
-        markdown_content += "---\n\n"
+        markdown_content += "\n---\n\n"
     
     # 移除最后一个分隔线
     if markdown_content.endswith("---\n\n"):

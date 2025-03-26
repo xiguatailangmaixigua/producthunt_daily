@@ -1,0 +1,235 @@
+[
+  {
+    "name": "Pulse for Elasticsearch and OpenSearch",
+    "description": "Pulse makes it easy to control the cost and performance of your Elasticsearch & OpenSearch clusters. Get comprehensive cluster health assessments, actionable maintenance insights, automated root cause analysis and more.",
+    "product_hunt_url": "https://www.producthunt.com/posts/pulse-for-elasticsearch-and-opensearch",
+    "created_at": "",
+    "id": "pulse-for-elasticsearch-and-opensearch",
+    "label": "Search Cluster Monitoring & Maintenance, Redefined",
+    "topics": [
+      "Search",
+      "Analytics",
+      "Developer Tools"
+    ],
+    "votes": 447,
+    "visit_url": "https://pulse.support",
+    "image": "https://ph-files.imgix.net/2fc42146-ae29-4a9c-bc97-f1afa20c78b8.png"
+  },
+  {
+    "name": "Effie",
+    "description": "Effie is your writing companion to unleash your creativity. With a simple interface, 1000+ inspirational prompts, and AI-powered templates, Effie helps you get into flow state effortlessly. Cross-device syncing keeps your ideas with you, even offline.",
+    "product_hunt_url": "https://www.producthunt.com/posts/effie-4",
+    "created_at": "",
+    "id": "effie-4",
+    "label": "Effortless Writing, Endless Inspiration",
+    "topics": [
+      "Writing",
+      "Artificial Intelligence",
+      "Productivity"
+    ],
+    "votes": 404,
+    "visit_url": "https://www.effie.pro/",
+    "image": "https://ph-files.imgix.net/ef24a499-7f7e-4f14-862e-5198e1f3c1f2.png"
+  },
+  {
+    "name": "Zopdev",
+    "description": "Zopdev is a pre-engineered DevOps platform to manage all your cloud accounts in a unified platform. It automates cloud infra management by optimising resource allocation, preventing downtime, streamlining deployments, and enabling seamless scaling across CSPs",
+    "product_hunt_url": "https://www.producthunt.com/posts/zopdev",
+    "created_at": "",
+    "id": "zopdev",
+    "label": "Production Ready & Compliant Infra in 30 Minutes",
+    "topics": [
+      "Tech",
+      "Developer Tools",
+      "SaaS"
+    ],
+    "votes": 97,
+    "visit_url": "https://zop.dev",
+    "image": "https://ph-files.imgix.net/6d808798-a0e0-42cb-84d9-8395d12e2586.jpeg"
+  },
+  {
+    "name": "Solver",
+    "description": "Solver is an autonomous coding agent that completes software tasks on its own. Give it work, walk away, and return to finished code ready for review. It operates directly in your git repositories, handling everything from bug fixes to new features.",
+    "product_hunt_url": "https://www.producthunt.com/posts/solver-2",
+    "created_at": "",
+    "id": "solver-2",
+    "label": "Offload coding tasks to AI while you tackle bigger problems",
+    "topics": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Developer Tools"
+    ],
+    "votes": 336,
+    "visit_url": "https://solverai.com",
+    "image": "https://ph-files.imgix.net/1d32665b-8920-4119-8352-7cae099ce9a1.png"
+  },
+  {
+    "name": "Needle Knowledge Threader",
+    "description": "Your work apps united. Needle brings together all your tools in one smart chat, helping you find info, share data, and get things done faster. No more app-hopping, just seamless work across everything you use. Leverage Needle with Zapier, n8n, and Langflow.",
+    "product_hunt_url": "https://www.producthunt.com/posts/needle-knowledge-threader",
+    "created_at": "",
+    "id": "needle-knowledge-threader",
+    "label": "The Cursor for Tools and Knowledge",
+    "topics": [
+      "Artificial Intelligence",
+      "Productivity",
+      "SaaS"
+    ],
+    "votes": 305,
+    "visit_url": "https://needle-ai.com",
+    "image": "https://ph-files.imgix.net/99fd9e13-54fa-45ca-b1ad-014724c06b8b.jpeg"
+  },
+  {
+    "name": "Tiptap AI Suggestion",
+    "description": "Easily integrate secure, customizable AI-driven suggestions into your Tiptap editor. Define custom rules globally or per document and integrate your own AI models. Flexible enough for proofreading, compliance, brand voice, style guides, and more.",
+    "product_hunt_url": "https://www.producthunt.com/posts/tiptap-ai-suggestion",
+    "created_at": "",
+    "id": "tiptap-ai-suggestion",
+    "label": "Customizable AI suggestions for your app’s text editor",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS"
+    ],
+    "votes": 245,
+    "visit_url": "https://tiptap.dev/product/content-ai",
+    "image": "https://ph-files.imgix.net/d3ffddf6-0c9e-4607-84e4-37f37132b2ca.jpeg"
+  },
+  {
+    "name": "RiseON",
+    "description": "RiseON is an Multi Agent AI all-in-one platform packed with tools to elevate your career.\nYour ultimate companion to assist in every step of your career. Build an Interactive Resume Website and experience mock interviews, job boards, career guidance and more.",
+    "product_hunt_url": "https://www.producthunt.com/posts/riseon-2",
+    "created_at": "",
+    "id": "riseon-2",
+    "label": "Your Career Companion",
+    "topics": [
+      "Career",
+      "Artificial Intelligence",
+      "SaaS"
+    ],
+    "votes": 73,
+    "visit_url": "https://riseon.happypeopleai.com/signup",
+    "image": "https://ph-files.imgix.net/2e1b4e26-fa06-4af7-94cf-6b28d6e060f8.png"
+  },
+  {
+    "name": "FLORA ©",
+    "description": "Every creative AI tool, thoughtfully connected.",
+    "product_hunt_url": "https://www.producthunt.com/posts/flora-2",
+    "created_at": "",
+    "id": "flora-2",
+    "label": "Your Intelligent Canvas.",
+    "topics": [
+      "Design Tools",
+      "Artificial Intelligence"
+    ],
+    "votes": 217,
+    "visit_url": "https://florafauna.ai",
+    "image": "https://ph-files.imgix.net/c58a40f0-a57f-44b6-87d5-acdc9e2dc1b4.jpeg"
+  },
+  {
+    "name": "Kommunicate",
+    "description": "Instantly train and connect your inbox with Kommunicate AI to start resolving repetitive email queries. Use AI to assign, escalate, and deflect tickets, allowing you to focus on complex queries that require human understanding and empathy.",
+    "product_hunt_url": "https://www.producthunt.com/posts/kommunicate-c4db71b6-28bf-4b4d-8e8d-a723c676fcc7",
+    "created_at": "",
+    "id": "kommunicate-c4db71b6-28bf-4b4d-8e8d-a723c676fcc7",
+    "label": "Resolve incoming email queries effortlessly with AI",
+    "topics": [
+      "Artificial Intelligence",
+      "Email"
+    ],
+    "votes": 210,
+    "visit_url": "https://www.kommunicate.io/product/ai-email-ticketing/",
+    "image": "https://ph-files.imgix.net/a2b5f3d0-8caf-4b68-978a-c09eed707ccc.png"
+  },
+  {
+    "name": "The Analysis tool in Claude.ai",
+    "description": "Claude.ai's analysis tool runs JavaScript for data analysis, processing CSV files for accurate, actionable insights, helping teams in marketing, sales, product, and finance optimize decisions and performance.",
+    "product_hunt_url": "https://www.producthunt.com/posts/the-analysis-tool-in-claude-ai",
+    "created_at": "",
+    "id": "the-analysis-tool-in-claude-ai",
+    "label": "Analyzing and visualizing data from CSV files",
+    "topics": [
+      "Business Intelligence",
+      "Artificial Intelligence",
+      "Analytics"
+    ],
+    "votes": 206,
+    "visit_url": "https://www.anthropic.com/news/analysis-tool",
+    "image": "https://ph-files.imgix.net/81d25330-1842-4039-87ae-c6ac8e8883b3.png"
+  },
+  {
+    "name": "Gemini 2.5",
+    "description": "Introducing Gemini 2.5, our most intelligent AI model. \nOur first release, an experimental version of 2.5 Pro, unlocks state-of-the-art performance in math and science. 🔥",
+    "product_hunt_url": "https://www.producthunt.com/posts/gemini-2-5",
+    "created_at": "",
+    "id": "gemini-2-5",
+    "label": "Google's most intelligent AI model",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "votes": 174,
+    "visit_url": "https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/",
+    "image": "https://ph-files.imgix.net/ab0255b2-3e9a-4072-957a-0da993b2ecff.png"
+  },
+  {
+    "name": "DJ with Apple Music",
+    "description": "DJ with Apple Music brings your Apple Music library to DJ platforms Alpha Theta, Serato, Denon DJ, Numark, Rane DJ, and Algoriddim's djay Pro so you can mix and sculpt your sets directly from Apple Music, before you perform.",
+    "product_hunt_url": "https://www.producthunt.com/posts/dj-with-apple-music",
+    "created_at": "",
+    "id": "dj-with-apple-music",
+    "label": "Build and mix DJ sets from a library of over 100M songs",
+    "topics": [
+      "Music",
+      "DJing"
+    ],
+    "votes": 170,
+    "visit_url": "https://apple.co/DJwAM_",
+    "image": "https://ph-files.imgix.net/1c53c5df-f91a-4aef-90ad-737b3e158017.png"
+  },
+  {
+    "name": "Open Agent Kit",
+    "description": "OAK is the open-source platform for building, customizing, and deploying AI agents—fast. Connect to any LLM, extend functionality with powerful plugins, and embed AI seamlessly into your workflows. Scalable, flexible, and built for developers by developers.",
+    "product_hunt_url": "https://www.producthunt.com/posts/open-agent-kit",
+    "created_at": "",
+    "id": "open-agent-kit",
+    "label": "Build, customize, deploy – AI Agents your way with OAK",
+    "topics": [
+      "Open Source",
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "votes": 166,
+    "visit_url": "https://open-agent-kit.com",
+    "image": "https://ph-files.imgix.net/7713d249-6ae4-4d78-9227-9fcc1d0a2a31.png"
+  },
+  {
+    "name": "OpenAI 4o Image Generation",
+    "description": "Unlocking useful and valuable image generation with a natively multimodal model capable of precise, accurate, photorealistic outputs.",
+    "product_hunt_url": "https://www.producthunt.com/posts/openai-4o-image-generation",
+    "created_at": "",
+    "id": "openai-4o-image-generation",
+    "label": "OpenAI most advanced image generator yet",
+    "topics": [
+      "Design Tools"
+    ],
+    "votes": 151,
+    "visit_url": "https://openai.com/index/introducing-4o-image-generation/",
+    "image": "https://ph-files.imgix.net/2080aa91-9a86-47f5-b621-855102339361.jpeg"
+  },
+  {
+    "name": "Cooler",
+    "description": "Podcasts are great, but they are even better together! Cooler is making podcasting fun, social, and interactive— with comments, reactions, leaderboards, streaks and shareable clips of your favorite moments.",
+    "product_hunt_url": "https://www.producthunt.com/posts/cooler-3a58df29-f601-4e7f-9056-fefa0882a49f",
+    "created_at": "",
+    "id": "cooler-3a58df29-f601-4e7f-9056-fefa0882a49f",
+    "label": "Podcasts are better together",
+    "topics": [
+      "Community",
+      "Entertainment",
+      "Social Media"
+    ],
+    "votes": 143,
+    "visit_url": "https://www.cooler.fm",
+    "image": "https://ph-files.imgix.net/24357d0e-72ec-4c53-ba73-49b162cc6b77.png"
+  }
+]

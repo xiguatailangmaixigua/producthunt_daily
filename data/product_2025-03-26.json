@@ -1,0 +1,241 @@
+[
+  {
+    "name": "IP Portal",
+    "description": "Take control over your IP. The IP Portal allows you to protect and license your ideas — art, music, likeness, and more — by dictating how your IP is used across the internet and in AI training. Unleash seamless monetization for your IP on your own terms.",
+    "product_hunt_url": "https://www.producthunt.com/posts/ip-portal",
+    "created_at": "",
+    "id": "ip-portal",
+    "label": "Protect, license, and monetize your IP on your own terms",
+    "topics": [
+      "Artificial Intelligence",
+      "Legal",
+      "Monetization"
+    ],
+    "votes": 150,
+    "visit_url": "https://portal.story.foundation/",
+    "image": "https://ph-files.imgix.net/d47fadf8-51c9-452b-a385-c811a0ddb1d6.png"
+  },
+  {
+    "name": "Inferless",
+    "description": "Deploy any machine learning model in production stress-free with ultra-low cold starts. Scale from single user to billions and only pay when you use.",
+    "product_hunt_url": "https://www.producthunt.com/posts/inferless",
+    "created_at": "",
+    "id": "inferless",
+    "label": "Deploy any machine learning models in minutes.",
+    "topics": [
+      "Artificial Intelligence",
+      "Software Engineering",
+      "Developer Tools"
+    ],
+    "votes": 630,
+    "visit_url": "https://www.inferless.com/",
+    "image": "https://ph-files.imgix.net/7b2f6d44-2e50-4266-9b71-5a1f4f99f3fd.png"
+  },
+  {
+    "name": "ツSupercut",
+    "description": "ツSupercut is beautiful, simple and fast. Just record your screen, share instantly and look professional...with a little help from AI.",
+    "product_hunt_url": "https://www.producthunt.com/posts/supercut",
+    "created_at": "",
+    "id": "supercut",
+    "label": "Record your screen, share instantly, look like a PRO",
+    "topics": [
+      "Sales",
+      "User Experience",
+      "Productivity"
+    ],
+    "votes": 602,
+    "visit_url": "https://supercut.video",
+    "image": "https://ph-files.imgix.net/d35369eb-4bd9-446f-aca2-a9806176c058.png"
+  },
+  {
+    "name": "Zapier MCP",
+    "description": "Zapier MCP gives your AI assistant direct access to over 8,000+ apps and 30,000+ actions without complex API integrations. Now your AI can perform real tasks like sending messages, managing data, scheduling events, and updating records.",
+    "product_hunt_url": "https://www.producthunt.com/posts/zapier-mcp",
+    "created_at": "",
+    "id": "zapier-mcp",
+    "label": "Connect your AI to any app with Zapier MCP",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Productivity"
+    ],
+    "votes": 472,
+    "visit_url": "https://zapier.com/mcp",
+    "image": "https://ph-files.imgix.net/5f5dae53-54ab-4711-84fd-b3a9abd1843f.svg"
+  },
+  {
+    "name": "AI Voices by Asyncflow v1.0",
+    "description": "Podcastle's AI Voices hub is the World's largest library of lifelike AI Voices, powered by our proprietary AI model called Asyncflow v1.0. Choose from 1000+ voices and turn text to speech in a matter of seconds.",
+    "product_hunt_url": "https://www.producthunt.com/posts/ai-voices-by-asyncflow-v1-0",
+    "created_at": "",
+    "id": "ai-voices-by-asyncflow-v1-0",
+    "label": "Premium AI voice quality without the premium price tag.",
+    "topics": [
+      "Marketing",
+      "Artificial Intelligence",
+      "Audio"
+    ],
+    "votes": 426,
+    "visit_url": "https://podcastle.ai/ai-voices",
+    "image": "https://ph-files.imgix.net/b4ffd294-4007-4368-888e-ff1e05f8ba13.png"
+  },
+  {
+    "name": "OTTO GOOGLE ADS",
+    "description": "Launch high-converting campaigns in minutes—not days. OTTO automates setup, bidding, targeting & A/B testing, eliminating manual PPC work. Link your site, review AI-optimized drafts, and launch smarter ads with better results. Set your Google Ads to OTTO.",
+    "product_hunt_url": "https://www.producthunt.com/posts/otto-google-ads",
+    "created_at": "",
+    "id": "otto-google-ads",
+    "label": "AI Google Ads – Launch Winning Campaigns & Make Money",
+    "topics": [
+      "Marketing",
+      "Analytics",
+      "Advertising"
+    ],
+    "votes": 112,
+    "visit_url": "https://searchatlas.com/otto-google-ads/",
+    "image": "https://ph-files.imgix.net/3dd4488e-ed26-432d-903a-7d3e3c320ff3.png"
+  },
+  {
+    "name": "Jotform Boards",
+    "description": "Unlike other task management solutions, Jotform Boards empowers you to resolve customer requests by syncing the forms, AI agents, documents, and workflows you’ve created to your board.",
+    "product_hunt_url": "https://www.producthunt.com/posts/jotform-boards",
+    "created_at": "",
+    "id": "jotform-boards",
+    "label": "Generate kanban tasks from AI agent conversations and more",
+    "topics": [
+      "Task Management",
+      "SaaS",
+      "Productivity"
+    ],
+    "votes": 336,
+    "visit_url": "https://www.jotform.com/products/boards/",
+    "image": "https://ph-files.imgix.net/74085de9-e472-45f2-88b0-360d4e498957.png"
+  },
+  {
+    "name": "mcpt",
+    "description": "mcpt by Mintlify is a managed registry for Model Context Protocol (MCP) servers, which act as bridges between AI applications and external tools or data sources. Find and explore reliable, up-to-date MCP servers.",
+    "product_hunt_url": "https://www.producthunt.com/posts/mcpt",
+    "created_at": "",
+    "id": "mcpt",
+    "label": "Managed registry for MCP servers",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS"
+    ],
+    "votes": 266,
+    "visit_url": "https://mintlify.link/mcptPH",
+    "image": "https://ph-files.imgix.net/6fa1bb8c-43b0-4175-b3ef-734821069de2.png"
+  },
+  {
+    "name": "Meilisearch AI",
+    "description": "🚀 Meilisearch is a superfast search engine for developers built in Rust. Our latest release introduces AI-powered semantic and hybrid search, blending full-text, semantic, and vector DB capabilities for smarter, faster results.",
+    "product_hunt_url": "https://www.producthunt.com/posts/meilisearch-ai",
+    "created_at": "",
+    "id": "meilisearch-ai",
+    "label": "Boost relevance and UX with fast hybrid and semantic search",
+    "topics": [
+      "Artificial Intelligence",
+      "GitHub",
+      "User Experience"
+    ],
+    "votes": 257,
+    "visit_url": "https://www.meilisearch.com/launch-week",
+    "image": "https://ph-files.imgix.net/b636b105-360c-464a-8676-eae3f0cd9de2.png"
+  },
+  {
+    "name": "DeepSeek-V3-0324",
+    "description": "DeepSeek-V3-0324 is the significant, open-source (MIT) update to DeepSeek's V3 model. It improves coding abilities nearing Claude 3.7 Sonnet, plus reasoning improvements.",
+    "product_hunt_url": "https://www.producthunt.com/posts/deepseek-v3-0324",
+    "created_at": "",
+    "id": "deepseek-v3-0324",
+    "label": "Code like 3.7 but open source",
+    "topics": [
+      "Artificial Intelligence",
+      "Open Source"
+    ],
+    "votes": 241,
+    "visit_url": "https://huggingface.co/deepseek-ai/DeepSeek-V3-0324/tree/main",
+    "image": "https://ph-files.imgix.net/e424a13b-c8f4-4649-936d-c45ff92945b8.jpeg"
+  },
+  {
+    "name": "new.email by Resend",
+    "description": "new.⁠email is for developers, marketers, designers, and anyone who wants to create beautiful emails using natural language.\n\nStart by creating a template and refine it until it looks great and then test how your emails look in real life.",
+    "product_hunt_url": "https://www.producthunt.com/posts/new-email-by-resend",
+    "created_at": "",
+    "id": "new-email-by-resend",
+    "label": "Build cross-platform emails using natural language.",
+    "topics": [
+      "Marketing",
+      "Artificial Intelligence",
+      "Email"
+    ],
+    "votes": 216,
+    "visit_url": "https://new.email/",
+    "image": "https://ph-files.imgix.net/e8a0231a-4229-46b5-a18b-c1c0c8f4324b.png"
+  },
+  {
+    "name": "Break Me 2.0",
+    "description": "Break Me is a fun little time-waster that helps you relax and clears your mind. It’s super simple—just mess around and, out of nowhere, it'll hit you with something you weren’t even thinking about. It’s weirdly addictive.",
+    "product_hunt_url": "https://www.producthunt.com/posts/break-me-2-0",
+    "created_at": "",
+    "id": "break-me-2-0",
+    "label": "Interactive website to relax and clear your mind.",
+    "topics": [
+      "Artificial Intelligence",
+      "Funny Games",
+      "Productivity"
+    ],
+    "votes": 175,
+    "visit_url": "https://breakme.now",
+    "image": "https://ph-files.imgix.net/bc365baa-0239-445f-a222-bee054b86ffa.png"
+  },
+  {
+    "name": "ChurnDog",
+    "description": "Built for B2B SaaS, ChurnDog recovers lost revenue and prevents churn with automated workflows and real-time insights.",
+    "product_hunt_url": "https://www.producthunt.com/posts/churndog",
+    "created_at": "",
+    "id": "churndog",
+    "label": "Recover lost revenue & keep more customers",
+    "topics": [
+      "Analytics",
+      "CRM",
+      "SaaS"
+    ],
+    "votes": 158,
+    "visit_url": "https://churndog.com",
+    "image": "https://ph-files.imgix.net/a0c1c0bf-3d09-4583-a675-f82056c64d48.png"
+  },
+  {
+    "name": "MailSnitch",
+    "description": "Trust is good. Tagging is better.\nAutomatically tag your email using Plus Addressing or Catch-All method. No manual effort – everything’s saved to history so you can see who’s behind unwanted spam (if you receive it to that tagged mail).",
+    "product_hunt_url": "https://www.producthunt.com/posts/mailsnitch",
+    "created_at": "",
+    "id": "mailsnitch",
+    "label": "Tag your emails to see who’s selling it",
+    "topics": [
+      "Chrome Extensions",
+      "Internet of Things",
+      "Email"
+    ],
+    "votes": 157,
+    "visit_url": "https://chromewebstore.google.com/detail/lnonilgnahbkenpmceglndiejapdemkj?utm_source=item-share-cb",
+    "image": "https://ph-files.imgix.net/7cf31fed-0853-490b-80a1-5936f54bc6c5.jpeg"
+  },
+  {
+    "name": "Indie Boosting",
+    "description": "We Distribute Your Products So You Can Focus On Building!\nEver heard of \"Vibe Distributing\"?\nJust get your products listed and let our AI agents handle the rest.\nHave your clones handle marketing, sales and support while you focus on the core product.",
+    "product_hunt_url": "https://www.producthunt.com/posts/indie-boosting",
+    "created_at": "",
+    "id": "indie-boosting",
+    "label": "The first distribution network for solo founders",
+    "topics": [
+      "Marketing",
+      "Sales",
+      "SaaS"
+    ],
+    "votes": 55,
+    "visit_url": "https://www.indieboosting.com",
+    "image": "https://ph-files.imgix.net/562cf907-fa4f-4152-897b-cdd503f22ff5.png"
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Pulse for Elasticsearch and OpenSearch",
+    "description": "Pulse makes it easy to control the cost and performance of your Elasticsearch & OpenSearch clusters. Get comprehensive cluster health assessments, actionable maintenance insights, automated root cause analysis and more.",
+    "product_hunt_url": "https://www.producthunt.com/posts/pulse-for-elasticsearch-and-opensearch",
+    "created_at": "",
+    "id": "pulse-for-elasticsearch-and-opensearch",
+    "label": "Search Cluster Monitoring & Maintenance, Redefined",
+    "topics": [
+      "Search",
+      "Analytics",
+      "Developer Tools"
+    ],
+    "votes": 447,
+    "visit_url": "https://pulse.support",
+    "image": "https://ph-files.imgix.net/2fc42146-ae29-4a9c-bc97-f1afa20c78b8.png",
+    "label_zh": "搜索集群监控与维护，重新定义",
+    "topics_zh": [
+      "搜索、分析、开发者工具"
+    ],
+    "content_zh": "Pulse 让你轻松控制 Elasticsearch 和 OpenSearch 集群的成本和性能。它提供全面的集群健康评估、实用的维护建议、自动化的根本原因分析等功能。"
+  },
+  {
+    "name": "Effie",
+    "description": "Effie is your writing companion to unleash your creativity. With a simple interface, 1000+ inspirational prompts, and AI-powered templates, Effie helps you get into flow state effortlessly. Cross-device syncing keeps your ideas with you, even offline.",
+    "product_hunt_url": "https://www.producthunt.com/posts/effie-4",
+    "created_at": "",
+    "id": "effie-4",
+    "label": "Effortless Writing, Endless Inspiration",
+    "topics": [
+      "Writing",
+      "Artificial Intelligence",
+      "Productivity"
+    ],
+    "votes": 404,
+    "visit_url": "https://www.effie.pro/",
+    "image": "https://ph-files.imgix.net/ef24a499-7f7e-4f14-862e-5198e1f3c1f2.png",
+    "label_zh": "轻松书写，灵感无限",
+    "topics_zh": [
+      "写作",
+      "人工智能",
+      "生产力"
+    ],
+    "content_zh": "Effie 是你的写作伙伴，帮助你释放创造力。它拥有简洁的界面、1000多个启发性提示和由AI驱动的模板，让你轻松进入心流状态。跨设备同步功能确保你的想法始终随身携带，即使在离线状态下也能访问。"
+  },
+  {
+    "name": "Zopdev",
+    "description": "Zopdev is a pre-engineered DevOps platform to manage all your cloud accounts in a unified platform. It automates cloud infra management by optimising resource allocation, preventing downtime, streamlining deployments, and enabling seamless scaling across CSPs",
+    "product_hunt_url": "https://www.producthunt.com/posts/zopdev",
+    "created_at": "",
+    "id": "zopdev",
+    "label": "Production Ready & Compliant Infra in 30 Minutes",
+    "topics": [
+      "Tech",
+      "Developer Tools",
+      "SaaS"
+    ],
+    "votes": 97,
+    "visit_url": "https://zop.dev",
+    "image": "https://ph-files.imgix.net/6d808798-a0e0-42cb-84d9-8395d12e2586.jpeg",
+    "label_zh": "直译：\n生产就绪且合规的基础设施，30分钟内完成\n\n意译：\n30分钟内搭建好生产就绪且合规的基础设施",
+    "topics_zh": [
+      "技术",
+      "开发者工具",
+      "SaaS"
+    ],
+    "content_zh": "Zopdev 是一个预先设计好的 DevOps 平台，可以在统一平台上管理所有的云账户。它通过优化资源分配、防止停机、简化部署和实现跨云服务提供商的无缝扩展，来自动化云基础设施管理。"
+  },
+  {
+    "name": "Solver",
+    "description": "Solver is an autonomous coding agent that completes software tasks on its own. Give it work, walk away, and return to finished code ready for review. It operates directly in your git repositories, handling everything from bug fixes to new features.",
+    "product_hunt_url": "https://www.producthunt.com/posts/solver-2",
+    "created_at": "",
+    "id": "solver-2",
+    "label": "Offload coding tasks to AI while you tackle bigger problems",
+    "topics": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Developer Tools"
+    ],
+    "votes": 336,
+    "visit_url": "https://solverai.com",
+    "image": "https://ph-files.imgix.net/1d32665b-8920-4119-8352-7cae099ce9a1.png",
+    "label_zh": "将编码任务交给AI，让您专注于解决更大的问题。",
+    "topics_zh": [
+      "人工智能",
+      "生产力",
+      "开发者工具"
+    ],
+    "content_zh": "Solver 是一个自主编程代理，可以独立完成软件任务。你只需要分配任务，然后就可以离开，回来时代码已经完成，可以直接进行审查。它直接在你的 Git 仓库中操作，处理从修复 bug 到开发新功能的所有事情。"
+  },
+  {
+    "name": "Needle Knowledge Threader",
+    "description": "Your work apps united. Needle brings together all your tools in one smart chat, helping you find info, share data, and get things done faster. No more app-hopping, just seamless work across everything you use. Leverage Needle with Zapier, n8n, and Langflow.",
+    "product_hunt_url": "https://www.producthunt.com/posts/needle-knowledge-threader",
+    "created_at": "",
+    "id": "needle-knowledge-threader",
+    "label": "The Cursor for Tools and Knowledge",
+    "topics": [
+      "Artificial Intelligence",
+      "Productivity",
+      "SaaS"
+    ],
+    "votes": 305,
+    "visit_url": "https://needle-ai.com",
+    "image": "https://ph-files.imgix.net/99fd9e13-54fa-45ca-b1ad-014724c06b8b.jpeg",
+    "label_zh": "工具和知识的光标",
+    "topics_zh": [
+      "人工智能",
+      "生产力",
+      "SaaS（软件即服务）"
+    ],
+    "content_zh": "你的工作应用统一管理。Needle Knowledge Threader 将你所有的工具整合到一个智能聊天界面中，帮助你快速找到信息、共享数据并提高工作效率。无需在多个应用之间切换，只需在一个界面中无缝操作你常用的工具。你可以通过Zapier、n8n和Langflow来使用Needle。"
+  },
+  {
+    "name": "Tiptap AI Suggestion",
+    "description": "Easily integrate secure, customizable AI-driven suggestions into your Tiptap editor. Define custom rules globally or per document and integrate your own AI models. Flexible enough for proofreading, compliance, brand voice, style guides, and more.",
+    "product_hunt_url": "https://www.producthunt.com/posts/tiptap-ai-suggestion",
+    "created_at": "",
+    "id": "tiptap-ai-suggestion",
+    "label": "Customizable AI suggestions for your app’s text editor",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS"
+    ],
+    "votes": 245,
+    "visit_url": "https://tiptap.dev/product/content-ai",
+    "image": "https://ph-files.imgix.net/d3ffddf6-0c9e-4607-84e4-37f37132b2ca.jpeg",
+    "label_zh": "可定制的AI建议，适用于您的应用程序文本编辑器",
+    "topics_zh": [
+      "人工智能",
+      "开发者工具",
+      "SaaS"
+    ],
+    "content_zh": "轻松将安全且可自定义的AI驱动建议集成到Tiptap编辑器中。您可以全局或针对每个文档定义自定义规则，并集成自己的AI模型。无论是校对、合规性检查、品牌语调、风格指南等，都足够灵活应对。"
+  },
+  {
+    "name": "RiseON",
+    "description": "RiseON is an Multi Agent AI all-in-one platform packed with tools to elevate your career.\nYour ultimate companion to assist in every step of your career. Build an Interactive Resume Website and experience mock interviews, job boards, career guidance and more.",
+    "product_hunt_url": "https://www.producthunt.com/posts/riseon-2",
+    "created_at": "",
+    "id": "riseon-2",
+    "label": "Your Career Companion",
+    "topics": [
+      "Career",
+      "Artificial Intelligence",
+      "SaaS"
+    ],
+    "votes": 73,
+    "visit_url": "https://riseon.happypeopleai.com/signup",
+    "image": "https://ph-files.imgix.net/2e1b4e26-fa06-4af7-94cf-6b28d6e060f8.png",
+    "label_zh": "您的职业伴侣",
+    "topics_zh": [
+      "职业",
+      "人工智能",
+      "SaaS（软件即服务）"
+    ],
+    "content_zh": "RiseON 是一个集多种工具于一身的多智能体 AI 平台，旨在助力你的职业发展。它是你在职业生涯中的终极助手，可以帮你创建互动简历网站、进行模拟面试、浏览招聘信息、获取职业指导等。"
+  },
+  {
+    "name": "FLORA ©",
+    "description": "Every creative AI tool, thoughtfully connected.",
+    "product_hunt_url": "https://www.producthunt.com/posts/flora-2",
+    "created_at": "",
+    "id": "flora-2",
+    "label": "Your Intelligent Canvas.",
+    "topics": [
+      "Design Tools",
+      "Artificial Intelligence"
+    ],
+    "votes": 217,
+    "visit_url": "https://florafauna.ai",
+    "image": "https://ph-files.imgix.net/c58a40f0-a57f-44b6-87d5-acdc9e2dc1b4.jpeg",
+    "label_zh": "您的智能画布。",
+    "topics_zh": [
+      "设计工具",
+      "人工智能"
+    ],
+    "content_zh": "每一个创意AI工具，都巧妙地连接在一起。"
+  },
+  {
+    "name": "Kommunicate",
+    "description": "Instantly train and connect your inbox with Kommunicate AI to start resolving repetitive email queries. Use AI to assign, escalate, and deflect tickets, allowing you to focus on complex queries that require human understanding and empathy.",
+    "product_hunt_url": "https://www.producthunt.com/posts/kommunicate-c4db71b6-28bf-4b4d-8e8d-a723c676fcc7",
+    "created_at": "",
+    "id": "kommunicate-c4db71b6-28bf-4b4d-8e8d-a723c676fcc7",
+    "label": "Resolve incoming email queries effortlessly with AI",
+    "topics": [
+      "Artificial Intelligence",
+      "Email"
+    ],
+    "votes": 210,
+    "visit_url": "https://www.kommunicate.io/product/ai-email-ticketing/",
+    "image": "https://ph-files.imgix.net/a2b5f3d0-8caf-4b68-978a-c09eed707ccc.png",
+    "label_zh": "利用AI轻松解决收到的电子邮件查询问题",
+    "topics_zh": [
+      "人工智能",
+      "电子邮件"
+    ],
+    "content_zh": "立即使用Kommunicate AI训练并连接你的收件箱，开始处理重复的电子邮件查询。利用AI来分配、升级和转交工单，让你可以专注于需要人类理解和同理心的复杂问题。"
+  },
+  {
+    "name": "The Analysis tool in Claude.ai",
+    "description": "Claude.ai's analysis tool runs JavaScript for data analysis, processing CSV files for accurate, actionable insights, helping teams in marketing, sales, product, and finance optimize decisions and performance.",
+    "product_hunt_url": "https://www.producthunt.com/posts/the-analysis-tool-in-claude-ai",
+    "created_at": "",
+    "id": "the-analysis-tool-in-claude-ai",
+    "label": "Analyzing and visualizing data from CSV files",
+    "topics": [
+      "Business Intelligence",
+      "Artificial Intelligence",
+      "Analytics"
+    ],
+    "votes": 206,
+    "visit_url": "https://www.anthropic.com/news/analysis-tool",
+    "image": "https://ph-files.imgix.net/81d25330-1842-4039-87ae-c6ac8e8883b3.png",
+    "label_zh": "分析和可视化CSV文件中的数据",
+    "topics_zh": [
+      "商业智能",
+      "人工智能",
+      "分析"
+    ],
+    "content_zh": "Claude.ai 的分析工具可以运行 JavaScript 进行数据分析，处理 CSV 文件以提供准确且可操作的见解，帮助市场营销、销售、产品和财务团队优化决策和表现。"
+  },
+  {
+    "name": "Gemini 2.5",
+    "description": "Introducing Gemini 2.5, our most intelligent AI model. \nOur first release, an experimental version of 2.5 Pro, unlocks state-of-the-art performance in math and science. 🔥",
+    "product_hunt_url": "https://www.producthunt.com/posts/gemini-2-5",
+    "created_at": "",
+    "id": "gemini-2-5",
+    "label": "Google's most intelligent AI model",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "votes": 174,
+    "visit_url": "https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/",
+    "image": "https://ph-files.imgix.net/ab0255b2-3e9a-4072-957a-0da993b2ecff.png",
+    "label_zh": "谷歌最智能的AI模型",
+    "topics_zh": [
+      "人工智能"
+    ],
+    "content_zh": "介绍Gemini 2.5，这是我们最智能的AI模型。\n首次发布的2.5 Pro实验版在数学和科学领域达到了顶尖性能。"
+  },
+  {
+    "name": "DJ with Apple Music",
+    "description": "DJ with Apple Music brings your Apple Music library to DJ platforms Alpha Theta, Serato, Denon DJ, Numark, Rane DJ, and Algoriddim's djay Pro so you can mix and sculpt your sets directly from Apple Music, before you perform.",
+    "product_hunt_url": "https://www.producthunt.com/posts/dj-with-apple-music",
+    "created_at": "",
+    "id": "dj-with-apple-music",
+    "label": "Build and mix DJ sets from a library of over 100M songs",
+    "topics": [
+      "Music",
+      "DJing"
+    ],
+    "votes": 170,
+    "visit_url": "https://apple.co/DJwAM_",
+    "image": "https://ph-files.imgix.net/1c53c5df-f91a-4aef-90ad-737b3e158017.png",
+    "label_zh": "从超过1亿首歌曲的曲库中构建和混音DJ歌单",
+    "topics_zh": [
+      "音乐，DJ打碟"
+    ],
+    "content_zh": "DJ with Apple Music 可以将你的 Apple Music 曲库带到 DJ 平台 Alpha Theta、Serato、Denon DJ、Numark、Rane DJ 和 Algoriddim 的 djay Pro 上，让你可以直接从 Apple Music 中混音和编辑你的曲目，方便你在表演前做好准备。"
+  },
+  {
+    "name": "Open Agent Kit",
+    "description": "OAK is the open-source platform for building, customizing, and deploying AI agents—fast. Connect to any LLM, extend functionality with powerful plugins, and embed AI seamlessly into your workflows. Scalable, flexible, and built for developers by developers.",
+    "product_hunt_url": "https://www.producthunt.com/posts/open-agent-kit",
+    "created_at": "",
+    "id": "open-agent-kit",
+    "label": "Build, customize, deploy – AI Agents your way with OAK",
+    "topics": [
+      "Open Source",
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "votes": 166,
+    "visit_url": "https://open-agent-kit.com",
+    "image": "https://ph-files.imgix.net/7713d249-6ae4-4d78-9227-9fcc1d0a2a31.png",
+    "label_zh": "构建、定制、部署 – 用 OAK 打造您的 AI 代理",
+    "topics_zh": [
+      "开源",
+      "人工智能",
+      "开发者工具"
+    ],
+    "content_zh": "Open Agent Kit 是一个开源平台，用于快速构建、定制和部署 AI 代理。它可以连接到任何大语言模型，通过强大的插件扩展功能，并将 AI 无缝集成到你的工作流程中。这个平台可扩展、灵活，并且是开发者为开发者打造的。"
+  },
+  {
+    "name": "OpenAI 4o Image Generation",
+    "description": "Unlocking useful and valuable image generation with a natively multimodal model capable of precise, accurate, photorealistic outputs.",
+    "product_hunt_url": "https://www.producthunt.com/posts/openai-4o-image-generation",
+    "created_at": "",
+    "id": "openai-4o-image-generation",
+    "label": "OpenAI most advanced image generator yet",
+    "topics": [
+      "Design Tools"
+    ],
+    "votes": 151,
+    "visit_url": "https://openai.com/index/introducing-4o-image-generation/",
+    "image": "https://ph-files.imgix.net/2080aa91-9a86-47f5-b621-855102339361.jpeg",
+    "label_zh": "OpenAI 最先进的图像生成器",
+    "topics_zh": [
+      "设计工具"
+    ],
+    "content_zh": "解锁实用且有价值的图像生成，采用原生多模态模型，能够生成精确、准确、逼真的图像。"
+  },
+  {
+    "name": "Cooler",
+    "description": "Podcasts are great, but they are even better together! Cooler is making podcasting fun, social, and interactive— with comments, reactions, leaderboards, streaks and shareable clips of your favorite moments.",
+    "product_hunt_url": "https://www.producthunt.com/posts/cooler-3a58df29-f601-4e7f-9056-fefa0882a49f",
+    "created_at": "",
+    "id": "cooler-3a58df29-f601-4e7f-9056-fefa0882a49f",
+    "label": "Podcasts are better together",
+    "topics": [
+      "Community",
+      "Entertainment",
+      "Social Media"
+    ],
+    "votes": 143,
+    "visit_url": "https://www.cooler.fm",
+    "image": "https://ph-files.imgix.net/24357d0e-72ec-4c53-ba73-49b162cc6b77.png",
+    "label_zh": "播客，一起听更精彩",
+    "topics_zh": [
+      "社区",
+      "娱乐",
+      "社交媒体"
+    ],
+    "content_zh": "播客很棒，但一起听更有趣！Cooler 让播客变得有趣、社交化和互动性强——你可以发表评论、反应、查看排行榜、连续收听记录，并分享你喜欢的精彩片段。"
+  }
+]

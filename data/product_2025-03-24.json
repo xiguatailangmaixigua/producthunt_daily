@@ -1,0 +1,16 @@
+[
+  {
+    "name": "The \"think\" tool from Claude",
+    "description": "With the \"think\" tool, we're giving Claude the ability to include an additional thinking step—complete with its own designated space—as part of getting to its final answer.",
+    "product_hunt_url": "https://www.producthunt.com/posts/the-think-tool-from-claude",
+    "created_at": "",
+    "id": "the-think-tool-from-claude",
+    "label": "Enabling Claude to stop and think",
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "votes": 468,
+    "visit_url": "",
+    "image": "https://ph-files.imgix.net/2274c882-34bb-449a-bb12-0fa6ad151712.jpeg"
+  }
+]

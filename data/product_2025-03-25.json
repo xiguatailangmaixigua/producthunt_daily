@@ -1,0 +1,240 @@
+[
+  {
+    "name": "BASE44 2.0",
+    "description": "Base44 is the only all-in-one platform that empowers anyone to create software. From tools and personal apps - to complete online businesses—without writing a single line of code (unless you want to 😉).",
+    "product_hunt_url": "https://www.producthunt.com/posts/base44-2-0",
+    "created_at": "",
+    "id": "base44-2-0",
+    "label": "The all-in-one app building platform. No integrations needed",
+    "topics": [
+      "Artificial Intelligence",
+      "No-Code",
+      "Design Tools"
+    ],
+    "votes": 641,
+    "visit_url": "https://base44.com",
+    "image": "https://ph-files.imgix.net/73009a05-10bc-4090-b02e-8f48bc85a28e.png"
+  },
+  {
+    "name": "LiftmyCV",
+    "description": "Tired of filling out the same job application forms over and over?\nExhausted from browsing dozens of job search websites?\n\nI've got you covered! Meet LiftmyCV – an AI agent that finds job openings and auto-applies on your behalf. No subscription required.",
+    "product_hunt_url": "https://www.producthunt.com/posts/liftmycv",
+    "created_at": "",
+    "id": "liftmycv",
+    "label": "AI agent that finds jobs and auto-applies on your behalf",
+    "topics": [
+      "Artificial Intelligence",
+      "Bots",
+      "Chrome Extensions"
+    ],
+    "votes": 391,
+    "visit_url": "https://www.liftmycv.com/",
+    "image": "https://ph-files.imgix.net/32c54c0f-c316-48ad-a22b-bfdf82801d5c.jpeg"
+  },
+  {
+    "name": "Lamatic 2.0",
+    "description": "A fully managed PaaS with Agent IDE, integrated vector stores, and seamless connections to apps, data sources, and leading AI models — empowering you to rapidly build, test, and deploy high-performance AI Agents at the Serverless Edge.",
+    "product_hunt_url": "https://www.producthunt.com/posts/lamatic-2-0",
+    "created_at": "",
+    "id": "lamatic-2-0",
+    "label": "IDE to build & deploy AI agents on serverless",
+    "topics": [
+      "Developer Tools",
+      "SaaS",
+      "Artificial Intelligence"
+    ],
+    "votes": 354,
+    "visit_url": "https://lamatic.ai",
+    "image": "https://ph-files.imgix.net/36ca46e6-c36a-46f1-93be-681e39b0af4a.png"
+  },
+  {
+    "name": "ARize – Shop Anything in AR",
+    "description": "Revolutionizing online shopping with AR. Turn ANY product image from ANY online store into a 3D model & see it in AR in your space before buying. Works with Amazon, eBay, AliExpress, and more. No more guessing, no more surprises - just smarter shopping in AR.",
+    "product_hunt_url": "https://www.producthunt.com/posts/arize-shop-anything-in-ar",
+    "created_at": "",
+    "id": "arize-shop-anything-in-ar",
+    "label": "View Any Product in AR from Any Site or Marketplace",
+    "topics": [
+      "E-Commerce",
+      "Augmented Reality",
+      "Shopping"
+    ],
+    "votes": 101,
+    "visit_url": "https://apps.apple.com/us/app/arize-shop-anything-in-ar/id6742055506",
+    "image": "https://ph-files.imgix.net/c0a2e5f5-0dad-4576-8041-626829406b04.jpeg"
+  },
+  {
+    "name": "Flexpoint",
+    "description": "Flexpoint is the all-in-one platform for creators to sell coaching calls, digital products, services, and more — all under their own brand. Ditch the tool overload and run your business from one beautiful, Stripe-powered storefront.",
+    "product_hunt_url": "https://www.producthunt.com/posts/flexpoint-2",
+    "created_at": "",
+    "id": "flexpoint-2",
+    "label": "A single storefront for creators to sell anything",
+    "topics": [
+      "Productivity",
+      "SaaS",
+      "Monetization"
+    ],
+    "votes": 280,
+    "visit_url": "https://flexpoint.store/",
+    "image": "https://ph-files.imgix.net/f7e1db86-d299-4caa-9c1b-e764d0fa721a.png"
+  },
+  {
+    "name": "TikTok Super Tool",
+    "description": "The most comprehensive TikTok profile analysis tool. Get deep insights, download videos, analyze hashtags, and access sounds. Perfect for creators and marketers.",
+    "product_hunt_url": "https://www.producthunt.com/posts/tiktok-super-tool",
+    "created_at": "",
+    "id": "tiktok-super-tool",
+    "label": "Get insights and analytics for any Tiktok profile",
+    "topics": [
+      "Analytics",
+      "Social Media",
+      "Chrome Extensions"
+    ],
+    "votes": 241,
+    "visit_url": "https://chromewebstore.google.com/detail/tiktok-super-tool-profile/mjfilihahpjjeapapjifhpgmdfphhekk",
+    "image": "https://ph-files.imgix.net/eca15cc3-365c-4762-a538-24e8dba69c75.png"
+  },
+  {
+    "name": "Krea Video Training",
+    "description": "Krea Video Training is the fine-tune Krea's AI video model with your own images/videos to create custom styles, motions, and objects. Control the AI, don't just prompt it!",
+    "product_hunt_url": "https://www.producthunt.com/posts/krea-video-training",
+    "created_at": "",
+    "id": "krea-video-training",
+    "label": "Train AI to create videos in your style",
+    "topics": [
+      "Artificial Intelligence",
+      "Photo & Video"
+    ],
+    "votes": 195,
+    "visit_url": "https://www.krea.ai/train",
+    "image": "https://ph-files.imgix.net/4599c602-9284-46d5-b87f-7914ad308a20.png"
+  },
+  {
+    "name": "GPT Rules",
+    "description": "GPT Rules brings Cursor-style rules to your browser, letting you create custom rules for consistent, high-quality AI responses every time.",
+    "product_hunt_url": "https://www.producthunt.com/posts/gpt-rules",
+    "created_at": "",
+    "id": "gpt-rules",
+    "label": "Supercharge your AI chats with cursor style rules",
+    "topics": [
+      "Productivity",
+      "Artificial Intelligence",
+      "Chrome Extensions"
+    ],
+    "votes": 172,
+    "visit_url": "https://www.gptrules.com",
+    "image": "https://ph-files.imgix.net/2bfcd762-5102-487f-8a9e-1ce3d274482b.png"
+  },
+  {
+    "name": "Searchbirds",
+    "description": "Making a simpler search engine for people to use. It has a cute logo, and just an overall cozy feel. It gets updates almost daily as well.",
+    "product_hunt_url": "https://www.producthunt.com/posts/searchbirds",
+    "created_at": "",
+    "id": "searchbirds",
+    "label": "A simpler, ad-free search engine",
+    "topics": [
+      "Web App",
+      "Search"
+    ],
+    "votes": 78,
+    "visit_url": "https://searchbirds.com",
+    "image": "https://ph-files.imgix.net/d849a87e-d78b-48ef-baa8-7eb5ac1115c6.png"
+  },
+  {
+    "name": "Bandera AI",
+    "description": "Bandera AI transforms your sales process with intelligent lead generation and seamless automation, delivering qualified prospects directly to your inbox.",
+    "product_hunt_url": "https://www.producthunt.com/posts/bandera-ai",
+    "created_at": "",
+    "id": "bandera-ai",
+    "label": "No More Manual Work. Just Sales",
+    "topics": [
+      "Artificial Intelligence",
+      "Sales",
+      "Marketing"
+    ],
+    "votes": 56,
+    "visit_url": "https://banderaai.com",
+    "image": "https://ph-files.imgix.net/8caeb0f7-bc1b-4574-a8e7-051ad0e43d1b.png"
+  },
+  {
+    "name": "intura",
+    "description": "A platform that helps you compare, test, and optimize AI models, making it easier to select the best-performing and most cost-effective AI for their needs. This is our first launch and we would love to have your feedback on the beta! (we're all ears 🐰)",
+    "product_hunt_url": "https://www.producthunt.com/posts/intura",
+    "created_at": "",
+    "id": "intura",
+    "label": "Compare, test, and optimize AI models",
+    "topics": [
+      "Developer Tools",
+      "Analytics",
+      "Tech"
+    ],
+    "votes": 162,
+    "visit_url": "https://www.intura.co/",
+    "image": "https://ph-files.imgix.net/ef559b78-01ce-450f-9052-a5f5180e1942.jpeg"
+  },
+  {
+    "name": "Pocketlink",
+    "description": "A new and revolutionizing way to create a customizable link-in-bio page with Pocketlink. Monetize your audience, track analytics, and grow your online presence with our AI tools.",
+    "product_hunt_url": "https://www.producthunt.com/posts/pocketlink",
+    "created_at": "",
+    "id": "pocketlink",
+    "label": "Reimagine your link-in-bio experience, powered by AI",
+    "topics": [
+      "Analytics",
+      "Social Media",
+      "SaaS"
+    ],
+    "votes": 162,
+    "visit_url": "https://pocketlink.co",
+    "image": "https://ph-files.imgix.net/a4dbf332-d5bb-4b56-b49e-29eb5573c42d.png"
+  },
+  {
+    "name": "EOR Overview",
+    "description": "Compare Employer of Record providers with verified data on pricing, features, and country coverage. Our platform is built on the principle that there's no universally \"best\" EOR provider – only the one that best fits your specific needs and requirements.",
+    "product_hunt_url": "https://www.producthunt.com/posts/eor-overview",
+    "created_at": "",
+    "id": "eor-overview",
+    "label": "Find and compare 140+ Employer of Record (EOR) providers!",
+    "topics": [
+      "Human Resources",
+      "Remote Work",
+      "Hiring"
+    ],
+    "votes": 65,
+    "visit_url": "https://eoroverview.com/",
+    "image": "https://ph-files.imgix.net/4b4f3f69-1c80-4942-baa3-13cc1c904bed.png"
+  },
+  {
+    "name": "Interview Code Ace",
+    "description": "The ultimate, invisible AI powered tool to help you succeed in technical interviews. Practice, prepare, and perform with confidence.",
+    "product_hunt_url": "https://www.producthunt.com/posts/interview-code-ace",
+    "created_at": "",
+    "id": "interview-code-ace",
+    "label": "The ultimate, invisible AI powered tool for interviews",
+    "topics": [
+      "Artificial Intelligence",
+      "Software Engineering",
+      "Career"
+    ],
+    "votes": 152,
+    "visit_url": "https://interview-code-ace.com",
+    "image": "https://ph-files.imgix.net/9b3ea4e5-b3f5-4731-9be7-65f73178318d.png"
+  },
+  {
+    "name": "Reelvis",
+    "description": "Reelvis is an all-in-one tool for creating reels on social media. It generates video scripts, adds captions, and provides professional voiceovers-all in a few clicks. Automate video production and keep your audience engaged effortlessly!",
+    "product_hunt_url": "https://www.producthunt.com/posts/reelvis",
+    "created_at": "",
+    "id": "reelvis",
+    "label": "Create reels for your brand on instagram, tiktok and youtube",
+    "topics": [
+      "Artificial Intelligence",
+      "Social Media",
+      "Marketing"
+    ],
+    "votes": 64,
+    "visit_url": "https://reelvis.com/",
+    "image": "https://ph-files.imgix.net/c87533fa-92e7-427d-8066-9872f24269a7.png"
+  }
+]
