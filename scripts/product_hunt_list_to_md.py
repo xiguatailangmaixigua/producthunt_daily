@@ -173,10 +173,17 @@ class ProductHuntScraper:
                 raise Exception("获取页面源代码失败")
                 
             # 保存页面源代码到临时文件
-            temp_html_path = os.path.join(self.temp_dir, f'producthunt_drission_{datetime.now().strftime("%Y%m%d_%H%M%S")}.html')
-            with open(temp_html_path, 'w', encoding='utf-8') as f:
-                f.write(page_source)
-            logger.info(f"已保存页面源代码到 {os.path.basename(temp_html_path)}")
+            try:
+                # 确保临时目录存在
+                if not os.path.exists(self.temp_dir):
+                    os.makedirs(self.temp_dir)
+                    
+                temp_html_path = os.path.join(self.temp_dir, f'producthunt_drission_{datetime.now().strftime("%Y%m%d_%H%M%S")}.html')
+                with open(temp_html_path, 'w', encoding='utf-8') as f:
+                    f.write(page_source)
+                logger.info(f"已保存页面源代码到 {os.path.basename(temp_html_path)}")
+            except Exception as e:
+                logger.error(f"保存页面源代码失败: {str(e)}")
             
             # 使用BeautifulSoup解析页面
             logger.info("尝试使用BeautifulSoup解析页面...")

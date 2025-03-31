@@ -25,6 +25,10 @@ def generate_repo_markdown(repo):
         markdown += f"{repo['description_zh']}\n\n"
     elif repo.get('description'):
         markdown += f"{repo['description']}\n\n"
+
+    # 项目地址
+    markdown += f"🔗 项目地址：{repo['url']}\n\n"
+        
     # README中的第一张图片
     if repo.get('readme_images') and len(repo['readme_images']) > 0:
         markdown += f"![]({repo['readme_images'][0]})\n\n"
@@ -44,7 +48,6 @@ def generate_repo_markdown(repo):
         markdown += "**主题**: " + ", ".join([f"`{topic}`" for topic in repo['topics_zh']]) + "\n\n"
     elif repo.get('topics') and len(repo['topics']) > 0:
         markdown += "**主题**: " + ", ".join([f"`{topic}`" for topic in repo['topics']]) + "\n\n"
-    
     
     return markdown
 
