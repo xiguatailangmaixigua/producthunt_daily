@@ -157,7 +157,7 @@ class ProductHuntScraper:
             
             # 设置页面加载超时时间
             try:
-                page.set.load_timeout(20)
+                page.set.load_timeout(30)
             except Exception as e:
                 logger.warning("无法设置DrissionPage的超时时间，使用默认值")
             

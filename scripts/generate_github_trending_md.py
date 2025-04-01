@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 
 def generate_repo_markdown(repo):
     """生成单个仓库的Markdown内容"""
-    markdown = f"## [{repo['name']}]({repo['url']})\n\n"
+    markdown = f"## {repo['name']}\n\n"
     
     # 描述
     if repo.get('description_zh'):
@@ -66,7 +66,7 @@ def generate_markdown_content(repos, date_str, time_range="daily", language=""):
     markdown_content = f"# GitHub {time_range_text}热门项目 {language_text} {date_str}\n\n"
     
     # 添加简介
-    markdown_content += f"> 以下是 GitHub {time_range_text}热门项目列表，通过爬取 GitHub Trending 页面获取，帮助您了解当前最热门的开源项目。\n\n"
+    markdown_content += f"> GitHub {time_range_text}热门项目列表，帮助您了解当前最热门的开源项目。\n\n"
     
     markdown_content += "---\n\n"
     
