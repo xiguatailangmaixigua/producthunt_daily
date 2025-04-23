@@ -1,0 +1,336 @@
+[
+  {
+    "name": "Supaboard AI",
+    "description": "Supaboard is a next-gen BI tool that helps you build powerful dashboards from your data securely without any expertise.  \nUnify data from multiple sources with almost no setup and get precise answers from industry-trained AI analysts even with minimal prompts.",
+    "product_hunt_url": "https://www.producthunt.com/posts/supaboard-ai",
+    "created_at": "",
+    "id": "supaboard-ai",
+    "label": "Business Intelligence provided by AI data analysts",
+    "topics": [
+      "Productivity",
+      "Analytics",
+      "Artificial Intelligence"
+    ],
+    "votes": 489,
+    "visit_url": "https://supaboard.ai",
+    "image": "https://ph-files.imgix.net/9b692009-1993-438b-a192-9005e7ed7e9c.png",
+    "label_zh": "由AI数据分析师提供的商业智能",
+    "topics_zh": [
+      "生产力",
+      "分析",
+      "人工智能"
+    ],
+    "content_zh": "Supaboard AI 是一款新一代的商业智能工具，可以帮助你安全地从数据中构建强大的仪表板，无需专业知识。  \n它几乎不需要任何设置就能整合来自多个来源的数据，并且即使是最简单的提示，也能从经过行业训练的AI分析师那里获得精确的答案。"
+  },
+  {
+    "name": "oMoo",
+    "description": "oMoo is an AI-driven haptic music player that can let everyone touch the pulse, texture, and rhythm of music on their phones. We want to bring the power and beauty of music to everyone, including people who are deaf or hard of hearing.",
+    "product_hunt_url": "https://www.producthunt.com/posts/omoo",
+    "created_at": "",
+    "id": "omoo",
+    "label": "Listen to music through your hand via haptic feedback",
+    "topics": [
+      "Music",
+      "Digital Art",
+      "Artificial Intelligence"
+    ],
+    "votes": 142,
+    "visit_url": "https://omoo.pages.dev/",
+    "image": "https://ph-files.imgix.net/d9e51df5-99e1-4de1-89ee-fb6d90d4113f.png",
+    "label_zh": "通过触觉反馈，用手感受音乐",
+    "topics_zh": [
+      "音乐，数字艺术，人工智能"
+    ],
+    "content_zh": "oMoo 是一款由 AI 驱动的触觉音乐播放器，可以让每个人通过手机感受到音乐的脉动、质感和节奏。我们希望将音乐的力量和美妙带给每一个人，包括聋人或听力障碍者。"
+  },
+  {
+    "name": "Playwrk: Virtual Private Club for Gamers",
+    "description": "Virtual private club for gamers and a custom Discord app where entrepreneurs, executives, and senior professionals from tech, finance, business, creative, eSports, and beyond play together in a friendly environment while making new global connections.",
+    "product_hunt_url": "https://www.producthunt.com/posts/playwrk-virtual-private-club-for-gamers",
+    "created_at": "",
+    "id": "playwrk-virtual-private-club-for-gamers",
+    "label": "Where Gaming Meets Networking",
+    "topics": [
+      "Games",
+      "Social Networking",
+      "Community"
+    ],
+    "votes": 124,
+    "visit_url": "https://playwrk.xyz",
+    "image": "https://ph-files.imgix.net/f3945b6b-9c34-4fbc-8fc1-fa174861422a.png",
+    "label_zh": "游戏与网络的交汇处",
+    "topics_zh": [
+      "游戏",
+      "社交网络",
+      "社区"
+    ],
+    "content_zh": "Playwrk: 虚拟私人俱乐部，专为游戏玩家打造。它提供了一个定制的Discord应用，让来自科技、金融、商业、创意和电子竞技等领域的创业者、高管和资深专业人士可以在一个友好的环境中一起游戏，并建立新的全球联系。"
+  },
+  {
+    "name": "Waxwing 2.0",
+    "description": "Upwork 2.0 for human-assisted AI agents: Get AI-generated previews of each service, DIY or hire AI-savvy experts, or run 500+ expert-built workflows. AI does the heavy lifting, humans ensure the outcome. Let's make AI great again!",
+    "product_hunt_url": "https://www.producthunt.com/posts/waxwing-2-0",
+    "created_at": "",
+    "id": "waxwing-2-0",
+    "label": "A marketplace for Human assisted AI agents",
+    "topics": [
+      "Remote Work",
+      "Marketing automation",
+      "Artificial Intelligence"
+    ],
+    "votes": 369,
+    "visit_url": "https://waxwing.ai",
+    "image": "https://ph-files.imgix.net/a22ebe9d-ff0e-41cf-9b4d-0862150743d2.png",
+    "label_zh": "一个人工智能助手与人类协作的市场",
+    "topics_zh": [
+      "远程工作",
+      "营销自动化",
+      "人工智能"
+    ],
+    "content_zh": "Upwork 2.0 for 人工辅助的AI代理：获取每个服务的AI生成预览，自己动手或雇佣精通AI的专家，或者运行500多个专家构建的工作流程。AI负责繁重的工作，人类确保结果。让我们再次让AI变得伟大！"
+  },
+  {
+    "name": "Claude for Education",
+    "description": "Claude for Education revolutionizes learning with AI to guide critical thinking. Partnering with top universities, we're introducing Learning Mode, campus-wide access, and student programs that empower educators and learners to shape AI's future in academia.",
+    "product_hunt_url": "https://www.producthunt.com/posts/claude-for-education",
+    "created_at": "",
+    "id": "claude-for-education",
+    "label": "AI for higher ed, with a new learning mode for students",
+    "topics": [
+      "Education",
+      "Artificial Intelligence"
+    ],
+    "votes": 318,
+    "visit_url": "https://www.anthropic.com/news/introducing-claude-for-education",
+    "image": "https://ph-files.imgix.net/a5f193e0-fca7-4b9c-9215-4a29c511bd20.webp",
+    "label_zh": "AI助力高等教育，为学生带来全新学习模式",
+    "topics_zh": [
+      "教育，人工智能"
+    ],
+    "content_zh": "Claude for Education 通过 AI 引导批判性思维，彻底改变了学习方式。我们与顶尖大学合作，推出了学习模式、全校访问权限以及学生项目，这些举措旨在帮助教育者和学习者共同塑造学术领域的 AI 未来。"
+  },
+  {
+    "name": "AutonomyAI",
+    "description": "AutonomyAI introduces context-aware agents that handle front-end development tasks and deliver fully production-ready code. Free your team from repetitive dev work, allowing them to concentrate on creating exceptional products. Join for early access!",
+    "product_hunt_url": "https://www.producthunt.com/posts/autonomyai",
+    "created_at": "",
+    "id": "autonomyai",
+    "label": "Meet your Next Dev Hire",
+    "topics": [
+      "Artificial Intelligence",
+      "Design Tools",
+      "Software Engineering"
+    ],
+    "votes": 294,
+    "visit_url": "https://autonomyai.io/",
+    "image": "https://ph-files.imgix.net/c2fa8ca3-c465-486a-aeb7-322d91250035.png",
+    "label_zh": "遇见你的下一个开发人员雇员\n\n---\n\n遇见你的下一个开发高手",
+    "topics_zh": [
+      "人工智能",
+      "设计工具",
+      "软件工程"
+    ],
+    "content_zh": "AutonomyAI 推出了具备上下文感知能力的智能代理，可以处理前端开发任务并交付完全可用于生产的代码。这将让你的团队从重复的开发工作中解放出来，专注于创造卓越的产品。加入我们，获取早期访问权限！"
+  },
+  {
+    "name": "Langflow Desktop",
+    "description": "Langflow is a dev tool for building and deploying AI-powered agents. It includes a visual authoring experience and built-in API server that turns every agent into an API. Supports all major LLMs, vector databases and a growing library of AI tools.",
+    "product_hunt_url": "https://www.producthunt.com/posts/langflow-desktop",
+    "created_at": "",
+    "id": "langflow-desktop",
+    "label": "Build AI-powered Agents -- in Minutes",
+    "topics": [
+      "GitHub",
+      "Open Source",
+      "Artificial Intelligence"
+    ],
+    "votes": 250,
+    "visit_url": "https://langflow.org/desktop",
+    "image": "https://ph-files.imgix.net/ff7c9bdb-7572-4a0b-9fa4-353381bc4096.png",
+    "label_zh": "构建由AI驱动的代理——只需几分钟",
+    "topics_zh": [
+      "GitHub",
+      "开源",
+      "人工智能"
+    ],
+    "content_zh": "Langflow Desktop 是一款用于构建和部署由 AI 驱动的代理工具。它提供了一个可视化创作界面和内置 API 服务器，可以将每个代理转换为 API。支持所有主流的大语言模型、向量数据库以及不断扩增的 AI 工具库。"
+  },
+  {
+    "name": "Viva Labs",
+    "description": "AI video ads that actually convert. Our suite of agents researches winning messages, generates professional UGC/B-Roll content, and analyzes ad performance—in just a few minutes.",
+    "product_hunt_url": "https://www.producthunt.com/posts/viva-labs",
+    "created_at": "",
+    "id": "viva-labs",
+    "label": "Winning AI Video Ads",
+    "topics": [
+      "Advertising",
+      "A/B Testing",
+      "Marketing"
+    ],
+    "votes": 237,
+    "visit_url": "https://app.vivalabs.ai/",
+    "image": "https://ph-files.imgix.net/1f4a0f68-57cb-4f21-92b4-105b089ed4ad.png",
+    "label_zh": "获胜的AI视频广告",
+    "topics_zh": [
+      "广告、A/B测试、市场营销"
+    ],
+    "content_zh": "Viva Labs 的 AI 视频广告能够真正提高转化率。我们的智能代理工具可以在几分钟内完成市场调研，生成专业的用户生成内容和辅助素材，并分析广告效果。"
+  },
+  {
+    "name": "TwinMind: AI Second Brain for Mobile",
+    "description": "Never take notes again. Get free unlimited transcription of everything you hear and say—even offline inside your pocket all day—with full privacy. Get proactive answers before you even ask. Chat with all your memories and the web. No gadgets—just get the app!",
+    "product_hunt_url": "https://www.producthunt.com/posts/twinmind-ai-second-brain-for-mobile",
+    "created_at": "",
+    "id": "twinmind-ai-second-brain-for-mobile",
+    "label": "Remember meetings, lectures, or your entire life for free",
+    "topics": [
+      "Productivity",
+      "Notes",
+      "Artificial Intelligence"
+    ],
+    "votes": 210,
+    "visit_url": "https://twinmind.app/n385/ph",
+    "image": "https://ph-files.imgix.net/4e262a7d-953e-48c4-9fbb-2556b6fd9af4.png",
+    "label_zh": "免费记录会议、讲座或你的整个人生",
+    "topics_zh": [
+      "生产力",
+      "笔记",
+      "人工智能"
+    ],
+    "content_zh": "再也不用记笔记了。你可以免费无限制地转录你听到和说的所有内容，即使在离线状态下也能全天候使用，同时完全保护隐私。还没提问就能获得主动解答。与你的所有记忆和网络进行对话。无需额外设备，只需下载应用程序即可。"
+  },
+  {
+    "name": "PERSO.ai - AI Dubbing With Lip Sync",
+    "description": "Easily localize your videos in 29+ languages with smooth, accurate lip sync. PERSO.ai delivers high-quality results at a fraction of the cost, making it easier than ever to expand your content to global audiences.",
+    "product_hunt_url": "https://www.producthunt.com/posts/perso-ai-ai-dubbing-with-lip-sync",
+    "created_at": "",
+    "id": "perso-ai-ai-dubbing-with-lip-sync",
+    "label": "AI Translation, Dubbing, & Lip-Sync Has Never Been Easier",
+    "topics": [
+      "Video",
+      "Languages",
+      "Artificial Intelligence"
+    ],
+    "votes": 76,
+    "visit_url": "https://perso.ai/video-translator",
+    "image": "https://ph-files.imgix.net/42466ee9-834c-477a-9796-e61877d4dfa1.png",
+    "label_zh": "AI翻译、配音和口型同步从未如此简单",
+    "topics_zh": [
+      "视频",
+      "语言",
+      "人工智能"
+    ],
+    "content_zh": "轻松将您的视频本地化为29种以上的语言，并实现流畅准确的口型同步。PERSO.ai 以极低的成本提供高质量的结果，让您的内容更容易触达全球观众。"
+  },
+  {
+    "name": "GitSummarize",
+    "description": "Turn any GitHub repository into an interactive AI-powered documentation hub. GitSummarize eliminates stale and outdated documentation, and always keeps it up-to-date.\n\nPRO TIP: Replace 'hub' with 'summarize' in any GitHub URL — instantly.",
+    "product_hunt_url": "https://www.producthunt.com/posts/gitsummarize-2",
+    "created_at": "",
+    "id": "gitsummarize-2",
+    "label": "Create beautiful internal documentation from any GitHub repo",
+    "topics": [
+      "GitHub",
+      "Artificial Intelligence"
+    ],
+    "votes": 185,
+    "visit_url": "https://gitsummarize.com/",
+    "image": "https://ph-files.imgix.net/5e8ff429-d3d2-4f83-8fef-beb876b7f56d.png",
+    "label_zh": "从任意 GitHub 仓库创建精美的内部文档",
+    "topics_zh": [
+      "GitHub",
+      "人工智能"
+    ],
+    "content_zh": "将任何 GitHub 仓库变成一个互动的 AI 驱动的文档中心。GitSummarize 消除了陈旧和过时的文档，并始终保持其最新。\n\n小贴士：在任何 GitHub URL 中，只需将 'hub' 替换为 'summarize' — 即可立即使用。"
+  },
+  {
+    "name": "Motionvid.ai",
+    "description": "Motion design just got radically easier. With Motionvid.ai, describe your idea in plain words and watch it transform into a full animation with cinematic visuals and fluid motion. Great for YouTube videos, shortform content, blogs posts or launch videos.",
+    "product_hunt_url": "https://www.producthunt.com/posts/motionvid-ai",
+    "created_at": "",
+    "id": "motionvid-ai",
+    "label": "Create motion graphics within seconds with AI",
+    "topics": [
+      "Social Media",
+      "Marketing",
+      "Design Tools"
+    ],
+    "votes": 163,
+    "visit_url": "https://www.motionvid.ai",
+    "image": "https://ph-files.imgix.net/06845f8d-82d6-42aa-ba31-983ddb6bbc69.png",
+    "label_zh": "几秒钟内用AI创建动态图形",
+    "topics_zh": [
+      "社交媒体、市场营销、设计工具"
+    ],
+    "content_zh": "Motionvid.ai 让动效设计变得异常简单。只需用简单的语言描述你的想法，它就能将其转化为具有电影级视觉效果和流畅动作的完整动画。无论是制作 YouTube 视频、短视频、博客文章还是产品发布视频，都非常适用。"
+  },
+  {
+    "name": "Neuron AI",
+    "description": "Neuron AI is designed for 100% privacy, speed, and full control — it runs completely on-device, meaning no internet is required and no data ever leaves your device. Don’t believe it? Turn on airplane mode and be amazed.",
+    "product_hunt_url": "https://www.producthunt.com/posts/neuron-ai",
+    "created_at": "",
+    "id": "neuron-ai",
+    "label": "Your AI, On Your Device - Private & Secure",
+    "topics": [
+      "Productivity",
+      "Privacy",
+      "Artificial Intelligence"
+    ],
+    "votes": 156,
+    "visit_url": "https://apps.apple.com/ch/app/neuron-ai-private-secure/id6739433114",
+    "image": "https://ph-files.imgix.net/2e6beee3-ec60-4d24-86c5-0b768d5acc97.png",
+    "label_zh": "您的AI，就在您的设备上 - 私密且安全",
+    "topics_zh": [
+      "生产力",
+      "隐私",
+      "人工智能"
+    ],
+    "content_zh": "Neuron AI 专为100%隐私、高速和完全控制而设计，它完全在设备上运行，无需互联网连接，数据也不会离开你的设备。不信？打开飞行模式试试看，你会感到惊讶的。"
+  },
+  {
+    "name": "Vantedge AI",
+    "description": "Vantedge AI is the one-stop AI infrastructure and Agent Marketplace for funds and fintech startups. We simplify AI adoption for investors and provide distribution for curated AI agents.",
+    "product_hunt_url": "https://www.producthunt.com/posts/vantedge-ai",
+    "created_at": "",
+    "id": "vantedge-ai",
+    "label": "The AI agent marketplace for investors",
+    "topics": [
+      "Artificial Intelligence",
+      "Investing",
+      "Fintech"
+    ],
+    "votes": 143,
+    "visit_url": "https://vantedgeai.com/",
+    "image": "https://ph-files.imgix.net/9e64e25f-4e35-40ef-a9bc-a6bcab3a7c90.png",
+    "label_zh": "面向投资者的人工智能代理市场",
+    "topics_zh": [
+      "人工智能",
+      "投资",
+      "金融科技"
+    ],
+    "content_zh": "Vantedge AI 是一个为基金和金融科技初创公司提供的一站式AI基础设施和智能代理市场。我们简化了投资者对AI的采用，并为精选的AI代理提供分发渠道。"
+  },
+  {
+    "name": "MedMatch Pro",
+    "description": "MedMatch Pro: Identify pills & find global meds fast! 🌍💊 Snap a photo to ID pills, search med equivalents worldwide, save lists. Perfect for travelers & med management. iOS only (Android soon!). Try it now! 🚀",
+    "product_hunt_url": "https://www.producthunt.com/posts/medmatch-pro",
+    "created_at": "",
+    "id": "medmatch-pro",
+    "label": "Identify pills & find global meds in seconds",
+    "topics": [
+      "Travel",
+      "Health",
+      "Productivity"
+    ],
+    "votes": 47,
+    "visit_url": "https://apps.apple.com/es/app/medmatch-pro/id6743503216?l=en-GB",
+    "image": "https://ph-files.imgix.net/ae2f1935-41eb-4066-91c1-1f7ed13bdb18.png",
+    "label_zh": "识别药片，几秒内找到全球药品",
+    "topics_zh": [
+      "旅行",
+      "健康",
+      "生产力"
+    ],
+    "content_zh": "MedMatch Pro：快速识别药片并找到全球等效药物！🌍💊 拍张照片就能识别药片，搜索全球等效药物，还能保存清单。非常适合旅行者和药物管理。目前仅支持iOS（安卓版即将推出）。快来试试吧！🚀"
+  }
+]

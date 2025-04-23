@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Supaboard AI",
+    "description": "Supaboard is a next-gen BI tool that helps you build powerful dashboards from your data securely without any expertise.  \nUnify data from multiple sources with almost no setup and get precise answers from industry-trained AI analysts even with minimal prompts.",
+    "product_hunt_url": "https://www.producthunt.com/posts/supaboard-ai",
+    "created_at": "",
+    "id": "supaboard-ai",
+    "label": "Business Intelligence provided by AI data analysts",
+    "topics": [
+      "Productivity",
+      "Analytics",
+      "Artificial Intelligence"
+    ],
+    "votes": 489,
+    "visit_url": "https://supaboard.ai",
+    "image": "https://ph-files.imgix.net/9b692009-1993-438b-a192-9005e7ed7e9c.png"
+  },
+  {
+    "name": "oMoo",
+    "description": "oMoo is an AI-driven haptic music player that can let everyone touch the pulse, texture, and rhythm of music on their phones. We want to bring the power and beauty of music to everyone, including people who are deaf or hard of hearing.",
+    "product_hunt_url": "https://www.producthunt.com/posts/omoo",
+    "created_at": "",
+    "id": "omoo",
+    "label": "Listen to music through your hand via haptic feedback",
+    "topics": [
+      "Music",
+      "Digital Art",
+      "Artificial Intelligence"
+    ],
+    "votes": 142,
+    "visit_url": "https://omoo.pages.dev/",
+    "image": "https://ph-files.imgix.net/d9e51df5-99e1-4de1-89ee-fb6d90d4113f.png"
+  },
+  {
+    "name": "Playwrk: Virtual Private Club for Gamers",
+    "description": "Virtual private club for gamers and a custom Discord app where entrepreneurs, executives, and senior professionals from tech, finance, business, creative, eSports, and beyond play together in a friendly environment while making new global connections.",
+    "product_hunt_url": "https://www.producthunt.com/posts/playwrk-virtual-private-club-for-gamers",
+    "created_at": "",
+    "id": "playwrk-virtual-private-club-for-gamers",
+    "label": "Where Gaming Meets Networking",
+    "topics": [
+      "Games",
+      "Social Networking",
+      "Community"
+    ],
+    "votes": 124,
+    "visit_url": "https://playwrk.xyz",
+    "image": "https://ph-files.imgix.net/f3945b6b-9c34-4fbc-8fc1-fa174861422a.png"
+  },
+  {
+    "name": "Waxwing 2.0",
+    "description": "Upwork 2.0 for human-assisted AI agents: Get AI-generated previews of each service, DIY or hire AI-savvy experts, or run 500+ expert-built workflows. AI does the heavy lifting, humans ensure the outcome. Let's make AI great again!",
+    "product_hunt_url": "https://www.producthunt.com/posts/waxwing-2-0",
+    "created_at": "",
+    "id": "waxwing-2-0",
+    "label": "A marketplace for Human assisted AI agents",
+    "topics": [
+      "Remote Work",
+      "Marketing automation",
+      "Artificial Intelligence"
+    ],
+    "votes": 369,
+    "visit_url": "https://waxwing.ai",
+    "image": "https://ph-files.imgix.net/a22ebe9d-ff0e-41cf-9b4d-0862150743d2.png"
+  },
+  {
+    "name": "Claude for Education",
+    "description": "Claude for Education revolutionizes learning with AI to guide critical thinking. Partnering with top universities, we're introducing Learning Mode, campus-wide access, and student programs that empower educators and learners to shape AI's future in academia.",
+    "product_hunt_url": "https://www.producthunt.com/posts/claude-for-education",
+    "created_at": "",
+    "id": "claude-for-education",
+    "label": "AI for higher ed, with a new learning mode for students",
+    "topics": [
+      "Education",
+      "Artificial Intelligence"
+    ],
+    "votes": 318,
+    "visit_url": "https://www.anthropic.com/news/introducing-claude-for-education",
+    "image": "https://ph-files.imgix.net/a5f193e0-fca7-4b9c-9215-4a29c511bd20.webp"
+  },
+  {
+    "name": "AutonomyAI",
+    "description": "AutonomyAI introduces context-aware agents that handle front-end development tasks and deliver fully production-ready code. Free your team from repetitive dev work, allowing them to concentrate on creating exceptional products. Join for early access!",
+    "product_hunt_url": "https://www.producthunt.com/posts/autonomyai",
+    "created_at": "",
+    "id": "autonomyai",
+    "label": "Meet your Next Dev Hire",
+    "topics": [
+      "Artificial Intelligence",
+      "Design Tools",
+      "Software Engineering"
+    ],
+    "votes": 294,
+    "visit_url": "https://autonomyai.io/",
+    "image": "https://ph-files.imgix.net/c2fa8ca3-c465-486a-aeb7-322d91250035.png"
+  },
+  {
+    "name": "Langflow Desktop",
+    "description": "Langflow is a dev tool for building and deploying AI-powered agents. It includes a visual authoring experience and built-in API server that turns every agent into an API. Supports all major LLMs, vector databases and a growing library of AI tools.",
+    "product_hunt_url": "https://www.producthunt.com/posts/langflow-desktop",
+    "created_at": "",
+    "id": "langflow-desktop",
+    "label": "Build AI-powered Agents -- in Minutes",
+    "topics": [
+      "GitHub",
+      "Open Source",
+      "Artificial Intelligence"
+    ],
+    "votes": 250,
+    "visit_url": "https://langflow.org/desktop",
+    "image": "https://ph-files.imgix.net/ff7c9bdb-7572-4a0b-9fa4-353381bc4096.png"
+  },
+  {
+    "name": "Viva Labs",
+    "description": "AI video ads that actually convert. Our suite of agents researches winning messages, generates professional UGC/B-Roll content, and analyzes ad performance—in just a few minutes.",
+    "product_hunt_url": "https://www.producthunt.com/posts/viva-labs",
+    "created_at": "",
+    "id": "viva-labs",
+    "label": "Winning AI Video Ads",
+    "topics": [
+      "Advertising",
+      "A/B Testing",
+      "Marketing"
+    ],
+    "votes": 237,
+    "visit_url": "https://app.vivalabs.ai/",
+    "image": "https://ph-files.imgix.net/1f4a0f68-57cb-4f21-92b4-105b089ed4ad.png"
+  },
+  {
+    "name": "TwinMind: AI Second Brain for Mobile",
+    "description": "Never take notes again. Get free unlimited transcription of everything you hear and say—even offline inside your pocket all day—with full privacy. Get proactive answers before you even ask. Chat with all your memories and the web. No gadgets—just get the app!",
+    "product_hunt_url": "https://www.producthunt.com/posts/twinmind-ai-second-brain-for-mobile",
+    "created_at": "",
+    "id": "twinmind-ai-second-brain-for-mobile",
+    "label": "Remember meetings, lectures, or your entire life for free",
+    "topics": [
+      "Productivity",
+      "Notes",
+      "Artificial Intelligence"
+    ],
+    "votes": 210,
+    "visit_url": "https://twinmind.app/n385/ph",
+    "image": "https://ph-files.imgix.net/4e262a7d-953e-48c4-9fbb-2556b6fd9af4.png"
+  },
+  {
+    "name": "PERSO.ai - AI Dubbing With Lip Sync",
+    "description": "Easily localize your videos in 29+ languages with smooth, accurate lip sync. PERSO.ai delivers high-quality results at a fraction of the cost, making it easier than ever to expand your content to global audiences.",
+    "product_hunt_url": "https://www.producthunt.com/posts/perso-ai-ai-dubbing-with-lip-sync",
+    "created_at": "",
+    "id": "perso-ai-ai-dubbing-with-lip-sync",
+    "label": "AI Translation, Dubbing, & Lip-Sync Has Never Been Easier",
+    "topics": [
+      "Video",
+      "Languages",
+      "Artificial Intelligence"
+    ],
+    "votes": 76,
+    "visit_url": "https://perso.ai/video-translator",
+    "image": "https://ph-files.imgix.net/42466ee9-834c-477a-9796-e61877d4dfa1.png"
+  },
+  {
+    "name": "GitSummarize",
+    "description": "Turn any GitHub repository into an interactive AI-powered documentation hub. GitSummarize eliminates stale and outdated documentation, and always keeps it up-to-date.\n\nPRO TIP: Replace 'hub' with 'summarize' in any GitHub URL — instantly.",
+    "product_hunt_url": "https://www.producthunt.com/posts/gitsummarize-2",
+    "created_at": "",
+    "id": "gitsummarize-2",
+    "label": "Create beautiful internal documentation from any GitHub repo",
+    "topics": [
+      "GitHub",
+      "Artificial Intelligence"
+    ],
+    "votes": 185,
+    "visit_url": "https://gitsummarize.com/",
+    "image": "https://ph-files.imgix.net/5e8ff429-d3d2-4f83-8fef-beb876b7f56d.png"
+  },
+  {
+    "name": "Motionvid.ai",
+    "description": "Motion design just got radically easier. With Motionvid.ai, describe your idea in plain words and watch it transform into a full animation with cinematic visuals and fluid motion. Great for YouTube videos, shortform content, blogs posts or launch videos.",
+    "product_hunt_url": "https://www.producthunt.com/posts/motionvid-ai",
+    "created_at": "",
+    "id": "motionvid-ai",
+    "label": "Create motion graphics within seconds with AI",
+    "topics": [
+      "Social Media",
+      "Marketing",
+      "Design Tools"
+    ],
+    "votes": 163,
+    "visit_url": "https://www.motionvid.ai",
+    "image": "https://ph-files.imgix.net/06845f8d-82d6-42aa-ba31-983ddb6bbc69.png"
+  },
+  {
+    "name": "Neuron AI",
+    "description": "Neuron AI is designed for 100% privacy, speed, and full control — it runs completely on-device, meaning no internet is required and no data ever leaves your device. Don’t believe it? Turn on airplane mode and be amazed.",
+    "product_hunt_url": "https://www.producthunt.com/posts/neuron-ai",
+    "created_at": "",
+    "id": "neuron-ai",
+    "label": "Your AI, On Your Device - Private & Secure",
+    "topics": [
+      "Productivity",
+      "Privacy",
+      "Artificial Intelligence"
+    ],
+    "votes": 156,
+    "visit_url": "https://apps.apple.com/ch/app/neuron-ai-private-secure/id6739433114",
+    "image": "https://ph-files.imgix.net/2e6beee3-ec60-4d24-86c5-0b768d5acc97.png"
+  },
+  {
+    "name": "Vantedge AI",
+    "description": "Vantedge AI is the one-stop AI infrastructure and Agent Marketplace for funds and fintech startups. We simplify AI adoption for investors and provide distribution for curated AI agents.",
+    "product_hunt_url": "https://www.producthunt.com/posts/vantedge-ai",
+    "created_at": "",
+    "id": "vantedge-ai",
+    "label": "The AI agent marketplace for investors",
+    "topics": [
+      "Artificial Intelligence",
+      "Investing",
+      "Fintech"
+    ],
+    "votes": 143,
+    "visit_url": "https://vantedgeai.com/",
+    "image": "https://ph-files.imgix.net/9e64e25f-4e35-40ef-a9bc-a6bcab3a7c90.png"
+  },
+  {
+    "name": "MedMatch Pro",
+    "description": "MedMatch Pro: Identify pills & find global meds fast! 🌍💊 Snap a photo to ID pills, search med equivalents worldwide, save lists. Perfect for travelers & med management. iOS only (Android soon!). Try it now! 🚀",
+    "product_hunt_url": "https://www.producthunt.com/posts/medmatch-pro",
+    "created_at": "",
+    "id": "medmatch-pro",
+    "label": "Identify pills & find global meds in seconds",
+    "topics": [
+      "Travel",
+      "Health",
+      "Productivity"
+    ],
+    "votes": 47,
+    "visit_url": "https://apps.apple.com/es/app/medmatch-pro/id6743503216?l=en-GB",
+    "image": "https://ph-files.imgix.net/ae2f1935-41eb-4066-91c1-1f7ed13bdb18.png"
+  }
+]

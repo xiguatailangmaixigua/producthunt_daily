@@ -1,0 +1,416 @@
+[
+  {
+    "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+    "language": "TypeScript",
+    "name": "th-ch/youtube-music",
+    "stars": "15703",
+    "url": "https://github.com/th-ch/youtube-music",
+    "topics": [
+      "electron",
+      "desktop-app",
+      "music",
+      "windows",
+      "linux",
+      "mac",
+      "youtube",
+      "node",
+      "music-player",
+      "youtube-dl",
+      "macosx",
+      "adblock",
+      "youtube-downloader",
+      "blocker",
+      "youtube-playlist",
+      "adblocker",
+      "youtube-player",
+      "youtube-music-player",
+      "youtube-music",
+      "music-player-application"
+    ],
+    "readme_images": [
+      "https://camo.githubusercontent.com/c726ffb0f3f4aa56bb5a2ff266a1b2fbcdbd42e3b86227c22d285de2afc3312c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f72656c656173652f74682d63682f796f75747562652d6d757369632e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d796f75747562652d6d75736963",
+      "https://camo.githubusercontent.com/288040e7f5b128b386229679a7539d643b01b296360fd61253ad75fc873af4e5/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f74682d63682f796f75747562652d6d757369632e7376673f7374796c653d666f722d7468652d6261646765",
+      "https://camo.githubusercontent.com/bf9fd83e28cc388c75320fca0e2a61176409793ddaa495c36c36692fe12fdd8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64655f7374796c652d65736c696e742d3565643963372e7376673f7374796c653d666f722d7468652d6261646765",
+      "https://camo.githubusercontent.com/baf7c521d06afba0071d1f7db9e88c4ebb044e7f2a13ff46c9f50d17eab34bef/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f74682d63682f796f75747562652d6d757369632f6275696c642e796d6c3f6272616e63683d6d6173746572267374796c653d666f722d7468652d6261646765266c6f676f3d796f75747562652d6d75736963",
+      "https://camo.githubusercontent.com/a7a4e3cc688c79f9c6ba22d2d1484cf1f1a804d7e002beac8295d2390dc9fc36/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f74682d63682f796f75747562652d6d757369632f746f74616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d796f75747562652d6d75736963",
+      "https://camo.githubusercontent.com/61bac7ce79f6dc960255a7790010c9c250ad4e78b1357142ce95dba59266d602/68747470733a2f2f696d672e736869656c64732e696f2f6175722f76657273696f6e2f796f75747562652d6d757369632d62696e3f636f6c6f723d626c756576696f6c6574267374796c653d666f722d7468652d6261646765266c6f676f3d796f75747562652d6d75736963",
+      "https://camo.githubusercontent.com/755e4e8abc6aadf09efefd61e012a11049bb1c68e94ccf2500845dfab0f96d9d/68747470733a2f2f736e796b2e696f2f746573742f6769746875622f74682d63682f796f75747562652d6d757369632f62616467652e737667",
+      "https://github.com/th-ch/youtube-music/raw/master/web/screenshot.png",
+      "https://github.com/th-ch/youtube-music/raw/master/web/youtube-music.svg",
+      "https://private-user-images.githubusercontent.com/16558115/305712320-53efdf73-b8fa-4d7b-a235-b96b91ea77fc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM1NDY0NDksIm5iZiI6MTc0MzU0NjE0OSwicGF0aCI6Ii8xNjU1ODExNS8zMDU3MTIzMjAtNTNlZmRmNzMtYjhmYS00ZDdiLWEyMzUtYjk2YjkxZWE3N2ZjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAxVDIyMjIyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkNmYyNWFhZTAwYzczM2NkZDFhYWRjYmU1MjZhMzYzMWE2NGM5NjYyYmMyOTA2MzU5NTBlMmRmMDUyYTQwZjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.D-jKR8ejycJEN5DM-769Z3VJTHEO_uO_pIHMDzzIbKs",
+      "https://camo.githubusercontent.com/9f04f28f7e488ea88726c0d644126cf3f1f95fd0c34e60736e7539673c6e7901/68747470733a2f2f686f737465642e7765626c6174652e6f72672f7769646765742f796f75747562652d6d757369632f6931386e2f6d756c74692d6175746f2e737667",
+      "https://camo.githubusercontent.com/6cf1b61c7c69bac954fdd52ed3f8f901449943708eb5ae91cf14332fdc31ed4b/68747470733a2f2f686f737465642e7765626c6174652e6f72672f7769646765742f796f75747562652d6d757369632f6931386e2f3238377836362d626c61636b2e706e67"
+    ],
+    "description_zh": "YouTube Music 桌面应用程序捆绑自定义插件（及内置广告拦截器/下载器）",
+    "topics_zh": [
+      "电子",
+      "桌面应用",
+      "音乐",
+      "Windows",
+      "Linux",
+      "Mac",
+      "YouTube",
+      "Node",
+      "音乐播放器",
+      "youtube-dl",
+      "macOSX",
+      "广告拦截",
+      "YouTube下载器",
+      "拦截器",
+      "YouTube播放列表",
+      "广告拦截器",
+      "YouTube播放器",
+      "YouTube音乐播放器",
+      "YouTube音乐",
+      "音乐播放器应用"
+    ]
+  },
+  {
+    "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+    "language": "TypeScript",
+    "name": "ahmedkhaleel2004/gitdiagram",
+    "stars": "6308",
+    "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+    "topics": [
+      "github",
+      "ai",
+      "code",
+      "system-design"
+    ],
+    "readme_images": [
+      "https://github.com/ahmedkhaleel2004/gitdiagram/raw/main/docs/readme_img.png"
+    ],
+    "description_zh": "免费、简单、快速的交互式图表，适用于任何GitHub仓库",
+    "topics_zh": [
+      "GitHub",
+      "人工智能",
+      "代码",
+      "系统设计"
+    ]
+  },
+  {
+    "description": "A collection of MCP servers.",
+    "language": "",
+    "name": "punkpeye/awesome-mcp-servers",
+    "stars": "26915",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "topics": [
+      "ai",
+      "mcp"
+    ],
+    "readme_images": [
+      "https://camo.githubusercontent.com/3418ba3754faddfb88c5cbdc94c31ad670fc693c8caa59bc2806c9836acc04e4/68747470733a2f2f617765736f6d652e72652f62616467652e737667",
+      "https://camo.githubusercontent.com/61c816960c562a2ef081695050be3c640ac4f5bbcbef5594b833d246d3c7c4a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2545342542382541442545362539362538372545362539362538372545342542422542362d2545392542422539452545362539332538412545362539462541352545372539432538422d6f72616e6765",
+      "https://camo.githubusercontent.com/6204424444b8ece18d1e447127f776c0245eab1e0228039dfde8f5a4411b9a5b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2545342542382541442545362539362538372545362539362538372545362541312541332d2545372538322542392545352538372542422545362539462541352545372539432538422d6f72616e6765",
+      "https://camo.githubusercontent.com/6ce168db11dded923be3621b2db629385323d22c1307a8426b42bd974146df02/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f313331323330323130303132353834333437363f6c6f676f3d646973636f7264266c6162656c3d646973636f7264",
+      "https://camo.githubusercontent.com/9069a679010da72f22672645761e626dce2ec6a2afe61da5459cc6695c707eb3/68747470733a2f2f696d672e736869656c64732e696f2f7265646469742f7375627265646469742d73756273637269626572732f6d63703f7374796c653d666c6174266c6f676f3d726564646974266c6162656c3d737562726564646974",
+      "https://camo.githubusercontent.com/c7842f5bd0537d3f960ba9f28229873a874f367653c11933a5461403fd92526a/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d70756e6b706579652f617765736f6d652d6d63702d7365727665727326747970653d44617465"
+    ],
+    "description_zh": "MCP服务器集合。",
+    "topics_zh": [
+      "人工智能",
+      "多芯片封装"
+    ]
+  },
+  {
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "name": "nvm-sh/nvm",
+    "stars": "83160",
+    "url": "https://github.com/nvm-sh/nvm",
+    "topics": [
+      "nodejs",
+      "shell",
+      "bash",
+      "zsh",
+      "node",
+      "install",
+      "nvm",
+      "posix",
+      "lts",
+      "version-manager",
+      "node-js",
+      "posix-compliant",
+      "nvmrc"
+    ],
+    "readme_images": [
+      "https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg",
+      "https://camo.githubusercontent.com/60f03eff9a8e25feca61fcd8e8cf43afa6770c5bd84111938f56954d8a668755/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657273696f6e2d76302e34302e322d79656c6c6f772e737667",
+      "https://camo.githubusercontent.com/56e71f5e731bbb02144c4bb3e8c964e653046aa94e20f2e654569b7b1fe2d99b/68747470733a2f2f626573747072616374696365732e6465762f70726f6a656374732f3638342f6261646765"
+    ],
+    "description_zh": "Node版本管理器 - 符合POSIX标准的bash脚本，用于管理多个活动的node.js版本",
+    "topics_zh": [
+      "Node.js",
+      "shell",
+      "bash",
+      "zsh",
+      "Node",
+      "安装",
+      "nvm",
+      "POSIX",
+      "LTS",
+      "版本管理器",
+      "Node.js",
+      "符合POSIX标准",
+      ".nvmrc"
+    ]
+  },
+  {
+    "description": "The fast, Pythonic way to build Model Context Protocol servers 🚀",
+    "language": "Python",
+    "name": "jlowin/fastmcp",
+    "stars": "3224",
+    "url": "https://github.com/jlowin/fastmcp",
+    "topics": [
+      "python",
+      "api",
+      "server",
+      "claude",
+      "llm",
+      "anthropic",
+      "model-context-protocol"
+    ],
+    "readme_images": [
+      "https://github.com/jlowin/fastmcp/raw/main/docs/assets/demo-inspector.png"
+    ],
+    "description_zh": "快速构建Model Context Protocol服务器的Python方式 🚀",
+    "topics_zh": [
+      "Python",
+      "API",
+      "服务器",
+      "Claude",
+      "大型语言模型",
+      "Anthropic",
+      "模型上下文协议"
+    ]
+  },
+  {
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "language": "Rust",
+    "name": "rustdesk/rustdesk",
+    "stars": "85370",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "topics": [
+      "linux",
+      "dart",
+      "rust",
+      "remote-control",
+      "p2p",
+      "teamviewer",
+      "rust-lang",
+      "rdp",
+      "remote-desktop",
+      "vnc",
+      "flutter",
+      "wayland",
+      "hacktoberfest",
+      "flutter-apps",
+      "flutter-examples",
+      "flutter-ui",
+      "anydesk",
+      "flutter-desktop",
+      "flutter-web",
+      "flutter-mobile"
+    ],
+    "readme_images": [
+      "https://github.com/rustdesk/rustdesk/raw/master/res/logo-header.svg",
+      "https://camo.githubusercontent.com/70e2ef5e0263b261f9a2a314bb1d6919d1d43292eed117fe8fc766a68c7d96ea/68747470733a2f2f6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667",
+      "https://user-images.githubusercontent.com/71636191/171661982-430285f0-2e12-4b1d-9957-4a58e375304d.png",
+      "https://camo.githubusercontent.com/0014f07b7f169b7232d26d242bb2f8ef598dea7169bd8766385d70d6be8127a1/68747470733a2f2f662d64726f69642e6f72672f62616467652f6765742d69742d6f6e2e706e67",
+      "https://camo.githubusercontent.com/dc4f45577e4e438ed5739f39d5050f91a4ad01a42d5ef9cd71970cef836e16d1/68747470733a2f2f666c61746875622e6f72672f6170692f62616467653f737667266c6f63616c653d656e",
+      "https://private-user-images.githubusercontent.com/28412477/313155470-db82d4e7-c4bc-4823-8e6f-6af7eadf7651.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM1NDY0NTksIm5iZiI6MTc0MzU0NjE1OSwicGF0aCI6Ii8yODQxMjQ3Ny8zMTMxNTU0NzAtZGI4MmQ0ZTctYzRiYy00ODIzLThlNmYtNmFmN2VhZGY3NjUxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAxVDIyMjIzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkNWNjZDU1MmJkYmQ2Nzg3MDBkNzU0N2VhZDQ5MDUzYjRiNTJiNWE4ZTJiODA1OTQ1ZGUwMzQ4OWNlYTg4ZTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.I51Cu8PSYFXO4IvdmQ_NC4CBzgB81FBiYE1HkdpT3u4",
+      "https://private-user-images.githubusercontent.com/28412477/313159920-9baa91e9-3362-4d06-aa1a-7518edcbd7ea.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM1NDY0NTksIm5iZiI6MTc0MzU0NjE1OSwicGF0aCI6Ii8yODQxMjQ3Ny8zMTMxNTk5MjAtOWJhYTkxZTktMzM2Mi00ZDA2LWFhMWEtNzUxOGVkY2JkN2VhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAxVDIyMjIzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM3ZWRmN2IwOTZkZTM1N2Y5MDlhZjE4MTNkZTI4ODYyNDIzNGQ2NjdhYThkNmUyNTc0NzVjMGMxZDVmNDQyN2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-lMT--Y5JEQgzlAPARQemsxjkEgld5Nk_ZSf5n1LcQY",
+      "https://private-user-images.githubusercontent.com/28412477/313155456-39511ad3-aa9a-4f8c-8947-1cce286a46ad.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM1NDY0NTksIm5iZiI6MTc0MzU0NjE1OSwicGF0aCI6Ii8yODQxMjQ3Ny8zMTMxNTU0NTYtMzk1MTFhZDMtYWE5YS00ZjhjLTg5NDctMWNjZTI4NmE0NmFkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAxVDIyMjIzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc4MjJiY2MwNTA3YjI3MTBjYWY3ZTFkMGJkZDEyZmExOTc1NWYxZTZkNmY5MjBhMWM4NDg1ZTAxMmE4OWM4MWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XRybSnT43DOLGgHFqxR55kL2Q0ie8yL0iJb1Zx0vWOw",
+      "https://private-user-images.githubusercontent.com/28412477/313155467-78e8708f-e87e-4570-8373-1360033ea6c5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM1NDY0NTksIm5iZiI6MTc0MzU0NjE1OSwicGF0aCI6Ii8yODQxMjQ3Ny8zMTMxNTU0NjctNzhlODcwOGYtZTg3ZS00NTcwLTgzNzMtMTM2MDAzM2VhNmM1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAxVDIyMjIzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYzNTliNGM1NGNiZWU4YjY5MjhiNmIxYmU1Y2ZlMzJiODkyNGFhZDdkNzUwY2ZmZjA2ZTVmMjVmMjE0ZTYxOTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hnK_IhmtjRkRfnvDIDTPk7-aK8WzE3eQC3wWpe_hPJk"
+    ],
+    "description_zh": "一款开源的远程桌面应用程序，专为自托管设计，作为TeamViewer的替代方案。",
+    "topics_zh": [
+      "Linux",
+      "Dart",
+      "Rust",
+      "远程控制",
+      "P2P",
+      "TeamViewer",
+      "Rust语言",
+      "RDP",
+      "远程桌面",
+      "VNC",
+      "Flutter",
+      "Wayland",
+      "Hacktoberfest",
+      "Flutter应用",
+      "Flutter示例",
+      "Flutter UI",
+      "AnyDesk",
+      "Flutter桌面版",
+      "Flutter网页版",
+      "Flutter移动版"
+    ]
+  },
+  {
+    "description": "📄 A curated list of awesome .cursorrules files",
+    "language": "",
+    "name": "PatrickJS/awesome-cursorrules",
+    "stars": "19033",
+    "url": "https://github.com/PatrickJS/awesome-cursorrules",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "cursor",
+      "cursorrules",
+      "cursor-ai-editor"
+    ],
+    "readme_images": [
+      "https://camo.githubusercontent.com/8693bde04030b1670d5097703441005eba34240c32d1df1eb82a5f0d6716518e/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667",
+      "https://github.com/PatrickJS/awesome-cursorrules/raw/main/cursor-ai-logo.png"
+    ],
+    "description_zh": "一份精心整理的.cursorrules文件精选列表",
+    "topics_zh": [
+      "极好的",
+      "极好列表",
+      "光标",
+      "光标规则",
+      "cursor-ai-editor"
+    ]
+  },
+  {
+    "description": "🏦 The neobank built for nonprofits.",
+    "language": "Ruby",
+    "name": "hackclub/hcb",
+    "stars": "417",
+    "url": "https://github.com/hackclub/hcb",
+    "topics": [],
+    "readme_images": [
+      "https://camo.githubusercontent.com/30e8d5d5535144986e3a17f6ae86c5f7bafeb333dc992f5a874e49cece462201/68747470733a2f2f636c6f75642d35797275386a6173302d6861636b2d636c75622d626f742e76657263656c2e6170702f306c6f676f2d3531322e706e67",
+      "https://camo.githubusercontent.com/c1843e7c18bd63b4c21d07e458f28dea681d2e3d308a65c3ab102271cb9b0aeb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f64796e616d69632f6a736f6e3f75726c3d68747470732533412532462532466863622e6861636b636c75622e636f6d25324673746174732671756572793d2532342e6c6173745f7765656b2e73697a652e746f74616c267374796c653d666c6174266c6162656c3d706173742532307765656b26636f6c6f723d253233656333373530267375666669783d2532307472616e73616374696f6e73",
+      "https://camo.githubusercontent.com/f41e9b2031fe1c7ddc1c4c738ec8aac12d77bda8a57085c76dbb74af8b422ee3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f64796e616d69632f6a736f6e3f75726c3d68747470732533412532462532466863622e6861636b636c75622e636f6d25324673746174732671756572793d2532342e6c6173745f6461792e73697a652e746f74616c267374796c653d666c6174266c6162656c3d746f64617926636f6c6f723d253233333338656461267375666669783d2532307472616e73616374696f6e73",
+      "https://camo.githubusercontent.com/1cc778d270ca65d910645436d46558d585b60a87e69a73153dc89e75c76f13fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f64796e616d69632f6a736f6e3f75726c3d68747470732533412532462532466863622e6861636b636c75622e636f6d25324673746174732671756572793d2532342e63757272656e746c795f6f6e6c696e65267374796c653d666c6174266c6162656c3d63757272656e746c792532306f6e6c696e6526636f6c6f723d253233333364366136267375666669783d2532307573657273",
+      "https://private-user-images.githubusercontent.com/39828164/336170096-b19a83b2-ba81-46b0-9f6f-2772f4249071.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM1NDY0NjQsIm5iZiI6MTc0MzU0NjE2NCwicGF0aCI6Ii8zOTgyODE2NC8zMzYxNzAwOTYtYjE5YTgzYjItYmE4MS00NmIwLTlmNmYtMjc3MmY0MjQ5MDcxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAxVDIyMjI0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM3N2Q4M2IzZTZmMGM0MTA1ZDUyZGU5Y2E4NDZmYjE0YmZjNzQ5MTNkMThkMmU0MmE0ZTAzNTg4OWJkMTVjM2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.jdp8wB7zvBKzKN4V_rPxUFqJd2J3Wv0BcUgz_71VTv8",
+      "https://github.com/hackclub/hcb/raw/main/hcb_laser.gif",
+      "https://github.com/hackclub/hcb/raw/main/hcb_laser.gif"
+    ],
+    "description_zh": "🏦 为非营利组织打造的新银行"
+  },
+  {
+    "description": "21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+    "language": "Jupyter Notebook",
+    "name": "microsoft/generative-ai-for-beginners",
+    "stars": "77336",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "topics": [
+      "ai",
+      "azure",
+      "transformers",
+      "openai",
+      "gpt",
+      "language-model",
+      "semantic-search",
+      "dall-e",
+      "prompt-engineering",
+      "llms",
+      "generative-ai",
+      "generativeai",
+      "chatgpt",
+      "microsoft-for-beginners"
+    ],
+    "readme_images": [
+      "https://github.com/microsoft/generative-ai-for-beginners/raw/main/images/repo-thumbnailv4-fixed.png?WT.mc_id=academic-105485-koreyst",
+      "https://camo.githubusercontent.com/923ebdced945c458a41549cda20a216e5cb30614f198dc7bc8be3019952fd645/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f6d6963726f736f66742f47656e657261746976652d41492d466f722d426567696e6e6572732e737667",
+      "https://camo.githubusercontent.com/20b453fed1ed001f4b00779f3c0e7123d623983d8cdacf1d4a8cd9425ef1762b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722f6d6963726f736f66742f47656e657261746976652d41492d466f722d426567696e6e6572732e737667",
+      "https://camo.githubusercontent.com/3e282dda6bc8c226b15b45f86e8a1693f4167054b41fe6842229a5f579689af3/68747470733a2f2f646362616467652e6c696d65732e70696e6b2f6170692f7365727665722f42795277754545674834"
+    ],
+    "description_zh": "21课，开始使用生成式AI构建 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+    "topics_zh": [
+      "人工智能",
+      "Azure",
+      "变换器",
+      "OpenAI",
+      "GPT",
+      "语言模型",
+      "语义搜索",
+      "DALL-E",
+      "提示工程",
+      "大型语言模型",
+      "生成式人工智能",
+      "生成式AI",
+      "ChatGPT",
+      "微软入门"
+    ]
+  },
+  {
+    "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+    "language": "Python",
+    "name": "unclecode/crawl4ai",
+    "stars": "35564",
+    "url": "https://github.com/unclecode/crawl4ai",
+    "topics": [],
+    "readme_images": [
+      "https://camo.githubusercontent.com/f015afb613bea2a6ad325fb5e545fe43c008614c194cd73e89b10f341d366067/68747470733a2f2f7472656e6473686966742e696f2f6170692f62616467652f7265706f7369746f726965732f3131373136",
+      "https://camo.githubusercontent.com/bbf4c7387347c7b05b6cd311b7f192c6a5244a418b1e4bf8d289fd00038a85c4/68747470733a2f2f62616467652e667572792e696f2f70792f637261776c3461692e737667",
+      "https://camo.githubusercontent.com/5d106b2c6f8638b0ed5f60336af45d540adfed3d2f418b47ed06f1cafe812424/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f637261776c346169",
+      "https://camo.githubusercontent.com/744e8ce18b11244ed945b427b40ae69a4eed73450ed683bc17dd00e0384b5e5a/68747470733a2f2f7374617469632e706570792e746563682f62616467652f637261776c3461692f6d6f6e7468",
+      "https://camo.githubusercontent.com/9b672dc107ece9c22ca39eb5814fb09686f89e0488c24416029d107d83fed9e3/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f756e636c65636f64652f637261776c346169",
+      "https://camo.githubusercontent.com/5bf9e9fa18966df7cb5fac7715bef6b72df15e01a6efa9d616c83f9fcb527fe2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64652532307374796c652d626c61636b2d3030303030302e737667",
+      "https://camo.githubusercontent.com/71217453f48cd1f12ba5a720412bb92743010653a5cc69654e627fd99e2e9104/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e7472696275746f72253230436f76656e616e742d322e312d3462616161612e737667",
+      "https://camo.githubusercontent.com/96889048f8a9014fdeba2a891f97150c6aac6e723f5190236b10215a97ed41f3/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667",
+      "https://github.com/unclecode/crawl4ai/raw/main/docs/assets/powered-by-disco.svg",
+      "https://github.com/unclecode/crawl4ai/raw/main/docs/assets/powered-by-night.svg",
+      "https://github.com/unclecode/crawl4ai/raw/main/docs/assets/powered-by-dark.svg",
+      "https://github.com/unclecode/crawl4ai/raw/main/docs/assets/powered-by-light.svg",
+      "https://camo.githubusercontent.com/ab5215663fb1f24f5e379ce1d3cadc6b4c0b3aabe77c644c8377074fc1321ea0/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d756e636c65636f64652f637261776c34616926747970653d44617465"
+    ],
+    "description_zh": "🚀🤖 Crawl4AI：开源LLM友好型网络爬虫与抓取工具。不要害羞，加入这里：https://discord.gg/jP8KfhDhyN"
+  },
+  {
+    "description": "A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager",
+    "language": "TypeScript",
+    "name": "louislam/dockge",
+    "stars": "16168",
+    "url": "https://github.com/louislam/dockge",
+    "topics": [
+      "docker",
+      "responsive",
+      "docker-compose",
+      "docker-deployment",
+      "single-page-app",
+      "websocket",
+      "socket-io",
+      "selfhosted",
+      "self-hosted",
+      "webapp",
+      "docker-stack",
+      "docker-ui",
+      "docker-stack-deploy"
+    ],
+    "readme_images": [
+      "https://github.com/louislam/dockge/raw/master/frontend/public/icon.svg",
+      "https://camo.githubusercontent.com/0cb57329a9574c0acd8252e87ac995cf159d41d7f845c647c304401cc80b9616/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f70756c6c732f6c6f7569736c616d2f646f636b67653f6c6f676f3d646f636b6572",
+      "https://camo.githubusercontent.com/39743194ddd5cb483e98e2c8a75ad6a935c0e80574c9e9ee14d24c919b45fbc5/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f762f6c6f7569736c616d2f646f636b67652f6c61746573743f6c6162656c3d646f636b6572253230696d6167652532307665722e",
+      "https://camo.githubusercontent.com/9ff693b8b6fa1c56b2ed958b282b3eca8fda1b61eb8f66e7f145cc6c68462952/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f6c6f7569736c616d2f646f636b67652f6d61737465723f6c6f676f3d676974687562",
+      "https://private-user-images.githubusercontent.com/1336778/280767691-26a583e1-ecb1-4a8d-aedf-76157d714ad7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM1NDY0NjksIm5iZiI6MTc0MzU0NjE2OSwicGF0aCI6Ii8xMzM2Nzc4LzI4MDc2NzY5MS0yNmE1ODNlMS1lY2IxLTRhOGQtYWVkZi03NjE1N2Q3MTRhZDcucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDQwMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA0MDFUMjIyMjQ5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MjVmNzM1NGI3ZTUyMDc5ZTQ0YjEwYWQ0OTMxNTE0MTE0ZjkxYWZiYzg0ZDg5ZWE4YzczZTE4NmQ2Y2ZlYjQxMyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.bJUIV23QTXEd-0Lb9OhN-ERI4JYGvtUH-DkDn6LNxMk",
+      "https://private-user-images.githubusercontent.com/1336778/282257591-cc071864-592e-4909-b73a-343a57494002.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM1NDY0NjksIm5iZiI6MTc0MzU0NjE2OSwicGF0aCI6Ii8xMzM2Nzc4LzI4MjI1NzU5MS1jYzA3MTg2NC01OTJlLTQ5MDktYjczYS0zNDNhNTc0OTQwMDIucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDQwMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA0MDFUMjIyMjQ5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZGYxN2ZmNzM0YWU1NmYxOTFiNzdhY2Y1N2QyZGFkMjk4YmUyODAwZWZlZmYzYmIwMjA3Zjk4NDc5MDJhOTY1NCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.dL83YdJOsCQKt1W1irhJgO6Vr-PyIJ1_wjiWeLNPAoQ",
+      "https://private-user-images.githubusercontent.com/1336778/282278500-89fc1023-b069-42c0-a01c-918c495f1a6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM1NDY0NjksIm5iZiI6MTc0MzU0NjE2OSwicGF0aCI6Ii8xMzM2Nzc4LzI4MjI3ODUwMC04OWZjMTAyMy1iMDY5LTQyYzAtYTAxYy05MThjNDk1ZjFhNmEuZ2lmP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDQwMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA0MDFUMjIyMjQ5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZWFlMzM4Mzg5MTMxOThmMGIwZjg2YjdkZmVmNDgxOTg2NGRjN2ZkYzJmOGNjMDA0MjcwY2RjMWY3OTJhZTA2ZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.-9EqJDu_whQal1mxMh915g9NuBLK4PxNlqKK57kFL_g",
+      "https://private-user-images.githubusercontent.com/1336778/282278500-89fc1023-b069-42c0-a01c-918c495f1a6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM1NDY0NjksIm5iZiI6MTc0MzU0NjE2OSwicGF0aCI6Ii8xMzM2Nzc4LzI4MjI3ODUwMC04OWZjMTAyMy1iMDY5LTQyYzAtYTAxYy05MThjNDk1ZjFhNmEuZ2lmP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDQwMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA0MDFUMjIyMjQ5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZWFlMzM4Mzg5MTMxOThmMGIwZjg2YjdkZmVmNDgxOTg2NGRjN2ZkYzJmOGNjMDA0MjcwY2RjMWY3OTJhZTA2ZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.-9EqJDu_whQal1mxMh915g9NuBLK4PxNlqKK57kFL_g",
+      "https://private-user-images.githubusercontent.com/1336778/282259840-e7ff0222-af2e-405c-b533-4eab04791b40.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM1NDY0NjksIm5iZiI6MTc0MzU0NjE2OSwicGF0aCI6Ii8xMzM2Nzc4LzI4MjI1OTg0MC1lN2ZmMDIyMi1hZjJlLTQwNWMtYjUzMy00ZWFiMDQ3OTFiNDAucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDQwMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA0MDFUMjIyMjQ5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MDM5YmY5NTg2OGFhNTgwNzQ0Y2FjYjk2YzNhZjJkY2MzNTViM2M4OGQ5ZWE1ZjgxODM5MzM3OTg3NjgzNTlkYyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.bcrvKqzXt4vkyA4Ltw2vs_SAzZZDF8XC_mjfcwu1QPE",
+      "https://private-user-images.githubusercontent.com/1336778/282253652-7139e88c-77ed-4d45-96e3-00b66d36d871.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM1NDY0NjksIm5iZiI6MTc0MzU0NjE2OSwicGF0aCI6Ii8xMzM2Nzc4LzI4MjI1MzY1Mi03MTM5ZTg4Yy03N2VkLTRkNDUtOTZlMy0wMGI2NmQzNmQ4NzEucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDQwMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA0MDFUMjIyMjQ5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9N2QxMjAxYWE1M2IxNDg1ODVjOWRkZGY1MDhiN2QzOTg2NDFjOTllYWFkOTlkMzVhYjJkMzQxNmI1YTYzMzA2ZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.IEmibJFHCNE0BQF1POD-xDAHYeVvq7iVb18LiJOtw6A",
+      "https://private-user-images.githubusercontent.com/1336778/282253675-f019944c-0e87-405b-a1b8-625b35de1eeb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM1NDY0NjksIm5iZiI6MTc0MzU0NjE2OSwicGF0aCI6Ii8xMzM2Nzc4LzI4MjI1MzY3NS1mMDE5OTQ0Yy0wZTg3LTQwNWItYTFiOC02MjViMzVkZTFlZWIucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDQwMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA0MDFUMjIyMjQ5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZDkxMGNlMjk3NGJkYjE3YzY4ZDllYTc5M2MzNDEzZTFkMzcyODZjMGQwZTMxNDk1YzAzMzRkMjUxYTUyZDBmNiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.X09uVSnihrVljHaDrx3J_XRsjhmdqlpjdBiMltZ8AW8",
+      "https://private-user-images.githubusercontent.com/1336778/282253695-a4478d23-b1c4-4991-8768-1a7cad3472e3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM1NDY0NjksIm5iZiI6MTc0MzU0NjE2OSwicGF0aCI6Ii8xMzM2Nzc4LzI4MjI1MzY5NS1hNDQ3OGQyMy1iMWM0LTQ5OTEtODc2OC0xYTdjYWQzNDcyZTMucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDQwMSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA0MDFUMjIyMjQ5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ODVlMDcxYmZkZGZkZmFkODk3NjBlODllMjFhM2JhZDkwNGY2ZjZmYzI3YTVhNWE1MzdmNWE4NGQ2YjJiNjJhMSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.RR5r6RS7D6OMk9tiigedAp42VpFv7r5Zl55lZIBRxbE"
+    ],
+    "description_zh": "一个花哨、易于使用且响应迅速的自托管docker compose.yaml堆栈管理器",
+    "topics_zh": [
+      "docker",
+      "响应式",
+      "docker-compose",
+      "docker部署",
+      "单页应用",
+      "websocket",
+      "socket.io",
+      "自托管",
+      "自托管",
+      "网页应用",
+      "docker栈",
+      "docker界面",
+      "docker栈部署"
+    ]
+  }
+]

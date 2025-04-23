@@ -1,0 +1,239 @@
+[
+  {
+    "name": "EverTutor Live",
+    "description": "EverTutor is your AI-powered voice tutor, personalized to your learning style. Engage with it like an interactive Zoom call to master complex topics like GRE prep. Receive instant feedback as your AI tutor tailors lessons to your pace and needs.",
+    "product_hunt_url": "https://www.producthunt.com/posts/evertutor-live",
+    "created_at": "",
+    "id": "evertutor-live",
+    "label": "Your very own AI Tutor that teaches, adapts, and interacts",
+    "topics": [
+      "Education",
+      "Online Learning",
+      "Artificial Intelligence"
+    ],
+    "votes": 485,
+    "visit_url": "https://live.evertutor.ai/onboarding",
+    "image": "https://ph-files.imgix.net/040eee27-aee2-4d42-9b19-4cda3a9b486b.jpeg"
+  },
+  {
+    "name": "Amurex",
+    "description": "Amurex is an open-source AI that integrates in your workflow, connecting and organizing knowledge across your existing tooling. Search, organise, and retrieve insights effortlessly, without switching contexts. Fully self-hostable for complete data control.",
+    "product_hunt_url": "https://www.producthunt.com/posts/amurex",
+    "created_at": "",
+    "id": "amurex",
+    "label": "AI companion to organize, retrieve and act on your workflows",
+    "topics": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Open Source"
+    ],
+    "votes": 409,
+    "visit_url": "https://www.amurex.ai/",
+    "image": "https://ph-files.imgix.net/02ecf6d7-0625-4482-9eea-da969e4570d2.jpeg"
+  },
+  {
+    "name": "Llama 4",
+    "description": "The Llama 4 collection of models are natively multimodal AI models that enable text and multimodal experiences. These models leverage a mixture-of-experts architecture to offer industry-leading performance in text and image understanding.",
+    "product_hunt_url": "https://www.producthunt.com/posts/llama-4-5",
+    "created_at": "",
+    "id": "llama-4-5",
+    "label": "A new era of natively multimodal AI innovation",
+    "topics": [
+      "Developer Tools",
+      "Artificial Intelligence"
+    ],
+    "votes": 346,
+    "visit_url": "https://llama.com/4",
+    "image": "https://ph-files.imgix.net/44208b61-f7ee-4588-8ac9-496747a111a4.png"
+  },
+  {
+    "name": "Refgrow",
+    "description": "Turn your users into affiliates — right inside your SaaS. Refgrow lets you embed a native affiliate dashboard into your product in minutes. No external tools. No earnings limits. From just $9/mo.",
+    "product_hunt_url": "https://www.producthunt.com/posts/refgrow-2",
+    "created_at": "",
+    "id": "refgrow-2",
+    "label": "Add an affiliate program to your SaaS in minutes",
+    "topics": [
+      "Growth Hacking",
+      "SaaS",
+      "Affiliate marketing"
+    ],
+    "votes": 273,
+    "visit_url": "https://refgrow.com",
+    "image": "https://ph-files.imgix.net/6b0890a1-5d13-4e20-865e-010cb3c5cf11.png"
+  },
+  {
+    "name": "The New Microsoft Copilot",
+    "description": "Meet the new Microsoft Copilot, your AI companion that remembers details (Memory), takes action (Actions), sees your world (Vision), and more. More personal & useful.",
+    "product_hunt_url": "https://www.producthunt.com/posts/the-new-microsoft-copilot",
+    "created_at": "",
+    "id": "the-new-microsoft-copilot",
+    "label": "Your AI Companion",
+    "topics": [
+      "Bots",
+      "Artificial Intelligence",
+      "Productivity"
+    ],
+    "votes": 237,
+    "visit_url": "https://news.microsoft.com/april-2025-copilot-news/",
+    "image": "https://ph-files.imgix.net/3890b8c9-79d5-4a38-90d6-84fa4197e55a.jpeg"
+  },
+  {
+    "name": "Dayo",
+    "description": "Dayo is a free app that pays you to use less social media. Keep your daily use under 30 minutes and get $5 bucks a day. The money can be used in Dayo’s marketplace of goods and services.",
+    "product_hunt_url": "https://www.producthunt.com/posts/dayo-2",
+    "created_at": "",
+    "id": "dayo-2",
+    "label": "Get paid NOT to use social media",
+    "topics": [
+      "Social Media",
+      "Productivity",
+      "Fintech"
+    ],
+    "votes": 212,
+    "visit_url": "https://dayo.co",
+    "image": "https://ph-files.imgix.net/02fd2727-6e0e-4dc1-8b07-e894cff96f2c.png"
+  },
+  {
+    "name": "Mergify",
+    "description": "Effortlessly merge Spotify playlists, detect and remove duplicates, and sync updates automatically. Combine your playlists with others or Spotify-generated ones to create the ultimate mix. Keep your music clean, organized, and always up-to-date!",
+    "product_hunt_url": "https://www.producthunt.com/posts/mergify-2",
+    "created_at": "",
+    "id": "mergify-2",
+    "label": "Merge Spotify playlists.",
+    "topics": [
+      "User Experience",
+      "Music",
+      "Spotify"
+    ],
+    "votes": 161,
+    "visit_url": "https://mergify.marink.me/",
+    "image": "https://ph-files.imgix.net/47e10c71-11e8-452f-aed5-b7c333c7c39e.png"
+  },
+  {
+    "name": "blakebill",
+    "description": "blakebill lets you set your price, share your work, and get paid—perfect for freelance videographers, coders, designers, music producers, pretty much any creative professional.",
+    "product_hunt_url": "https://www.producthunt.com/posts/blakebill",
+    "created_at": "",
+    "id": "blakebill",
+    "label": "Send your files. No payment, no download.",
+    "topics": [
+      "Developer Tools",
+      "Design Tools",
+      "SaaS"
+    ],
+    "votes": 170,
+    "visit_url": "https://www.blakebill.com",
+    "image": "https://ph-files.imgix.net/3ae881ee-0586-4fd9-a5d6-d35a4b4c902c.png"
+  },
+  {
+    "name": "Redstone AI – Ship What Customers Want",
+    "description": "Redstone AI helps you ship exactly what customers want—10x faster. Validate ideas risk-free with AI-powered Review Analysis and AI Personas. Spot trends, prioritize features, and build with confidence. Try for free—no credit card needed",
+    "product_hunt_url": "https://www.producthunt.com/posts/redstone-ai-ship-what-customers-want",
+    "created_at": "",
+    "id": "redstone-ai-ship-what-customers-want",
+    "label": "Test customer demand via AI sims, then ship.",
+    "topics": [
+      "Tech",
+      "Productivity",
+      "Analytics"
+    ],
+    "votes": 57,
+    "visit_url": "https://www.metabees.org/redstone",
+    "image": "https://ph-files.imgix.net/dd9a44e5-da16-4332-b266-ffc895768161.jpeg"
+  },
+  {
+    "name": "Sweep AI",
+    "description": "Sweep is an AI coding assistant purpose-built for JetBrains IDEs. We bring features like multi-file code \"apply\" and automatic context awareness into a secure, on-prem ready AI plugin for JetBrains.",
+    "product_hunt_url": "https://www.producthunt.com/posts/sweep-ai-2",
+    "created_at": "",
+    "id": "sweep-ai-2",
+    "label": "AI coding assistant in IntelliJ, PyCharm, and JetBrains IDEs",
+    "topics": [
+      "Developer Tools",
+      "Artificial Intelligence",
+      "Productivity"
+    ],
+    "votes": 143,
+    "visit_url": "https://docs.sweep.dev/#install-sweep",
+    "image": "https://ph-files.imgix.net/bad1e21c-7a90-4f87-accb-3be3cdc88d21.png"
+  },
+  {
+    "name": "Synchora",
+    "description": "Synchora is an app that helps you keep track of time zones around the globe. With simple yet engaging features, Synchora lets you quickly compare time differences and visualize how hours shift throughout the day.",
+    "product_hunt_url": "https://www.producthunt.com/posts/synchora",
+    "created_at": "",
+    "id": "synchora",
+    "label": "Timezone tracker to visualize how your hours shift",
+    "topics": [
+      "Travel",
+      "Productivity",
+      "Time Tracking"
+    ],
+    "votes": 149,
+    "visit_url": "https://synchora.yevhenholota.com/",
+    "image": "https://ph-files.imgix.net/9bcafbff-0ff7-4f86-99d9-651d3920eab8.jpeg"
+  },
+  {
+    "name": "Update",
+    "description": "Build powerful apps with seamless user authentication, organization management, and built-in subscription billing.",
+    "product_hunt_url": "https://www.producthunt.com/posts/update-3",
+    "created_at": "",
+    "id": "update-3",
+    "label": "⚡️ Authentication & Billing Made Easy",
+    "topics": [
+      "Developer Tools",
+      "Payments",
+      "Development"
+    ],
+    "votes": 144,
+    "visit_url": "https://update.dev",
+    "image": "https://ph-files.imgix.net/686e359e-e789-4636-9df4-ab5f2155c3bc.png"
+  },
+  {
+    "name": "Klack",
+    "description": "A blazing fast native menubar app for Mac with high-fidelity sound, immersive spatial audio, instant type feedback, customizable switches, up/down keystrokes, and randomized pitching—designed to make every keystroke feel alive.",
+    "product_hunt_url": "https://www.producthunt.com/posts/klack",
+    "created_at": "",
+    "id": "klack",
+    "label": "Satisfying sound with every keystroke",
+    "topics": [
+      "Mac"
+    ],
+    "votes": 123,
+    "visit_url": "https://tryklack.com",
+    "image": "https://ph-files.imgix.net/b6170198-23d7-42d9-9e37-43c622fd5dc1.webp"
+  },
+  {
+    "name": "ResumeInvent",
+    "description": "Tired of wasting time tweaking your resume? Meet ResumeInvent – the internet's first ATS resume builder that gives you a 100% ATS-optimized resume. No more suggestions or content to adjust, just a complete, job-winning resume ready to land you your dream job!",
+    "product_hunt_url": "https://www.producthunt.com/posts/resumeinvent",
+    "created_at": "",
+    "id": "resumeinvent",
+    "label": "Get Noticed, Get Hired – The ATS Way!",
+    "topics": [
+      "Artificial Intelligence",
+      "Career",
+      "Writing"
+    ],
+    "votes": 46,
+    "visit_url": "https://resumeinvent.com",
+    "image": "https://ph-files.imgix.net/a924983c-0c4d-4981-9e95-36a8f4189d5e.png"
+  },
+  {
+    "name": "VidifyAI Studio",
+    "description": "Create studio-quality videos featuring lifelike AI avatars in minutes, not hours. The smarter way to produce engaging content for marketing, education, and business.",
+    "product_hunt_url": "https://www.producthunt.com/posts/vidifyai-studio",
+    "created_at": "",
+    "id": "vidifyai-studio",
+    "label": "Create stunning AI videos from text in minutes.",
+    "topics": [
+      "Marketing",
+      "Artificial Intelligence",
+      "SaaS"
+    ],
+    "votes": 54,
+    "visit_url": "https://www.vidifyai.in/",
+    "image": "https://ph-files.imgix.net/7b3b49ba-b181-4917-b5cb-c3df25dd92f1.png"
+  }
+]

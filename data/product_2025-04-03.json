@@ -1,0 +1,242 @@
+[
+  {
+    "name": "EasyStaff Payroll",
+    "description": "EasyStaff Payroll is a platform for convenient and secure payments to freelancers. With built-in compliance and simplified B2B2C contracts, you can effortlessly pay anyone, anywhere, anytime.",
+    "product_hunt_url": "https://www.producthunt.com/posts/easystaff-payroll",
+    "created_at": "",
+    "id": "easystaff-payroll",
+    "label": "Pay abroad to teams & freelancers with 360° compliance",
+    "topics": [
+      "Freelance",
+      "Fintech",
+      "Human Resources"
+    ],
+    "votes": 589,
+    "visit_url": "https://easystaff.io/payroll-producthunt/",
+    "image": "https://ph-files.imgix.net/5de4fef1-112c-4010-b6f0-7bea7ebb1073.png"
+  },
+  {
+    "name": "Readdy",
+    "description": "Build your dream websites by talking with AI - no drag-and-drop needed. When you're happy, publish instantly, or export as clean code or Figma files.\n\nPerfect for small teams with limited design resources, or agencies looking to deliver 10x faster.",
+    "product_hunt_url": "https://www.producthunt.com/posts/readdy",
+    "created_at": "",
+    "id": "readdy",
+    "label": "Websites that stand out, built and published in minutes",
+    "topics": [
+      "Developer Tools",
+      "Website Builder",
+      "Design Tools"
+    ],
+    "votes": 565,
+    "visit_url": "https://readdy.ai",
+    "image": "https://ph-files.imgix.net/16cba483-a4c5-4de9-815f-52e6adc3c3a1.png"
+  },
+  {
+    "name": "Recall Augmented Browsing",
+    "description": "Ever read something and think, 'I’ve seen this before'—but can’t remember where? Augmented Browsing resurfaces related content from your Recall knowledgebase, turning passive browsing into active discovery. Join 200K+ nerds and elevate how you consume content.",
+    "product_hunt_url": "https://www.producthunt.com/posts/recall-augmented-browsing",
+    "created_at": "",
+    "id": "recall-augmented-browsing",
+    "label": "Never wonder where you've seen something before.",
+    "topics": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Browser Extensions"
+    ],
+    "votes": 478,
+    "visit_url": "https://www.getrecall.ai/?t=producthunt",
+    "image": "https://ph-files.imgix.net/fc239698-e7c8-45c9-9bc7-7137fde58547.png"
+  },
+  {
+    "name": "Supabase UI Library",
+    "description": "A collection of powerful, customizable UI components built on shadcn/ui. Instantly add Supabase Auth forms, Storage uploads, Realtime chat, cursors, and presence indicators, and more to any Next.js, React Router, TanStack Start, or plain React project.",
+    "product_hunt_url": "https://www.producthunt.com/posts/supabase-ui-library",
+    "created_at": "",
+    "id": "supabase-ui-library",
+    "label": "Drop-in components based on shadcn/ui & powered by Supabase",
+    "topics": [
+      "Developer Tools",
+      "GitHub",
+      "Open Source"
+    ],
+    "votes": 445,
+    "visit_url": "https://supabase.com/ui",
+    "image": "https://ph-files.imgix.net/2a081e70-6ae6-48ca-b7dd-c728442a5c05.png"
+  },
+  {
+    "name": "Vapi",
+    "description": "Voice models sound great—but turning them into voice agents and scaling them reliably is hard. Vapi provides everything needed to build, test, and deploy a voice agent, all the way up to millions of calls. Join the community of 150,000+ developers today.",
+    "product_hunt_url": "https://www.producthunt.com/posts/vapi-2",
+    "created_at": "",
+    "id": "vapi-2",
+    "label": "Voice AI agents for Developers",
+    "topics": [
+      "Artificial Intelligence",
+      "Audio",
+      "Developer Tools"
+    ],
+    "votes": 397,
+    "visit_url": "https://vapi.ai",
+    "image": "https://ph-files.imgix.net/2063f5c1-c1ee-4ed3-929e-de43858a2b7c.png"
+  },
+  {
+    "name": "Exponent",
+    "description": "Exponent is a highly capable AI agent that collaborates on any software engineering task from exploration to deployment. Early users have been using Exponent to debug Docker, write SQL queries, automate incident response, and much more.",
+    "product_hunt_url": "https://www.producthunt.com/posts/exponent-83",
+    "created_at": "",
+    "id": "exponent-83",
+    "label": "A programming agent that runs anywhere, from local dev to CI",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Software Engineering"
+    ],
+    "votes": 268,
+    "visit_url": "https://www.exponent.run",
+    "image": "https://ph-files.imgix.net/6461bd03-433c-41b3-bfe7-0c3de7a9eb35.png"
+  },
+  {
+    "name": "doola Business-in-a-Box™ for E-Commerce",
+    "description": "The ultimate Business-in-a-Box™ solution for E-Commerce entrepreneurs. We handle all the unsexy yet critical back-office tasks, from entity formation and bookkeeping to business analytics and tax filings, so you can focus on growing your dream business.",
+    "product_hunt_url": "https://www.producthunt.com/posts/doola-business-in-a-box-for-e-commerce-2",
+    "created_at": "",
+    "id": "doola-business-in-a-box-for-e-commerce-2",
+    "label": "Your E-Commerce back office. Simplified.",
+    "topics": [
+      "E-Commerce",
+      "Analytics",
+      "Fintech"
+    ],
+    "votes": 228,
+    "visit_url": "https://www.doola.com",
+    "image": "https://ph-files.imgix.net/7e43594a-64ce-4e43-9a69-ccdbf3b5a141.png"
+  },
+  {
+    "name": "Enigma",
+    "description": "Enigma is a UFO/UAP sighting alerting and reporting platform. Every day, thousands of people see something they can't explain in the skies. Seen something unusual in the sky? Share your UFO sighting story and read accounts from thousands of other witnesses!",
+    "product_hunt_url": "https://www.producthunt.com/posts/enigma-4",
+    "created_at": "",
+    "id": "enigma-4",
+    "label": "Discover and report UFO/UAP sightings around the world",
+    "topics": [
+      "Android",
+      "Social Media",
+      "iOS"
+    ],
+    "votes": 186,
+    "visit_url": "https://enigmalabs.io/",
+    "image": "https://ph-files.imgix.net/afb094a2-6ecb-46ae-bf1e-1a60c49c63a3.png"
+  },
+  {
+    "name": "Internet.io",
+    "description": "Do you really trust one AI's answer?\nOur mission is to empower individuals with reliable AI insights by uniting top AI engines on one platform. We foster innovation through a low-code platform, enabling users to create & share their Agents for the community.",
+    "product_hunt_url": "https://www.producthunt.com/posts/internet-io",
+    "created_at": "",
+    "id": "internet-io",
+    "label": "One Platform, Endless Possibilities",
+    "topics": [
+      "Artificial Intelligence",
+      "Tech",
+      "User Experience"
+    ],
+    "votes": 180,
+    "visit_url": "https://internet.io",
+    "image": "https://ph-files.imgix.net/a1fbee35-41b3-4f60-ad2d-a25cfa82629e.png"
+  },
+  {
+    "name": "OpenAI Academy",
+    "description": "Learn AI with OpenAI Academy, a free online resource hub. Offers workshops, videos, and content for all backgrounds, from basics to advanced topics.",
+    "product_hunt_url": "https://www.producthunt.com/posts/openai-academy",
+    "created_at": "",
+    "id": "openai-academy",
+    "label": "Free AI Literacy for Everyone",
+    "topics": [
+      "Artificial Intelligence",
+      "Online Learning",
+      "Education"
+    ],
+    "votes": 174,
+    "visit_url": "https://academy.openai.com/",
+    "image": "https://ph-files.imgix.net/b5927fd0-c4c1-4874-8c80-06307fd7b8bf.png"
+  },
+  {
+    "name": "FlyonUI 2.0",
+    "description": "FlyonUI is the easiest, free, open-source Tailwind CSS components library with semantic classes. The new FlyonUI v2.0.0 is now fully compatible with tailwind v4, new components and new themes 🎉",
+    "product_hunt_url": "https://www.producthunt.com/posts/flyonui-2-0",
+    "created_at": "",
+    "id": "flyonui-2-0",
+    "label": "An open-source Tailwind CSS Components Library.",
+    "topics": [
+      "Open Source",
+      "Developer Tools",
+      "Design Tools"
+    ],
+    "votes": 57,
+    "visit_url": "https://flyonui.com/",
+    "image": "https://ph-files.imgix.net/5db3e265-60fe-4b8b-a41d-b45c98f4c880.png"
+  },
+  {
+    "name": "Growstack AI",
+    "description": "GrowStack is an AI workflow platform unifying no-code automations and advanced AI Agents. Speed up tasks like lead outreach or invoice processing, slash busywork, and see 70% faster ops with 3× ROI. It’s your next leap to hyper-efficiency.",
+    "product_hunt_url": "https://www.producthunt.com/posts/growstack-ai-2",
+    "created_at": "",
+    "id": "growstack-ai-2",
+    "label": "AI Agents. Smarter Workflows. Effortless Automation.",
+    "topics": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Growth Hacking"
+    ],
+    "votes": 55,
+    "visit_url": "https://growstack.ai/",
+    "image": "https://ph-files.imgix.net/60a3ae52-f9ea-4aaa-9852-c64b43c0eedd.jpeg"
+  },
+  {
+    "name": "Cove AI Apps",
+    "description": "Cove is a visual workspace for thinking with AI. Now you can create personalized, interactive tools right in your Cove spaces to help on all your projects. Because sometimes the answer you need from AI isn’t just text, it’s an interactive experience.",
+    "product_hunt_url": "https://www.producthunt.com/posts/cove-ai-apps",
+    "created_at": "",
+    "id": "cove-ai-apps",
+    "label": "Visual workspace where tools are instantly created for you",
+    "topics": [
+      "Artificial Intelligence",
+      "Productivity",
+      "No-Code"
+    ],
+    "votes": 158,
+    "visit_url": "https://cove.ai/apps",
+    "image": "https://ph-files.imgix.net/41d5602b-5f52-4683-b2e2-3c2e6f7ad1ac.png"
+  },
+  {
+    "name": "Kozy",
+    "description": "Enabling anyone to create professionally edited videos effortlessly. Describe your ideal video edit in plain language. Kozy Studio handles the complex editing work for you. From TikToks to YouTube videos and ads, get high quality edits fast.",
+    "product_hunt_url": "https://www.producthunt.com/posts/kozy",
+    "created_at": "",
+    "id": "kozy",
+    "label": "Bolt/Loveable for Video Editing. Quality edits in seconds.",
+    "topics": [
+      "Marketing",
+      "Social Media",
+      "Video"
+    ],
+    "votes": 157,
+    "visit_url": "https://www.kozy.studio/",
+    "image": "https://ph-files.imgix.net/6eba6dfc-ce77-4e2e-8ac5-2606042d4d4c.png"
+  },
+  {
+    "name": "DreamFlow",
+    "description": "DreamFlow turns your text prompts into fully-functional Flutter apps in minutes. Powered by FlutterFlow's proven expertise and cutting-edge AI, it's the fastest way to transform ideas into high-quality mobile experiences.",
+    "product_hunt_url": "https://www.producthunt.com/posts/dreamflow",
+    "created_at": "",
+    "id": "dreamflow",
+    "label": "Instantly build Flutter apps from text prompts",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "No-Code"
+    ],
+    "votes": 143,
+    "visit_url": "https://dreamflow.com/",
+    "image": "https://ph-files.imgix.net/0223b3a7-0faf-4ba7-ba58-cba569a24d42.jpeg"
+  }
+]

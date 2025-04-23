@@ -1,0 +1,335 @@
+[
+  {
+    "name": "Subscription Day",
+    "description": "All your paid subscriptions in one place. Track monthly, annual, trial, and one‑time payments with a unique, minimalist menu bar calendar featuring multi‑currency support and insightful statistics—all at a glance.",
+    "product_hunt_url": "https://www.producthunt.com/posts/subscription-day",
+    "created_at": "",
+    "id": "subscription-day",
+    "label": "Track your paid subscriptions at Menu Bar",
+    "topics": [
+      "Menu Bar Apps",
+      "Personal Finance",
+      "Calendar"
+    ],
+    "votes": 474,
+    "visit_url": "https://apps.apple.com/ua/app/subscription-day-calendar/id6743316600?mt=12",
+    "image": "https://ph-files.imgix.net/44ee6ccb-b87d-4f9d-b43a-a6b4e8875cd9.jpeg",
+    "label_zh": "在菜单栏跟踪您的付费订阅",
+    "topics_zh": [
+      "菜单栏应用",
+      "个人理财",
+      "日历"
+    ],
+    "content_zh": "所有付费订阅一目了然。通过一个独特的极简风格菜单栏日历，您可以轻松跟踪月度、年度、试用和一次性付款，并支持多种货币和直观的统计数据，一切尽在眼前。"
+  },
+  {
+    "name": "Grimo (:b)eta",
+    "description": "Maybe the strongest AI text editor \n🆓 FREE Access to DeepSeek R1, Gemini 2.5 Pro, Claude 3.7 Sonnet, OpenAI o3-mini ... along with Web Search, MCP, Voice Input, Memory, Prompt Management... 🎤 Built for Expression - Coherent. Customized. Collaborative.",
+    "product_hunt_url": "https://www.producthunt.com/posts/grimo-b-eta",
+    "created_at": "",
+    "id": "grimo-b-eta",
+    "label": "Cursor for writing",
+    "topics": [
+      "Marketing",
+      "Writing",
+      "Artificial Intelligence"
+    ],
+    "votes": 312,
+    "visit_url": "https://grimo.ai",
+    "image": "https://ph-files.imgix.net/2300ecfc-0039-4ff3-b530-05b21471648c.png",
+    "label_zh": "写作光标",
+    "topics_zh": [
+      "市场营销",
+      "写作",
+      "人工智能"
+    ],
+    "content_zh": "可能是最强的AI文本编辑器\n免费使用DeepSeek R1、Gemini 2.5 Pro、Claude 3.7 Sonnet、OpenAI o3-mini等，还支持网络搜索、MCP、语音输入、记忆功能和提示管理... 🎤 专为表达设计 - 逻辑清晰、个性化、协作性强。"
+  },
+  {
+    "name": "OctoComics",
+    "description": "OctoComics is AI-powerd comic generator and community, supports BL comics, serialized comics, OC character comics, etc. \nWith excellent AI model helps users quickly generate script storyboards, characters and images. User can also upload story or character.",
+    "product_hunt_url": "https://www.producthunt.com/posts/octocomics",
+    "created_at": "",
+    "id": "octocomics",
+    "label": "AI Comic creation tool Includes generator and community",
+    "topics": [
+      "Comics & Graphic Novels",
+      "Entertainment",
+      "Artificial Intelligence"
+    ],
+    "votes": 266,
+    "visit_url": "https://www.octocomics.com/home",
+    "image": "https://ph-files.imgix.net/069c9fdc-6b22-4734-a7e6-26a6253fa8ab.png",
+    "label_zh": "AI漫画创作工具\n包含生成器和社区",
+    "topics_zh": [
+      "漫画与图像小说",
+      "娱乐",
+      "人工智能"
+    ],
+    "content_zh": "OctoComics 是一个由 AI 驱动的漫画生成器和社区，支持 BL 漫画、连载漫画、原创角色漫画等多种类型。它拥有出色的 AI 模型，能够帮助用户快速生成剧本分镜、角色和图像。用户还可以上传自己的故事或角色。"
+  },
+  {
+    "name": "Keyword Research Tool",
+    "description": "No more guesswork - only actionable insights with our keyword research tool. Discover what your audience is searching for, see trend patterns and get essential insights. Try it for free - No cost, no sign-ups.",
+    "product_hunt_url": "https://www.producthunt.com/posts/keyword-research-tool",
+    "created_at": "",
+    "id": "keyword-research-tool",
+    "label": "Quickly research keywords with no sign ups or payments",
+    "topics": [
+      "Marketing",
+      "Productivity",
+      "SEO"
+    ],
+    "votes": 250,
+    "visit_url": "https://www.massiveonlinemarketing.nl/en/tools/keyword-research",
+    "image": "https://ph-files.imgix.net/69e93e94-d252-43f7-964c-9d9776fb8efc.jpeg",
+    "label_zh": "快速研究关键词，无需注册或付费",
+    "topics_zh": [
+      "市场营销",
+      "生产力",
+      "搜索引擎优化"
+    ],
+    "content_zh": "不再凭空猜测，使用我们的Keyword Research Tool获取实用的洞察。了解你的受众在搜索什么，查看趋势模式并获得关键信息。免费试用 - 无需费用，无需注册。"
+  },
+  {
+    "name": "Webfuse",
+    "description": "Instantly extend, automate & share any web session.  Create a Virtual Web Session to instantly embed new features into any web app.  Integrate AI-driven automation and real-time collaboration all without changing the original application.",
+    "product_hunt_url": "https://www.producthunt.com/posts/webfuse",
+    "created_at": "",
+    "id": "webfuse",
+    "label": "Augment. Automate. Own the web.",
+    "topics": [
+      "Browser Extensions",
+      "Web App",
+      "Artificial Intelligence"
+    ],
+    "votes": 69,
+    "visit_url": "https://www.webfuse.com",
+    "image": "https://ph-files.imgix.net/cf521835-30ec-4274-9828-6a6e52f1f7f1.png",
+    "label_zh": "增强。自动化。掌控网络。",
+    "topics_zh": [
+      "浏览器扩展，Web应用，人工智能"
+    ],
+    "content_zh": "即时扩展、自动化并共享任何网页会话。创建一个虚拟网页会话，即可立即为任何网页应用添加新功能。集成由AI驱动的自动化和实时协作功能，而无需更改原应用。"
+  },
+  {
+    "name": "Lumigo Alpha",
+    "description": "Lumigo is an AI search engine that revolutionises online product search, offering transparent results without sponsored ads. We analyse reviews, blogs and trusted sources to help you find exactly what you need.",
+    "product_hunt_url": "https://www.producthunt.com/posts/lumigo-alpha",
+    "created_at": "",
+    "id": "lumigo-alpha",
+    "label": "Redefining Product Search",
+    "topics": [
+      "Search",
+      "E-Commerce",
+      "Artificial Intelligence"
+    ],
+    "votes": 78,
+    "visit_url": "https://lumigo.ai/",
+    "image": "https://ph-files.imgix.net/3ed58326-d0ec-4db4-85c4-c5ded0dab242.png",
+    "label_zh": "重新定义产品搜索",
+    "topics_zh": [
+      "搜索、电子商务、人工智能"
+    ],
+    "content_zh": "Lumigo 是一款AI搜索引擎，它彻底改变了在线产品搜索的方式，提供透明的搜索结果，没有赞助广告。我们分析评论、博客和可信来源，帮助你找到真正需要的产品。"
+  },
+  {
+    "name": "Nonillion",
+    "description": "Tired of chaotic meetings where everyone talks over each other? Nonilion recreates real-life collaboration, making conversations natural, productive, and seamless. Host meetups, meetings, webinars, and more - Reserve your office for free today.",
+    "product_hunt_url": "https://www.producthunt.com/posts/nonillion",
+    "created_at": "",
+    "id": "nonillion",
+    "label": "Immersive meetings with automation in pixel-virtual offices",
+    "topics": [
+      "Meetings",
+      "Remote Work",
+      "Productivity"
+    ],
+    "votes": 200,
+    "visit_url": "https://www.nonilion.com/mission-control",
+    "image": "https://ph-files.imgix.net/c3a6aafb-6630-40cc-8336-d8d4d992cc6a.png",
+    "label_zh": "沉浸式会议，像素虚拟办公室中的自动化体验",
+    "topics_zh": [
+      "会议",
+      "远程工作",
+      "生产力"
+    ],
+    "content_zh": "厌倦了混乱的会议，大家互相打断对方说话？Nonillion 重现了现实生活中的协作，让对话自然、高效且无缝衔接。无论是举办聚会、会议还是网络研讨会，都可以使用 Nonillion。今天就免费预订您的办公室吧。"
+  },
+  {
+    "name": "L(o*62).ong",
+    "description": "L(o*62).ong provides a handy URL extender that lets you transform original URLs into longer ones.",
+    "product_hunt_url": "https://www.producthunt.com/posts/l-o-62-ong",
+    "created_at": "",
+    "id": "l-o-62-ong",
+    "label": "Make your URL longer",
+    "topics": [
+      "GitHub",
+      "Developer Tools"
+    ],
+    "votes": 183,
+    "visit_url": "https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong/",
+    "image": "https://ph-files.imgix.net/5c8239d0-4722-4903-886a-73f37522f8ba.png",
+    "label_zh": "使你的网址变长",
+    "topics_zh": [
+      "GitHub",
+      "开发者工具"
+    ],
+    "content_zh": "L(o*62).ong 提供了一个方便的 URL 扩展工具，可以将原始网址转换为更长的网址。"
+  },
+  {
+    "name": "Runway Gen-4",
+    "description": "Gen-4 brings a new era of consistent, controllable media. Define your style, and the model ensures coherence across characters, locations, and objects. Maintain mood, style, and cinematography while regenerating elements from multiple angles and perspectives.",
+    "product_hunt_url": "https://www.producthunt.com/posts/runway-gen-4",
+    "created_at": "",
+    "id": "runway-gen-4",
+    "label": "Our next-generation series of AI models for media generation",
+    "topics": [
+      "Photo & Video",
+      "Artificial Intelligence"
+    ],
+    "votes": 176,
+    "visit_url": "https://runwayml.com/research/introducing-runway-gen-4",
+    "image": "https://ph-files.imgix.net/1145814e-15c9-42f4-be57-b7cf0338d257.jpeg",
+    "label_zh": "我们的下一代媒体生成AI模型系列",
+    "topics_zh": [
+      "照片与视频",
+      "人工智能"
+    ],
+    "content_zh": "Gen-4 开启了一个全新的一致性和可控性媒体时代。你可以定义自己的风格，模型会确保角色、场景和物体之间的一致性。在从多个角度和视角重新生成元素时，还能保持氛围、风格和摄影效果。"
+  },
+  {
+    "name": "Geocities.live",
+    "description": "Tired of seeing identical tailwind css/shadcn templates everywhere? \nTransform any webpage into GeoCities style page from 90s with a pinch of AI.",
+    "product_hunt_url": "https://www.producthunt.com/posts/geocities-live",
+    "created_at": "",
+    "id": "geocities-live",
+    "label": "Turn any website into 90s dot-com era",
+    "topics": [
+      "Design Tools",
+      "Developer Tools",
+      "User Experience"
+    ],
+    "votes": 173,
+    "visit_url": "https://geocities.live",
+    "image": "https://ph-files.imgix.net/0cb5f320-3c9a-41b0-a0c3-bc935af40e59.png",
+    "label_zh": "将任何网站变成90年代的点com风格",
+    "topics_zh": [
+      "设计工具",
+      "开发者工具",
+      "用户体验"
+    ],
+    "content_zh": "厌倦了到处看到相同的 Tailwind CSS 或 shadcn 模板吗？用一点点 AI 技术，把任何网页变成90年代 GeoCities 风格的页面。"
+  },
+  {
+    "name": "visionOS 2.4",
+    "description": "visionOS 2.4 update adds Apple Intelligence to Vision Pro, plus new Spatial Gallery and iPhone companion apps for enhanced spatial experiences.",
+    "product_hunt_url": "https://www.producthunt.com/posts/visionos-2-4",
+    "created_at": "",
+    "id": "visionos-2-4",
+    "label": "Apple Intelligence arrives on Vision Pro",
+    "topics": [
+      "Apple",
+      "Apple Vision Pro",
+      "Artificial Intelligence"
+    ],
+    "votes": 164,
+    "visit_url": "https://www.apple.com/newsroom/2025/03/apple-intelligence-comes-to-apple-vision-pro-today-with-visionos-2-4/",
+    "image": "https://ph-files.imgix.net/c1a09dad-718a-4dc9-ac10-fb15991cd0ae.jpeg",
+    "label_zh": "苹果智能，登陆Vision Pro",
+    "topics_zh": [
+      "苹果",
+      "苹果Vision Pro",
+      "人工智能"
+    ],
+    "content_zh": "visionOS 2.4 更新为 Vision Pro 增加了苹果智能功能，还推出了新的空间画廊和 iPhone 配套应用，以提升空间体验。"
+  },
+  {
+    "name": "SnapGrid",
+    "description": "SnapGrid is an open-source desktop app for collecting, organizing, and analyzing UI screenshots. It uses AI to automatically detect UI components and patterns, making it a powerful tool for designers and developers.",
+    "product_hunt_url": "https://www.producthunt.com/posts/snapgrid",
+    "created_at": "",
+    "id": "snapgrid",
+    "label": "Collect, organise, and analyize UI screenshots",
+    "topics": [
+      "Open Source",
+      "Design Tools",
+      "Mac"
+    ],
+    "votes": 141,
+    "visit_url": "https://github.com/gustavscirulis/snapgrid",
+    "image": "https://ph-files.imgix.net/f98fb9ff-3fa5-41fd-b96d-1fcd3bd71c71.png",
+    "label_zh": "收集、整理和分析UI截图",
+    "topics_zh": [
+      "开源",
+      "设计工具",
+      "Mac"
+    ],
+    "content_zh": "SnapGrid 是一个开源的桌面应用程序，用于收集、整理和分析用户界面截图。它利用 AI 技术自动检测 UI 组件和模式，是设计师和开发者的强大工具。"
+  },
+  {
+    "name": "Marauder Bot",
+    "description": "Marauder Bot is a stealth Chrome extension that tackles online technical questions instantly, empowering you to save time on interview prep and focus on solving real-world problems.",
+    "product_hunt_url": "https://www.producthunt.com/posts/marauder-bot",
+    "created_at": "",
+    "id": "marauder-bot",
+    "label": "Ace technical interviews with one click",
+    "topics": [
+      "Chrome Extensions",
+      "Artificial Intelligence"
+    ],
+    "votes": 50,
+    "visit_url": "https://www.marauderbot.com?utm_source=producthunt",
+    "image": "https://ph-files.imgix.net/7abb96e5-f932-4834-9933-f598cd823773.png",
+    "label_zh": "一键搞定技术面试",
+    "topics_zh": [
+      "Chrome 扩展程序",
+      "人工智能"
+    ],
+    "content_zh": "Marauder Bot 是一款隐蔽的 Chrome 扩展程序，可以即时解决在线技术问题，帮助你节省面试准备时间，专注于解决实际问题。"
+  },
+  {
+    "name": "Vuela AI - Video Generator",
+    "description": "Vuela.ai: AI Content Generator transforms boring content into viral material.\nCreate images, texts or viral videos in minutes. Turn your ideas or business needs into captivating stories for your website, YouTube, TikTok, Instagram... in just a few clicks.",
+    "product_hunt_url": "https://www.producthunt.com/posts/vuela-ai-video-generator",
+    "created_at": "",
+    "id": "vuela-ai-video-generator",
+    "label": "AI maker for viral videos,images & SEO posts driving traffic",
+    "topics": [
+      "Video",
+      "Marketing",
+      "Artificial Intelligence"
+    ],
+    "votes": 51,
+    "visit_url": "https://vuela.ai/",
+    "image": "https://ph-files.imgix.net/c2d45515-c0f8-4fc9-8563-3aad2406ecd3.png",
+    "label_zh": "AI 制作工具，用于生成病毒视频、图片和 SEO 文章，以吸引流量",
+    "topics_zh": [
+      "视频",
+      "营销",
+      "人工智能"
+    ],
+    "content_zh": "Vuela AI - Video Generator：这个AI内容生成工具可以把枯燥的内容变成热门素材。几分钟内就能创建图片、文本或热门视频。只需点击几下，就能将你的想法或业务需求转化为吸引人的故事，适用于你的网站、YouTube、TikTok、Instagram等平台。"
+  },
+  {
+    "name": "Semope",
+    "description": "Build a powerful help center for your app with Semope. Customize your knowledge base, improve support, and reduce support tickets—all in one place.",
+    "product_hunt_url": "https://www.producthunt.com/posts/semope",
+    "created_at": "",
+    "id": "semope",
+    "label": "Build a public help center in minutes",
+    "topics": [
+      "SaaS",
+      "Customer Success"
+    ],
+    "votes": 138,
+    "visit_url": "https://semope.com",
+    "image": "https://ph-files.imgix.net/b2959bd0-65ae-46a0-a811-f8e459d082f3.png",
+    "label_zh": "几分钟内搭建一个公共帮助中心",
+    "topics_zh": [
+      "SaaS",
+      "客户成功"
+    ],
+    "content_zh": "使用Semope为你的应用程序构建一个强大的帮助中心。自定义知识库，提升支持质量，减少支持工单，所有功能都在一个平台上实现。"
+  }
+]

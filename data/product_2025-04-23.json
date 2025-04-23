@@ -1,0 +1,238 @@
+[
+  {
+    "name": "Strawberry",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/strawberry-2",
+    "created_at": "",
+    "id": "strawberry-2",
+    "label": "AI browser that saves you 18h/week",
+    "topics": [
+      "Productivity",
+      "Artificial Intelligence"
+    ],
+    "votes": 525,
+    "visit_url": "http://strawberrybrowser.com/ph-early-access",
+    "image": "https://ph-files.imgix.net/7e4de88e-08f4-4af4-891d-19c6ddfd387e.png"
+  },
+  {
+    "name": "spring.new beta",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/spring-new-beta",
+    "created_at": "",
+    "id": "spring-new-beta",
+    "label": "Instantly build your dream SaaS",
+    "topics": [
+      "SaaS",
+      "Development",
+      "Marketing"
+    ],
+    "votes": 377,
+    "visit_url": "https://spring.new",
+    "image": "https://ph-files.imgix.net/b67ba28e-baff-471b-a30a-103a8e2c06d9.png"
+  },
+  {
+    "name": "Botdog (a cheaper Dripify/PhantomBuster)",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/botdog-a-cheaper-dripify-phantombuster",
+    "created_at": "",
+    "id": "botdog-a-cheaper-dripify-phantombuster",
+    "label": "Your new favorite LinkedIn automation tool. $30/month.",
+    "topics": [
+      "Marketing",
+      "Productivity",
+      "Sales"
+    ],
+    "votes": 97,
+    "visit_url": "https://botdog.co",
+    "image": "https://ph-files.imgix.net/78c040ee-b404-4b4b-82ed-0de1dac528e1.png"
+  },
+  {
+    "name": "Buildform",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/buildform-2",
+    "created_at": "",
+    "id": "buildform-2",
+    "label": "Unlimited form responses, partials, logics etc for free",
+    "topics": [
+      "SaaS"
+    ],
+    "votes": 265,
+    "visit_url": "https://buildform.ai/",
+    "image": "https://ph-files.imgix.net/21973fe8-3ba7-4681-97b4-9a07ce822b36.png"
+  },
+  {
+    "name": "Corgea",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/corgea-3",
+    "created_at": "",
+    "id": "corgea-3",
+    "label": "Ship fast without worrying about security",
+    "topics": [
+      "Security",
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "votes": 253,
+    "visit_url": "https://corgea.com/",
+    "image": "https://ph-files.imgix.net/0d858666-a838-485d-a977-c26efc77c669.png"
+  },
+  {
+    "name": "Dummi",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/dummi-2",
+    "created_at": "",
+    "id": "dummi-2",
+    "label": "Instant bug reports with video replay for your users",
+    "topics": [
+      "User Experience",
+      "Developer Tools",
+      "Customer Success"
+    ],
+    "votes": 188,
+    "visit_url": "https://www.dummi.com",
+    "image": "https://ph-files.imgix.net/9ddc0cc5-4d0d-4adf-898a-6f422edaf981.png"
+  },
+  {
+    "name": "Climatize",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/climatize-2",
+    "created_at": "",
+    "id": "climatize-2",
+    "label": "Invest in renewable energy projects. Earn up to 10% annually",
+    "topics": [
+      "Fintech",
+      "Investing",
+      "Climate Tech"
+    ],
+    "votes": 190,
+    "visit_url": "https://www.climatize.earth",
+    "image": "https://ph-files.imgix.net/0f174955-cb91-422d-a243-cbd450c49994.png"
+  },
+  {
+    "name": "Kurator",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/kurator-3",
+    "created_at": "",
+    "id": "kurator-3",
+    "label": "Instantly Analyze & Summarize Content with AI Custom Prompts",
+    "topics": [
+      "Artificial Intelligence",
+      "Chrome Extensions",
+      "Menu Bar Apps"
+    ],
+    "votes": 53,
+    "visit_url": "https://optimalaccess.com/ai-marketers/",
+    "image": "https://ph-files.imgix.net/de3d024b-e468-47d0-97e2-7eee9783811d.jpeg"
+  },
+  {
+    "name": "Webstudio Animations",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/webstudio-animations",
+    "created_at": "",
+    "id": "webstudio-animations",
+    "label": "Silky-smooth, uninterrupted scroll-driven web animations",
+    "topics": [
+      "Animation",
+      "Website Builder"
+    ],
+    "votes": 144,
+    "visit_url": "https://webstudio.is/scroll-driven-animations",
+    "image": "https://ph-files.imgix.net/93d45898-0b25-494a-b6db-ad46f892e5a8.png"
+  },
+  {
+    "name": "Simply Write",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/simply-write",
+    "created_at": "",
+    "id": "simply-write",
+    "label": "Distraction-free writing tool",
+    "topics": [
+      "Notes",
+      "Productivity",
+      "Writing"
+    ],
+    "votes": 144,
+    "visit_url": "https://simplywrite.online",
+    "image": "https://ph-files.imgix.net/632f8e34-bfd2-4d29-ae23-fc9edfef48b6.png"
+  },
+  {
+    "name": "Vewrite",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/vewrite",
+    "created_at": "",
+    "id": "vewrite",
+    "label": "Advanced project management for content writers",
+    "topics": [
+      "Productivity",
+      "Writing",
+      "Marketing"
+    ],
+    "votes": 51,
+    "visit_url": "https://vewrite.com/",
+    "image": "https://ph-files.imgix.net/0a8a79dc-0767-41db-99d4-7d3f70887dc4.png"
+  },
+  {
+    "name": "SitFit: Chair Yoga for Seniors",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/sitfit-chair-yoga-for-seniors",
+    "created_at": "",
+    "id": "sitfit-chair-yoga-for-seniors",
+    "label": "No AI - built for my parent, just simple muscle care",
+    "topics": [
+      "Health & Fitness",
+      "Fitness",
+      "iOS"
+    ],
+    "votes": 146,
+    "visit_url": "https://apps.apple.com/us/app/sitfit-chair-yoga-for-seniors/id6741904178",
+    "image": "https://ph-files.imgix.net/172b06eb-0f69-4fa1-b135-5cc6e5b0e2ff.png"
+  },
+  {
+    "name": "Bluesky Analytics, Search & Growth Tools",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/bluesky-analytics-search-growth-tools",
+    "created_at": "",
+    "id": "bluesky-analytics-search-growth-tools",
+    "label": "Find accounts, track growth, sort followers & schedule posts",
+    "topics": [
+      "Analytics",
+      "Social Media",
+      "Marketing"
+    ],
+    "votes": 57,
+    "visit_url": "https://fedica.com/pages/phlaunch2504/?utm_source=producthunt\\u0026utm_medium=referral\\u0026utm_campaign=producthunt_launch",
+    "image": "https://ph-files.imgix.net/dfb225b5-d379-4944-8a80-716ec0a4ee45.png"
+  },
+  {
+    "name": "Clicky Signature",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/clicky-signature",
+    "created_at": "",
+    "id": "clicky-signature",
+    "label": "Animated HTML email signatures with 1 click",
+    "topics": [
+      "Marketing",
+      "Email Marketing",
+      "Email"
+    ],
+    "votes": 133,
+    "visit_url": "https://clickysignature.com",
+    "image": "https://ph-files.imgix.net/806e713e-6152-4a05-88ca-4dd0f77213af.png"
+  },
+  {
+    "name": "Syft AI News Aggregator",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/syft-ai-news-aggregator",
+    "created_at": "",
+    "id": "syft-ai-news-aggregator",
+    "label": "Daily brief on global news in your language, free AI search",
+    "topics": [
+      "Newsletters",
+      "Virtual Assistants",
+      "News"
+    ],
+    "votes": 66,
+    "visit_url": "https://justsyft.com",
+    "image": "https://ph-files.imgix.net/c23ca466-c9ac-4333-8999-6f32cdab95f4.png"
+  }
+]

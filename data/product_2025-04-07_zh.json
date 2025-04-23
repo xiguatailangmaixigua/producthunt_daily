@@ -1,0 +1,339 @@
+[
+  {
+    "name": "Flexprice",
+    "description": "Flexprice is a billing platform that helps launch & iterate pricing without dev bottlenecks.\n🔓  Cloud or self-hosted\n⚙️ No-code UI\n💰 Usage-based pricing & metering\n🎟 Credits & top-ups\n🔑 Control feature access\n🔗 Works with Stripe, Chargebee, & more",
+    "product_hunt_url": "https://www.producthunt.com/posts/flexprice",
+    "created_at": "",
+    "id": "flexprice",
+    "label": "Usage-based pricing and metering for developers",
+    "topics": [
+      "SaaS",
+      "Open Source",
+      "Artificial Intelligence"
+    ],
+    "votes": 389,
+    "visit_url": "https://flexprice.io/",
+    "image": "https://ph-files.imgix.net/10e37e55-51c0-4a86-8379-94ce71039a6d.jpeg",
+    "label_zh": "基于使用量的定价和计量，专为开发者设计",
+    "topics_zh": [
+      "SaaS",
+      "开源",
+      "人工智能"
+    ],
+    "content_zh": "Flexprice 是一个计费平台，可以帮助你快速启动和调整定价策略，而不会遇到开发瓶颈。\n- 云服务或自托管\n- 无需编写代码的用户界面\n- 基于使用量的定价和计量\n- 余额和充值功能\n- 控制功能访问权限\n- 支持 Stripe、Chargebee 等多种支付系统"
+  },
+  {
+    "name": "Databutton MCP",
+    "description": "For those of you who live under a rock, Databutton lets you build and deploy full-stack apps with AI.\n\nToday, we're launching Databutton MCPs, which lets you talk to your Databutton apps with natural language.\n\nAvailable in Claude, Cursor, OpenAI, and Agno.",
+    "product_hunt_url": "https://www.producthunt.com/posts/databutton-mcp",
+    "created_at": "",
+    "id": "databutton-mcp",
+    "label": "Give your app AI superpowers with MCPs",
+    "topics": [
+      "No-Code",
+      "Developer Tools",
+      "Artificial Intelligence"
+    ],
+    "votes": 311,
+    "visit_url": "https://databutton.com/mcp",
+    "image": "https://ph-files.imgix.net/cacc9b28-1c46-487b-a524-0dccdd926779.gif",
+    "label_zh": "赋予你的应用AI超能力，使用MCPs",
+    "topics_zh": [
+      "无代码",
+      "开发者工具",
+      "人工智能"
+    ],
+    "content_zh": "对于那些不太了解的人来说，Databutton 可以让你用 AI 构建和部署全栈应用。\n\n今天，我们推出了 Databutton MCP，它让你可以用自然语言与 Databutton 应用进行交流。\n\n支持 Claude、Cursor、OpenAI 和 Agno。"
+  },
+  {
+    "name": "Scout",
+    "description": "Never miss a steal on Facebook Marketplace again. Scout instantly alerts you about products you're interested in, saving you hours spent scrolling and refreshing for new listings.",
+    "product_hunt_url": "https://www.producthunt.com/posts/scout-d8f5d930-e30a-4707-8964-99d4ba2f73dd",
+    "created_at": "",
+    "id": "scout-d8f5d930-e30a-4707-8964-99d4ba2f73dd",
+    "label": "Instant Marketplace Alerts",
+    "topics": [
+      "Shopping",
+      "Productivity",
+      "SaaS"
+    ],
+    "votes": 194,
+    "visit_url": "https://apps.apple.com/au/app/scout-notify/id6738621889",
+    "image": "https://ph-files.imgix.net/3d4ebfef-8b7b-4d45-ac51-61a04bdf0e99.png",
+    "label_zh": "即时市场警报",
+    "topics_zh": [
+      "购物",
+      "生产力",
+      "SaaS（软件即服务）"
+    ],
+    "content_zh": "再也不会错过Facebook Marketplace上的好货了。Scout会立即通知你感兴趣的商品，省去了你不断滚动和刷新页面寻找新上架商品的时间。"
+  },
+  {
+    "name": "PyUI Builder",
+    "description": "A GUI builder for python. Create tkinter, Customtk, Kivy and PySide using GUI builder. Supports 3rd party libraries and generates clean Python code",
+    "product_hunt_url": "https://www.producthunt.com/posts/pyui-builder",
+    "created_at": "",
+    "id": "pyui-builder",
+    "label": "Build Python GUIs like Canva",
+    "topics": [
+      "Software Engineering",
+      "Education",
+      "Developer Tools"
+    ],
+    "votes": 208,
+    "visit_url": "https://pyuibuilder.com",
+    "image": "https://ph-files.imgix.net/dfb32e9b-a1ca-41e1-8e81-153f8d9ebbe0.png",
+    "label_zh": "构建像Canva一样的Python图形界面",
+    "topics_zh": [
+      "软件工程",
+      "教育",
+      "开发者工具"
+    ],
+    "content_zh": "PyUI Builder 是一个用于 Python 的图形用户界面构建工具。你可以用它来创建 tkinter、Customtk、Kivy 和 PySide 界面。它支持第三方库，并生成简洁的 Python 代码。"
+  },
+  {
+    "name": "Amazon Buy for Me",
+    "description": "Amazon Buy for Me uses an AI agent within the Amazon app to purchase items for you directly from other brand websites when Amazon doesn't stock them.",
+    "product_hunt_url": "https://www.producthunt.com/posts/amazon-buy-for-me",
+    "created_at": "",
+    "id": "amazon-buy-for-me",
+    "label": "AI Agent that shops in other sites",
+    "topics": [
+      "E-Commerce",
+      "Amazon",
+      "Artificial Intelligence"
+    ],
+    "votes": 160,
+    "visit_url": "https://www.aboutamazon.com/news/retail/amazon-shopping-app-buy-for-me-brands",
+    "image": "https://ph-files.imgix.net/da7f706c-512a-4d20-9931-4c12400eec66.png",
+    "label_zh": "在其他网站购物的AI助手",
+    "topics_zh": [
+      "电子商务",
+      "亚马逊",
+      "人工智能"
+    ],
+    "content_zh": "Amazon Buy for Me 是亚马逊应用中的一个 AI 代理，当亚马逊没有库存时，它可以直接从其他品牌网站为你购买商品。"
+  },
+  {
+    "name": "Wishoom",
+    "description": "Send a message to the universe using laser transmission. Fully encrypted, private and secure.",
+    "product_hunt_url": "https://www.producthunt.com/posts/wishoom",
+    "created_at": "",
+    "id": "wishoom",
+    "label": "Send a message to the universe",
+    "topics": [
+      "Messaging"
+    ],
+    "votes": 125,
+    "visit_url": "https://wishoom.com/",
+    "image": "https://ph-files.imgix.net/f773a9ec-232f-4ac2-97a5-3965364e255f.jpeg",
+    "label_zh": "向宇宙发送一条信息",
+    "topics_zh": [
+      "消息传递"
+    ],
+    "content_zh": "用激光传输向宇宙发送信息。全程加密，私密且安全。"
+  },
+  {
+    "name": "FrameShare",
+    "description": "The first Framer plugin that lets you easily add social share buttons to your Framer website. Let visitors share your website to their social media accounts to increase traffic and build social proof.",
+    "product_hunt_url": "https://www.producthunt.com/posts/frameshare-2",
+    "created_at": "",
+    "id": "frameshare-2",
+    "label": "Social share plugin for Framer",
+    "topics": [
+      "Social media marketing",
+      "Design Tools"
+    ],
+    "votes": 124,
+    "visit_url": "https://frameshare.social",
+    "image": "https://ph-files.imgix.net/5e9aa578-f453-4cc6-b183-c6ed3b6e5271.png",
+    "label_zh": "社交分享插件适用于Framer",
+    "topics_zh": [
+      "社交媒体营销",
+      "设计工具"
+    ],
+    "content_zh": "FrameShare 是第一个能让您轻松在 Framer 网站上添加社交分享按钮的插件。让访客可以将您的网站分享到他们的社交媒体账号，从而增加流量并建立社交信任。"
+  },
+  {
+    "name": "ZippCall",
+    "description": "Make cheap international calls directly from your browser with ZippCall. No downloads, no subscriptions, just affordable rates and crystal-clear quality.",
+    "product_hunt_url": "https://www.producthunt.com/posts/zippcall",
+    "created_at": "",
+    "id": "zippcall",
+    "label": "Cheap international calls in your web-browser",
+    "topics": [
+      "Travel",
+      "Customer Communication",
+      "Tech"
+    ],
+    "votes": 120,
+    "visit_url": "https://www.zippcall.com",
+    "image": "https://ph-files.imgix.net/c0c8300d-1d79-4586-9f1a-6ed9eec7e333.jpeg",
+    "label_zh": "在您的网页浏览器中进行便宜的国际通话",
+    "topics_zh": [
+      "旅行",
+      "客户沟通",
+      "技术"
+    ],
+    "content_zh": "使用ZippCall，你可以在浏览器上直接拨打便宜的国际电话。无需下载任何软件，也不需要订阅，只需支付实惠的费用就能享受清晰的通话质量。"
+  },
+  {
+    "name": "Thumb Zone AI",
+    "description": "Thumb Zone uses AI to help companies design more user-friendly apps and perform usability testing with smaller teams. It helps them iterate 10x faster and 15x cheaper to build better products.",
+    "product_hunt_url": "https://www.producthunt.com/posts/thumb-zone-ai",
+    "created_at": "",
+    "id": "thumb-zone-ai",
+    "label": "Emotion AI for user testing & product experience",
+    "topics": [
+      "UX Design",
+      "User Experience",
+      "Design Tools"
+    ],
+    "votes": 110,
+    "visit_url": "https://thumbzone.ai",
+    "image": "https://ph-files.imgix.net/342c1d77-bf64-4468-9332-c2c10faf61df.png",
+    "label_zh": "情感AI用于用户测试和产品体验",
+    "topics_zh": [
+      "UX设计",
+      "用户体验",
+      "设计工具"
+    ],
+    "content_zh": "Thumb Zone AI 使用人工智能帮助公司设计更用户友好的应用程序，并进行可用性测试，即使团队规模较小也能胜任。它能让产品迭代速度提高10倍，成本降低到原来的十五分之一，从而打造出更好的产品。"
+  },
+  {
+    "name": "ArbitrageOne",
+    "description": "Automate your Amazon Reselling business and boost efficiency with ArbitrageOne. Track all key KPIs in one place, streamline sourcing, and optimize your workflow effortlessly. Stay in control, save time, and scale smarter.",
+    "product_hunt_url": "https://www.producthunt.com/posts/arbitrageone",
+    "created_at": "",
+    "id": "arbitrageone",
+    "label": "Amazon Reselling & Arbitrage Software",
+    "topics": [
+      "E-Commerce",
+      "SaaS",
+      "Amazon"
+    ],
+    "votes": 108,
+    "visit_url": "https://arbitrageone.de/",
+    "image": "https://ph-files.imgix.net/cfb4a9d8-61db-466f-a7cf-cf9a756a794c.png",
+    "label_zh": "亚马逊转售和套利软件",
+    "topics_zh": [
+      "电商",
+      "SaaS",
+      "亚马逊"
+    ],
+    "content_zh": "使用ArbitrageOne自动化你的亚马逊转售业务，提高效率。在一个地方跟踪所有关键绩效指标，简化采购流程，轻松优化工作流程。保持掌控，节省时间，更聪明地扩大规模。"
+  },
+  {
+    "name": "Dreamchanted",
+    "description": "Dreamchanted transforms your boring photos into magical art!",
+    "product_hunt_url": "https://www.producthunt.com/posts/dreamchanted-2",
+    "created_at": "",
+    "id": "dreamchanted-2",
+    "label": "Turn your photos into magical art",
+    "topics": [
+      "Photography",
+      "Marketing",
+      "Design Tools"
+    ],
+    "votes": 48,
+    "visit_url": "https://dreamchanted.com",
+    "image": "https://ph-files.imgix.net/ea13a8f5-d773-40bd-beaa-e7523752b329.png",
+    "label_zh": "将你的照片变成神奇的艺术作品",
+    "topics_zh": [
+      "摄影，市场营销，设计工具"
+    ],
+    "content_zh": "Dreamchanted 能把你的普通照片变成神奇的艺术作品！"
+  },
+  {
+    "name": "CocoKits",
+    "description": "Cocokits is built for both designers and developers, providing a powerful, flexible system to easily create performant, enterprise-grade products.\n\nCocoKits includes clean architecture, flexible SDK, and framework-agnostic support for multiple design systems.",
+    "product_hunt_url": "https://www.producthunt.com/posts/cocokits",
+    "created_at": "",
+    "id": "cocokits",
+    "label": "Design System with unstyled Angular & React components",
+    "topics": [
+      "GitHub",
+      "Developer Tools",
+      "Design Tools"
+    ],
+    "votes": 34,
+    "visit_url": "https://react.cocokits.com",
+    "image": "https://ph-files.imgix.net/ab0aceaf-c1d3-461a-91a6-b42ff5d80670.png",
+    "label_zh": "设计系统，包含未样式化的 Angular 和 React 组件",
+    "topics_zh": [
+      "GitHub",
+      "开发者工具",
+      "设计工具"
+    ],
+    "content_zh": "CocoKits 专为设计师和开发者打造，提供了一个强大且灵活的系统，帮助他们轻松创建高性能的企业级产品。\n\nCocoKits 包含清晰的架构、灵活的 SDK 以及对多种设计系统的框架无关支持。"
+  },
+  {
+    "name": "Feeedback",
+    "description": "Understanding your customers is the key to growth, but collecting and analyzing feedback can be overwhelming.\n\nFeeedback is your AI-powered solution to gather real-time user reviews, track churn, and uncover actionable insights to shape the future of your SaaS",
+    "product_hunt_url": "https://www.producthunt.com/posts/feeedback",
+    "created_at": "",
+    "id": "feeedback",
+    "label": "Decode customer feedback and build what matters",
+    "topics": [
+      "Business",
+      "SaaS",
+      "Developer Tools"
+    ],
+    "votes": 25,
+    "visit_url": "https://feeedback.dev",
+    "image": "https://ph-files.imgix.net/421460be-9078-4c71-a0c2-e77c6bb64ef5.png",
+    "label_zh": "解析客户反馈，打造真正重要的产品",
+    "topics_zh": [
+      "业务",
+      "SaaS",
+      "开发者工具"
+    ],
+    "content_zh": "了解客户是增长的关键，但收集和分析反馈可能会让人感到不知所措。\n\nFeeedback 是一款基于 AI 的解决方案，可以帮助你实时收集用户评论、跟踪流失情况，并发现可操作的见解，从而塑造你的 SaaS 产品的未来。"
+  },
+  {
+    "name": "MailCheck",
+    "description": "MailCheck is an advanced email verification API that helps businesses validate email addresses in real-time. Identify and block disposable email addresses to prevent free trial abuse and ensure you collect only high-quality, deliverable email addresses.",
+    "product_hunt_url": "https://www.producthunt.com/posts/mailcheck-2",
+    "created_at": "",
+    "id": "mailcheck-2",
+    "label": "Stop Free Trial Abuse with Advanced Email Verification",
+    "topics": [
+      "Email Marketing",
+      "API",
+      "SaaS"
+    ],
+    "votes": 18,
+    "visit_url": "https://mail-check.tech",
+    "image": "https://ph-files.imgix.net/3c60a66e-70b2-4e21-b40c-b31ee360b4b5.png",
+    "label_zh": "阻止免费试用滥用，采用高级电子邮件验证",
+    "topics_zh": [
+      "电子邮件营销",
+      "API",
+      "SaaS"
+    ],
+    "content_zh": "MailCheck 是一款先进的电子邮件验证 API，能够帮助企业实时验证电子邮件地址。它能识别并阻止一次性电子邮件地址，防止免费试用被滥用，并确保你收集到的都是高质量且可送达的电子邮件地址。"
+  },
+  {
+    "name": "ImgFiber - Lossless Image compression!",
+    "description": "100% Free! No File Size Limits! Processed Locally! (Nothing gets sent to our servers, everything happens right on your browser) \nThis is NOT A FFmpeg wrapper! \nImgFiber offers 10x better results compared to ANY current alternatives. try it now.",
+    "product_hunt_url": "https://www.producthunt.com/posts/imgfiber-lossless-image-compression",
+    "created_at": "",
+    "id": "imgfiber-lossless-image-compression",
+    "label": "Shrink file size without losing quality – Completely FREE!",
+    "topics": [
+      "Productivity",
+      "Maker Tools",
+      "Design Tools"
+    ],
+    "votes": 15,
+    "visit_url": "https://www.imgfiber.com/",
+    "image": "https://ph-files.imgix.net/99e01969-c837-4763-978b-ea44aedeea71.png",
+    "label_zh": "压缩文件大小而不损失质量 – 完全免费！",
+    "topics_zh": [
+      "生产效率",
+      "创作者工具",
+      "设计工具"
+    ],
+    "content_zh": "完全免费！没有文件大小限制！本地处理！（不会上传到我们的服务器，所有操作都在您的浏览器中完成）\n这不是一个FFmpeg的封装工具！\nImgFiber的压缩效果比任何现有方案都要好10倍。现在就来试试吧。"
+  }
+]

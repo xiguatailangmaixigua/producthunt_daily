@@ -1,0 +1,241 @@
+[
+  {
+    "name": "Openspot",
+    "description": "Openspot helps you share your professional potential through thoughtful prompts, short videos, and audio clips, not just boring resumes. It makes finding jobs and connecting with others feel friendly, meaningful, and way less scary.",
+    "product_hunt_url": "https://www.producthunt.com/posts/openspot-3",
+    "created_at": "",
+    "id": "openspot-3",
+    "label": "A modern, no-BS alternative to LinkedIn​",
+    "topics": [
+      "Tech",
+      "Career",
+      "Hiring"
+    ],
+    "votes": 497,
+    "visit_url": "https://heyopenspot.com",
+    "image": "https://ph-files.imgix.net/e87edad7-fe3a-4fea-a1b7-d7e821520064.png"
+  },
+  {
+    "name": "HCB",
+    "description": "Built by students, for students—HCB is the nonprofit neobank powering local hackathons, clubs, and teams with 501(c)(3) status. Collect donations, send payments, issue cards, and manage funds with ease. Focus on building—we’ll handle money.",
+    "product_hunt_url": "https://www.producthunt.com/posts/hcb",
+    "created_at": "",
+    "id": "hcb",
+    "label": "The open-source, nonprofit neobank",
+    "topics": [
+      "Charity & Giving",
+      "Education",
+      "Fintech"
+    ],
+    "votes": 387,
+    "visit_url": "https://hcb.hackclub.com",
+    "image": "https://ph-files.imgix.net/88122758-9d96-4120-b884-a3d9016d4742.png"
+  },
+  {
+    "name": "React Email 4.0",
+    "description": "Announcing React Email 4.0. Built-in Linter, Spam Score, Compatibility Checker, Responsive Preview, and New Components",
+    "product_hunt_url": "https://www.producthunt.com/posts/react-email-4-0",
+    "created_at": "",
+    "id": "react-email-4-0",
+    "label": "Completely new set of tools to help you build better emails",
+    "topics": [
+      "Email",
+      "Email Marketing"
+    ],
+    "votes": 349,
+    "visit_url": "https://resend.com/blog/react-email-4",
+    "image": "https://ph-files.imgix.net/f56d0f21-77a7-4015-a267-a6896b5afafe.png"
+  },
+  {
+    "name": "Sindo",
+    "description": "Sindo is an AI-powered platform for collecting, managing, and sharing customer testimonials. Automate social proof gathering from various sources and display the reviews on your website, emails, and socials to boost trust and conversions.",
+    "product_hunt_url": "https://www.producthunt.com/posts/sindo",
+    "created_at": "",
+    "id": "sindo",
+    "label": "Effortless AI-powered testimonials: collect, manage & share",
+    "topics": [
+      "Artificial Intelligence",
+      "Marketing",
+      "Growth Hacking"
+    ],
+    "votes": 279,
+    "visit_url": "https://www.getsindo.com/",
+    "image": "https://ph-files.imgix.net/e2417ca5-8640-44e5-a647-241c415858e7.png"
+  },
+  {
+    "name": "Spaceloadr",
+    "description": "Importing structured data into Notion shouldn’t be a hassle. Our tool simplifies the process with smart column mapping and duplicate prevention—ensuring a seamless and error-free experience.  Save time and let your Notion data work for you. 🚀",
+    "product_hunt_url": "https://www.producthunt.com/posts/spaceloadr",
+    "created_at": "",
+    "id": "spaceloadr",
+    "label": "A faster, smarter way to import data into Notion",
+    "topics": [
+      "Data",
+      "Notion",
+      "SaaS"
+    ],
+    "votes": 248,
+    "visit_url": "https://www.spaceloadr.com",
+    "image": "https://ph-files.imgix.net/b92c6b1a-7896-4164-a677-b1882153b717.png"
+  },
+  {
+    "name": "Gapflow.io",
+    "description": "Are you dealing with spam on your Webflow site? Do you need to route job applications to HR and sales inquiries to the right team? Or perhaps you just want to send an auto-reply using Webflow’s native forms?\n\nTry Gapflow.io today!",
+    "product_hunt_url": "https://www.producthunt.com/posts/gapflow-io",
+    "created_at": "",
+    "id": "gapflow-io",
+    "label": "Spam filter, autoreply & forwarding for Webflow native Forms",
+    "topics": [
+      "Developer Tools",
+      "Design Tools",
+      "No-Code"
+    ],
+    "votes": 190,
+    "visit_url": "https://gapflow.io",
+    "image": "https://ph-files.imgix.net/b6fb0a8f-2373-4ee2-ae01-c8fabeeb19a0.png"
+  },
+  {
+    "name": "Vocao.ai",
+    "description": "Vocao transforms language practice with lifelike voice conversations powered by AI! Skip the drills—talk naturally, receive instant feedback, and build confidence effortlessly. Dive into fun, everyday topics and practice speaking anytime, anywhere.",
+    "product_hunt_url": "https://www.producthunt.com/posts/vocao-ai",
+    "created_at": "",
+    "id": "vocao-ai",
+    "label": "Speak naturally with AI to boost your language fluency",
+    "topics": [
+      "Artificial Intelligence",
+      "Online Learning",
+      "Education"
+    ],
+    "votes": 202,
+    "visit_url": "https://vocao.ai",
+    "image": "https://ph-files.imgix.net/4763ca10-1227-4b44-92ad-a6f132bc3c2b.png"
+  },
+  {
+    "name": "GitHub Chat",
+    "description": "The simplest way for developers to chat and explore GitHub repositories programmatically. GitHub Chat API gives you API access to chat with any public GitHub repository.",
+    "product_hunt_url": "https://www.producthunt.com/posts/github-chat-2",
+    "created_at": "",
+    "id": "github-chat-2",
+    "label": "API for devs to chat and explore GitHub repositories",
+    "topics": [
+      "GitHub",
+      "Developer Tools",
+      "API"
+    ],
+    "votes": 56,
+    "visit_url": "https://github-chat.com",
+    "image": "https://ph-files.imgix.net/a0f61ec6-f3d3-47df-b173-c85acf248ce9.png"
+  },
+  {
+    "name": "Zenkan",
+    "description": "Zenkan is a personal note-taking app with a 3-level nested board system for effortless organization. Drag, resize, and arrange your notes and tasks freely in a flexible workspace with Markdown support for rich text formatting.",
+    "product_hunt_url": "https://www.producthunt.com/posts/zenkan",
+    "created_at": "",
+    "id": "zenkan",
+    "label": "Drag and drop your notes in flexible nested boards",
+    "topics": [
+      "Productivity",
+      "Task Management",
+      "Notes"
+    ],
+    "votes": 152,
+    "visit_url": "https://zenkan.app",
+    "image": "https://ph-files.imgix.net/69fc2f44-c0dc-4d9a-ab56-ccb4686d0df5.png"
+  },
+  {
+    "name": "Rainy Skies 2.0",
+    "description": "Rainy Skies is an indie iOS weather app designed by a solo developer based on the foundation of the now defunct Dark Sky weather app. Rainy Skies now supports radar and has an Apple Watch app with widgets and complications.",
+    "product_hunt_url": "https://www.producthunt.com/posts/rainy-skies-2-0",
+    "created_at": "",
+    "id": "rainy-skies-2-0",
+    "label": "Your weather app, now with Radar and Apple Watch App",
+    "topics": [
+      "Weather",
+      "Apple Watch",
+      "iOS"
+    ],
+    "votes": 136,
+    "visit_url": "https://apps.apple.com/us/app/rainy-skies/id1637453069?uo=4",
+    "image": "https://ph-files.imgix.net/b34c2b8f-74c2-45f7-a485-c26ac7339dba.png"
+  },
+  {
+    "name": "Skybox",
+    "description": "Your all-in-one platform for finding creators, sharing campaign details, gifting influencers products, approving their content, and forecasting impact. Unlock Data-driven influencer marketing strategy with SkyBox Media at www.skyboxqi today!",
+    "product_hunt_url": "https://www.producthunt.com/posts/skybox-3",
+    "created_at": "",
+    "id": "skybox-3",
+    "label": "The world’s smartest AI influencer marketing platform",
+    "topics": [
+      "Artificial Intelligence",
+      "Marketing",
+      "Influencer marketing"
+    ],
+    "votes": 53,
+    "visit_url": "https://skyboxqi.com",
+    "image": "https://ph-files.imgix.net/a0ed28b1-e796-4666-9c11-13d29c764a11.png"
+  },
+  {
+    "name": "Valora: Stock Market Analysis",
+    "description": "An app designed to show the true value of stocks without the excess complexity and hype. Focussed on value seeking investors that want to grow their capital long-term.",
+    "product_hunt_url": "https://www.producthunt.com/posts/valora-stock-market-analysis",
+    "created_at": "",
+    "id": "valora-stock-market-analysis",
+    "label": "Find undervalued stocks in minutes",
+    "topics": [
+      "Money",
+      "Investing",
+      "Android"
+    ],
+    "votes": 37,
+    "visit_url": "https://play.google.com/store/apps/details?id=com.icartatechnologies.valuecapital\\u0026hl=en",
+    "image": "https://ph-files.imgix.net/b5ef356a-b3f1-4c31-9dfd-38e8e81f269c.png"
+  },
+  {
+    "name": "Giblify AI",
+    "description": "Generate Studio Ghibli style photos using AI and then convert them into mesmerising videos!\n\nShare directly with friends and family and have fun!",
+    "product_hunt_url": "https://www.producthunt.com/posts/giblify-ai",
+    "created_at": "",
+    "id": "giblify-ai",
+    "label": "Convert your photos to Ghibli Style Images and Videos!",
+    "topics": [
+      "Artificial Intelligence",
+      "Photo editing",
+      "Photo & Video"
+    ],
+    "votes": 24,
+    "visit_url": "https://ghiblistudioai.com",
+    "image": "https://ph-files.imgix.net/4f38bdd1-e6ba-4f3e-8758-a237401f730c.png"
+  },
+  {
+    "name": "Centrate",
+    "description": "Inspired by a dilated vision technique mentioned by Dr. Andrew Huberman’s, Centrate helps you practice mindfulness for your focus. \n\nThis app is designed to calm your mind, expand focus, and reduce anxiety. No signup, for free — just clarity.",
+    "product_hunt_url": "https://www.producthunt.com/posts/centrate",
+    "created_at": "",
+    "id": "centrate",
+    "label": "Train your focus with 30sec exercises backed by neuroscience",
+    "topics": [
+      "Meditation",
+      "Health & Fitness",
+      "Productivity"
+    ],
+    "votes": 13,
+    "visit_url": "https://centrate.app",
+    "image": "https://ph-files.imgix.net/9c03825c-d192-4da6-84fb-7c859a3f2f0f.png"
+  },
+  {
+    "name": "Feedback Hunter",
+    "description": "Feedback Hunter helps you collect, organize, and prioritize user feedback to build better products that your customers will love.\n\nIntegrate it seamlessly into your application and start collecting users' feedback today!",
+    "product_hunt_url": "https://www.producthunt.com/posts/feedback-hunter",
+    "created_at": "",
+    "id": "feedback-hunter",
+    "label": "Transform your user's feedback into product success",
+    "topics": [
+      "Customer Communication",
+      "User Experience",
+      "SaaS"
+    ],
+    "votes": 18,
+    "visit_url": "https://feedback-hunter.com",
+    "image": "https://ph-files.imgix.net/2f2b9fb7-ccfe-4196-a547-d689144c28df.png"
+  }
+]

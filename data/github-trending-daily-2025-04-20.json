@@ -1,0 +1,555 @@
+[
+  {
+    "description": "Official inference framework for 1-bit LLMs",
+    "language": "C++",
+    "name": "microsoft/BitNet",
+    "stars": "14535",
+    "url": "https://github.com/microsoft/BitNet",
+    "topics": [],
+    "readme_images": [
+      "https://github.com/microsoft/BitNet/raw/main/assets/header_model_release.png",
+      "https://github.com/microsoft/BitNet/raw/main/assets/m2_performance.jpg",
+      "https://github.com/microsoft/BitNet/raw/main/assets/intel_performance.jpg"
+    ],
+    "description_zh": "官方1比特LLM推理框架"
+  },
+  {
+    "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero",
+    "language": "Python",
+    "name": "Byaidu/PDFMathTranslate",
+    "stars": "20565",
+    "url": "https://github.com/Byaidu/PDFMathTranslate",
+    "topics": [
+      "python",
+      "pdf",
+      "latex",
+      "translation",
+      "math",
+      "japanese",
+      "english",
+      "openai",
+      "translate",
+      "document",
+      "chinese",
+      "edit",
+      "modify",
+      "russian",
+      "korean",
+      "zotero",
+      "obsidian",
+      "pdf2zh"
+    ],
+    "readme_images": [
+      "https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/banner.png",
+      "https://camo.githubusercontent.com/9f40687efb34ebfcd5c15dff60336204d77f07021ab22ecfedde1ec53156f992/68747470733a2f2f7374617469632e706570792e746563682f62616467652f706466327a68",
+      "https://camo.githubusercontent.com/5b6eea57c182bf40324d7ebe66520c740350554798a56e0f8dbf272bc75deec2/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f70756c6c732f6279616964752f706466327a68",
+      "https://camo.githubusercontent.com/c387211c724a4da730bc9bf6173e27d5fb2731f5f8024a6beef9972eb4f43fbf/68747470733a2f2f676974636f64652e636f6d2f4279616964752f5044464d6174685472616e736c6174652f737461722f62616467652e737667",
+      "https://camo.githubusercontent.com/038dcc8fe05ee0971fb741fd324c16631872f2a6f97a118452181322e4d5e06f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2546302539462541342539372d4f6e6c696e6525323044656d6f2d464639453044",
+      "https://camo.githubusercontent.com/05849f284a6809aa898f7c07529869059be7c6629b2bbb0473efc2dd86f2d7b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f64656c53636f70652d44656d6f2d626c7565",
+      "https://camo.githubusercontent.com/c7fd64c88cfffb9947bf5b0eff7119cb3e3115110b83d73c957970f981a8d7ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e747269627574696f6e732d77656c636f6d652d677265656e",
+      "https://camo.githubusercontent.com/8f57d6cdf002babece25e78a86d501103ca389ede211c3d2a360138d892d5fad/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f4279616964752f5044464d6174685472616e736c617465",
+      "https://camo.githubusercontent.com/22718c85e0b7a6a71cdc9c8d6982de7f4dfa2d835067ce89d12deb058b09daaa/68747470733a2f2f7472656e6473686966742e696f2f6170692f62616467652f7265706f7369746f726965732f3132343234",
+      "https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/preview.gif",
+      "https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/preview.gif",
+      "https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/gui.gif",
+      "https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/gui.gif",
+      "https://camo.githubusercontent.com/dc2056acd0e6ff421bfc2b129417f4f832d626c61d1c083221211d8503a429f7/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667",
+      "https://camo.githubusercontent.com/34df6b95f619465d16570ca8dd4d5a2aae99f4211d5de6d77bda8cfe5eba10f5/68747470733a2f2f7a65616275722e636f6d2f627574746f6e2e737667",
+      "https://github.com/Byaidu/PDFMathTranslate/raw/main/docs/images/cmd.explained.png",
+      "https://camo.githubusercontent.com/7e6f63d1f37afcaef3378c7a0686ce83d09f5d865ae826660f3351cb74d02572/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f5044464d6174685472616e736c6174652f636f6e7472696275746f72732e7376673f77696474683d38393026627574746f6e3d66616c7365",
+      "https://camo.githubusercontent.com/2a13e53a3f59280392c0587f717cb20f87d69b0b84b94b357a1775b8c8167f57/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f646661373538336461353333326131313436386436383666626432396239323332306136613836392e737667",
+      "https://camo.githubusercontent.com/e36b882836a58c1774ee53f32b25804e087fbcffd76df986b7aa72e2291f735f/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d4279616964752f5044464d6174685472616e736c61746526747970653d44617465"
+    ],
+    "description_zh": "基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero",
+    "topics_zh": [
+      "Python",
+      "PDF",
+      "LaTeX",
+      "翻译",
+      "数学",
+      "日语",
+      "英语",
+      "OpenAI",
+      "翻译",
+      "文档",
+      "中文",
+      "编辑",
+      "修改",
+      "俄语",
+      "韩语",
+      "Zotero",
+      "Obsidian",
+      "pdf2zh"
+    ]
+  },
+  {
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "name": "public-apis/public-apis",
+    "stars": "336419",
+    "url": "https://github.com/public-apis/public-apis",
+    "topics": [
+      "api",
+      "lists",
+      "open-source",
+      "list",
+      "development",
+      "public",
+      "resources",
+      "dataset",
+      "free",
+      "software",
+      "apis",
+      "public-api",
+      "public-apis"
+    ],
+    "readme_images": [
+      "https://github.com/public-apis/public-apis/raw/master/.github/cs1586-APILayerLogoUpdate2022-LJ_v2-HighRes.png"
+    ],
+    "description_zh": "免费API集合列表",
+    "topics_zh": [
+      "API",
+      "列表",
+      "开源",
+      "列表",
+      "开发",
+      "公共",
+      "资源",
+      "数据集",
+      "免费",
+      "软件",
+      "API",
+      "公共API",
+      "公共APIs"
+    ]
+  },
+  {
+    "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+    "language": "Dockerfile",
+    "name": "Anduin2017/HowToCook",
+    "stars": "78137",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "topics": [
+      "recipes",
+      "cooking",
+      "cookbook",
+      "chinese",
+      "dishes"
+    ],
+    "readme_images": [
+      "https://camo.githubusercontent.com/c69f2eef6f1182df8d054868ecfca7ea8ea2109fe9fb8e9aec6afa7e376e5530/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f416e6475696e323031372f486f77546f436f6f6b",
+      "https://camo.githubusercontent.com/6a07b230b2e67d9b8700d8dfbed9a1e60090cf365f049c21e33a0eb7806c987f/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f416e6475696e323031372f486f77546f436f6f6b",
+      "https://camo.githubusercontent.com/97ebcbb515a2843c71d4e3917563592f3e8077b582a50549e91ebb5abfe3eef8/68747470733a2f2f6d616e686f7572732e61697572736f66742e636e2f722f6769746875622e636f6d2f616e6475696e323031372f686f77746f636f6f6b2e737667",
+      "https://camo.githubusercontent.com/4cf7ba716f6203978f87eb6f8e1c089ce535ef717e6daa3680c5e248c506152f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d6c61746573742d626c75653f6c6f676f3d646f636b6572",
+      "https://camo.githubusercontent.com/1740cb7c612391fe177b3df4a2b9156dda57025113cecec85d6055f430dbe421/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d416e6475696e323031372f486f77546f436f6f6b266d61783d39393926636f6c756d6e3d3230"
+    ],
+    "description_zh": "程序员在家做饭方法指南。程序员在家烹饪指南。",
+    "topics_zh": [
+      "食谱",
+      "烹饪",
+      "菜谱",
+      "中餐",
+      "菜肴"
+    ]
+  },
+  {
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "stars": "28702",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "topics": [
+      "python",
+      "rag",
+      "llms"
+    ],
+    "readme_images": [
+      "https://github.com/Shubhamsaboo/awesome-llm-apps/raw/main/docs/banner/unwind_black.png",
+      "https://camo.githubusercontent.com/745174423a27ef1893fdff2c6c371b0580d6d82ff627ca1178dc21074f7e2bf5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466f6c6c6f772532305368756268616d2532305361626f6f2d626c75653f6c6f676f3d6c696e6b6564696e267374796c653d666c61742d737175617265",
+      "https://camo.githubusercontent.com/7213c433146f9e0f165bf16ce374f043edc679db6118f787ff4f4b27e624df1a/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f5368756268616d5f5361626f6f",
+      "https://camo.githubusercontent.com/22fba9fd52e59a62547aac75d9235a6a0d0d1e0170926d939091c8512de8b03e/68747470733a2f2f7472656e6473686966742e696f2f6170692f62616467652f7265706f7369746f726965732f39383736",
+      "https://camo.githubusercontent.com/ec33dfb0eadc3acf8624a9684924c71acf7b5154b54f68fcf7453c1a783196ac/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d5368756268616d7361626f6f2f617765736f6d652d6c6c6d2d6170707326747970653d44617465"
+    ],
+    "description_zh": "一系列使用OpenAI、Anthropic、Gemini和开源模型的优秀大语言模型应用，结合了AI代理和检索增强生成技术。",
+    "topics_zh": [
+      "Python",
+      "RAG",
+      "大型语言模型"
+    ]
+  },
+  {
+    "description": "🚀 The fast, Pythonic way to build MCP servers and clients",
+    "language": "Python",
+    "name": "jlowin/fastmcp",
+    "stars": "6255",
+    "url": "https://github.com/jlowin/fastmcp",
+    "topics": [
+      "python",
+      "api",
+      "server",
+      "mcp",
+      "claude",
+      "llm",
+      "anthropic",
+      "model-context-protocol",
+      "mcp-server",
+      "mcp-client",
+      "fastmcp"
+    ],
+    "readme_images": [
+      "https://camo.githubusercontent.com/4fc759e03096f1811d9e10de82f8abdcf2eaf8218aa14395b2bd848cd72829a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d676f666173746d63702e636f6d2d626c7565",
+      "https://camo.githubusercontent.com/9eeb024ed9173dd272ded357cd6de7ec3d7e0b229045de94971f70c4e8f5e359/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6a6c6f77696e2f666173746d63702e737667",
+      "https://camo.githubusercontent.com/820d21df75e7cefe69c9321a491c7cd0d0f5c1d45cc3a1e1aa1bf6387732ceeb/68747470733a2f2f7472656e6473686966742e696f2f6170692f62616467652f7265706f7369746f726965732f3133323636",
+      "https://github.com/jlowin/fastmcp/raw/main/docs/assets/demo-inspector.png"
+    ],
+    "description_zh": "🚀 快速、Python风格的MCP服务器和客户端构建方法",
+    "topics_zh": [
+      "Python",
+      "API",
+      "服务器",
+      "MCP",
+      "Claude",
+      "大型语言模型",
+      "Anthropic",
+      "模型上下文协议",
+      "MCP 服务器",
+      "MCP 客户端",
+      "FastMCP"
+    ]
+  },
+  {
+    "description": "🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.",
+    "language": "Go",
+    "name": "1Panel-dev/1Panel",
+    "stars": "27537",
+    "url": "https://github.com/1Panel-dev/1Panel",
+    "topics": [
+      "linux",
+      "docker",
+      "lnmp",
+      "lamp",
+      "cockpit",
+      "webmin",
+      "docker-ui",
+      "1panel",
+      "ollama"
+    ],
+    "readme_images": [
+      "https://camo.githubusercontent.com/fa04f932f57221e8b35169b253a02774fe4b59316300c5ff99784c70c6a23e4b/68747470733a2f2f7265736f757263652e3170616e656c2e70726f2f696d672f3170616e656c2d6c6f676f2e706e67",
+      "https://camo.githubusercontent.com/48e199106fcb3b5b1996084cf61935eae2971918c92e7fe8b614fcdc8fe211fe/68747470733a2f2f7472656e6473686966742e696f2f6170692f62616467652f7265706f7369746f726965732f32343632",
+      "https://camo.githubusercontent.com/b6169e43ef09e99ca255d361b29cafcd69f54621e0bb3bd4f7dbed65c90127a6/68747470733a2f2f736869656c64732e696f2f6769746875622f6c6963656e73652f3150616e656c2d6465762f3150616e656c3f636f6c6f723d253233313839304646",
+      "https://camo.githubusercontent.com/017d619d4e79aaac221123951da3bd353d6d7b0b52fc6ffa36477ffca8e7b5da/68747470733a2f2f6170702e636f646163792e636f6d2f70726f6a6563742f62616467652f47726164652f6461363735373466643832623437333939323738316431333836623933376566",
+      "https://camo.githubusercontent.com/0a81d841576246d1e24c446f1dc364a6c82d19275c9cb8f42a2d7c640ca51a5a/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f313331383834363431303134393333353038303f6c6f676f3d646973636f7264266c6162656c436f6c6f723d253230253233353436326562266c6f676f436f6c6f723d25323025323366356635663526636f6c6f723d253230253233353436326562",
+      "https://camo.githubusercontent.com/5417639a075a93db420bc2f551d48ff12e04321db2733d48524135ed2de71e35/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f3150616e656c2d6465762f3150616e656c",
+      "https://camo.githubusercontent.com/e2488bedc732774f0caf268fdf1e1e3af422642647b2f51ef60887acbcf33ec7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274756775c3aa73202842726173696c292d643964396439",
+      "https://camo.githubusercontent.com/74480ba2a76f0cf16ef08a46f94969f2e1082ece11f82aab6c77056347d8e745/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f42616861736120496e646f6e657369612d643964396439",
+      "https://camo.githubusercontent.com/e699e272faef96ce4aeeadd7d5a582ad0fa69816db1a7d9b6c390f89c78ee18f/68747470733a2f2f7265736f757263652e3170616e656c2e70726f2f696d672f3170616e656c2e706e67",
+      "https://camo.githubusercontent.com/9fb0b16877402414509bb8d449a11b5d933dfbf2257b14016eff1300f10a3d1d/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d3150616e656c2d6465762f3150616e656c26747970653d44617465"
+    ],
+    "description_zh": "🔥 1Panel 提供了一个直观的网页界面和MCP服务器来管理Linux服务器上的网站、文件、容器、数据库和LLMs。",
+    "topics_zh": [
+      "Linux",
+      "Docker",
+      "LNMP",
+      "LAMP",
+      "Cockpit",
+      "Webmin",
+      "Docker-UI",
+      "1Panel",
+      "Ollama"
+    ]
+  },
+  {
+    "description": "NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+    "language": "TypeScript",
+    "name": "nocobase/nocobase",
+    "stars": "14683",
+    "url": "https://github.com/nocobase/nocobase",
+    "topics": [
+      "internal-tools",
+      "crud",
+      "crm",
+      "admin-dashboard",
+      "self-hosted",
+      "salesforce",
+      "developer-tools",
+      "airtable",
+      "workflows",
+      "low-code",
+      "no-code",
+      "app-builder",
+      "internal-tool",
+      "nocode",
+      "low-code-development-platform",
+      "lowcode",
+      "no-code-platform",
+      "low-code-platform",
+      "no-code-framework",
+      "low-code-framework"
+    ],
+    "readme_images": [
+      "https://camo.githubusercontent.com/676e0ae8e5560e0c18db53af490bb42231e3072b1e8e84388202d7418bf5c72b/68747470733a2f2f7472656e6473686966742e696f2f6170692f62616467652f7265706f7369746f726965732f34313132",
+      "https://camo.githubusercontent.com/ff8f438b621a07504ec3faf9cedbe1d476a7ec5de25363d1dcbc673cdb6365b8/68747470733a2f2f6170692e70726f6475637468756e742e636f6d2f776964676574732f656d6265642d696d6167652f76312f746f702d706f73742d746f7069632d62616467652e7376673f706f73745f69643d343536353230267468656d653d6c6967687426706572696f643d7765656b6c7926746f7069635f69643d323637",
+      "https://camo.githubusercontent.com/19deaee45a177abae46516fd8cf41a34a92abdf4fc89b3a969069945de8fffeb/68747470733a2f2f7374617469632d646f63732e6e6f636f626173652e636f6d2f6d6f64656c2e706e67",
+      "https://camo.githubusercontent.com/8ce6b92e5806001c10fb641bee519cce5734ade093ce26929f5aa45f471d0bad/68747470733a2f2f7374617469632d646f63732e6e6f636f626173652e636f6d2f777973697779672e676966",
+      "https://camo.githubusercontent.com/8ce6b92e5806001c10fb641bee519cce5734ade093ce26929f5aa45f471d0bad/68747470733a2f2f7374617469632d646f63732e6e6f636f626173652e636f6d2f777973697779672e676966",
+      "https://camo.githubusercontent.com/580175676de4de55f0a65041b6b28c63b3369352285309cd114c0147c0662767/68747470733a2f2f7374617469632d646f63732e6e6f636f626173652e636f6d2f706c7567696e732e706e67"
+    ],
+    "description_zh": "NocoBase 是一个以扩展性为先的开源无代码/低代码平台，用于构建业务应用和企业解决方案。",
+    "topics_zh": [
+      "内部工具",
+      "增删改查",
+      "客户关系管理",
+      "管理仪表板",
+      "自托管",
+      "Salesforce",
+      "开发者工具",
+      "Airtable",
+      "工作流",
+      "低代码",
+      "无代码",
+      "应用构建器",
+      "内部工具",
+      "NoCode",
+      "低代码开发平台",
+      "低代码",
+      "无代码平台",
+      "低代码平台",
+      "无代码框架",
+      "低代码框架"
+    ]
+  },
+  {
+    "description": "A feature-rich command-line audio/video downloader",
+    "language": "Python",
+    "name": "yt-dlp/yt-dlp",
+    "stars": "108190",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "topics": [
+      "python",
+      "youtube-dl",
+      "video-downloader",
+      "youtube-downloader",
+      "sponsorblock",
+      "youtube-dlc",
+      "yt-dlp"
+    ],
+    "readme_images": [
+      "https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.github/banner.svg",
+      "https://camo.githubusercontent.com/824c72c3297a271beecfd91279127f6f407e95ff0668801c79b6109eada7f129/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f79742d646c702f79742d646c703f636f6c6f723d627269676874677265656e266c6162656c3d446f776e6c6f6164267374796c653d666f722d7468652d6261646765",
+      "https://camo.githubusercontent.com/a8b252926d34e6123df43a4f0b9fa19d1fef006ffe4613e79eeff5421acf90e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5f2d446f6e6174652d7265642e7376673f6c6f676f3d67697468756273706f6e736f7273266c6162656c436f6c6f723d353535353535267374796c653d666f722d7468652d6261646765",
+      "https://camo.githubusercontent.com/bcdc8bc6e8838a459e598b3746c9adb9c5c0812f8f32e704022f36461ba4eecd/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3830373234353635323037323835373631303f636f6c6f723d626c7565266c6162656c436f6c6f723d353535353535266c6162656c3d266c6f676f3d646973636f7264267374796c653d666f722d7468652d6261646765",
+      "https://camo.githubusercontent.com/9bb4f56a3ada2140c086180a32a4576bfc064d01d707868fbed82a82a16d7daf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537570706f727465645f53697465732d627269676874677265656e2e7376673f7374796c653d666f722d7468652d6261646765",
+      "https://camo.githubusercontent.com/7114361feea039be67be15c164bfffa0d730d0cef4d5226bd2b7a48741490829/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f79742d646c702f79742d646c702f636f72652e796d6c3f6272616e63683d6d6173746572266c6162656c3d5465737473267374796c653d666f722d7468652d6261646765",
+      "https://camo.githubusercontent.com/07fe11d7c0f2176346c671010a08ac5913f75cbedb39f0cc38e8a5f201848a0e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6d6d69742d61637469766974792f6d2f79742d646c702f79742d646c703f6c6162656c3d636f6d6d697473267374796c653d666f722d7468652d6261646765",
+      "https://camo.githubusercontent.com/45cb6641545c3d0cc3932c03451537f53f2ef42114235091a392ef4e7af9d7dd/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f79742d646c702f79742d646c702f6d61737465723f6c6162656c3d267374796c653d666f722d7468652d626164676526646973706c61795f74696d657374616d703d636f6d6d6974746572",
+      "https://camo.githubusercontent.com/95e4bf16965c1b490f880220bbe4fdbe4cd40f51e67830ea33aefb1c1db8ce16/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77735f7836342d626c75652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773",
+      "https://camo.githubusercontent.com/6ddbf1063269fce338835e2e8f388da9248d52098980cba869fe4520224da5ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782f4253442d7265642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578",
+      "https://camo.githubusercontent.com/3f11336f5c0406be71ab2a0085a3a1e99d9fdb6b3d318bf461c6a14b57c6fb7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536f757263655f7461722d677265656e2e7376673f7374796c653d666f722d7468652d6261646765",
+      "https://camo.githubusercontent.com/6fbe31e8af8814abcbff56a77ad611fa7e9eb1aeb4bef85d7a8a65de1122b232/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416c6c5f56657273696f6e732d6c69676874677265792e7376673f7374796c653d666f722d7468652d6261646765"
+    ],
+    "description_zh": "功能丰富的命令行音频/视频下载器",
+    "topics_zh": [
+      "Python",
+      "youtube-dl",
+      "视频下载器",
+      "YouTube下载器",
+      "SponsorBlock",
+      "youtube-dlc",
+      "yt-dlp"
+    ]
+  },
+  {
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "name": "microsoft/markitdown",
+    "stars": "49938",
+    "url": "https://github.com/microsoft/markitdown",
+    "topics": [
+      "markdown",
+      "pdf",
+      "openai",
+      "microsoft-office",
+      "autogen",
+      "langchain",
+      "autogen-extension"
+    ],
+    "readme_images": [
+      "https://camo.githubusercontent.com/f0fc71dd711009ab40f97028f91deb005628d978f2ee6b85721c0382177d0de2/68747470733a2f2f696d672e736869656c64732e696f2f707970692f64642f6d61726b6974646f776e",
+      "https://camo.githubusercontent.com/8ae6370b68c34b66768191de769f8cc1995cdf9133678230a30e9b6b090cb131/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275696c7425323062792d4175746f47656e2532305465616d2d626c7565"
+    ],
+    "description_zh": "Python 工具，用于将文件和办公文档转换为 Markdown。",
+    "topics_zh": [
+      "Markdown",
+      "PDF",
+      "OpenAI",
+      "Microsoft Office",
+      "AutoGen",
+      "LangChain",
+      "AutoGen 扩展"
+    ]
+  },
+  {
+    "description": "AI personal assistant for email. Open source app to help you reach inbox zero fast.",
+    "language": "TypeScript",
+    "name": "elie222/inbox-zero",
+    "stars": "6214",
+    "url": "https://github.com/elie222/inbox-zero",
+    "topics": [
+      "productivity",
+      "typescript",
+      "ai",
+      "email",
+      "nextjs",
+      "postgresql",
+      "gmail",
+      "loops",
+      "openai",
+      "resend",
+      "prisma",
+      "tailwind",
+      "posthog",
+      "turborepo",
+      "upstash",
+      "tinybird",
+      "shadcn-ui"
+    ],
+    "readme_images": [
+      "https://github.com/elie222/inbox-zero/raw/main/apps/web/app/opengraph-image.png",
+      "https://camo.githubusercontent.com/20bea215d35a4e28f2c92ea5b657d006b087687486858a40de2922a4636301ab/68747470733a2f2f76657263656c2e636f6d2f627574746f6e",
+      "https://github.com/elie222/inbox-zero/raw/main/.github/screenshots/email-assistant.png",
+      "https://github.com/elie222/inbox-zero/raw/main/.github/screenshots/reply-zero.png",
+      "https://github.com/elie222/inbox-zero/raw/main/.github/screenshots/email-client.png",
+      "https://github.com/elie222/inbox-zero/raw/main/.github/screenshots/bulk-unsubscriber.png",
+      "https://github.com/elie222/inbox-zero/raw/main/video-thumbnail.png",
+      "https://camo.githubusercontent.com/8ec2388070108e5538730b897a43e48bd89478f73ba43eda7f9ffd700d0fc611/68747470733a2f2f6170692e737461722d686973746f72792e636f6d2f7376673f7265706f733d656c69653232322f696e626f782d7a65726f26747970653d44617465"
+    ],
+    "description_zh": "电子邮件的AI个人助手。开源应用程序帮助您快速实现收件箱零未读。",
+    "topics_zh": [
+      "生产力",
+      "TypeScript",
+      "人工智能",
+      "电子邮件",
+      "Next.js",
+      "PostgreSQL",
+      "Gmail",
+      "循环",
+      "OpenAI",
+      "Resend",
+      "Prisma",
+      "Tailwind",
+      "PostHog",
+      "TurboRepo",
+      "Upstash",
+      "Tinybird",
+      "shadcn-ui"
+    ]
+  },
+  {
+    "description": "Playing around \"Less Slow\" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO",
+    "language": "C++",
+    "name": "ashvardanian/less_slow.cpp",
+    "stars": "1143",
+    "url": "https://github.com/ashvardanian/less_slow.cpp",
+    "topics": [
+      "benchmark",
+      "tutorial",
+      "cpp",
+      "hpc",
+      "assembly",
+      "llvm",
+      "gcc",
+      "coroutines",
+      "linux-kernel",
+      "cuda",
+      "tutorials",
+      "assembly-language",
+      "cpp17",
+      "avx512",
+      "google-benchmark",
+      "ranges",
+      "ptx",
+      "cpp20",
+      "cpp-programming",
+      "io-uring"
+    ],
+    "readme_images": [
+      "https://github.com/ashvardanian/ashvardanian/raw/master/repositories/less_slow.cpp.jpg?raw=true",
+      "https://github.com/ashvardanian/ashvardanian/raw/master/memes/ieee764-vs-gnu-compiler.jpg?raw=true",
+      "https://github.com/ashvardanian/ashvardanian/raw/master/memes/no-easter-bunny-no-free-abstractions.jpg?raw=true"
+    ],
+    "description_zh": "探索C++ 20、C、CUDA、PTX和汇编中的“少慢”编程实践，从数值计算与SIMD到协程、范围、异常处理、网络以及用户空间I/O",
+    "topics_zh": [
+      "基准测试",
+      "教程",
+      "C++",
+      "高性能计算",
+      "汇编",
+      "LLVM",
+      "GCC",
+      "协程",
+      "Linux内核",
+      "CUDA",
+      "教程",
+      "汇编语言",
+      "C++17",
+      "AVX-512",
+      "Google基准测试",
+      "范围",
+      "PTX",
+      "C++20",
+      "C++编程",
+      "io_uring"
+    ]
+  },
+  {
+    "description": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
+    "language": "TypeScript",
+    "name": "wandb/openui",
+    "stars": "20336",
+    "url": "https://github.com/wandb/openui",
+    "topics": [
+      "ai",
+      "html-css-javascript",
+      "tailwindcss",
+      "generative-ai"
+    ],
+    "readme_images": [
+      "https://github.com/wandb/openui/raw/main/assets/openui.png",
+      "https://github.com/wandb/openui/raw/main/assets/demo.gif",
+      "https://github.com/wandb/openui/raw/main/assets/demo.gif",
+      "https://github.com/wandb/openui/raw/main/assets/codespace.png",
+      "https://github.com/wandb/openui/raw/main/assets/ollama.png",
+      "https://camo.githubusercontent.com/b04f5659467d23b5109ba935a40c00decd264eea25c22d50a118021349eea94f/68747470733a2f2f676974706f642e696f2f627574746f6e2f6f70656e2d696e2d676974706f642e737667"
+    ],
+    "description_zh": "OpenUI 让你能够用想象力来描述用户界面，然后实时查看渲染效果。",
+    "topics_zh": [
+      "人工智能",
+      "HTML-CSS-JavaScript",
+      "TailwindCSS",
+      "生成式AI"
+    ]
+  },
+  {
+    "description": "Main repository for the Linera protocol",
+    "language": "Rust",
+    "name": "linera-io/linera-protocol",
+    "stars": "23923",
+    "url": "https://github.com/linera-io/linera-protocol",
+    "topics": [
+      "rust",
+      "blockchain",
+      "wasm"
+    ],
+    "readme_images": [
+      "https://private-user-images.githubusercontent.com/1105398/309986563-fe08c941-93af-4114-bb83-bcc0eaec95f9.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUxNDgwNDksIm5iZiI6MTc0NTE0Nzc0OSwicGF0aCI6Ii8xMTA1Mzk4LzMwOTk4NjU2My1mZTA4Yzk0MS05M2FmLTQxMTQtYmI4My1iY2MwZWFlYzk1Zjkuc3ZnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDQyMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA0MjBUMTExNTQ5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NGYzN2JjMTIxYmQ5OWY5MDYzMjAzYzU1M2FhZTMzYjRhYWJhNzUyZWEyMDU0OGQ1Y2VhY2FiMWQwNmUxZDkyZiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.rkmLHQ5DxlqprflMo4w2XE2Ml1x9LwBwdKdpUsa8wdI",
+      "https://camo.githubusercontent.com/710a35b96fe1aaa53f9ca00699948b221651ca602c9e146b3a1faabb7715226e/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f6c696e6572615f696f"
+    ],
+    "description_zh": "Linera 协议的主要仓库",
+    "topics_zh": [
+      "Rust",
+      "区块链",
+      "WebAssembly"
+    ]
+  }
+]

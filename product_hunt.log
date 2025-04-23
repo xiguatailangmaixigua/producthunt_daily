@@ -28468,3 +28468,1919 @@ Our first release, an experimental version of 2.5 Pro, unlocks state-of-the-art 
 2025-03-27 06:18:50,074 - INFO - 使用备用方法添加产品: OpenAI 4o Image Generation
 2025-03-27 06:18:50,074 - INFO - 使用备用方法添加产品: Cooler
 2025-03-27 06:18:50,075 - INFO - 成功保存 15 个产品信息到 data/product_2025-03-27.json
+2025-03-28 06:18:47,891 - INFO - 获取 2025-03-28 的Product Hunt热门产品
+2025-03-28 06:18:47,892 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-28 06:18:48,075 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-28 06:18:48,079 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/27/all
+2025-03-28 06:18:51,136 - INFO - 已保存页面源代码到 producthunt_drission_20250328_061851.html
+2025-03-28 06:18:51,136 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-28 06:18:51,140 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-03-28 06:18:51,140 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-28 06:19:09,268 - INFO - 获取 2025-03-28 的Product Hunt热门产品
+2025-03-28 06:19:09,268 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-28 06:19:09,511 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-28 06:19:09,518 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/27/all
+2025-03-28 06:21:16,835 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: 获取页面源代码失败
+2025-03-28 06:21:16,835 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-28 06:23:34,694 - INFO - 获取 2025-03-28 的Product Hunt热门产品
+2025-03-28 06:23:34,694 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-28 06:23:34,713 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-28 06:23:34,715 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/27/all
+2025-03-28 06:25:05,672 - INFO - 已保存页面源代码到 producthunt_drission_20250328_062505.html
+2025-03-28 06:25:05,672 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-28 06:25:05,805 - INFO - 使用BeautifulSoup找到 17 个产品section
+2025-03-28 06:25:05,805 - INFO - 成功处理产品 1: Stripo Email Design Platform
+2025-03-28 06:25:05,805 - INFO - 成功处理产品 2: SimplAI
+2025-03-28 06:25:05,806 - INFO - 成功处理产品 3: Scene 2.0 - Modular AI Web Builder
+2025-03-28 06:25:05,806 - INFO - 成功处理产品 4: Moio
+2025-03-28 06:25:05,807 - INFO - 成功处理产品 5: Redactable
+2025-03-28 06:25:05,807 - INFO - 成功处理产品 6: ActionKit
+2025-03-28 06:25:05,808 - INFO - 成功处理产品 7: Kilo Code for VS Code
+2025-03-28 06:25:05,809 - INFO - 成功处理产品 8: Docko
+2025-03-28 06:25:05,809 - INFO - 成功处理产品 9: xAutoDM
+2025-03-28 06:25:05,809 - INFO - 成功处理产品 10: Atono
+2025-03-28 06:25:05,810 - INFO - 成功处理产品 11: NOAN
+2025-03-28 06:25:05,811 - INFO - 成功处理产品 12: XSPACESTREAM
+2025-03-28 06:25:05,812 - INFO - 成功处理产品 13: EmemeAI
+2025-03-28 06:25:05,814 - INFO - 成功处理产品 14: Grok for Android
+2025-03-28 06:25:05,815 - INFO - 成功处理产品 15: Reachfast.ai
+2025-03-28 06:25:05,816 - INFO - 成功缓存 15 个产品元素的信息
+2025-03-28 06:25:05,817 - INFO - 找到 15 个产品
+2025-03-28 06:25:05,819 - INFO - 尝试使用DrissionPage方法构建产品数据...
+2025-03-28 06:25:05,857 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/stripo-email-design-platform
+2025-03-28 06:25:16,707 - INFO - 已保存产品页面源代码到 producthunt_product_stripo-email-design-platform.html
+2025-03-28 06:25:17,285 - INFO - 使用DrissionPage获取到产品名称: Stripo Email Design Platform
+2025-03-28 06:25:17,285 - INFO - 使用DrissionPage获取到产品label: AI, teamwork, and a new era of email design
+2025-03-28 06:25:17,288 - INFO - 从styles_htmlText获取到description: Stripo leveled up! Our brand-new editor introduces AI Hub, real-time co-editing, commenting, and more—giving teams a seamless workflow for email creation. Whether you're a marketer, designer, or enterprise team, collaborate and create emails faster than ever!
+2025-03-28 06:25:17,289 - INFO - 从primaryLink获取到visit_url: https://stripo.email
+2025-03-28 06:25:17,292 - INFO - 使用DrissionPage获取到主题标签: ['Email Marketing', 'SaaS', 'Design Tools']
+2025-03-28 06:25:17,295 - INFO - 使用DrissionPage获取到投票数: 630
+2025-03-28 06:25:17,295 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/784ee717-c3b0-4ae0-93fe-53121da7e996.png
+2025-03-28 06:25:17,302 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/simplai
+2025-03-28 06:25:22,361 - INFO - 已保存产品页面源代码到 producthunt_product_simplai.html
+2025-03-28 06:25:22,523 - INFO - 使用DrissionPage获取到产品名称: SimplAI
+2025-03-28 06:25:22,524 - INFO - 使用DrissionPage获取到产品label: The simplest and fastest way to build and deploy Agentic AI
+2025-03-28 06:25:22,525 - INFO - 从styles_htmlText获取到description: A single platform for building, deploying, and managing Agentic AI in any environment - on-prem, cloud, or hybrid. It provides robust governance, security, and scalability, so you can launch AI applications simpler and faster.
+2025-03-28 06:25:22,525 - INFO - 从primaryLink获取到visit_url: https://simplai.ai/?utm_source=Producthunt\u0026utm_medium=LinktotheProduct\u0026utm_campaign=ProducthHuntLaunch
+2025-03-28 06:25:22,527 - INFO - 使用DrissionPage获取到主题标签: ['No-Code', 'SaaS', 'Artificial Intelligence']
+2025-03-28 06:25:22,530 - INFO - 使用DrissionPage获取到投票数: 590
+2025-03-28 06:25:22,530 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/684ea987-345c-4273-837d-a7580913d925.jpeg
+2025-03-28 06:25:22,536 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/scene-2-0-modular-ai-web-builder
+2025-03-28 06:25:29,018 - INFO - 已保存产品页面源代码到 producthunt_product_scene-2-0-modular-ai-web-builder.html
+2025-03-28 06:25:29,209 - INFO - 使用DrissionPage获取到产品名称: Scene 2.0 - Modular AI Web Builder
+2025-03-28 06:25:29,209 - INFO - 使用DrissionPage获取到产品label: The smart way to build websites
+2025-03-28 06:25:29,211 - INFO - 从styles_htmlText获取到description: Scene is redefining the way modern websites are created—enabling designers and agency teams to ideate, build, and publish websites from a single canvas, with AI empowering their ideation process without limiting customization or creativity.
+2025-03-28 06:25:29,211 - INFO - 从primaryLink获取到visit_url: https://www.scene.io
+2025-03-28 06:25:29,213 - INFO - 使用DrissionPage获取到主题标签: ['Productivity', 'Website Builder', 'Artificial Intelligence']
+2025-03-28 06:25:29,217 - INFO - 使用DrissionPage获取到投票数: 412
+2025-03-28 06:25:29,217 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/00f89b47-64d4-42e1-95fe-10c552fa62f5.png
+2025-03-28 06:25:29,224 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/moio-2
+2025-03-28 06:25:40,292 - INFO - 已保存产品页面源代码到 producthunt_product_moio-2.html
+2025-03-28 06:25:40,432 - INFO - 使用DrissionPage获取到产品名称: Moio
+2025-03-28 06:25:40,433 - INFO - 使用DrissionPage获取到产品label: The future app builder for designers
+2025-03-28 06:25:40,435 - INFO - 从styles_htmlText获取到description: Moio is a design tool that allows designers to build functional product design, not just static images. Design and test real user flows, eliminate the gap between mockups and final products, and streamline your product development process.
+2025-03-28 06:25:40,435 - INFO - 从primaryLink获取到visit_url: https://moioapp.com
+2025-03-28 06:25:40,436 - INFO - 使用DrissionPage获取到主题标签: ['Prototyping', 'User Experience', 'Design Tools']
+2025-03-28 06:25:40,440 - INFO - 使用DrissionPage获取到投票数: 366
+2025-03-28 06:25:40,440 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/db4302e0-97eb-45fd-8305-af468c5a0773.png
+2025-03-28 06:25:40,446 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/redactable
+2025-03-28 06:25:42,179 - INFO - 已保存产品页面源代码到 producthunt_product_redactable.html
+2025-03-28 06:25:42,371 - INFO - 使用DrissionPage获取到产品名称: Redactable
+2025-03-28 06:25:42,371 - INFO - 使用DrissionPage获取到产品label: Protect your sensitive data in documents before sharing them
+2025-03-28 06:25:42,374 - INFO - 从styles_htmlText获取到description: Redactable uses AI to find and permanently remove sensitive information from documents—unlike traditional methods that leave data vulnerable to bad actors. Save 98% of time while ensuring protection across legal, healthcare, and financial sectors.
+2025-03-28 06:25:42,375 - INFO - 从primaryLink获取到visit_url: https://www.redactable.com/
+2025-03-28 06:25:42,378 - INFO - 使用DrissionPage获取到主题标签: ['Legal', 'Productivity', 'Artificial Intelligence']
+2025-03-28 06:25:42,383 - INFO - 使用DrissionPage获取到投票数: 325
+2025-03-28 06:25:42,383 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/ccd137ce-b06e-4fd4-a491-d8e552739105.jpeg
+2025-03-28 06:25:42,389 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/actionkit
+2025-03-28 06:25:44,228 - INFO - 已保存产品页面源代码到 producthunt_product_actionkit.html
+2025-03-28 06:25:44,438 - INFO - 使用DrissionPage获取到产品名称: ActionKit
+2025-03-28 06:25:44,438 - INFO - 使用DrissionPage获取到产品label: Instantly add 1000+ integration actions to your AI agent
+2025-03-28 06:25:44,441 - INFO - 从styles_htmlText获取到description: With a single API call, ActionKit (by Paragon) equips your product's AI agents with 1000+ integration actions across CRMs, ticketing platforms, email, Slack, and more.
+Paragon is trusted by enterprise AI companies like AI21, You.com, and Copy.ai.
+2025-03-28 06:25:44,441 - INFO - 从primaryLink获取到visit_url: https://useparagon.com/actionkit
+2025-03-28 06:25:44,445 - INFO - 使用DrissionPage获取到主题标签: ['API', 'SaaS', 'Artificial Intelligence']
+2025-03-28 06:25:44,453 - INFO - 使用DrissionPage获取到投票数: 285
+2025-03-28 06:25:44,453 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/3bc58b5b-3997-4918-9efe-1ea288de467d.png
+2025-03-28 06:25:44,461 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/kilo-code-for-vs-code
+2025-03-28 06:25:46,105 - INFO - 已保存产品页面源代码到 producthunt_product_kilo-code-for-vs-code.html
+2025-03-28 06:25:46,407 - INFO - 使用DrissionPage获取到产品名称: Kilo Code for VS Code
+2025-03-28 06:25:46,407 - INFO - 使用DrissionPage获取到产品label: Lightning speed autonomous AI coding agent
+2025-03-28 06:25:46,409 - INFO - 从styles_htmlText获取到description: Kilo AI is an AI-powered extension for VS Code which writes, fixes and improves your code through simple chat. Tuned with the fastest models we could find, it can create and modify files, run command line prompts, and much more.
+2025-03-28 06:25:46,410 - INFO - 从primaryLink获取到visit_url: https://kilocode.ai
+2025-03-28 06:25:46,414 - INFO - 使用DrissionPage获取到主题标签: ['Software Engineering', 'Artificial Intelligence', 'Developer Tools']
+2025-03-28 06:25:46,422 - INFO - 使用DrissionPage获取到投票数: 284
+2025-03-28 06:25:46,422 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/46428b76-afce-49f5-8082-65374b48e08e.png
+2025-03-28 06:25:46,428 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/docko
+2025-03-28 06:25:48,586 - INFO - 已保存产品页面源代码到 producthunt_product_docko.html
+2025-03-28 06:25:48,786 - INFO - 使用DrissionPage获取到产品名称: Docko
+2025-03-28 06:25:48,786 - INFO - 使用DrissionPage获取到产品label: Your virtual pet in your macOS dock
+2025-03-28 06:25:48,789 - INFO - 从styles_htmlText获取到description: Your virtual pet in your macOS Dock
+2025-03-28 06:25:48,790 - INFO - 从primaryLink获取到visit_url: https://docko.app
+2025-03-28 06:25:48,793 - INFO - 使用DrissionPage获取到主题标签: ['Productivity', 'Pets']
+2025-03-28 06:25:48,799 - INFO - 使用DrissionPage获取到投票数: 251
+2025-03-28 06:25:48,799 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/79629c89-56b3-4ff0-be2e-ea3136c0ee07.png
+2025-03-28 06:25:48,806 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/xautodm
+2025-03-28 06:25:51,030 - INFO - 已保存产品页面源代码到 producthunt_product_xautodm.html
+2025-03-28 06:25:51,358 - INFO - 使用DrissionPage获取到产品名称: xAutoDM
+2025-03-28 06:25:51,358 - INFO - 使用DrissionPage获取到产品label: Twitter Cold DMs that help you scale your business
+2025-03-28 06:25:51,361 - INFO - 从styles_htmlText获取到description: xAutoDM uses advanced AI to automate personalized Twitter DMs that get 5x higher response rates and convert more leads into customers.
+2025-03-28 06:25:51,361 - INFO - 从primaryLink获取到visit_url: https://xautodm.com/
+2025-03-28 06:25:51,367 - INFO - 使用DrissionPage获取到主题标签: ['Marketing automation', 'Twitter']
+2025-03-28 06:25:51,374 - INFO - 使用DrissionPage获取到投票数: 82
+2025-03-28 06:25:51,375 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/f2e85ae8-02c7-42a9-a527-0b9f5d6c5867.png
+2025-03-28 06:25:51,383 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/atono
+2025-03-28 06:25:54,247 - INFO - 已保存产品页面源代码到 producthunt_product_atono.html
+2025-03-28 06:25:54,420 - INFO - 使用DrissionPage获取到产品名称: Atono
+2025-03-28 06:25:54,420 - INFO - 使用DrissionPage获取到产品label: Plan, build, run, and improve your product in one place
+2025-03-28 06:25:54,422 - INFO - 从styles_htmlText获取到description: Atono is an all-in-one platform for agile, cross-functional teams building web apps. Get essential features like roadmapping, story writing, feature flagging, bug reporting, and usage tracking to plan, build, run, and improve your product – all in one place.
+2025-03-28 06:25:54,424 - INFO - 从primaryLink获取到visit_url: https://atono.io/?utm_source=product%20hunt\u0026utm_campaign=March-April\u0026utm_medium=organic\u0026utm_content=home%20page
+2025-03-28 06:25:54,426 - INFO - 使用DrissionPage获取到主题标签: ['Task Management', 'Productivity', 'Developer Tools']
+2025-03-28 06:25:54,430 - INFO - 使用DrissionPage获取到投票数: 176
+2025-03-28 06:25:54,430 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/0780c216-a116-4f98-801a-2d7b98aa6676.png
+2025-03-28 06:25:54,437 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/noan-2
+2025-03-28 06:26:43,564 - INFO - 已保存产品页面源代码到 producthunt_product_noan-2.html
+2025-03-28 06:26:43,700 - INFO - 使用DrissionPage获取到产品名称: NOAN
+2025-03-28 06:26:43,700 - INFO - 使用DrissionPage获取到产品label: Your superhuman business partner
+2025-03-28 06:26:43,701 - INFO - 从styles_htmlText获取到description: NOAN is your Superhuman Business Partner. Collaborate with an accurate AI assistant at every step of your business building journey. Connect it to all your most important workflows and apps. Automate & talk to your business.
+2025-03-28 06:26:43,702 - INFO - 从primaryLink获取到visit_url: https://getnoan.com
+2025-03-28 06:26:43,703 - INFO - 使用DrissionPage获取到主题标签: ['Business Intelligence', 'SaaS', 'Artificial Intelligence']
+2025-03-28 06:26:43,707 - INFO - 使用DrissionPage获取到投票数: 71
+2025-03-28 06:26:43,707 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/01f8ab1d-27c6-4b01-a4c7-478231d09ae0.png
+2025-03-28 06:26:43,716 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/xspacestream
+2025-03-28 06:26:46,378 - INFO - 已保存产品页面源代码到 producthunt_product_xspacestream.html
+2025-03-28 06:26:46,482 - INFO - 使用DrissionPage获取到产品名称: XSPACESTREAM
+2025-03-28 06:26:46,482 - INFO - 使用DrissionPage获取到产品label: Discover what's being said on X spaces using AI
+2025-03-28 06:26:46,484 - INFO - 从styles_htmlText获取到description: Get complete transcripts, summaries, and insights from any X/Twitter Space. Ask AI Chat questions and get immediate answers about the content.
+2025-03-28 06:26:46,484 - INFO - 从primaryLink获取到visit_url: https://xspacestream.com
+2025-03-28 06:26:46,485 - INFO - 使用DrissionPage获取到主题标签: ['Social Media', 'Productivity', 'Artificial Intelligence']
+2025-03-28 06:26:46,488 - INFO - 使用DrissionPage获取到投票数: 71
+2025-03-28 06:26:46,488 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/4ebf8750-9210-468e-aa24-2e9c7413dcb1.png
+2025-03-28 06:26:46,496 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/ememeai
+2025-03-28 06:26:49,789 - INFO - 已保存产品页面源代码到 producthunt_product_ememeai.html
+2025-03-28 06:26:50,067 - INFO - 使用DrissionPage获取到产品名称: EmemeAI
+2025-03-28 06:26:50,068 - INFO - 使用DrissionPage获取到产品label: Create & Export AI characters to apps and games
+2025-03-28 06:26:50,071 - INFO - 从styles_htmlText获取到description: Bring your AI-WAIFU to LIFE♡ Without code, You can create 3D chat AI characters, and connect them to external apps, social media, metaverse and games to use as AI-NPCs. They generate not only chat, but also voices and animations. It's free.
+2025-03-28 06:26:50,071 - INFO - 从primaryLink获取到visit_url: https://chat.ememe.ai/
+2025-03-28 06:26:50,075 - INFO - 使用DrissionPage获取到主题标签: ['Entertainment', 'Artificial Intelligence', 'Bots']
+2025-03-28 06:26:50,079 - INFO - 使用DrissionPage获取到投票数: 161
+2025-03-28 06:26:50,080 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/d282cdf9-085d-4d1b-b6a5-172504d07d41.png
+2025-03-28 06:26:50,086 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/grok-for-android
+2025-03-28 06:26:51,873 - INFO - 已保存产品页面源代码到 producthunt_product_grok-for-android.html
+2025-03-28 06:26:52,165 - INFO - 使用DrissionPage获取到产品名称: Grok for Android
+2025-03-28 06:26:52,165 - INFO - 使用DrissionPage获取到产品label: The official app by xAl
+2025-03-28 06:26:52,168 - INFO - 从styles_htmlText获取到description: Grok is an Al-powered assistant, developed by xAl, designed to be maximally truthful, useful, and curious. Get answers to any question, generate striking images, and upload pictures to gain a deeper understanding of your world.
+2025-03-28 06:26:52,169 - INFO - 从primaryLink获取到visit_url: https://play.google.com/store/apps/details?id=ai.x.grok
+2025-03-28 06:26:52,172 - INFO - 使用DrissionPage获取到主题标签: ['Android', 'Artificial Intelligence']
+2025-03-28 06:26:52,177 - INFO - 使用DrissionPage获取到投票数: 152
+2025-03-28 06:26:52,178 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/546f3668-d0a9-48ad-98d9-e679331073b4.webp
+2025-03-28 06:26:52,187 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/reachfast-ai
+2025-03-28 06:26:54,200 - INFO - 已保存产品页面源代码到 producthunt_product_reachfast-ai.html
+2025-03-28 06:26:54,408 - INFO - 使用DrissionPage获取到产品名称: Reachfast.ai
+2025-03-28 06:26:54,409 - INFO - 使用DrissionPage获取到产品label: Find direct dials and emails of 385m+ professionals
+2025-03-28 06:26:54,411 - INFO - 从styles_htmlText获取到description: Reachfast lets you skip LinkedIn’s wait time and connect instantly. Just drop a LinkedIn URL and get direct phone numbers & emails from a 385M+ database. Perfect for sales & recruiting—get a YES or NO in under 5 minutes. Speed wins. Reachfast delivers.
+2025-03-28 06:26:54,412 - INFO - 从primaryLink获取到visit_url: https://reachfast.ai//
+2025-03-28 06:26:54,417 - INFO - 使用DrissionPage获取到主题标签: ['Hiring', 'Sales', 'Artificial Intelligence']
+2025-03-28 06:26:54,423 - INFO - 使用DrissionPage获取到投票数: 55
+2025-03-28 06:26:54,423 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/85b3a89c-f883-429a-bfe8-7a6b2d1b55b0.png
+2025-03-28 06:26:54,423 - INFO - 使用备用方法添加产品: Stripo Email Design Platform
+2025-03-28 06:26:54,424 - INFO - 使用备用方法添加产品: SimplAI
+2025-03-28 06:26:54,424 - INFO - 使用备用方法添加产品: Scene 2.0 - Modular AI Web Builder
+2025-03-28 06:26:54,424 - INFO - 使用备用方法添加产品: Moio
+2025-03-28 06:26:54,424 - INFO - 使用备用方法添加产品: Redactable
+2025-03-28 06:26:54,424 - INFO - 使用备用方法添加产品: ActionKit
+2025-03-28 06:26:54,424 - INFO - 使用备用方法添加产品: Kilo Code for VS Code
+2025-03-28 06:26:54,424 - INFO - 使用备用方法添加产品: Docko
+2025-03-28 06:26:54,424 - INFO - 使用备用方法添加产品: xAutoDM
+2025-03-28 06:26:54,424 - INFO - 使用备用方法添加产品: Atono
+2025-03-28 06:26:54,424 - INFO - 使用备用方法添加产品: NOAN
+2025-03-28 06:26:54,424 - INFO - 使用备用方法添加产品: XSPACESTREAM
+2025-03-28 06:26:54,424 - INFO - 使用备用方法添加产品: EmemeAI
+2025-03-28 06:26:54,424 - INFO - 使用备用方法添加产品: Grok for Android
+2025-03-28 06:26:54,424 - INFO - 使用备用方法添加产品: Reachfast.ai
+2025-03-28 06:26:54,427 - INFO - 成功保存 15 个产品信息到 data/product_2025-03-28.json
+2025-03-29 03:41:39,193 - INFO - 获取 2025-03-29 的Product Hunt热门产品
+2025-03-29 03:41:39,194 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 03:42:09,196 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: 
+Browser connect failed, check whether the port 9222 is a browser and "--remote-debugging-port=9222" startup item is added.
+Address: 127.0.0.1:9222
+Version: 4.1.0.17
+2025-03-29 03:42:09,197 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 03:52:12,937 - INFO - 获取 2025-03-29 的Product Hunt热门产品
+2025-03-29 03:52:12,938 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 03:52:42,940 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: 
+Browser connect failed, check whether the port 9222 is a browser and "--remote-debugging-port=9222" startup item is added.
+Address: 127.0.0.1:9222
+Version: 4.1.0.17
+2025-03-29 03:52:42,940 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 03:54:38,169 - INFO - 获取 2025-03-29 的Product Hunt热门产品
+2025-03-29 03:54:38,170 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 03:55:08,172 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: 
+浏览器连接失败，请检查9222端口是否浏览器，且已添加"--remote-debugging-port=9222"启动项。
+地址: 127.0.0.1:9222
+版本: 4.1.0.17
+2025-03-29 03:55:08,172 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 03:55:24,907 - INFO - 获取 2025-03-29 的Product Hunt热门产品
+2025-03-29 03:55:24,908 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 03:55:54,993 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: 
+Browser connect failed, check whether the port 9222 is a browser and "--remote-debugging-port=9222" startup item is added.
+Address: 127.0.0.1:9222
+Version: 4.1.0.17
+2025-03-29 03:55:54,997 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 03:57:19,061 - INFO - 获取 2025-03-29 的Product Hunt热门产品
+2025-03-29 03:57:19,062 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 03:57:20,346 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: 
+获取窗口信息失败。
+版本: 4.1.0.17
+2025-03-29 03:57:20,346 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 03:58:01,614 - INFO - 获取 2025-03-29 的Product Hunt热门产品
+2025-03-29 03:58:01,615 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 03:58:01,615 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: ChromiumPage.__new__() got an unexpected keyword argument 'addr_driver_opts'
+2025-03-29 03:58:01,616 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 03:58:36,220 - INFO - 获取 2025-03-29 的Product Hunt热门产品
+2025-03-29 03:58:36,220 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 03:58:36,220 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: 'Settings' object has no attribute 'save'
+2025-03-29 03:58:36,221 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 04:00:08,125 - INFO - 获取 2025-03-29 的Product Hunt热门产品
+2025-03-29 04:00:08,126 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:00:08,143 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:00:08,145 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:00:40,153 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-03-29 04:00:40,153 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 04:01:54,138 - INFO - 获取 2025-03-29 的Product Hunt热门产品
+2025-03-29 04:01:54,139 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:01:57,040 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:01:57,044 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:01:58,516 - INFO - 已保存页面源代码到 producthunt_drission_20250329_040158.html
+2025-03-29 04:01:58,516 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-29 04:01:58,518 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-03-29 04:01:58,519 - WARNING - 未找到产品section
+2025-03-29 04:01:59,533 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 04:02:05,282 - INFO - 获取 2025-03-29 的Product Hunt热门产品
+2025-03-29 04:02:05,283 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:02:07,016 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:02:07,020 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:02:08,274 - INFO - 已保存页面源代码到 producthunt_drission_20250329_040208.html
+2025-03-29 04:02:08,274 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-29 04:02:08,277 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-03-29 04:02:08,277 - WARNING - 未找到产品section
+2025-03-29 04:02:09,301 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 04:03:41,189 - INFO - 获取 2025-03-29 的Product Hunt热门产品
+2025-03-29 04:03:41,190 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:03:42,456 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: 
+获取窗口信息失败。
+版本: 4.1.0.17
+2025-03-29 04:03:42,457 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 04:04:13,787 - INFO - 获取 2025-03-29 的Product Hunt热门产品
+2025-03-29 04:04:13,788 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:04:15,075 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: 
+Failed to obtain window information. Procedure
+Version: 4.1.0.17
+2025-03-29 04:04:15,076 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 04:07:39,411 - INFO - 获取 2025-03-29 的Product Hunt热门产品
+2025-03-29 04:07:39,412 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:07:39,412 - INFO - 正在创建ChromiumPage实例...
+2025-03-29 04:07:39,436 - INFO - 正在设置窗口大小...
+2025-03-29 04:07:40,686 - ERROR - 创建ChromiumPage实例失败: 
+获取窗口信息失败。
+版本: 4.1.0.17
+2025-03-29 04:07:40,686 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: 
+获取窗口信息失败。
+版本: 4.1.0.17
+2025-03-29 04:07:40,686 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 04:09:13,479 - INFO - 获取 2025-03-29 的Product Hunt热门产品
+2025-03-29 04:09:13,479 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:09:13,479 - INFO - 正在创建ChromiumPage实例...
+2025-03-29 04:09:13,481 - INFO - 正在创建页面对象...
+2025-03-29 04:09:13,499 - INFO - 正在检查浏览器状态...
+2025-03-29 04:09:13,499 - ERROR - 创建ChromiumPage实例失败: 'ChromiumPage' object has no attribute 'ready'
+2025-03-29 04:09:13,499 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: 'ChromiumPage' object has no attribute 'ready'
+2025-03-29 04:09:13,499 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 04:10:07,425 - INFO - 获取 2025-03-29 的Product Hunt热门产品
+2025-03-29 04:10:07,425 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:10:07,425 - INFO - 正在创建ChromiumPage实例...
+2025-03-29 04:10:07,426 - INFO - 正在创建页面对象...
+2025-03-29 04:10:07,443 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:10:07,445 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:10:39,453 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-03-29 04:10:39,454 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 04:11:53,576 - INFO - 获取 2025-03-29 的Product Hunt热门产品
+2025-03-29 04:11:53,576 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:11:53,576 - INFO - 正在关闭Chrome进程...
+2025-03-29 04:11:54,636 - INFO - 正在启动Chrome...
+2025-03-29 04:11:56,653 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-29 04:11:56,655 - INFO - 正在创建页面对象...
+2025-03-29 04:11:56,677 - INFO - 测试页面是否可用...
+2025-03-29 04:13:14,514 - ERROR - 创建ChromiumPage实例失败 (尝试 1/3): 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-03-29 04:13:14,514 - INFO - 等待 2 秒后重试...
+2025-03-29 04:13:16,518 - INFO - 正在关闭Chrome进程...
+2025-03-29 04:13:17,676 - INFO - 正在启动Chrome...
+2025-03-29 04:13:19,682 - INFO - 正在创建ChromiumPage实例 (尝试 2/3)...
+2025-03-29 04:13:19,684 - INFO - 正在创建页面对象...
+2025-03-29 04:13:19,704 - INFO - 测试页面是否可用...
+2025-03-29 04:15:06,783 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:15:06,788 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:15:38,793 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: 
+与页面的连接已断开。
+版本: 4.1.0.17
+2025-03-29 04:15:38,794 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 04:18:04,875 - INFO - 获取 2025-03-29 的Product Hunt热门产品
+2025-03-29 04:18:04,875 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:18:04,875 - INFO - 正在关闭Chrome进程...
+2025-03-29 04:18:06,964 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-29 04:18:06,968 - INFO - 正在创建页面对象...
+2025-03-29 04:18:09,060 - INFO - 等待浏览器启动...
+2025-03-29 04:18:12,065 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:18:12,068 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:18:13,233 - INFO - 已保存页面源代码到 producthunt_drission_20250329_041813.html
+2025-03-29 04:18:13,233 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-29 04:18:13,237 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-03-29 04:18:13,237 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 04:21:51,523 - INFO - 获取 2025-03-29 的Product Hunt热门产品 (尝试 1/3)
+2025-03-29 04:21:51,524 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:21:51,524 - INFO - 正在关闭Chrome进程...
+2025-03-29 04:21:53,617 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-29 04:21:53,622 - INFO - 正在创建页面对象...
+2025-03-29 04:21:55,629 - INFO - 等待浏览器启动...
+2025-03-29 04:21:58,632 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:21:58,638 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:21:59,580 - INFO - 等待页面加载 10 秒...
+2025-03-29 04:22:09,598 - INFO - 已保存页面源代码到 producthunt_drission_20250329_042209.html
+2025-03-29 04:22:09,598 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-29 04:22:09,602 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-03-29 04:22:09,602 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错 (尝试 1/3): 未找到产品section，页面可能未加载完全
+2025-03-29 04:22:09,602 - INFO - 等待 5 秒后重试...
+2025-03-29 04:22:14,603 - INFO - 获取 2025-03-29 的Product Hunt热门产品 (尝试 2/3)
+2025-03-29 04:22:14,603 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:22:14,604 - INFO - 正在关闭Chrome进程...
+2025-03-29 04:22:16,706 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-29 04:22:16,709 - INFO - 正在创建页面对象...
+2025-03-29 04:22:18,752 - INFO - 等待浏览器启动...
+2025-03-29 04:22:21,753 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:22:21,754 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:22:22,685 - INFO - 等待页面加载 10 秒...
+2025-03-29 04:23:23,478 - INFO - 获取 2025-03-29 的Product Hunt热门产品 (尝试 1/3)
+2025-03-29 04:23:23,478 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:23:23,478 - INFO - 正在关闭Chrome进程...
+2025-03-29 04:23:25,554 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-29 04:23:25,558 - INFO - 正在创建页面对象...
+2025-03-29 04:23:27,432 - INFO - 等待浏览器启动...
+2025-03-29 04:23:30,434 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:23:30,437 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:23:32,101 - INFO - 等待页面加载 10 秒...
+2025-03-29 04:23:42,121 - INFO - 已保存页面源代码到 producthunt_drission_20250329_042342.html
+2025-03-29 04:23:42,121 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-29 04:23:42,125 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-03-29 04:23:42,125 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错 (尝试 1/3): 未找到产品section，页面可能未加载完全
+2025-03-29 04:23:42,125 - INFO - 等待 5 秒后重试...
+2025-03-29 04:23:47,126 - INFO - 获取 2025-03-29 的Product Hunt热门产品 (尝试 2/3)
+2025-03-29 04:23:47,126 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:23:47,127 - INFO - 正在关闭Chrome进程...
+2025-03-29 04:23:49,234 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-29 04:23:49,235 - INFO - 正在创建页面对象...
+2025-03-29 04:23:51,445 - INFO - 等待浏览器启动...
+2025-03-29 04:23:54,449 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:23:54,449 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:23:55,374 - INFO - 等待页面加载 10 秒...
+2025-03-29 04:24:05,397 - INFO - 已保存页面源代码到 producthunt_drission_20250329_042405.html
+2025-03-29 04:24:05,398 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-29 04:24:05,401 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-03-29 04:24:05,401 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错 (尝试 2/3): 未找到产品section，页面可能未加载完全
+2025-03-29 04:24:05,401 - INFO - 等待 5 秒后重试...
+2025-03-29 04:24:10,401 - INFO - 获取 2025-03-29 的Product Hunt热门产品 (尝试 3/3)
+2025-03-29 04:24:10,402 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:24:10,402 - INFO - 正在关闭Chrome进程...
+2025-03-29 04:24:12,508 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-29 04:24:12,512 - INFO - 正在创建页面对象...
+2025-03-29 04:24:14,526 - INFO - 等待浏览器启动...
+2025-03-29 04:24:17,530 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:24:17,530 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:24:19,082 - INFO - 等待页面加载 10 秒...
+2025-03-29 04:24:29,097 - INFO - 已保存页面源代码到 producthunt_drission_20250329_042429.html
+2025-03-29 04:24:29,097 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-29 04:24:29,100 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-03-29 04:24:29,100 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错 (尝试 3/3): 未找到产品section，页面可能未加载完全
+2025-03-29 04:24:29,100 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 04:25:00,016 - INFO - 获取 2025-03-29 的Product Hunt热门产品 (尝试 1/3)
+2025-03-29 04:25:00,017 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:25:00,017 - INFO - 正在关闭Chrome进程...
+2025-03-29 04:25:02,105 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-29 04:25:02,109 - INFO - 正在创建页面对象...
+2025-03-29 04:25:04,122 - INFO - 等待浏览器启动...
+2025-03-29 04:25:07,128 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:25:07,134 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:25:08,047 - INFO - 等待页面加载 10 秒...
+2025-03-29 04:25:18,071 - INFO - 已保存页面源代码到 producthunt_drission_20250329_042518.html
+2025-03-29 04:25:18,071 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-29 04:25:18,075 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-03-29 04:25:18,076 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错 (尝试 1/3): 未找到产品section，页面可能未加载完全
+2025-03-29 04:25:18,076 - INFO - 等待 5 秒后重试...
+2025-03-29 04:25:23,077 - INFO - 获取 2025-03-29 的Product Hunt热门产品 (尝试 2/3)
+2025-03-29 04:25:23,077 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:25:23,077 - INFO - 正在关闭Chrome进程...
+2025-03-29 04:25:25,176 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-29 04:25:25,177 - INFO - 正在创建页面对象...
+2025-03-29 04:25:27,122 - INFO - 等待浏览器启动...
+2025-03-29 04:25:30,126 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:25:30,126 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:25:31,080 - INFO - 等待页面加载 10 秒...
+2025-03-29 04:25:41,110 - INFO - 已保存页面源代码到 producthunt_drission_20250329_042541.html
+2025-03-29 04:25:41,111 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-29 04:25:41,114 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-03-29 04:25:41,114 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错 (尝试 2/3): 未找到产品section，页面可能未加载完全
+2025-03-29 04:25:41,114 - INFO - 等待 5 秒后重试...
+2025-03-29 04:25:46,118 - INFO - 获取 2025-03-29 的Product Hunt热门产品 (尝试 3/3)
+2025-03-29 04:25:46,119 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:25:46,119 - INFO - 正在关闭Chrome进程...
+2025-03-29 04:25:48,225 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-29 04:25:48,228 - INFO - 正在创建页面对象...
+2025-03-29 04:25:50,083 - INFO - 等待浏览器启动...
+2025-03-29 04:25:53,089 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:25:53,089 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:25:54,039 - INFO - 等待页面加载 10 秒...
+2025-03-29 04:26:04,058 - INFO - 已保存页面源代码到 producthunt_drission_20250329_042604.html
+2025-03-29 04:26:04,058 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-29 04:26:04,061 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-03-29 04:26:04,062 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错 (尝试 3/3): 未找到产品section，页面可能未加载完全
+2025-03-29 04:26:04,062 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 04:28:29,996 - INFO - 获取 2025-03-29 的Product Hunt热门产品 (尝试 1/3)
+2025-03-29 04:28:29,996 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:28:29,996 - INFO - 正在关闭Chrome进程...
+2025-03-29 04:28:32,088 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-29 04:28:32,091 - INFO - 正在创建页面对象...
+2025-03-29 04:28:34,140 - INFO - 等待浏览器启动...
+2025-03-29 04:28:37,144 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:28:37,149 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:28:38,074 - INFO - 等待页面加载 20 秒...
+2025-03-29 04:28:58,074 - INFO - 执行JavaScript滚动页面...
+2025-03-29 04:29:03,087 - INFO - 已保存页面源代码到 producthunt_drission_20250329_042903.html
+2025-03-29 04:29:03,087 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-29 04:29:03,091 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-03-29 04:29:03,091 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错 (尝试 1/3): 未找到产品section，页面可能未加载完全
+2025-03-29 04:29:03,091 - INFO - 等待 5 秒后重试...
+2025-03-29 04:29:08,092 - INFO - 获取 2025-03-29 的Product Hunt热门产品 (尝试 2/3)
+2025-03-29 04:29:08,093 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:29:08,094 - INFO - 正在关闭Chrome进程...
+2025-03-29 04:29:10,208 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-29 04:29:10,211 - INFO - 正在创建页面对象...
+2025-03-29 04:29:12,027 - INFO - 等待浏览器启动...
+2025-03-29 04:29:15,032 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:29:15,033 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:29:15,927 - INFO - 等待页面加载 20 秒...
+2025-03-29 04:29:35,928 - INFO - 执行JavaScript滚动页面...
+2025-03-29 04:29:40,941 - INFO - 已保存页面源代码到 producthunt_drission_20250329_042940.html
+2025-03-29 04:29:40,942 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-29 04:29:40,944 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-03-29 04:29:40,944 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错 (尝试 2/3): 未找到产品section，页面可能未加载完全
+2025-03-29 04:29:40,944 - INFO - 等待 5 秒后重试...
+2025-03-29 04:29:45,945 - INFO - 获取 2025-03-29 的Product Hunt热门产品 (尝试 3/3)
+2025-03-29 04:29:45,945 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:29:45,945 - INFO - 正在关闭Chrome进程...
+2025-03-29 04:29:48,084 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-29 04:29:48,087 - INFO - 正在创建页面对象...
+2025-03-29 04:29:49,955 - INFO - 等待浏览器启动...
+2025-03-29 04:29:52,960 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:29:52,961 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:29:54,091 - INFO - 等待页面加载 20 秒...
+2025-03-29 04:30:14,092 - INFO - 执行JavaScript滚动页面...
+2025-03-29 04:30:19,117 - INFO - 已保存页面源代码到 producthunt_drission_20250329_043019.html
+2025-03-29 04:30:19,118 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-29 04:30:19,121 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-03-29 04:30:19,121 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错 (尝试 3/3): 未找到产品section，页面可能未加载完全
+2025-03-29 04:30:19,121 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-29 04:31:30,569 - INFO - 获取 2025-03-29 的Product Hunt热门产品 (尝试 1/3)
+2025-03-29 04:31:30,570 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:31:30,570 - INFO - 正在关闭Chrome进程...
+2025-03-29 04:31:32,652 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-29 04:31:32,655 - INFO - 正在创建页面对象...
+2025-03-29 04:31:34,644 - INFO - 等待浏览器启动...
+2025-03-29 04:31:37,650 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:31:37,654 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:31:38,636 - INFO - 等待页面加载 20 秒...
+2025-03-29 04:31:58,637 - INFO - 执行JavaScript滚动页面...
+2025-03-29 04:32:03,652 - INFO - 已保存页面源代码到 producthunt_drission_20250329_043203.html
+2025-03-29 04:32:03,652 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-29 04:32:03,656 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-03-29 04:32:03,656 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错 (尝试 1/3): 未找到产品section，页面可能未加载完全
+2025-03-29 04:32:03,656 - INFO - 等待 5 秒后重试...
+2025-03-29 04:32:08,657 - INFO - 获取 2025-03-29 的Product Hunt热门产品 (尝试 2/3)
+2025-03-29 04:32:08,657 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:32:08,657 - INFO - 正在关闭Chrome进程...
+2025-03-29 04:32:10,784 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-29 04:32:10,791 - INFO - 正在创建页面对象...
+2025-03-29 04:32:13,296 - INFO - 等待浏览器启动...
+2025-03-29 04:32:16,301 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:32:16,301 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:32:17,260 - INFO - 等待页面加载 20 秒...
+2025-03-29 04:32:37,261 - INFO - 执行JavaScript滚动页面...
+2025-03-29 04:32:42,274 - INFO - 已保存页面源代码到 producthunt_drission_20250329_043242.html
+2025-03-29 04:32:42,274 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-29 04:32:42,277 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-03-29 04:32:42,277 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错 (尝试 2/3): 未找到产品section，页面可能未加载完全
+2025-03-29 04:32:42,277 - INFO - 等待 5 秒后重试...
+2025-03-29 04:32:47,278 - INFO - 获取 2025-03-29 的Product Hunt热门产品 (尝试 3/3)
+2025-03-29 04:32:47,279 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-29 04:32:47,279 - INFO - 正在关闭Chrome进程...
+2025-03-29 04:32:49,385 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-29 04:32:49,391 - INFO - 正在创建页面对象...
+2025-03-29 04:32:51,160 - INFO - 等待浏览器启动...
+2025-03-29 04:32:54,165 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-29 04:32:54,166 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/28/all
+2025-03-29 04:32:55,100 - INFO - 等待页面加载 20 秒...
+2025-03-29 04:33:15,101 - INFO - 执行JavaScript滚动页面...
+2025-03-29 04:33:20,116 - INFO - 已保存页面源代码到 producthunt_drission_20250329_043320.html
+2025-03-29 04:33:20,116 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-29 04:33:20,118 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-03-29 04:33:20,118 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错 (尝试 3/3): 未找到产品section，页面可能未加载完全
+2025-03-29 04:33:20,118 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-31 21:40:55,472 - INFO - 获取 2025-03-31 的Product Hunt热门产品 (尝试 1/3)
+2025-03-31 21:40:55,474 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-31 21:40:55,474 - INFO - 正在关闭Chrome进程...
+2025-03-31 21:40:57,542 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-31 21:40:57,544 - ERROR - 创建ChromiumPage实例失败 (尝试 1/3): 'ChromiumOptions' object has no attribute 'set_experimental_option'
+2025-03-31 21:40:57,544 - INFO - 等待 2 秒后重试...
+2025-03-31 21:40:59,548 - INFO - 正在关闭Chrome进程...
+2025-03-31 21:41:01,628 - INFO - 正在创建ChromiumPage实例 (尝试 2/3)...
+2025-03-31 21:41:01,631 - ERROR - 创建ChromiumPage实例失败 (尝试 2/3): 'ChromiumOptions' object has no attribute 'set_experimental_option'
+2025-03-31 21:41:01,631 - INFO - 等待 2 秒后重试...
+2025-03-31 21:41:03,636 - INFO - 正在关闭Chrome进程...
+2025-03-31 21:41:05,703 - INFO - 正在创建ChromiumPage实例 (尝试 3/3)...
+2025-03-31 21:41:05,707 - ERROR - 创建ChromiumPage实例失败 (尝试 3/3): 'ChromiumOptions' object has no attribute 'set_experimental_option'
+2025-03-31 21:41:05,707 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错 (尝试 1/3): 'ChromiumOptions' object has no attribute 'set_experimental_option'
+2025-03-31 21:41:05,707 - INFO - 等待 5 秒后重试...
+2025-03-31 21:41:10,709 - INFO - 获取 2025-03-31 的Product Hunt热门产品 (尝试 2/3)
+2025-03-31 21:41:10,709 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-31 21:41:10,709 - INFO - 正在关闭Chrome进程...
+2025-03-31 21:41:12,781 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-31 21:41:12,783 - ERROR - 创建ChromiumPage实例失败 (尝试 1/3): 'ChromiumOptions' object has no attribute 'set_experimental_option'
+2025-03-31 21:41:12,783 - INFO - 等待 2 秒后重试...
+2025-03-31 21:41:14,787 - INFO - 正在关闭Chrome进程...
+2025-03-31 21:41:16,848 - INFO - 正在创建ChromiumPage实例 (尝试 2/3)...
+2025-03-31 21:41:16,851 - ERROR - 创建ChromiumPage实例失败 (尝试 2/3): 'ChromiumOptions' object has no attribute 'set_experimental_option'
+2025-03-31 21:41:16,851 - INFO - 等待 2 秒后重试...
+2025-03-31 21:41:18,855 - INFO - 正在关闭Chrome进程...
+2025-03-31 21:41:20,924 - INFO - 正在创建ChromiumPage实例 (尝试 3/3)...
+2025-03-31 21:41:20,928 - ERROR - 创建ChromiumPage实例失败 (尝试 3/3): 'ChromiumOptions' object has no attribute 'set_experimental_option'
+2025-03-31 21:41:20,928 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错 (尝试 2/3): 'ChromiumOptions' object has no attribute 'set_experimental_option'
+2025-03-31 21:41:20,928 - INFO - 等待 5 秒后重试...
+2025-03-31 21:41:25,929 - INFO - 获取 2025-03-31 的Product Hunt热门产品 (尝试 3/3)
+2025-03-31 21:41:25,929 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-31 21:41:25,929 - INFO - 正在关闭Chrome进程...
+2025-03-31 21:41:27,992 - INFO - 正在创建ChromiumPage实例 (尝试 1/3)...
+2025-03-31 21:41:27,994 - ERROR - 创建ChromiumPage实例失败 (尝试 1/3): 'ChromiumOptions' object has no attribute 'set_experimental_option'
+2025-03-31 21:41:27,994 - INFO - 等待 2 秒后重试...
+2025-03-31 21:41:29,998 - INFO - 正在关闭Chrome进程...
+2025-03-31 21:41:32,071 - INFO - 正在创建ChromiumPage实例 (尝试 2/3)...
+2025-03-31 21:41:32,075 - ERROR - 创建ChromiumPage实例失败 (尝试 2/3): 'ChromiumOptions' object has no attribute 'set_experimental_option'
+2025-03-31 21:41:32,075 - INFO - 等待 2 秒后重试...
+2025-03-31 21:41:34,079 - INFO - 正在关闭Chrome进程...
+2025-03-31 21:41:36,151 - INFO - 正在创建ChromiumPage实例 (尝试 3/3)...
+2025-03-31 21:41:36,154 - ERROR - 创建ChromiumPage实例失败 (尝试 3/3): 'ChromiumOptions' object has no attribute 'set_experimental_option'
+2025-03-31 21:41:36,154 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错 (尝试 3/3): 'ChromiumOptions' object has no attribute 'set_experimental_option'
+2025-03-31 21:41:36,155 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-31 21:42:12,647 - INFO - 获取 2025-03-31 的Product Hunt热门产品
+2025-03-31 21:42:12,648 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-31 21:42:16,216 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-31 21:42:16,220 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/30/all
+2025-03-31 21:42:20,374 - INFO - 已保存页面源代码到 producthunt_drission_20250331_214220.html
+2025-03-31 21:42:20,374 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-31 21:42:20,378 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-03-31 21:42:20,379 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-03-31 21:44:18,628 - INFO - 获取 2025-03-31 的Product Hunt热门产品
+2025-03-31 21:44:18,629 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-03-31 21:44:18,669 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-03-31 21:44:18,672 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/3/30/all
+2025-03-31 21:44:21,318 - INFO - 已保存页面源代码到 producthunt_drission_20250331_214421.html
+2025-03-31 21:44:21,318 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-03-31 21:44:21,366 - INFO - 使用BeautifulSoup找到 17 个产品section
+2025-03-31 21:44:21,367 - INFO - 成功处理产品 1: Openspot
+2025-03-31 21:44:21,367 - INFO - 成功处理产品 2: HCB
+2025-03-31 21:44:21,367 - INFO - 成功处理产品 3: React Email 4.0
+2025-03-31 21:44:21,367 - INFO - 成功处理产品 4: Sindo
+2025-03-31 21:44:21,367 - INFO - 成功处理产品 5: Spaceloadr
+2025-03-31 21:44:21,368 - INFO - 成功处理产品 6: Gapflow.io
+2025-03-31 21:44:21,368 - INFO - 成功处理产品 7: Vocao.ai
+2025-03-31 21:44:21,368 - INFO - 成功处理产品 8: GitHub Chat
+2025-03-31 21:44:21,368 - INFO - 成功处理产品 9: Zenkan
+2025-03-31 21:44:21,368 - INFO - 成功处理产品 10: Rainy Skies 2.0
+2025-03-31 21:44:21,368 - INFO - 成功处理产品 11: Skybox
+2025-03-31 21:44:21,368 - INFO - 成功处理产品 12: Valora: Stock Market Analysis
+2025-03-31 21:44:21,369 - INFO - 成功处理产品 13: Giblify AI
+2025-03-31 21:44:21,369 - INFO - 成功处理产品 14: Centrate
+2025-03-31 21:44:21,369 - INFO - 成功处理产品 15: Feedback Hunter
+2025-03-31 21:44:21,369 - INFO - 成功缓存 15 个产品元素的信息
+2025-03-31 21:44:21,369 - INFO - 找到 15 个产品
+2025-03-31 21:44:21,369 - INFO - 尝试使用DrissionPage方法构建产品数据...
+2025-03-31 21:44:21,375 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/openspot-3
+2025-03-31 21:44:24,181 - INFO - 已保存产品页面源代码到 producthunt_product_openspot-3.html
+2025-03-31 21:44:24,739 - INFO - 使用DrissionPage获取到产品名称: Openspot
+2025-03-31 21:44:24,740 - INFO - 使用DrissionPage获取到产品label: A modern, no-BS alternative to LinkedIn​
+2025-03-31 21:44:24,741 - INFO - 从styles_htmlText获取到description: Openspot helps you share your professional potential through thoughtful prompts, short videos, and audio clips, not just boring resumes. It makes finding jobs and connecting with others feel friendly, meaningful, and way less scary.
+2025-03-31 21:44:24,742 - INFO - 从primaryLink获取到visit_url: https://heyopenspot.com
+2025-03-31 21:44:24,743 - INFO - 使用DrissionPage获取到主题标签: ['Tech', 'Career', 'Hiring']
+2025-03-31 21:44:24,744 - INFO - 使用DrissionPage获取到投票数: 497
+2025-03-31 21:44:24,744 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/e87edad7-fe3a-4fea-a1b7-d7e821520064.png
+2025-03-31 21:44:24,749 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/hcb
+2025-03-31 21:44:32,398 - INFO - 已保存产品页面源代码到 producthunt_product_hcb.html
+2025-03-31 21:44:32,652 - INFO - 使用DrissionPage获取到产品名称: HCB
+2025-03-31 21:44:32,652 - INFO - 使用DrissionPage获取到产品label: The open-source, nonprofit neobank
+2025-03-31 21:44:32,654 - INFO - 从styles_htmlText获取到description: Built by students, for students—HCB is the nonprofit neobank powering local hackathons, clubs, and teams with 501(c)(3) status. Collect donations, send payments, issue cards, and manage funds with ease. Focus on building—we’ll handle money.
+2025-03-31 21:44:32,654 - INFO - 从primaryLink获取到visit_url: https://hcb.hackclub.com
+2025-03-31 21:44:32,657 - INFO - 使用DrissionPage获取到主题标签: ['Charity & Giving', 'Education', 'Fintech']
+2025-03-31 21:44:32,661 - INFO - 使用DrissionPage获取到投票数: 387
+2025-03-31 21:44:32,661 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/88122758-9d96-4120-b884-a3d9016d4742.png
+2025-03-31 21:44:32,667 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/react-email-4-0
+2025-03-31 21:44:38,554 - INFO - 已保存产品页面源代码到 producthunt_product_react-email-4-0.html
+2025-03-31 21:44:38,746 - INFO - 使用DrissionPage获取到产品名称: React Email 4.0
+2025-03-31 21:44:38,746 - INFO - 使用DrissionPage获取到产品label: Completely new set of tools to help you build better emails
+2025-03-31 21:44:38,748 - INFO - 从styles_htmlText获取到description: Announcing React Email 4.0. Built-in Linter, Spam Score, Compatibility Checker, Responsive Preview, and New Components
+2025-03-31 21:44:38,748 - INFO - 从primaryLink获取到visit_url: https://resend.com/blog/react-email-4
+2025-03-31 21:44:38,750 - INFO - 使用DrissionPage获取到主题标签: ['Email', 'Email Marketing']
+2025-03-31 21:44:38,753 - INFO - 使用DrissionPage获取到投票数: 349
+2025-03-31 21:44:38,754 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/f56d0f21-77a7-4015-a267-a6896b5afafe.png
+2025-03-31 21:44:38,760 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/sindo
+2025-03-31 21:44:44,842 - INFO - 已保存产品页面源代码到 producthunt_product_sindo.html
+2025-03-31 21:44:45,065 - INFO - 使用DrissionPage获取到产品名称: Sindo
+2025-03-31 21:44:45,066 - INFO - 使用DrissionPage获取到产品label: Effortless AI-powered testimonials: collect, manage & share
+2025-03-31 21:44:45,067 - INFO - 从styles_htmlText获取到description: Sindo is an AI-powered platform for collecting, managing, and sharing customer testimonials. Automate social proof gathering from various sources and display the reviews on your website, emails, and socials to boost trust and conversions.
+2025-03-31 21:44:45,068 - INFO - 从primaryLink获取到visit_url: https://www.getsindo.com/
+2025-03-31 21:44:45,070 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'Marketing', 'Growth Hacking']
+2025-03-31 21:44:45,074 - INFO - 使用DrissionPage获取到投票数: 279
+2025-03-31 21:44:45,074 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/e2417ca5-8640-44e5-a647-241c415858e7.png
+2025-03-31 21:44:45,083 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/spaceloadr
+2025-03-31 21:44:47,998 - INFO - 已保存产品页面源代码到 producthunt_product_spaceloadr.html
+2025-03-31 21:44:48,195 - INFO - 使用DrissionPage获取到产品名称: Spaceloadr
+2025-03-31 21:44:48,195 - INFO - 使用DrissionPage获取到产品label: A faster, smarter way to import data into Notion
+2025-03-31 21:44:48,197 - INFO - 从styles_htmlText获取到description: Importing structured data into Notion shouldn’t be a hassle. Our tool simplifies the process with smart column mapping and duplicate prevention—ensuring a seamless and error-free experience.  Save time and let your Notion data work for you. 🚀
+2025-03-31 21:44:48,197 - INFO - 从primaryLink获取到visit_url: https://www.spaceloadr.com
+2025-03-31 21:44:48,199 - INFO - 使用DrissionPage获取到主题标签: ['Data', 'Notion', 'SaaS']
+2025-03-31 21:44:48,206 - INFO - 使用DrissionPage获取到投票数: 248
+2025-03-31 21:44:48,206 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/b92c6b1a-7896-4164-a677-b1882153b717.png
+2025-03-31 21:44:48,212 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/gapflow-io
+2025-03-31 21:44:52,090 - INFO - 已保存产品页面源代码到 producthunt_product_gapflow-io.html
+2025-03-31 21:44:52,315 - INFO - 使用DrissionPage获取到产品名称: Gapflow.io
+2025-03-31 21:44:52,315 - INFO - 使用DrissionPage获取到产品label: Spam filter, autoreply & forwarding for Webflow native Forms
+2025-03-31 21:44:52,317 - INFO - 从styles_htmlText获取到description: Are you dealing with spam on your Webflow site? Do you need to route job applications to HR and sales inquiries to the right team? Or perhaps you just want to send an auto-reply using Webflow’s native forms?
+
+Try Gapflow.io today!
+2025-03-31 21:44:52,317 - INFO - 从primaryLink获取到visit_url: https://gapflow.io
+2025-03-31 21:44:52,319 - INFO - 使用DrissionPage获取到主题标签: ['Developer Tools', 'Design Tools', 'No-Code']
+2025-03-31 21:44:52,322 - INFO - 使用DrissionPage获取到投票数: 190
+2025-03-31 21:44:52,323 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/b6fb0a8f-2373-4ee2-ae01-c8fabeeb19a0.png
+2025-03-31 21:44:52,328 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/vocao-ai
+2025-03-31 21:44:55,048 - INFO - 已保存产品页面源代码到 producthunt_product_vocao-ai.html
+2025-03-31 21:44:55,229 - INFO - 使用DrissionPage获取到产品名称: Vocao.ai
+2025-03-31 21:44:55,229 - INFO - 使用DrissionPage获取到产品label: Speak naturally with AI to boost your language fluency
+2025-03-31 21:44:55,231 - INFO - 从styles_htmlText获取到description: Vocao transforms language practice with lifelike voice conversations powered by AI! Skip the drills—talk naturally, receive instant feedback, and build confidence effortlessly. Dive into fun, everyday topics and practice speaking anytime, anywhere.
+2025-03-31 21:44:55,231 - INFO - 从primaryLink获取到visit_url: https://vocao.ai
+2025-03-31 21:44:55,233 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'Online Learning', 'Education']
+2025-03-31 21:44:55,236 - INFO - 使用DrissionPage获取到投票数: 202
+2025-03-31 21:44:55,237 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/4763ca10-1227-4b44-92ad-a6f132bc3c2b.png
+2025-03-31 21:44:55,242 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/github-chat-2
+2025-03-31 21:44:58,147 - INFO - 已保存产品页面源代码到 producthunt_product_github-chat-2.html
+2025-03-31 21:44:58,419 - INFO - 使用DrissionPage获取到产品名称: GitHub Chat
+2025-03-31 21:44:58,419 - INFO - 使用DrissionPage获取到产品label: API for devs to chat and explore GitHub repositories
+2025-03-31 21:44:58,421 - INFO - 从styles_htmlText获取到description: The simplest way for developers to chat and explore GitHub repositories programmatically. GitHub Chat API gives you API access to chat with any public GitHub repository.
+2025-03-31 21:44:58,421 - INFO - 从primaryLink获取到visit_url: https://github-chat.com
+2025-03-31 21:44:58,424 - INFO - 使用DrissionPage获取到主题标签: ['GitHub', 'Developer Tools', 'API']
+2025-03-31 21:44:58,427 - INFO - 使用DrissionPage获取到投票数: 56
+2025-03-31 21:44:58,428 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/a0f61ec6-f3d3-47df-b173-c85acf248ce9.png
+2025-03-31 21:44:58,433 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/zenkan
+2025-03-31 21:45:00,451 - INFO - 已保存产品页面源代码到 producthunt_product_zenkan.html
+2025-03-31 21:45:00,584 - INFO - 使用DrissionPage获取到产品名称: Zenkan
+2025-03-31 21:45:00,584 - INFO - 使用DrissionPage获取到产品label: Drag and drop your notes in flexible nested boards
+2025-03-31 21:45:00,585 - INFO - 从styles_htmlText获取到description: Zenkan is a personal note-taking app with a 3-level nested board system for effortless organization. Drag, resize, and arrange your notes and tasks freely in a flexible workspace with Markdown support for rich text formatting.
+2025-03-31 21:45:00,586 - INFO - 从primaryLink获取到visit_url: https://zenkan.app
+2025-03-31 21:45:00,587 - INFO - 使用DrissionPage获取到主题标签: ['Productivity', 'Task Management', 'Notes']
+2025-03-31 21:45:00,589 - INFO - 使用DrissionPage获取到投票数: 152
+2025-03-31 21:45:00,589 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/69fc2f44-c0dc-4d9a-ab56-ccb4686d0df5.png
+2025-03-31 21:45:00,598 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/rainy-skies-2-0
+2025-03-31 21:45:06,103 - INFO - 已保存产品页面源代码到 producthunt_product_rainy-skies-2-0.html
+2025-03-31 21:45:06,405 - INFO - 使用DrissionPage获取到产品名称: Rainy Skies 2.0
+2025-03-31 21:45:06,405 - INFO - 使用DrissionPage获取到产品label: Your weather app, now with Radar and Apple Watch App
+2025-03-31 21:45:06,406 - INFO - 从styles_htmlText获取到description: Rainy Skies is an indie iOS weather app designed by a solo developer based on the foundation of the now defunct Dark Sky weather app. Rainy Skies now supports radar and has an Apple Watch app with widgets and complications.
+2025-03-31 21:45:06,407 - INFO - 从primaryLink获取到visit_url: https://apps.apple.com/us/app/rainy-skies/id1637453069?uo=4
+2025-03-31 21:45:06,409 - INFO - 使用DrissionPage获取到主题标签: ['Weather', 'Apple Watch', 'iOS']
+2025-03-31 21:45:06,413 - INFO - 使用DrissionPage获取到投票数: 136
+2025-03-31 21:45:06,413 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/b34c2b8f-74c2-45f7-a485-c26ac7339dba.png
+2025-03-31 21:45:06,419 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/skybox-3
+2025-03-31 21:45:07,866 - INFO - 已保存产品页面源代码到 producthunt_product_skybox-3.html
+2025-03-31 21:45:07,973 - INFO - 使用DrissionPage获取到产品名称: Skybox
+2025-03-31 21:45:07,973 - INFO - 使用DrissionPage获取到产品label: The world’s smartest AI influencer marketing platform
+2025-03-31 21:45:07,974 - INFO - 从styles_htmlText获取到description: Your all-in-one platform for finding creators, sharing campaign details, gifting influencers products, approving their content, and forecasting impact. Unlock Data-driven influencer marketing strategy with SkyBox Media at www.skyboxqi today!
+2025-03-31 21:45:07,974 - INFO - 从primaryLink获取到visit_url: https://skyboxqi.com
+2025-03-31 21:45:07,975 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'Marketing', 'Influencer marketing']
+2025-03-31 21:45:07,976 - INFO - 使用DrissionPage获取到投票数: 53
+2025-03-31 21:45:07,976 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/a0ed28b1-e796-4666-9c11-13d29c764a11.png
+2025-03-31 21:45:07,982 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/valora-stock-market-analysis
+2025-03-31 21:45:13,337 - INFO - 已保存产品页面源代码到 producthunt_product_valora-stock-market-analysis.html
+2025-03-31 21:45:13,522 - INFO - 使用DrissionPage获取到产品名称: Valora: Stock Market Analysis
+2025-03-31 21:45:13,522 - INFO - 使用DrissionPage获取到产品label: Find undervalued stocks in minutes
+2025-03-31 21:45:13,524 - INFO - 从styles_htmlText获取到description: An app designed to show the true value of stocks without the excess complexity and hype. Focussed on value seeking investors that want to grow their capital long-term.
+2025-03-31 21:45:13,524 - INFO - 从primaryLink获取到visit_url: https://play.google.com/store/apps/details?id=com.icartatechnologies.valuecapital\u0026hl=en
+2025-03-31 21:45:13,532 - INFO - 使用DrissionPage获取到主题标签: ['Money', 'Investing', 'Android']
+2025-03-31 21:45:13,540 - INFO - 使用DrissionPage获取到投票数: 37
+2025-03-31 21:45:13,542 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/b5ef356a-b3f1-4c31-9dfd-38e8e81f269c.png
+2025-03-31 21:45:13,561 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/giblify-ai
+2025-03-31 21:45:22,396 - INFO - 已保存产品页面源代码到 producthunt_product_giblify-ai.html
+2025-03-31 21:45:22,586 - INFO - 使用DrissionPage获取到产品名称: Giblify AI
+2025-03-31 21:45:22,586 - INFO - 使用DrissionPage获取到产品label: Convert your photos to Ghibli Style Images and Videos!
+2025-03-31 21:45:22,588 - INFO - 从styles_htmlText获取到description: Generate Studio Ghibli style photos using AI and then convert them into mesmerising videos!
+
+Share directly with friends and family and have fun!
+2025-03-31 21:45:22,589 - INFO - 从primaryLink获取到visit_url: https://ghiblistudioai.com
+2025-03-31 21:45:22,591 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'Photo editing', 'Photo & Video']
+2025-03-31 21:45:22,596 - INFO - 使用DrissionPage获取到投票数: 24
+2025-03-31 21:45:22,596 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/4f38bdd1-e6ba-4f3e-8758-a237401f730c.png
+2025-03-31 21:45:22,601 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/centrate
+2025-03-31 21:45:34,194 - INFO - 已保存产品页面源代码到 producthunt_product_centrate.html
+2025-03-31 21:45:34,350 - INFO - 使用DrissionPage获取到产品名称: Centrate
+2025-03-31 21:45:34,350 - INFO - 使用DrissionPage获取到产品label: Train your focus with 30sec exercises backed by neuroscience
+2025-03-31 21:45:34,351 - INFO - 从styles_htmlText获取到description: Inspired by a dilated vision technique mentioned by Dr. Andrew Huberman’s, Centrate helps you practice mindfulness for your focus. 
+
+This app is designed to calm your mind, expand focus, and reduce anxiety. No signup, for free — just clarity.
+2025-03-31 21:45:34,352 - INFO - 从primaryLink获取到visit_url: https://centrate.app
+2025-03-31 21:45:34,354 - INFO - 使用DrissionPage获取到主题标签: ['Meditation', 'Health & Fitness', 'Productivity']
+2025-03-31 21:45:34,357 - INFO - 使用DrissionPage获取到投票数: 13
+2025-03-31 21:45:34,357 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/9c03825c-d192-4da6-84fb-7c859a3f2f0f.png
+2025-03-31 21:45:34,362 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/feedback-hunter
+2025-03-31 21:45:37,441 - INFO - 已保存产品页面源代码到 producthunt_product_feedback-hunter.html
+2025-03-31 21:45:37,669 - INFO - 使用DrissionPage获取到产品名称: Feedback Hunter
+2025-03-31 21:45:37,670 - INFO - 使用DrissionPage获取到产品label: Transform your user's feedback into product success
+2025-03-31 21:45:37,677 - INFO - 从styles_htmlText获取到description: Feedback Hunter helps you collect, organize, and prioritize user feedback to build better products that your customers will love.
+
+Integrate it seamlessly into your application and start collecting users' feedback today!
+2025-03-31 21:45:37,677 - INFO - 从primaryLink获取到visit_url: https://feedback-hunter.com
+2025-03-31 21:45:37,684 - INFO - 使用DrissionPage获取到主题标签: ['Customer Communication', 'User Experience', 'SaaS']
+2025-03-31 21:45:37,707 - INFO - 使用DrissionPage获取到投票数: 18
+2025-03-31 21:45:37,707 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/2f2b9fb7-ccfe-4196-a547-d689144c28df.png
+2025-03-31 21:45:37,707 - INFO - 使用备用方法添加产品: Openspot
+2025-03-31 21:45:37,707 - INFO - 使用备用方法添加产品: HCB
+2025-03-31 21:45:37,707 - INFO - 使用备用方法添加产品: React Email 4.0
+2025-03-31 21:45:37,707 - INFO - 使用备用方法添加产品: Sindo
+2025-03-31 21:45:37,707 - INFO - 使用备用方法添加产品: Spaceloadr
+2025-03-31 21:45:37,708 - INFO - 使用备用方法添加产品: Gapflow.io
+2025-03-31 21:45:37,708 - INFO - 使用备用方法添加产品: Vocao.ai
+2025-03-31 21:45:37,708 - INFO - 使用备用方法添加产品: GitHub Chat
+2025-03-31 21:45:37,708 - INFO - 使用备用方法添加产品: Zenkan
+2025-03-31 21:45:37,708 - INFO - 使用备用方法添加产品: Rainy Skies 2.0
+2025-03-31 21:45:37,708 - INFO - 使用备用方法添加产品: Skybox
+2025-03-31 21:45:37,708 - INFO - 使用备用方法添加产品: Valora: Stock Market Analysis
+2025-03-31 21:45:37,708 - INFO - 使用备用方法添加产品: Giblify AI
+2025-03-31 21:45:37,708 - INFO - 使用备用方法添加产品: Centrate
+2025-03-31 21:45:37,708 - INFO - 使用备用方法添加产品: Feedback Hunter
+2025-03-31 21:45:37,709 - INFO - 成功保存 15 个产品信息到 data/product_2025-03-31.json
+2025-04-02 06:14:25,064 - INFO - 获取 2025-04-02 的Product Hunt热门产品
+2025-04-02 06:14:25,066 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-04-02 06:14:25,676 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-04-02 06:14:25,685 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/4/1/all
+2025-04-02 06:14:33,991 - INFO - 已保存页面源代码到 producthunt_drission_20250402_061433.html
+2025-04-02 06:14:33,991 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-04-02 06:14:34,032 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-04-02 06:14:34,033 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-04-02 06:14:48,775 - INFO - 获取 2025-04-02 的Product Hunt热门产品
+2025-04-02 06:14:48,777 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-04-02 06:14:48,920 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-04-02 06:14:48,926 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/4/1/all
+2025-04-02 06:14:49,669 - INFO - 已保存页面源代码到 producthunt_drission_20250402_061449.html
+2025-04-02 06:14:49,669 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-04-02 06:14:49,682 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-04-02 06:14:49,683 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-04-02 06:16:24,568 - INFO - 获取 2025-04-02 的Product Hunt热门产品
+2025-04-02 06:16:24,571 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-04-02 06:16:24,701 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-04-02 06:16:24,706 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/4/1/all
+2025-04-02 06:16:27,258 - INFO - 已保存页面源代码到 producthunt_drission_20250402_061627.html
+2025-04-02 06:16:27,259 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-04-02 06:16:27,412 - INFO - 使用BeautifulSoup找到 17 个产品section
+2025-04-02 06:16:27,414 - INFO - 成功处理产品 1: Subscription Day
+2025-04-02 06:16:27,415 - INFO - 成功处理产品 2: Grimo (:b)eta
+2025-04-02 06:16:27,416 - INFO - 成功处理产品 3: OctoComics
+2025-04-02 06:16:27,418 - INFO - 成功处理产品 4: Keyword Research Tool
+2025-04-02 06:16:27,422 - INFO - 成功处理产品 5: Webfuse
+2025-04-02 06:16:27,424 - INFO - 成功处理产品 6: Lumigo Alpha
+2025-04-02 06:16:27,426 - INFO - 成功处理产品 7: Nonillion
+2025-04-02 06:16:27,427 - INFO - 成功处理产品 8: L(o*62).ong
+2025-04-02 06:16:27,427 - INFO - 成功处理产品 9: Runway Gen-4
+2025-04-02 06:16:27,431 - INFO - 成功处理产品 10: Geocities.live
+2025-04-02 06:16:27,434 - INFO - 成功处理产品 11: visionOS 2.4
+2025-04-02 06:16:27,439 - INFO - 成功处理产品 12: SnapGrid
+2025-04-02 06:16:27,440 - INFO - 成功处理产品 13: Marauder Bot
+2025-04-02 06:16:27,442 - INFO - 成功处理产品 14: Vuela AI - Video Generator
+2025-04-02 06:16:27,443 - INFO - 成功处理产品 15: Semope
+2025-04-02 06:16:27,456 - INFO - 成功缓存 15 个产品元素的信息
+2025-04-02 06:16:27,456 - INFO - 找到 15 个产品
+2025-04-02 06:16:27,457 - INFO - 尝试使用DrissionPage方法构建产品数据...
+2025-04-02 06:16:27,504 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/subscription-day
+2025-04-02 06:16:30,296 - INFO - 已保存产品页面源代码到 producthunt_product_subscription-day.html
+2025-04-02 06:16:31,282 - INFO - 使用DrissionPage获取到产品名称: Subscription Day
+2025-04-02 06:16:31,282 - INFO - 使用DrissionPage获取到产品label: Track your paid subscriptions at Menu Bar
+2025-04-02 06:16:31,291 - INFO - 从styles_htmlText获取到description: All your paid subscriptions in one place. Track monthly, annual, trial, and one‑time payments with a unique, minimalist menu bar calendar featuring multi‑currency support and insightful statistics—all at a glance.
+2025-04-02 06:16:31,293 - INFO - 从primaryLink获取到visit_url: https://apps.apple.com/ua/app/subscription-day-calendar/id6743316600?mt=12
+2025-04-02 06:16:31,310 - INFO - 使用DrissionPage获取到主题标签: ['Menu Bar Apps', 'Personal Finance', 'Calendar']
+2025-04-02 06:16:31,338 - INFO - 使用DrissionPage获取到投票数: 474
+2025-04-02 06:16:31,339 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/44ee6ccb-b87d-4f9d-b43a-a6b4e8875cd9.jpeg
+2025-04-02 06:16:31,359 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/grimo-b-eta
+2025-04-02 06:16:33,506 - INFO - 已保存产品页面源代码到 producthunt_product_grimo-b-eta.html
+2025-04-02 06:16:34,263 - INFO - 使用DrissionPage获取到产品名称: Grimo (:b)eta
+2025-04-02 06:16:34,263 - INFO - 使用DrissionPage获取到产品label: Cursor for writing
+2025-04-02 06:16:34,268 - INFO - 从styles_htmlText获取到description: Maybe the strongest AI text editor 
+🆓 FREE Access to DeepSeek R1, Gemini 2.5 Pro, Claude 3.7 Sonnet, OpenAI o3-mini ... along with Web Search, MCP, Voice Input, Memory, Prompt Management... 🎤 Built for Expression - Coherent. Customized. Collaborative.
+2025-04-02 06:16:34,271 - INFO - 从primaryLink获取到visit_url: https://grimo.ai
+2025-04-02 06:16:34,276 - INFO - 使用DrissionPage获取到主题标签: ['Marketing', 'Writing', 'Artificial Intelligence']
+2025-04-02 06:16:34,287 - INFO - 使用DrissionPage获取到投票数: 312
+2025-04-02 06:16:34,288 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/2300ecfc-0039-4ff3-b530-05b21471648c.png
+2025-04-02 06:16:34,313 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/octocomics
+2025-04-02 06:16:37,096 - INFO - 已保存产品页面源代码到 producthunt_product_octocomics.html
+2025-04-02 06:16:37,598 - INFO - 使用DrissionPage获取到产品名称: OctoComics
+2025-04-02 06:16:37,598 - INFO - 使用DrissionPage获取到产品label: AI Comic creation tool Includes generator and community
+2025-04-02 06:16:37,603 - INFO - 从styles_htmlText获取到description: OctoComics is AI-powerd comic generator and community, supports BL comics, serialized comics, OC character comics, etc. 
+With excellent AI model helps users quickly generate script storyboards, characters and images. User can also upload story or character.
+2025-04-02 06:16:37,605 - INFO - 从primaryLink获取到visit_url: https://www.octocomics.com/home
+2025-04-02 06:16:37,616 - INFO - 使用DrissionPage获取到主题标签: ['Comics & Graphic Novels', 'Entertainment', 'Artificial Intelligence']
+2025-04-02 06:16:37,633 - INFO - 使用DrissionPage获取到投票数: 266
+2025-04-02 06:16:37,634 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/069c9fdc-6b22-4734-a7e6-26a6253fa8ab.png
+2025-04-02 06:16:37,658 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/keyword-research-tool
+2025-04-02 06:16:39,393 - INFO - 已保存产品页面源代码到 producthunt_product_keyword-research-tool.html
+2025-04-02 06:16:40,037 - INFO - 使用DrissionPage获取到产品名称: Keyword Research Tool
+2025-04-02 06:16:40,039 - INFO - 使用DrissionPage获取到产品label: Quickly research keywords with no sign ups or payments
+2025-04-02 06:16:40,058 - INFO - 从styles_htmlText获取到description: No more guesswork - only actionable insights with our keyword research tool. Discover what your audience is searching for, see trend patterns and get essential insights. Try it for free - No cost, no sign-ups.
+2025-04-02 06:16:40,062 - INFO - 从primaryLink获取到visit_url: https://www.massiveonlinemarketing.nl/en/tools/keyword-research
+2025-04-02 06:16:40,074 - INFO - 使用DrissionPage获取到主题标签: ['Marketing', 'Productivity', 'SEO']
+2025-04-02 06:16:40,087 - INFO - 使用DrissionPage获取到投票数: 250
+2025-04-02 06:16:40,090 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/69e93e94-d252-43f7-964c-9d9776fb8efc.jpeg
+2025-04-02 06:16:40,159 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/webfuse
+2025-04-02 06:16:42,450 - INFO - 已保存产品页面源代码到 producthunt_product_webfuse.html
+2025-04-02 06:16:42,945 - INFO - 使用DrissionPage获取到产品名称: Webfuse
+2025-04-02 06:16:42,945 - INFO - 使用DrissionPage获取到产品label: Augment. Automate. Own the web.
+2025-04-02 06:16:42,949 - INFO - 从styles_htmlText获取到description: Instantly extend, automate & share any web session.  Create a Virtual Web Session to instantly embed new features into any web app.  Integrate AI-driven automation and real-time collaboration all without changing the original application.
+2025-04-02 06:16:42,952 - INFO - 从primaryLink获取到visit_url: https://www.webfuse.com
+2025-04-02 06:16:42,956 - INFO - 使用DrissionPage获取到主题标签: ['Browser Extensions', 'Web App', 'Artificial Intelligence']
+2025-04-02 06:16:42,966 - INFO - 使用DrissionPage获取到投票数: 69
+2025-04-02 06:16:42,966 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/cf521835-30ec-4274-9828-6a6e52f1f7f1.png
+2025-04-02 06:16:42,989 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/lumigo-alpha
+2025-04-02 06:16:45,380 - INFO - 已保存产品页面源代码到 producthunt_product_lumigo-alpha.html
+2025-04-02 06:16:45,756 - INFO - 使用DrissionPage获取到产品名称: Lumigo Alpha
+2025-04-02 06:16:45,756 - INFO - 使用DrissionPage获取到产品label: Redefining Product Search
+2025-04-02 06:16:45,761 - INFO - 从styles_htmlText获取到description: Lumigo is an AI search engine that revolutionises online product search, offering transparent results without sponsored ads. We analyse reviews, blogs and trusted sources to help you find exactly what you need.
+2025-04-02 06:16:45,764 - INFO - 从primaryLink获取到visit_url: https://lumigo.ai/
+2025-04-02 06:16:45,774 - INFO - 使用DrissionPage获取到主题标签: ['Search', 'E-Commerce', 'Artificial Intelligence']
+2025-04-02 06:16:45,783 - INFO - 使用DrissionPage获取到投票数: 78
+2025-04-02 06:16:45,784 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/3ed58326-d0ec-4db4-85c4-c5ded0dab242.png
+2025-04-02 06:16:45,804 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/nonillion
+2025-04-02 06:16:48,236 - INFO - 已保存产品页面源代码到 producthunt_product_nonillion.html
+2025-04-02 06:16:48,716 - INFO - 使用DrissionPage获取到产品名称: Nonillion
+2025-04-02 06:16:48,716 - INFO - 使用DrissionPage获取到产品label: Immersive meetings with automation in pixel-virtual offices
+2025-04-02 06:16:48,719 - INFO - 从styles_htmlText获取到description: Tired of chaotic meetings where everyone talks over each other? Nonilion recreates real-life collaboration, making conversations natural, productive, and seamless. Host meetups, meetings, webinars, and more - Reserve your office for free today.
+2025-04-02 06:16:48,720 - INFO - 从primaryLink获取到visit_url: https://www.nonilion.com/mission-control
+2025-04-02 06:16:48,724 - INFO - 使用DrissionPage获取到主题标签: ['Meetings', 'Remote Work', 'Productivity']
+2025-04-02 06:16:48,730 - INFO - 使用DrissionPage获取到投票数: 200
+2025-04-02 06:16:48,734 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/c3a6aafb-6630-40cc-8336-d8d4d992cc6a.png
+2025-04-02 06:16:48,997 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/l-o-62-ong
+2025-04-02 06:16:51,055 - INFO - 已保存产品页面源代码到 producthunt_product_l-o-62-ong.html
+2025-04-02 06:16:51,289 - INFO - 使用DrissionPage获取到产品名称: L(o*62).ong
+2025-04-02 06:16:51,289 - INFO - 使用DrissionPage获取到产品label: Make your URL looooooooooooooooooooooooooooooooooooooooonger
+2025-04-02 06:16:51,292 - INFO - 从styles_htmlText获取到description: L(o*62).ong provides a handy URL extender that lets you transform original URLs into longer ones.
+2025-04-02 06:16:51,293 - INFO - 从primaryLink获取到visit_url: https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong/
+2025-04-02 06:16:51,298 - INFO - 使用DrissionPage获取到主题标签: ['GitHub', 'Developer Tools']
+2025-04-02 06:16:51,308 - INFO - 使用DrissionPage获取到投票数: 183
+2025-04-02 06:16:51,309 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/5c8239d0-4722-4903-886a-73f37522f8ba.png
+2025-04-02 06:16:51,322 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/runway-gen-4
+2025-04-02 06:16:52,935 - INFO - 已保存产品页面源代码到 producthunt_product_runway-gen-4.html
+2025-04-02 06:16:53,123 - INFO - 使用DrissionPage获取到产品名称: Runway Gen-4
+2025-04-02 06:16:53,123 - INFO - 使用DrissionPage获取到产品label: Our next-generation series of AI models for media generation
+2025-04-02 06:16:53,128 - INFO - 从styles_htmlText获取到description: Gen-4 brings a new era of consistent, controllable media. Define your style, and the model ensures coherence across characters, locations, and objects. Maintain mood, style, and cinematography while regenerating elements from multiple angles and perspectives.
+2025-04-02 06:16:53,131 - INFO - 从primaryLink获取到visit_url: https://runwayml.com/research/introducing-runway-gen-4
+2025-04-02 06:16:53,137 - INFO - 使用DrissionPage获取到主题标签: ['Photo & Video', 'Artificial Intelligence']
+2025-04-02 06:16:53,144 - INFO - 使用DrissionPage获取到投票数: 176
+2025-04-02 06:16:53,144 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/1145814e-15c9-42f4-be57-b7cf0338d257.jpeg
+2025-04-02 06:16:53,155 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/geocities-live
+2025-04-02 06:16:54,813 - INFO - 已保存产品页面源代码到 producthunt_product_geocities-live.html
+2025-04-02 06:16:55,070 - INFO - 使用DrissionPage获取到产品名称: Geocities.live
+2025-04-02 06:16:55,071 - INFO - 使用DrissionPage获取到产品label: Turn any website into 90s dot-com era
+2025-04-02 06:16:55,074 - INFO - 从styles_htmlText获取到description: Tired of seeing identical tailwind css/shadcn templates everywhere? 
+Transform any webpage into GeoCities style page from 90s with a pinch of AI.
+2025-04-02 06:16:55,074 - INFO - 从primaryLink获取到visit_url: https://geocities.live
+2025-04-02 06:16:55,078 - INFO - 使用DrissionPage获取到主题标签: ['Design Tools', 'Developer Tools', 'User Experience']
+2025-04-02 06:16:55,088 - INFO - 使用DrissionPage获取到投票数: 173
+2025-04-02 06:16:55,090 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/0cb5f320-3c9a-41b0-a0c3-bc935af40e59.png
+2025-04-02 06:16:55,102 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/visionos-2-4
+2025-04-02 06:16:56,820 - INFO - 已保存产品页面源代码到 producthunt_product_visionos-2-4.html
+2025-04-02 06:16:56,980 - INFO - 使用DrissionPage获取到产品名称: visionOS 2.4
+2025-04-02 06:16:56,980 - INFO - 使用DrissionPage获取到产品label: Apple Intelligence arrives on Vision Pro
+2025-04-02 06:16:56,982 - INFO - 从styles_htmlText获取到description: visionOS 2.4 update adds Apple Intelligence to Vision Pro, plus new Spatial Gallery and iPhone companion apps for enhanced spatial experiences.
+2025-04-02 06:16:56,983 - INFO - 从primaryLink获取到visit_url: https://www.apple.com/newsroom/2025/03/apple-intelligence-comes-to-apple-vision-pro-today-with-visionos-2-4/
+2025-04-02 06:16:56,986 - INFO - 使用DrissionPage获取到主题标签: ['Apple', 'Apple Vision Pro', 'Artificial Intelligence']
+2025-04-02 06:16:56,993 - INFO - 使用DrissionPage获取到投票数: 164
+2025-04-02 06:16:56,994 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/c1a09dad-718a-4dc9-ac10-fb15991cd0ae.jpeg
+2025-04-02 06:16:57,005 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/snapgrid
+2025-04-02 06:16:58,784 - INFO - 已保存产品页面源代码到 producthunt_product_snapgrid.html
+2025-04-02 06:16:59,037 - INFO - 使用DrissionPage获取到产品名称: SnapGrid
+2025-04-02 06:16:59,037 - INFO - 使用DrissionPage获取到产品label: Collect, organise, and analyize UI screenshots
+2025-04-02 06:16:59,039 - INFO - 从styles_htmlText获取到description: SnapGrid is an open-source desktop app for collecting, organizing, and analyzing UI screenshots. It uses AI to automatically detect UI components and patterns, making it a powerful tool for designers and developers.
+2025-04-02 06:16:59,039 - INFO - 从primaryLink获取到visit_url: https://github.com/gustavscirulis/snapgrid
+2025-04-02 06:16:59,041 - INFO - 使用DrissionPage获取到主题标签: ['Open Source', 'Design Tools', 'Mac']
+2025-04-02 06:16:59,046 - INFO - 使用DrissionPage获取到投票数: 141
+2025-04-02 06:16:59,047 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/f98fb9ff-3fa5-41fd-b96d-1fcd3bd71c71.png
+2025-04-02 06:16:59,061 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/marauder-bot
+2025-04-02 06:17:03,125 - INFO - 已保存产品页面源代码到 producthunt_product_marauder-bot.html
+2025-04-02 06:17:03,348 - INFO - 使用DrissionPage获取到产品名称: Marauder Bot
+2025-04-02 06:17:03,348 - INFO - 使用DrissionPage获取到产品label: Ace technical interviews with one click
+2025-04-02 06:17:03,351 - INFO - 从styles_htmlText获取到description: Marauder Bot is a stealth Chrome extension that tackles online technical questions instantly, empowering you to save time on interview prep and focus on solving real-world problems.
+2025-04-02 06:17:03,352 - INFO - 从primaryLink获取到visit_url: https://www.marauderbot.com?utm_source=producthunt
+2025-04-02 06:17:03,358 - INFO - 使用DrissionPage获取到主题标签: ['Chrome Extensions', 'Artificial Intelligence']
+2025-04-02 06:17:03,363 - INFO - 使用DrissionPage获取到投票数: 50
+2025-04-02 06:17:03,365 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/7abb96e5-f932-4834-9933-f598cd823773.png
+2025-04-02 06:17:03,376 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/vuela-ai-video-generator
+2025-04-02 06:17:05,150 - INFO - 已保存产品页面源代码到 producthunt_product_vuela-ai-video-generator.html
+2025-04-02 06:17:05,351 - INFO - 使用DrissionPage获取到产品名称: Vuela AI - Video Generator
+2025-04-02 06:17:05,351 - INFO - 使用DrissionPage获取到产品label: AI maker for viral videos,images & SEO posts driving traffic
+2025-04-02 06:17:05,354 - INFO - 从styles_htmlText获取到description: Vuela.ai: AI Content Generator transforms boring content into viral material.
+Create images, texts or viral videos in minutes. Turn your ideas or business needs into captivating stories for your website, YouTube, TikTok, Instagram... in just a few clicks.
+2025-04-02 06:17:05,354 - INFO - 从primaryLink获取到visit_url: https://vuela.ai/
+2025-04-02 06:17:05,358 - INFO - 使用DrissionPage获取到主题标签: ['Video', 'Marketing', 'Artificial Intelligence']
+2025-04-02 06:17:05,364 - INFO - 使用DrissionPage获取到投票数: 51
+2025-04-02 06:17:05,364 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/c2d45515-c0f8-4fc9-8563-3aad2406ecd3.png
+2025-04-02 06:17:05,373 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/semope
+2025-04-02 06:17:07,223 - INFO - 已保存产品页面源代码到 producthunt_product_semope.html
+2025-04-02 06:17:07,474 - INFO - 使用DrissionPage获取到产品名称: Semope
+2025-04-02 06:17:07,474 - INFO - 使用DrissionPage获取到产品label: Build a public help center in minutes
+2025-04-02 06:17:07,477 - INFO - 从styles_htmlText获取到description: Build a powerful help center for your app with Semope. Customize your knowledge base, improve support, and reduce support tickets—all in one place.
+2025-04-02 06:17:07,477 - INFO - 从primaryLink获取到visit_url: https://semope.com
+2025-04-02 06:17:07,481 - INFO - 使用DrissionPage获取到主题标签: ['SaaS', 'Customer Success']
+2025-04-02 06:17:07,488 - INFO - 使用DrissionPage获取到投票数: 138
+2025-04-02 06:17:07,488 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/b2959bd0-65ae-46a0-a811-f8e459d082f3.png
+2025-04-02 06:17:07,488 - INFO - 使用备用方法添加产品: Subscription Day
+2025-04-02 06:17:07,488 - INFO - 使用备用方法添加产品: Grimo (:b)eta
+2025-04-02 06:17:07,488 - INFO - 使用备用方法添加产品: OctoComics
+2025-04-02 06:17:07,488 - INFO - 使用备用方法添加产品: Keyword Research Tool
+2025-04-02 06:17:07,489 - INFO - 使用备用方法添加产品: Webfuse
+2025-04-02 06:17:07,489 - INFO - 使用备用方法添加产品: Lumigo Alpha
+2025-04-02 06:17:07,489 - INFO - 使用备用方法添加产品: Nonillion
+2025-04-02 06:17:07,489 - INFO - 使用备用方法添加产品: L(o*62).ong
+2025-04-02 06:17:07,489 - INFO - 使用备用方法添加产品: Runway Gen-4
+2025-04-02 06:17:07,489 - INFO - 使用备用方法添加产品: Geocities.live
+2025-04-02 06:17:07,489 - INFO - 使用备用方法添加产品: visionOS 2.4
+2025-04-02 06:17:07,489 - INFO - 使用备用方法添加产品: SnapGrid
+2025-04-02 06:17:07,489 - INFO - 使用备用方法添加产品: Marauder Bot
+2025-04-02 06:17:07,490 - INFO - 使用备用方法添加产品: Vuela AI - Video Generator
+2025-04-02 06:17:07,490 - INFO - 使用备用方法添加产品: Semope
+2025-04-02 06:17:07,491 - INFO - 成功保存 15 个产品信息到 data/product_2025-04-02.json
+2025-04-03 06:15:31,609 - INFO - 获取 2025-04-03 的Product Hunt热门产品
+2025-04-03 06:15:31,611 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-04-03 06:15:31,937 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-04-03 06:15:31,941 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/4/2/all
+2025-04-03 06:15:35,891 - INFO - 已保存页面源代码到 producthunt_drission_20250403_061535.html
+2025-04-03 06:15:35,891 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-04-03 06:15:35,896 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-04-03 06:15:35,896 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-04-03 06:15:56,714 - INFO - 获取 2025-04-03 的Product Hunt热门产品
+2025-04-03 06:15:56,714 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-04-03 06:15:56,769 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-04-03 06:15:56,772 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/4/2/all
+2025-04-03 06:15:58,453 - INFO - 已保存页面源代码到 producthunt_drission_20250403_061558.html
+2025-04-03 06:15:58,455 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-04-03 06:15:58,522 - INFO - 使用BeautifulSoup找到 17 个产品section
+2025-04-03 06:15:58,522 - INFO - 成功处理产品 1: EasyStaff Payroll
+2025-04-03 06:15:58,522 - INFO - 成功处理产品 2: Readdy
+2025-04-03 06:15:58,522 - INFO - 成功处理产品 3: Recall Augmented Browsing
+2025-04-03 06:15:58,523 - INFO - 成功处理产品 4: Supabase UI Library
+2025-04-03 06:15:58,523 - INFO - 成功处理产品 5: Vapi
+2025-04-03 06:15:58,523 - INFO - 成功处理产品 6: Exponent
+2025-04-03 06:15:58,523 - INFO - 成功处理产品 7: doola Business-in-a-Box™ for E-Commerce
+2025-04-03 06:15:58,524 - INFO - 成功处理产品 8: Enigma
+2025-04-03 06:15:58,524 - INFO - 成功处理产品 9: Internet.io
+2025-04-03 06:15:58,524 - INFO - 成功处理产品 10: OpenAI Academy
+2025-04-03 06:15:58,525 - INFO - 成功处理产品 11: FlyonUI 2.0
+2025-04-03 06:15:58,525 - INFO - 成功处理产品 12: Growstack AI
+2025-04-03 06:15:58,525 - INFO - 成功处理产品 13: Cove AI Apps
+2025-04-03 06:15:58,525 - INFO - 成功处理产品 14: Kozy
+2025-04-03 06:15:58,525 - INFO - 成功处理产品 15: DreamFlow
+2025-04-03 06:15:58,525 - INFO - 成功缓存 15 个产品元素的信息
+2025-04-03 06:15:58,526 - INFO - 找到 15 个产品
+2025-04-03 06:15:58,526 - INFO - 尝试使用DrissionPage方法构建产品数据...
+2025-04-03 06:15:58,668 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/easystaff-payroll
+2025-04-03 06:16:01,015 - INFO - 已保存产品页面源代码到 producthunt_product_easystaff-payroll.html
+2025-04-03 06:16:01,255 - INFO - 使用DrissionPage获取到产品名称: EasyStaff Payroll
+2025-04-03 06:16:01,255 - INFO - 使用DrissionPage获取到产品label: Pay abroad to teams & freelancers with 360° compliance
+2025-04-03 06:16:01,258 - INFO - 从styles_htmlText获取到description: EasyStaff Payroll is a platform for convenient and secure payments to freelancers. With built-in compliance and simplified B2B2C contracts, you can effortlessly pay anyone, anywhere, anytime.
+2025-04-03 06:16:01,259 - INFO - 从primaryLink获取到visit_url: https://easystaff.io/payroll-producthunt/
+2025-04-03 06:16:01,263 - INFO - 使用DrissionPage获取到主题标签: ['Freelance', 'Fintech', 'Human Resources']
+2025-04-03 06:16:01,267 - INFO - 使用DrissionPage获取到投票数: 589
+2025-04-03 06:16:01,267 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/5de4fef1-112c-4010-b6f0-7bea7ebb1073.png
+2025-04-03 06:16:01,276 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/readdy
+2025-04-03 06:16:03,427 - INFO - 已保存产品页面源代码到 producthunt_product_readdy.html
+2025-04-03 06:16:03,689 - INFO - 使用DrissionPage获取到产品名称: Readdy
+2025-04-03 06:16:03,689 - INFO - 使用DrissionPage获取到产品label: Websites that stand out, built and published in minutes
+2025-04-03 06:16:03,691 - INFO - 从styles_htmlText获取到description: Build your dream websites by talking with AI - no drag-and-drop needed. When you're happy, publish instantly, or export as clean code or Figma files.
+
+Perfect for small teams with limited design resources, or agencies looking to deliver 10x faster.
+2025-04-03 06:16:03,692 - INFO - 从primaryLink获取到visit_url: https://readdy.ai
+2025-04-03 06:16:03,696 - INFO - 使用DrissionPage获取到主题标签: ['Developer Tools', 'Website Builder', 'Design Tools']
+2025-04-03 06:16:03,703 - INFO - 使用DrissionPage获取到投票数: 565
+2025-04-03 06:16:03,703 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/16cba483-a4c5-4de9-815f-52e6adc3c3a1.png
+2025-04-03 06:16:03,715 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/recall-augmented-browsing
+2025-04-03 06:16:05,393 - INFO - 已保存产品页面源代码到 producthunt_product_recall-augmented-browsing.html
+2025-04-03 06:16:05,591 - INFO - 使用DrissionPage获取到产品名称: Recall Augmented Browsing
+2025-04-03 06:16:05,591 - INFO - 使用DrissionPage获取到产品label: Never wonder where you've seen something before.
+2025-04-03 06:16:05,594 - INFO - 从styles_htmlText获取到description: Ever read something and think, 'I’ve seen this before'—but can’t remember where? Augmented Browsing resurfaces related content from your Recall knowledgebase, turning passive browsing into active discovery. Join 200K+ nerds and elevate how you consume content.
+2025-04-03 06:16:05,595 - INFO - 从primaryLink获取到visit_url: https://www.getrecall.ai/?t=producthunt
+2025-04-03 06:16:05,599 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'Productivity', 'Browser Extensions']
+2025-04-03 06:16:05,605 - INFO - 使用DrissionPage获取到投票数: 478
+2025-04-03 06:16:05,606 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/fc239698-e7c8-45c9-9bc7-7137fde58547.png
+2025-04-03 06:16:05,618 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/supabase-ui-library
+2025-04-03 06:16:07,253 - INFO - 已保存产品页面源代码到 producthunt_product_supabase-ui-library.html
+2025-04-03 06:16:07,380 - INFO - 使用DrissionPage获取到产品名称: Supabase UI Library
+2025-04-03 06:16:07,380 - INFO - 使用DrissionPage获取到产品label: Drop-in components based on shadcn/ui & powered by Supabase
+2025-04-03 06:16:07,382 - INFO - 从styles_htmlText获取到description: A collection of powerful, customizable UI components built on shadcn/ui. Instantly add Supabase Auth forms, Storage uploads, Realtime chat, cursors, and presence indicators, and more to any Next.js, React Router, TanStack Start, or plain React project.
+2025-04-03 06:16:07,382 - INFO - 从primaryLink获取到visit_url: https://supabase.com/ui
+2025-04-03 06:16:07,384 - INFO - 使用DrissionPage获取到主题标签: ['Developer Tools', 'GitHub', 'Open Source']
+2025-04-03 06:16:07,386 - INFO - 使用DrissionPage获取到投票数: 445
+2025-04-03 06:16:07,387 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/2a081e70-6ae6-48ca-b7dd-c728442a5c05.png
+2025-04-03 06:16:07,396 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/vapi-2
+2025-04-03 06:16:08,791 - INFO - 已保存产品页面源代码到 producthunt_product_vapi-2.html
+2025-04-03 06:16:08,993 - INFO - 使用DrissionPage获取到产品名称: Vapi
+2025-04-03 06:16:08,993 - INFO - 使用DrissionPage获取到产品label: Voice AI agents for Developers
+2025-04-03 06:16:08,997 - INFO - 从styles_htmlText获取到description: Voice models sound great—but turning them into voice agents and scaling them reliably is hard. Vapi provides everything needed to build, test, and deploy a voice agent, all the way up to millions of calls. Join the community of 150,000+ developers today.
+2025-04-03 06:16:08,997 - INFO - 从primaryLink获取到visit_url: https://vapi.ai
+2025-04-03 06:16:09,002 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'Audio', 'Developer Tools']
+2025-04-03 06:16:09,009 - INFO - 使用DrissionPage获取到投票数: 397
+2025-04-03 06:16:09,010 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/2063f5c1-c1ee-4ed3-929e-de43858a2b7c.png
+2025-04-03 06:16:09,021 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/exponent-83
+2025-04-03 06:16:10,463 - INFO - 已保存产品页面源代码到 producthunt_product_exponent-83.html
+2025-04-03 06:16:10,610 - INFO - 使用DrissionPage获取到产品名称: Exponent
+2025-04-03 06:16:10,610 - INFO - 使用DrissionPage获取到产品label: A programming agent that runs anywhere, from local dev to CI
+2025-04-03 06:16:10,612 - INFO - 从styles_htmlText获取到description: Exponent is a highly capable AI agent that collaborates on any software engineering task from exploration to deployment. Early users have been using Exponent to debug Docker, write SQL queries, automate incident response, and much more.
+2025-04-03 06:16:10,613 - INFO - 从primaryLink获取到visit_url: https://www.exponent.run
+2025-04-03 06:16:10,615 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'Developer Tools', 'Software Engineering']
+2025-04-03 06:16:10,619 - INFO - 使用DrissionPage获取到投票数: 268
+2025-04-03 06:16:10,620 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/6461bd03-433c-41b3-bfe7-0c3de7a9eb35.png
+2025-04-03 06:16:10,630 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/doola-business-in-a-box-for-e-commerce-2
+2025-04-03 06:16:14,234 - INFO - 已保存产品页面源代码到 producthunt_product_doola-business-in-a-box-for-e-commerce-2.html
+2025-04-03 06:16:14,371 - INFO - 使用DrissionPage获取到产品名称: doola Business-in-a-Box™ for E-Commerce
+2025-04-03 06:16:14,371 - INFO - 使用DrissionPage获取到产品label: Your E-Commerce back office. Simplified.
+2025-04-03 06:16:14,374 - INFO - 从styles_htmlText获取到description: The ultimate Business-in-a-Box™ solution for E-Commerce entrepreneurs. We handle all the unsexy yet critical back-office tasks, from entity formation and bookkeeping to business analytics and tax filings, so you can focus on growing your dream business.
+2025-04-03 06:16:14,374 - INFO - 从primaryLink获取到visit_url: https://www.doola.com
+2025-04-03 06:16:14,375 - INFO - 使用DrissionPage获取到主题标签: ['E-Commerce', 'Analytics', 'Fintech']
+2025-04-03 06:16:14,378 - INFO - 使用DrissionPage获取到投票数: 228
+2025-04-03 06:16:14,379 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/7e43594a-64ce-4e43-9a69-ccdbf3b5a141.png
+2025-04-03 06:16:14,387 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/enigma-4
+2025-04-03 06:16:15,734 - INFO - 已保存产品页面源代码到 producthunt_product_enigma-4.html
+2025-04-03 06:16:15,885 - INFO - 使用DrissionPage获取到产品名称: Enigma
+2025-04-03 06:16:15,886 - INFO - 使用DrissionPage获取到产品label: Discover and report UFO/UAP sightings around the world
+2025-04-03 06:16:15,887 - INFO - 从styles_htmlText获取到description: Enigma is a UFO/UAP sighting alerting and reporting platform. Every day, thousands of people see something they can't explain in the skies. Seen something unusual in the sky? Share your UFO sighting story and read accounts from thousands of other witnesses!
+2025-04-03 06:16:15,888 - INFO - 从primaryLink获取到visit_url: https://enigmalabs.io/
+2025-04-03 06:16:15,889 - INFO - 使用DrissionPage获取到主题标签: ['Android', 'Social Media', 'iOS']
+2025-04-03 06:16:15,891 - INFO - 使用DrissionPage获取到投票数: 186
+2025-04-03 06:16:15,892 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/afb094a2-6ecb-46ae-bf1e-1a60c49c63a3.png
+2025-04-03 06:16:15,901 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/internet-io
+2025-04-03 06:16:17,541 - INFO - 已保存产品页面源代码到 producthunt_product_internet-io.html
+2025-04-03 06:16:17,704 - INFO - 使用DrissionPage获取到产品名称: Internet.io
+2025-04-03 06:16:17,704 - INFO - 使用DrissionPage获取到产品label: One Platform, Endless Possibilities
+2025-04-03 06:16:17,705 - INFO - 从styles_htmlText获取到description: Do you really trust one AI's answer?
+Our mission is to empower individuals with reliable AI insights by uniting top AI engines on one platform. We foster innovation through a low-code platform, enabling users to create & share their Agents for the community.
+2025-04-03 06:16:17,706 - INFO - 从primaryLink获取到visit_url: https://internet.io
+2025-04-03 06:16:17,710 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'Tech', 'User Experience']
+2025-04-03 06:16:17,721 - INFO - 使用DrissionPage获取到投票数: 180
+2025-04-03 06:16:17,728 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/a1fbee35-41b3-4f60-ad2d-a25cfa82629e.png
+2025-04-03 06:16:17,739 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/openai-academy
+2025-04-03 06:16:19,177 - INFO - 已保存产品页面源代码到 producthunt_product_openai-academy.html
+2025-04-03 06:16:19,345 - INFO - 使用DrissionPage获取到产品名称: OpenAI Academy
+2025-04-03 06:16:19,346 - INFO - 使用DrissionPage获取到产品label: Free AI Literacy for Everyone
+2025-04-03 06:16:19,349 - INFO - 从styles_htmlText获取到description: Learn AI with OpenAI Academy, a free online resource hub. Offers workshops, videos, and content for all backgrounds, from basics to advanced topics.
+2025-04-03 06:16:19,349 - INFO - 从primaryLink获取到visit_url: https://academy.openai.com/
+2025-04-03 06:16:19,353 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'Online Learning', 'Education']
+2025-04-03 06:16:19,358 - INFO - 使用DrissionPage获取到投票数: 174
+2025-04-03 06:16:19,359 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/b5927fd0-c4c1-4874-8c80-06307fd7b8bf.png
+2025-04-03 06:16:19,374 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/flyonui-2-0
+2025-04-03 06:16:21,310 - INFO - 已保存产品页面源代码到 producthunt_product_flyonui-2-0.html
+2025-04-03 06:16:21,447 - INFO - 使用DrissionPage获取到产品名称: FlyonUI 2.0
+2025-04-03 06:16:21,447 - INFO - 使用DrissionPage获取到产品label: An open-source Tailwind CSS Components Library.
+2025-04-03 06:16:21,449 - INFO - 从styles_htmlText获取到description: FlyonUI is the easiest, free, open-source Tailwind CSS components library with semantic classes. The new FlyonUI v2.0.0 is now fully compatible with tailwind v4, new components and new themes 🎉
+2025-04-03 06:16:21,450 - INFO - 从primaryLink获取到visit_url: https://flyonui.com/
+2025-04-03 06:16:21,468 - INFO - 使用DrissionPage获取到主题标签: ['Open Source', 'Developer Tools', 'Design Tools']
+2025-04-03 06:16:21,497 - INFO - 使用DrissionPage获取到投票数: 57
+2025-04-03 06:16:21,501 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/5db3e265-60fe-4b8b-a41d-b45c98f4c880.png
+2025-04-03 06:16:21,521 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/growstack-ai-2
+2025-04-03 06:16:22,804 - INFO - 已保存产品页面源代码到 producthunt_product_growstack-ai-2.html
+2025-04-03 06:16:22,969 - INFO - 使用DrissionPage获取到产品名称: Growstack AI
+2025-04-03 06:16:22,969 - INFO - 使用DrissionPage获取到产品label: AI Agents. Smarter Workflows. Effortless Automation.
+2025-04-03 06:16:22,971 - INFO - 从styles_htmlText获取到description: GrowStack is an AI workflow platform unifying no-code automations and advanced AI Agents. Speed up tasks like lead outreach or invoice processing, slash busywork, and see 70% faster ops with 3× ROI. It’s your next leap to hyper-efficiency.
+2025-04-03 06:16:22,971 - INFO - 从primaryLink获取到visit_url: https://growstack.ai/
+2025-04-03 06:16:22,972 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'Productivity', 'Growth Hacking']
+2025-04-03 06:16:22,976 - INFO - 使用DrissionPage获取到投票数: 55
+2025-04-03 06:16:22,976 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/60a3ae52-f9ea-4aaa-9852-c64b43c0eedd.jpeg
+2025-04-03 06:16:22,983 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/cove-ai-apps
+2025-04-03 06:16:24,521 - INFO - 已保存产品页面源代码到 producthunt_product_cove-ai-apps.html
+2025-04-03 06:16:24,671 - INFO - 使用DrissionPage获取到产品名称: Cove AI Apps
+2025-04-03 06:16:24,671 - INFO - 使用DrissionPage获取到产品label: Visual workspace where tools are instantly created for you
+2025-04-03 06:16:24,672 - INFO - 从styles_htmlText获取到description: Cove is a visual workspace for thinking with AI. Now you can create personalized, interactive tools right in your Cove spaces to help on all your projects. Because sometimes the answer you need from AI isn’t just text, it’s an interactive experience.
+2025-04-03 06:16:24,673 - INFO - 从primaryLink获取到visit_url: https://cove.ai/apps
+2025-04-03 06:16:24,674 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'Productivity', 'No-Code']
+2025-04-03 06:16:24,677 - INFO - 使用DrissionPage获取到投票数: 158
+2025-04-03 06:16:24,678 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/41d5602b-5f52-4683-b2e2-3c2e6f7ad1ac.png
+2025-04-03 06:16:24,684 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/kozy
+2025-04-03 06:16:26,044 - INFO - 已保存产品页面源代码到 producthunt_product_kozy.html
+2025-04-03 06:16:26,177 - INFO - 使用DrissionPage获取到产品名称: Kozy
+2025-04-03 06:16:26,178 - INFO - 使用DrissionPage获取到产品label: Bolt/Loveable for Video Editing. Quality edits in seconds.
+2025-04-03 06:16:26,179 - INFO - 从styles_htmlText获取到description: Enabling anyone to create professionally edited videos effortlessly. Describe your ideal video edit in plain language. Kozy Studio handles the complex editing work for you. From TikToks to YouTube videos and ads, get high quality edits fast.
+2025-04-03 06:16:26,180 - INFO - 从primaryLink获取到visit_url: https://www.kozy.studio/
+2025-04-03 06:16:26,182 - INFO - 使用DrissionPage获取到主题标签: ['Marketing', 'Social Media', 'Video']
+2025-04-03 06:16:26,185 - INFO - 使用DrissionPage获取到投票数: 157
+2025-04-03 06:16:26,185 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/6eba6dfc-ce77-4e2e-8ac5-2606042d4d4c.png
+2025-04-03 06:16:26,193 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/dreamflow
+2025-04-03 06:16:27,998 - INFO - 已保存产品页面源代码到 producthunt_product_dreamflow.html
+2025-04-03 06:16:28,190 - INFO - 使用DrissionPage获取到产品名称: DreamFlow
+2025-04-03 06:16:28,191 - INFO - 使用DrissionPage获取到产品label: Instantly build Flutter apps from text prompts
+2025-04-03 06:16:28,194 - INFO - 从styles_htmlText获取到description: DreamFlow turns your text prompts into fully-functional Flutter apps in minutes. Powered by FlutterFlow's proven expertise and cutting-edge AI, it's the fastest way to transform ideas into high-quality mobile experiences.
+2025-04-03 06:16:28,194 - INFO - 从primaryLink获取到visit_url: https://dreamflow.com/
+2025-04-03 06:16:28,198 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'Developer Tools', 'No-Code']
+2025-04-03 06:16:28,204 - INFO - 使用DrissionPage获取到投票数: 143
+2025-04-03 06:16:28,207 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/0223b3a7-0faf-4ba7-ba58-cba569a24d42.jpeg
+2025-04-03 06:16:28,208 - INFO - 使用备用方法添加产品: EasyStaff Payroll
+2025-04-03 06:16:28,208 - INFO - 使用备用方法添加产品: Readdy
+2025-04-03 06:16:28,208 - INFO - 使用备用方法添加产品: Recall Augmented Browsing
+2025-04-03 06:16:28,208 - INFO - 使用备用方法添加产品: Supabase UI Library
+2025-04-03 06:16:28,208 - INFO - 使用备用方法添加产品: Vapi
+2025-04-03 06:16:28,208 - INFO - 使用备用方法添加产品: Exponent
+2025-04-03 06:16:28,208 - INFO - 使用备用方法添加产品: doola Business-in-a-Box™ for E-Commerce
+2025-04-03 06:16:28,208 - INFO - 使用备用方法添加产品: Enigma
+2025-04-03 06:16:28,208 - INFO - 使用备用方法添加产品: Internet.io
+2025-04-03 06:16:28,209 - INFO - 使用备用方法添加产品: OpenAI Academy
+2025-04-03 06:16:28,209 - INFO - 使用备用方法添加产品: FlyonUI 2.0
+2025-04-03 06:16:28,209 - INFO - 使用备用方法添加产品: Growstack AI
+2025-04-03 06:16:28,209 - INFO - 使用备用方法添加产品: Cove AI Apps
+2025-04-03 06:16:28,209 - INFO - 使用备用方法添加产品: Kozy
+2025-04-03 06:16:28,209 - INFO - 使用备用方法添加产品: DreamFlow
+2025-04-03 06:16:28,210 - INFO - 成功保存 15 个产品信息到 data/product_2025-04-03.json
+2025-04-04 05:30:00,924 - INFO - 获取 2025-04-04 的Product Hunt热门产品
+2025-04-04 05:30:00,925 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-04-04 05:30:01,532 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-04-04 05:30:01,540 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/4/3/all
+2025-04-04 05:30:13,178 - INFO - 已保存页面源代码到 producthunt_drission_20250404_053013.html
+2025-04-04 05:30:13,179 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-04-04 05:30:13,181 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-04-04 05:30:13,181 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-04-04 05:30:45,103 - INFO - 获取 2025-04-04 的Product Hunt热门产品
+2025-04-04 05:30:45,104 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-04-04 05:30:45,154 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-04-04 05:30:45,156 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/4/3/all
+2025-04-04 05:30:47,067 - INFO - 已保存页面源代码到 producthunt_drission_20250404_053047.html
+2025-04-04 05:30:47,067 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-04-04 05:30:47,133 - INFO - 使用BeautifulSoup找到 17 个产品section
+2025-04-04 05:30:47,134 - INFO - 成功处理产品 1: Supaboard AI
+2025-04-04 05:30:47,134 - INFO - 成功处理产品 2: oMoo
+2025-04-04 05:30:47,135 - INFO - 成功处理产品 3: Playwrk: Virtual Private Club for Gamers
+2025-04-04 05:30:47,135 - INFO - 成功处理产品 4: Waxwing 2.0
+2025-04-04 05:30:47,135 - INFO - 成功处理产品 5: Claude for Education
+2025-04-04 05:30:47,136 - INFO - 成功处理产品 6: AutonomyAI
+2025-04-04 05:30:47,136 - INFO - 成功处理产品 7: Langflow Desktop
+2025-04-04 05:30:47,137 - INFO - 成功处理产品 8: Viva Labs
+2025-04-04 05:30:47,138 - INFO - 成功处理产品 9: TwinMind: AI Second Brain for Mobile
+2025-04-04 05:30:47,139 - INFO - 成功处理产品 10: PERSO.ai - AI Dubbing With Lip Sync
+2025-04-04 05:30:47,140 - INFO - 成功处理产品 11: GitSummarize
+2025-04-04 05:30:47,141 - INFO - 成功处理产品 12: Motionvid.ai
+2025-04-04 05:30:47,141 - INFO - 成功处理产品 13: Neuron AI
+2025-04-04 05:30:47,142 - INFO - 成功处理产品 14: Vantedge AI
+2025-04-04 05:30:47,143 - INFO - 成功处理产品 15: MedMatch Pro
+2025-04-04 05:30:47,143 - INFO - 成功缓存 15 个产品元素的信息
+2025-04-04 05:30:47,143 - INFO - 找到 15 个产品
+2025-04-04 05:30:47,145 - INFO - 尝试使用DrissionPage方法构建产品数据...
+2025-04-04 05:30:47,302 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/supaboard-ai
+2025-04-04 05:30:48,945 - INFO - 已保存产品页面源代码到 producthunt_product_supaboard-ai.html
+2025-04-04 05:30:49,076 - INFO - 使用DrissionPage获取到产品名称: Supaboard AI
+2025-04-04 05:30:49,076 - INFO - 使用DrissionPage获取到产品label: Business Intelligence provided by AI data analysts
+2025-04-04 05:30:49,078 - INFO - 从styles_htmlText获取到description: Supaboard is a next-gen BI tool that helps you build powerful dashboards from your data securely without any expertise.  
+Unify data from multiple sources with almost no setup and get precise answers from industry-trained AI analysts even with minimal prompts.
+2025-04-04 05:30:49,079 - INFO - 从primaryLink获取到visit_url: https://supaboard.ai
+2025-04-04 05:30:49,080 - INFO - 使用DrissionPage获取到主题标签: ['Productivity', 'Analytics', 'Artificial Intelligence']
+2025-04-04 05:30:49,083 - INFO - 使用DrissionPage获取到投票数: 489
+2025-04-04 05:30:49,084 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/9b692009-1993-438b-a192-9005e7ed7e9c.png
+2025-04-04 05:30:49,093 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/omoo
+2025-04-04 05:30:52,461 - INFO - 已保存产品页面源代码到 producthunt_product_omoo.html
+2025-04-04 05:30:52,773 - INFO - 使用DrissionPage获取到产品名称: oMoo
+2025-04-04 05:30:52,773 - INFO - 使用DrissionPage获取到产品label: Listen to music through your hand via haptic feedback
+2025-04-04 05:30:52,776 - INFO - 从styles_htmlText获取到description: oMoo is an AI-driven haptic music player that can let everyone touch the pulse, texture, and rhythm of music on their phones. We want to bring the power and beauty of music to everyone, including people who are deaf or hard of hearing.
+2025-04-04 05:30:52,776 - INFO - 从primaryLink获取到visit_url: https://omoo.pages.dev/
+2025-04-04 05:30:52,782 - INFO - 使用DrissionPage获取到主题标签: ['Music', 'Digital Art', 'Artificial Intelligence']
+2025-04-04 05:30:52,795 - INFO - 使用DrissionPage获取到投票数: 142
+2025-04-04 05:30:52,795 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/d9e51df5-99e1-4de1-89ee-fb6d90d4113f.png
+2025-04-04 05:30:52,810 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/playwrk-virtual-private-club-for-gamers
+2025-04-04 05:30:54,248 - INFO - 已保存产品页面源代码到 producthunt_product_playwrk-virtual-private-club-for-gamers.html
+2025-04-04 05:30:54,440 - INFO - 使用DrissionPage获取到产品名称: Playwrk: Virtual Private Club for Gamers
+2025-04-04 05:30:54,440 - INFO - 使用DrissionPage获取到产品label: Where Gaming Meets Networking
+2025-04-04 05:30:54,443 - INFO - 从styles_htmlText获取到description: Virtual private club for gamers and a custom Discord app where entrepreneurs, executives, and senior professionals from tech, finance, business, creative, eSports, and beyond play together in a friendly environment while making new global connections.
+2025-04-04 05:30:54,443 - INFO - 从primaryLink获取到visit_url: https://playwrk.xyz
+2025-04-04 05:30:54,447 - INFO - 使用DrissionPage获取到主题标签: ['Games', 'Social Networking', 'Community']
+2025-04-04 05:30:54,451 - INFO - 使用DrissionPage获取到投票数: 124
+2025-04-04 05:30:54,452 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/f3945b6b-9c34-4fbc-8fc1-fa174861422a.png
+2025-04-04 05:30:54,461 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/waxwing-2-0
+2025-04-04 05:30:56,008 - INFO - 已保存产品页面源代码到 producthunt_product_waxwing-2-0.html
+2025-04-04 05:30:56,243 - INFO - 使用DrissionPage获取到产品名称: Waxwing 2.0
+2025-04-04 05:30:56,243 - INFO - 使用DrissionPage获取到产品label: A marketplace for Human assisted AI agents
+2025-04-04 05:30:56,246 - INFO - 从styles_htmlText获取到description: Upwork 2.0 for human-assisted AI agents: Get AI-generated previews of each service, DIY or hire AI-savvy experts, or run 500+ expert-built workflows. AI does the heavy lifting, humans ensure the outcome. Let's make AI great again!
+2025-04-04 05:30:56,246 - INFO - 从primaryLink获取到visit_url: https://waxwing.ai
+2025-04-04 05:30:56,252 - INFO - 使用DrissionPage获取到主题标签: ['Remote Work', 'Marketing automation', 'Artificial Intelligence']
+2025-04-04 05:30:56,260 - INFO - 使用DrissionPage获取到投票数: 369
+2025-04-04 05:30:56,260 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/a22ebe9d-ff0e-41cf-9b4d-0862150743d2.png
+2025-04-04 05:30:56,270 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/claude-for-education
+2025-04-04 05:30:57,954 - INFO - 已保存产品页面源代码到 producthunt_product_claude-for-education.html
+2025-04-04 05:30:58,164 - INFO - 使用DrissionPage获取到产品名称: Claude for Education
+2025-04-04 05:30:58,164 - INFO - 使用DrissionPage获取到产品label: AI for higher ed, with a new learning mode for students
+2025-04-04 05:30:58,167 - INFO - 从styles_htmlText获取到description: Claude for Education revolutionizes learning with AI to guide critical thinking. Partnering with top universities, we're introducing Learning Mode, campus-wide access, and student programs that empower educators and learners to shape AI's future in academia.
+2025-04-04 05:30:58,167 - INFO - 从primaryLink获取到visit_url: https://www.anthropic.com/news/introducing-claude-for-education
+2025-04-04 05:30:58,171 - INFO - 使用DrissionPage获取到主题标签: ['Education', 'Artificial Intelligence']
+2025-04-04 05:30:58,177 - INFO - 使用DrissionPage获取到投票数: 318
+2025-04-04 05:30:58,179 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/a5f193e0-fca7-4b9c-9215-4a29c511bd20.webp
+2025-04-04 05:30:58,189 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/autonomyai
+2025-04-04 05:30:59,681 - INFO - 已保存产品页面源代码到 producthunt_product_autonomyai.html
+2025-04-04 05:30:59,820 - INFO - 使用DrissionPage获取到产品名称: AutonomyAI
+2025-04-04 05:30:59,820 - INFO - 使用DrissionPage获取到产品label: Meet your Next Dev Hire
+2025-04-04 05:30:59,821 - INFO - 从styles_htmlText获取到description: AutonomyAI introduces context-aware agents that handle front-end development tasks and deliver fully production-ready code. Free your team from repetitive dev work, allowing them to concentrate on creating exceptional products. Join for early access!
+2025-04-04 05:30:59,822 - INFO - 从primaryLink获取到visit_url: https://autonomyai.io/
+2025-04-04 05:30:59,823 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'Design Tools', 'Software Engineering']
+2025-04-04 05:30:59,826 - INFO - 使用DrissionPage获取到投票数: 294
+2025-04-04 05:30:59,826 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/c2fa8ca3-c465-486a-aeb7-322d91250035.png
+2025-04-04 05:30:59,837 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/langflow-desktop
+2025-04-04 05:31:01,679 - INFO - 已保存产品页面源代码到 producthunt_product_langflow-desktop.html
+2025-04-04 05:31:01,821 - INFO - 使用DrissionPage获取到产品名称: Langflow Desktop
+2025-04-04 05:31:01,822 - INFO - 使用DrissionPage获取到产品label: Build AI-powered Agents -- in Minutes
+2025-04-04 05:31:01,823 - INFO - 从styles_htmlText获取到description: Langflow is a dev tool for building and deploying AI-powered agents. It includes a visual authoring experience and built-in API server that turns every agent into an API. Supports all major LLMs, vector databases and a growing library of AI tools.
+2025-04-04 05:31:01,824 - INFO - 从primaryLink获取到visit_url: https://langflow.org/desktop
+2025-04-04 05:31:01,825 - INFO - 使用DrissionPage获取到主题标签: ['GitHub', 'Open Source', 'Artificial Intelligence']
+2025-04-04 05:31:01,827 - INFO - 使用DrissionPage获取到投票数: 250
+2025-04-04 05:31:01,828 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/ff7c9bdb-7572-4a0b-9fa4-353381bc4096.png
+2025-04-04 05:31:01,839 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/viva-labs
+2025-04-04 05:31:03,641 - INFO - 已保存产品页面源代码到 producthunt_product_viva-labs.html
+2025-04-04 05:31:03,775 - INFO - 使用DrissionPage获取到产品名称: Viva Labs
+2025-04-04 05:31:03,775 - INFO - 使用DrissionPage获取到产品label: Winning AI Video Ads
+2025-04-04 05:31:03,777 - INFO - 从styles_htmlText获取到description: AI video ads that actually convert. Our suite of agents researches winning messages, generates professional UGC/B-Roll content, and analyzes ad performance—in just a few minutes.
+2025-04-04 05:31:03,777 - INFO - 从primaryLink获取到visit_url: https://app.vivalabs.ai/
+2025-04-04 05:31:03,779 - INFO - 使用DrissionPage获取到主题标签: ['Advertising', 'A/B Testing', 'Marketing']
+2025-04-04 05:31:03,784 - INFO - 使用DrissionPage获取到投票数: 237
+2025-04-04 05:31:03,785 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/1f4a0f68-57cb-4f21-92b4-105b089ed4ad.png
+2025-04-04 05:31:03,795 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/twinmind-ai-second-brain-for-mobile
+2025-04-04 05:31:05,289 - INFO - 已保存产品页面源代码到 producthunt_product_twinmind-ai-second-brain-for-mobile.html
+2025-04-04 05:31:05,500 - INFO - 使用DrissionPage获取到产品名称: TwinMind: AI Second Brain for Mobile
+2025-04-04 05:31:05,500 - INFO - 使用DrissionPage获取到产品label: Remember meetings, lectures, or your entire life for free
+2025-04-04 05:31:05,502 - INFO - 从styles_htmlText获取到description: Never take notes again. Get free unlimited transcription of everything you hear and say—even offline inside your pocket all day—with full privacy. Get proactive answers before you even ask. Chat with all your memories and the web. No gadgets—just get the app!
+2025-04-04 05:31:05,503 - INFO - 从primaryLink获取到visit_url: https://twinmind.app/n385/ph
+2025-04-04 05:31:05,504 - INFO - 使用DrissionPage获取到主题标签: ['Productivity', 'Notes', 'Artificial Intelligence']
+2025-04-04 05:31:05,508 - INFO - 使用DrissionPage获取到投票数: 210
+2025-04-04 05:31:05,508 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/4e262a7d-953e-48c4-9fbb-2556b6fd9af4.png
+2025-04-04 05:31:05,519 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/perso-ai-ai-dubbing-with-lip-sync
+2025-04-04 05:31:08,031 - INFO - 已保存产品页面源代码到 producthunt_product_perso-ai-ai-dubbing-with-lip-sync.html
+2025-04-04 05:31:08,461 - INFO - 使用DrissionPage获取到产品名称: PERSO.ai - AI Dubbing With Lip Sync
+2025-04-04 05:31:08,461 - INFO - 使用DrissionPage获取到产品label: AI Translation, Dubbing, & Lip-Sync Has Never Been Easier
+2025-04-04 05:31:08,465 - INFO - 从styles_htmlText获取到description: Easily localize your videos in 29+ languages with smooth, accurate lip sync. PERSO.ai delivers high-quality results at a fraction of the cost, making it easier than ever to expand your content to global audiences.
+2025-04-04 05:31:08,465 - INFO - 从primaryLink获取到visit_url: https://perso.ai/video-translator
+2025-04-04 05:31:08,471 - INFO - 使用DrissionPage获取到主题标签: ['Video', 'Languages', 'Artificial Intelligence']
+2025-04-04 05:31:08,480 - INFO - 使用DrissionPage获取到投票数: 76
+2025-04-04 05:31:08,481 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/42466ee9-834c-477a-9796-e61877d4dfa1.png
+2025-04-04 05:31:08,493 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/gitsummarize-2
+2025-04-04 05:31:10,269 - INFO - 已保存产品页面源代码到 producthunt_product_gitsummarize-2.html
+2025-04-04 05:31:10,432 - INFO - 使用DrissionPage获取到产品名称: GitSummarize
+2025-04-04 05:31:10,432 - INFO - 使用DrissionPage获取到产品label: Create beautiful internal documentation from any GitHub repo
+2025-04-04 05:31:10,437 - INFO - 从styles_htmlText获取到description: Turn any GitHub repository into an interactive AI-powered documentation hub. GitSummarize eliminates stale and outdated documentation, and always keeps it up-to-date.
+
+PRO TIP: Replace 'hub' with 'summarize' in any GitHub URL — instantly.
+2025-04-04 05:31:10,448 - INFO - 从primaryLink获取到visit_url: https://gitsummarize.com/
+2025-04-04 05:31:10,462 - INFO - 使用DrissionPage获取到主题标签: ['GitHub', 'Artificial Intelligence']
+2025-04-04 05:31:10,471 - INFO - 使用DrissionPage获取到投票数: 185
+2025-04-04 05:31:10,472 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/5e8ff429-d3d2-4f83-8fef-beb876b7f56d.png
+2025-04-04 05:31:10,484 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/motionvid-ai
+2025-04-04 05:31:12,111 - INFO - 已保存产品页面源代码到 producthunt_product_motionvid-ai.html
+2025-04-04 05:31:12,338 - INFO - 使用DrissionPage获取到产品名称: Motionvid.ai
+2025-04-04 05:31:12,338 - INFO - 使用DrissionPage获取到产品label: Create motion graphics within seconds with AI
+2025-04-04 05:31:12,341 - INFO - 从styles_htmlText获取到description: Motion design just got radically easier. With Motionvid.ai, describe your idea in plain words and watch it transform into a full animation with cinematic visuals and fluid motion. Great for YouTube videos, shortform content, blogs posts or launch videos.
+2025-04-04 05:31:12,342 - INFO - 从primaryLink获取到visit_url: https://www.motionvid.ai
+2025-04-04 05:31:12,346 - INFO - 使用DrissionPage获取到主题标签: ['Social Media', 'Marketing', 'Design Tools']
+2025-04-04 05:31:12,352 - INFO - 使用DrissionPage获取到投票数: 163
+2025-04-04 05:31:12,354 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/06845f8d-82d6-42aa-ba31-983ddb6bbc69.png
+2025-04-04 05:31:12,363 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/neuron-ai
+2025-04-04 05:31:13,720 - INFO - 已保存产品页面源代码到 producthunt_product_neuron-ai.html
+2025-04-04 05:31:13,841 - INFO - 使用DrissionPage获取到产品名称: Neuron AI
+2025-04-04 05:31:13,841 - INFO - 使用DrissionPage获取到产品label: Your AI, On Your Device - Private & Secure
+2025-04-04 05:31:13,842 - INFO - 从styles_htmlText获取到description: Neuron AI is designed for 100% privacy, speed, and full control — it runs completely on-device, meaning no internet is required and no data ever leaves your device. Don’t believe it? Turn on airplane mode and be amazed.
+2025-04-04 05:31:13,843 - INFO - 从primaryLink获取到visit_url: https://apps.apple.com/ch/app/neuron-ai-private-secure/id6739433114
+2025-04-04 05:31:13,844 - INFO - 使用DrissionPage获取到主题标签: ['Productivity', 'Privacy', 'Artificial Intelligence']
+2025-04-04 05:31:13,846 - INFO - 使用DrissionPage获取到投票数: 156
+2025-04-04 05:31:13,846 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/2e6beee3-ec60-4d24-86c5-0b768d5acc97.png
+2025-04-04 05:31:13,859 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/vantedge-ai
+2025-04-04 05:31:20,527 - INFO - 已保存产品页面源代码到 producthunt_product_vantedge-ai.html
+2025-04-04 05:31:20,718 - INFO - 使用DrissionPage获取到产品名称: Vantedge AI
+2025-04-04 05:31:20,718 - INFO - 使用DrissionPage获取到产品label: The AI agent marketplace for investors
+2025-04-04 05:31:20,721 - INFO - 从styles_htmlText获取到description: Vantedge AI is the one-stop AI infrastructure and Agent Marketplace for funds and fintech startups. We simplify AI adoption for investors and provide distribution for curated AI agents.
+2025-04-04 05:31:20,722 - INFO - 从primaryLink获取到visit_url: https://vantedgeai.com/
+2025-04-04 05:31:20,726 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'Investing', 'Fintech']
+2025-04-04 05:31:20,734 - INFO - 使用DrissionPage获取到投票数: 143
+2025-04-04 05:31:20,734 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/9e64e25f-4e35-40ef-a9bc-a6bcab3a7c90.png
+2025-04-04 05:31:20,747 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/medmatch-pro
+2025-04-04 05:31:23,319 - INFO - 已保存产品页面源代码到 producthunt_product_medmatch-pro.html
+2025-04-04 05:31:23,577 - INFO - 使用DrissionPage获取到产品名称: MedMatch Pro
+2025-04-04 05:31:23,578 - INFO - 使用DrissionPage获取到产品label: Identify pills & find global meds in seconds
+2025-04-04 05:31:23,581 - INFO - 从styles_htmlText获取到description: MedMatch Pro: Identify pills & find global meds fast! 🌍💊 Snap a photo to ID pills, search med equivalents worldwide, save lists. Perfect for travelers & med management. iOS only (Android soon!). Try it now! 🚀
+2025-04-04 05:31:23,581 - INFO - 从primaryLink获取到visit_url: https://apps.apple.com/es/app/medmatch-pro/id6743503216?l=en-GB
+2025-04-04 05:31:23,586 - INFO - 使用DrissionPage获取到主题标签: ['Travel', 'Health', 'Productivity']
+2025-04-04 05:31:23,592 - INFO - 使用DrissionPage获取到投票数: 47
+2025-04-04 05:31:23,593 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/ae2f1935-41eb-4066-91c1-1f7ed13bdb18.png
+2025-04-04 05:31:23,593 - INFO - 使用备用方法添加产品: Supaboard AI
+2025-04-04 05:31:23,593 - INFO - 使用备用方法添加产品: oMoo
+2025-04-04 05:31:23,593 - INFO - 使用备用方法添加产品: Playwrk: Virtual Private Club for Gamers
+2025-04-04 05:31:23,593 - INFO - 使用备用方法添加产品: Waxwing 2.0
+2025-04-04 05:31:23,593 - INFO - 使用备用方法添加产品: Claude for Education
+2025-04-04 05:31:23,593 - INFO - 使用备用方法添加产品: AutonomyAI
+2025-04-04 05:31:23,593 - INFO - 使用备用方法添加产品: Langflow Desktop
+2025-04-04 05:31:23,593 - INFO - 使用备用方法添加产品: Viva Labs
+2025-04-04 05:31:23,593 - INFO - 使用备用方法添加产品: TwinMind: AI Second Brain for Mobile
+2025-04-04 05:31:23,593 - INFO - 使用备用方法添加产品: PERSO.ai - AI Dubbing With Lip Sync
+2025-04-04 05:31:23,593 - INFO - 使用备用方法添加产品: GitSummarize
+2025-04-04 05:31:23,593 - INFO - 使用备用方法添加产品: Motionvid.ai
+2025-04-04 05:31:23,593 - INFO - 使用备用方法添加产品: Neuron AI
+2025-04-04 05:31:23,594 - INFO - 使用备用方法添加产品: Vantedge AI
+2025-04-04 05:31:23,594 - INFO - 使用备用方法添加产品: MedMatch Pro
+2025-04-04 05:31:23,594 - INFO - 成功保存 15 个产品信息到 data/product_2025-04-04.json
+2025-04-07 06:12:09,067 - INFO - 获取 2025-04-07 的Product Hunt热门产品
+2025-04-07 06:12:09,074 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-04-07 06:12:12,844 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-04-07 06:12:12,860 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/4/6/all
+2025-04-07 06:12:20,689 - INFO - 已保存页面源代码到 producthunt_drission_20250407_061220.html
+2025-04-07 06:12:20,690 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-04-07 06:12:20,701 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-04-07 06:12:20,703 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-04-07 06:13:33,736 - INFO - 获取 2025-04-07 的Product Hunt热门产品
+2025-04-07 06:13:33,737 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-04-07 06:13:33,958 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-04-07 06:13:33,963 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/4/6/all
+2025-04-07 06:13:36,416 - INFO - 已保存页面源代码到 producthunt_drission_20250407_061336.html
+2025-04-07 06:13:36,416 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-04-07 06:13:36,595 - INFO - 使用BeautifulSoup找到 17 个产品section
+2025-04-07 06:13:36,598 - INFO - 成功处理产品 1: Flexprice
+2025-04-07 06:13:36,599 - INFO - 成功处理产品 2: Databutton MCP
+2025-04-07 06:13:36,599 - INFO - 成功处理产品 3: Scout
+2025-04-07 06:13:36,600 - INFO - 成功处理产品 4: PyUI Builder
+2025-04-07 06:13:36,600 - INFO - 成功处理产品 5: Amazon Buy for Me
+2025-04-07 06:13:36,601 - INFO - 成功处理产品 6: Wishoom
+2025-04-07 06:13:36,601 - INFO - 成功处理产品 7: FrameShare
+2025-04-07 06:13:36,602 - INFO - 成功处理产品 8: ZippCall
+2025-04-07 06:13:36,602 - INFO - 成功处理产品 9: Thumb Zone AI
+2025-04-07 06:13:36,602 - INFO - 成功处理产品 10: ArbitrageOne
+2025-04-07 06:13:36,603 - INFO - 成功处理产品 11: Dreamchanted
+2025-04-07 06:13:36,606 - INFO - 成功处理产品 12: CocoKits
+2025-04-07 06:13:36,608 - INFO - 成功处理产品 13: Feeedback
+2025-04-07 06:13:36,609 - INFO - 成功处理产品 14: MailCheck
+2025-04-07 06:13:36,610 - INFO - 成功处理产品 15: ImgFiber - Lossless Image compression!
+2025-04-07 06:13:36,611 - INFO - 成功缓存 15 个产品元素的信息
+2025-04-07 06:13:36,611 - INFO - 找到 15 个产品
+2025-04-07 06:13:36,612 - INFO - 尝试使用DrissionPage方法构建产品数据...
+2025-04-07 06:13:36,828 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/flexprice
+2025-04-07 06:13:40,276 - INFO - 已保存产品页面源代码到 producthunt_product_flexprice.html
+2025-04-07 06:13:40,928 - INFO - 使用DrissionPage获取到产品名称: Flexprice
+2025-04-07 06:13:40,928 - INFO - 使用DrissionPage获取到产品label: Usage-based pricing and metering for developers
+2025-04-07 06:13:40,933 - INFO - 从styles_htmlText获取到description: Flexprice is a billing platform that helps launch & iterate pricing without dev bottlenecks.
+🔓  Cloud or self-hosted
+⚙️ No-code UI
+💰 Usage-based pricing & metering
+🎟 Credits & top-ups
+🔑 Control feature access
+🔗 Works with Stripe, Chargebee, & more
+2025-04-07 06:13:40,936 - INFO - 从primaryLink获取到visit_url: https://flexprice.io/
+2025-04-07 06:13:40,946 - INFO - 使用DrissionPage获取到主题标签: ['SaaS', 'Open Source', 'Artificial Intelligence']
+2025-04-07 06:13:40,970 - INFO - 使用DrissionPage获取到投票数: 389
+2025-04-07 06:13:40,970 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/10e37e55-51c0-4a86-8379-94ce71039a6d.jpeg
+2025-04-07 06:13:40,991 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/databutton-mcp
+2025-04-07 06:13:43,841 - INFO - 已保存产品页面源代码到 producthunt_product_databutton-mcp.html
+2025-04-07 06:13:44,264 - INFO - 使用DrissionPage获取到产品名称: Databutton MCP
+2025-04-07 06:13:44,264 - INFO - 使用DrissionPage获取到产品label: Give your app AI superpowers with MCPs
+2025-04-07 06:13:44,267 - INFO - 从styles_htmlText获取到description: For those of you who live under a rock, Databutton lets you build and deploy full-stack apps with AI.
+
+Today, we're launching Databutton MCPs, which lets you talk to your Databutton apps with natural language.
+
+Available in Claude, Cursor, OpenAI, and Agno.
+2025-04-07 06:13:44,268 - INFO - 从primaryLink获取到visit_url: https://databutton.com/mcp
+2025-04-07 06:13:44,272 - INFO - 使用DrissionPage获取到主题标签: ['No-Code', 'Developer Tools', 'Artificial Intelligence']
+2025-04-07 06:13:44,288 - INFO - 使用DrissionPage获取到投票数: 311
+2025-04-07 06:13:44,290 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/cacc9b28-1c46-487b-a524-0dccdd926779.gif
+2025-04-07 06:13:44,310 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/scout-d8f5d930-e30a-4707-8964-99d4ba2f73dd
+2025-04-07 06:13:46,526 - INFO - 已保存产品页面源代码到 producthunt_product_scout-d8f5d930-e30a-4707-8964-99d4ba2f73dd.html
+2025-04-07 06:13:47,204 - INFO - 使用DrissionPage获取到产品名称: Scout
+2025-04-07 06:13:47,205 - INFO - 使用DrissionPage获取到产品label: Instant Marketplace Alerts
+2025-04-07 06:13:47,211 - INFO - 从styles_htmlText获取到description: Never miss a steal on Facebook Marketplace again. Scout instantly alerts you about products you're interested in, saving you hours spent scrolling and refreshing for new listings.
+2025-04-07 06:13:47,215 - INFO - 从primaryLink获取到visit_url: https://apps.apple.com/au/app/scout-notify/id6738621889
+2025-04-07 06:13:47,227 - INFO - 使用DrissionPage获取到主题标签: ['Shopping', 'Productivity', 'SaaS']
+2025-04-07 06:13:47,258 - INFO - 使用DrissionPage获取到投票数: 194
+2025-04-07 06:13:47,260 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/3d4ebfef-8b7b-4d45-ac51-61a04bdf0e99.png
+2025-04-07 06:13:47,327 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/pyui-builder
+2025-04-07 06:13:49,571 - INFO - 已保存产品页面源代码到 producthunt_product_pyui-builder.html
+2025-04-07 06:13:50,291 - INFO - 使用DrissionPage获取到产品名称: PyUI Builder
+2025-04-07 06:13:50,292 - INFO - 使用DrissionPage获取到产品label: Build Python GUIs like Canva
+2025-04-07 06:13:50,295 - INFO - 从styles_htmlText获取到description: A GUI builder for python. Create tkinter, Customtk, Kivy and PySide using GUI builder. Supports 3rd party libraries and generates clean Python code
+2025-04-07 06:13:50,296 - INFO - 从primaryLink获取到visit_url: https://pyuibuilder.com
+2025-04-07 06:13:50,300 - INFO - 使用DrissionPage获取到主题标签: ['Software Engineering', 'Education', 'Developer Tools']
+2025-04-07 06:13:50,311 - INFO - 使用DrissionPage获取到投票数: 208
+2025-04-07 06:13:50,312 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/dfb32e9b-a1ca-41e1-8e81-153f8d9ebbe0.png
+2025-04-07 06:13:50,486 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/amazon-buy-for-me
+2025-04-07 06:13:52,698 - INFO - 已保存产品页面源代码到 producthunt_product_amazon-buy-for-me.html
+2025-04-07 06:13:53,047 - INFO - 使用DrissionPage获取到产品名称: Amazon Buy for Me
+2025-04-07 06:13:53,048 - INFO - 使用DrissionPage获取到产品label: AI Agent that shops in other sites
+2025-04-07 06:13:53,052 - INFO - 从styles_htmlText获取到description: Amazon Buy for Me uses an AI agent within the Amazon app to purchase items for you directly from other brand websites when Amazon doesn't stock them.
+2025-04-07 06:13:53,068 - INFO - 从primaryLink获取到visit_url: https://www.aboutamazon.com/news/retail/amazon-shopping-app-buy-for-me-brands
+2025-04-07 06:13:53,121 - INFO - 使用DrissionPage获取到主题标签: ['E-Commerce', 'Amazon', 'Artificial Intelligence']
+2025-04-07 06:13:53,127 - INFO - 使用DrissionPage获取到投票数: 160
+2025-04-07 06:13:53,136 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/da7f706c-512a-4d20-9931-4c12400eec66.png
+2025-04-07 06:13:53,183 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/wishoom
+2025-04-07 06:13:55,946 - INFO - 已保存产品页面源代码到 producthunt_product_wishoom.html
+2025-04-07 06:13:56,235 - INFO - 使用DrissionPage获取到产品名称: Wishoom
+2025-04-07 06:13:56,238 - INFO - 使用DrissionPage获取到产品label: Send a message to the universe
+2025-04-07 06:13:56,241 - INFO - 从styles_htmlText获取到description: Send a message to the universe using laser transmission. Fully encrypted, private and secure.
+2025-04-07 06:13:56,242 - INFO - 从primaryLink获取到visit_url: https://wishoom.com/
+2025-04-07 06:13:56,244 - INFO - 使用DrissionPage获取到主题标签: ['Messaging']
+2025-04-07 06:13:56,255 - INFO - 使用DrissionPage获取到投票数: 125
+2025-04-07 06:13:56,259 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/f773a9ec-232f-4ac2-97a5-3965364e255f.jpeg
+2025-04-07 06:13:56,324 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/frameshare-2
+2025-04-07 06:13:58,683 - INFO - 已保存产品页面源代码到 producthunt_product_frameshare-2.html
+2025-04-07 06:13:59,025 - INFO - 使用DrissionPage获取到产品名称: FrameShare
+2025-04-07 06:13:59,026 - INFO - 使用DrissionPage获取到产品label: Social share plugin for Framer
+2025-04-07 06:13:59,037 - INFO - 从styles_htmlText获取到description: The first Framer plugin that lets you easily add social share buttons to your Framer website. Let visitors share your website to their social media accounts to increase traffic and build social proof.
+2025-04-07 06:13:59,052 - INFO - 从primaryLink获取到visit_url: https://frameshare.social
+2025-04-07 06:13:59,071 - INFO - 使用DrissionPage获取到主题标签: ['Social media marketing', 'Design Tools']
+2025-04-07 06:13:59,104 - INFO - 使用DrissionPage获取到投票数: 124
+2025-04-07 06:13:59,106 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/5e9aa578-f453-4cc6-b183-c6ed3b6e5271.png
+2025-04-07 06:13:59,134 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/zippcall
+2025-04-07 06:14:00,603 - INFO - 已保存产品页面源代码到 producthunt_product_zippcall.html
+2025-04-07 06:14:01,521 - INFO - 使用DrissionPage获取到产品名称: ZippCall
+2025-04-07 06:14:01,521 - INFO - 使用DrissionPage获取到产品label: Cheap international calls in your web-browser
+2025-04-07 06:14:01,524 - INFO - 从styles_htmlText获取到description: Make cheap international calls directly from your browser with ZippCall. No downloads, no subscriptions, just affordable rates and crystal-clear quality.
+2025-04-07 06:14:01,526 - INFO - 从primaryLink获取到visit_url: https://www.zippcall.com
+2025-04-07 06:14:01,532 - INFO - 使用DrissionPage获取到主题标签: ['Travel', 'Customer Communication', 'Tech']
+2025-04-07 06:14:01,544 - INFO - 使用DrissionPage获取到投票数: 120
+2025-04-07 06:14:01,545 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/c0c8300d-1d79-4586-9f1a-6ed9eec7e333.jpeg
+2025-04-07 06:14:01,632 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/thumb-zone-ai
+2025-04-07 06:14:04,095 - INFO - 已保存产品页面源代码到 producthunt_product_thumb-zone-ai.html
+2025-04-07 06:14:04,690 - INFO - 使用DrissionPage获取到产品名称: Thumb Zone AI
+2025-04-07 06:14:04,690 - INFO - 使用DrissionPage获取到产品label: Emotion AI for user testing & product experience
+2025-04-07 06:14:04,695 - INFO - 从styles_htmlText获取到description: Thumb Zone uses AI to help companies design more user-friendly apps and perform usability testing with smaller teams. It helps them iterate 10x faster and 15x cheaper to build better products.
+2025-04-07 06:14:04,698 - INFO - 从primaryLink获取到visit_url: https://thumbzone.ai
+2025-04-07 06:14:04,709 - INFO - 使用DrissionPage获取到主题标签: ['UX Design', 'User Experience', 'Design Tools']
+2025-04-07 06:14:04,722 - INFO - 使用DrissionPage获取到投票数: 110
+2025-04-07 06:14:04,723 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/342c1d77-bf64-4468-9332-c2c10faf61df.png
+2025-04-07 06:14:04,746 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/arbitrageone
+2025-04-07 06:14:07,351 - INFO - 已保存产品页面源代码到 producthunt_product_arbitrageone.html
+2025-04-07 06:14:07,718 - INFO - 使用DrissionPage获取到产品名称: ArbitrageOne
+2025-04-07 06:14:07,719 - INFO - 使用DrissionPage获取到产品label: Amazon Reselling & Arbitrage Software
+2025-04-07 06:14:07,722 - INFO - 从styles_htmlText获取到description: Automate your Amazon Reselling business and boost efficiency with ArbitrageOne. Track all key KPIs in one place, streamline sourcing, and optimize your workflow effortlessly. Stay in control, save time, and scale smarter.
+2025-04-07 06:14:07,723 - INFO - 从primaryLink获取到visit_url: https://arbitrageone.de/
+2025-04-07 06:14:07,726 - INFO - 使用DrissionPage获取到主题标签: ['E-Commerce', 'SaaS', 'Amazon']
+2025-04-07 06:14:07,735 - INFO - 使用DrissionPage获取到投票数: 108
+2025-04-07 06:14:07,736 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/cfb4a9d8-61db-466f-a7cf-cf9a756a794c.png
+2025-04-07 06:14:07,756 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/dreamchanted-2
+2025-04-07 06:14:10,019 - INFO - 已保存产品页面源代码到 producthunt_product_dreamchanted-2.html
+2025-04-07 06:14:10,380 - INFO - 使用DrissionPage获取到产品名称: Dreamchanted
+2025-04-07 06:14:10,380 - INFO - 使用DrissionPage获取到产品label: Turn your photos into magical art
+2025-04-07 06:14:10,385 - INFO - 从styles_htmlText获取到description: Dreamchanted transforms your boring photos into magical art!
+2025-04-07 06:14:10,388 - INFO - 从primaryLink获取到visit_url: https://dreamchanted.com
+2025-04-07 06:14:10,398 - INFO - 使用DrissionPage获取到主题标签: ['Photography', 'Marketing', 'Design Tools']
+2025-04-07 06:14:10,411 - INFO - 使用DrissionPage获取到投票数: 48
+2025-04-07 06:14:10,412 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/ea13a8f5-d773-40bd-beaa-e7523752b329.png
+2025-04-07 06:14:10,434 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/cocokits
+2025-04-07 06:14:12,662 - INFO - 已保存产品页面源代码到 producthunt_product_cocokits.html
+2025-04-07 06:14:13,033 - INFO - 使用DrissionPage获取到产品名称: CocoKits
+2025-04-07 06:14:13,033 - INFO - 使用DrissionPage获取到产品label: Design System with unstyled Angular & React components
+2025-04-07 06:14:13,038 - INFO - 从styles_htmlText获取到description: Cocokits is built for both designers and developers, providing a powerful, flexible system to easily create performant, enterprise-grade products.
+
+CocoKits includes clean architecture, flexible SDK, and framework-agnostic support for multiple design systems.
+2025-04-07 06:14:13,042 - INFO - 从primaryLink获取到visit_url: https://react.cocokits.com
+2025-04-07 06:14:13,055 - INFO - 使用DrissionPage获取到主题标签: ['GitHub', 'Developer Tools', 'Design Tools']
+2025-04-07 06:14:13,075 - INFO - 使用DrissionPage获取到投票数: 34
+2025-04-07 06:14:13,088 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/ab0aceaf-c1d3-461a-91a6-b42ff5d80670.png
+2025-04-07 06:14:13,123 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/feeedback
+2025-04-07 06:14:15,245 - INFO - 已保存产品页面源代码到 producthunt_product_feeedback.html
+2025-04-07 06:14:15,494 - INFO - 使用DrissionPage获取到产品名称: Feeedback
+2025-04-07 06:14:15,494 - INFO - 使用DrissionPage获取到产品label: Decode customer feedback and build what matters
+2025-04-07 06:14:15,497 - INFO - 从styles_htmlText获取到description: Understanding your customers is the key to growth, but collecting and analyzing feedback can be overwhelming.
+
+Feeedback is your AI-powered solution to gather real-time user reviews, track churn, and uncover actionable insights to shape the future of your SaaS
+2025-04-07 06:14:15,498 - INFO - 从primaryLink获取到visit_url: https://feeedback.dev
+2025-04-07 06:14:15,502 - INFO - 使用DrissionPage获取到主题标签: ['Business', 'SaaS', 'Developer Tools']
+2025-04-07 06:14:15,522 - INFO - 使用DrissionPage获取到投票数: 25
+2025-04-07 06:14:15,525 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/421460be-9078-4c71-a0c2-e77c6bb64ef5.png
+2025-04-07 06:14:15,563 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/mailcheck-2
+2025-04-07 06:14:17,831 - INFO - 已保存产品页面源代码到 producthunt_product_mailcheck-2.html
+2025-04-07 06:14:18,104 - INFO - 使用DrissionPage获取到产品名称: MailCheck
+2025-04-07 06:14:18,104 - INFO - 使用DrissionPage获取到产品label: Stop Free Trial Abuse with Advanced Email Verification
+2025-04-07 06:14:18,107 - INFO - 从styles_htmlText获取到description: MailCheck is an advanced email verification API that helps businesses validate email addresses in real-time. Identify and block disposable email addresses to prevent free trial abuse and ensure you collect only high-quality, deliverable email addresses.
+2025-04-07 06:14:18,108 - INFO - 从primaryLink获取到visit_url: https://mail-check.tech
+2025-04-07 06:14:18,120 - INFO - 使用DrissionPage获取到主题标签: ['Email Marketing', 'API', 'SaaS']
+2025-04-07 06:14:18,126 - INFO - 使用DrissionPage获取到投票数: 18
+2025-04-07 06:14:18,128 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/3c60a66e-70b2-4e21-b40c-b31ee360b4b5.png
+2025-04-07 06:14:18,152 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/imgfiber-lossless-image-compression
+2025-04-07 06:14:20,486 - INFO - 已保存产品页面源代码到 producthunt_product_imgfiber-lossless-image-compression.html
+2025-04-07 06:14:20,766 - INFO - 使用DrissionPage获取到产品名称: ImgFiber - Lossless Image compression!
+2025-04-07 06:14:20,767 - INFO - 使用DrissionPage获取到产品label: Shrink file size without losing quality – Completely FREE!
+2025-04-07 06:14:20,772 - INFO - 从styles_htmlText获取到description: 100% Free! No File Size Limits! Processed Locally! (Nothing gets sent to our servers, everything happens right on your browser) 
+This is NOT A FFmpeg wrapper! 
+ImgFiber offers 10x better results compared to ANY current alternatives. try it now.
+2025-04-07 06:14:20,810 - INFO - 从primaryLink获取到visit_url: https://www.imgfiber.com/
+2025-04-07 06:14:20,824 - INFO - 使用DrissionPage获取到主题标签: ['Productivity', 'Maker Tools', 'Design Tools']
+2025-04-07 06:14:20,830 - INFO - 使用DrissionPage获取到投票数: 15
+2025-04-07 06:14:20,838 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/99e01969-c837-4763-978b-ea44aedeea71.png
+2025-04-07 06:14:20,838 - INFO - 使用备用方法添加产品: Flexprice
+2025-04-07 06:14:20,838 - INFO - 使用备用方法添加产品: Databutton MCP
+2025-04-07 06:14:20,839 - INFO - 使用备用方法添加产品: Scout
+2025-04-07 06:14:20,839 - INFO - 使用备用方法添加产品: PyUI Builder
+2025-04-07 06:14:20,839 - INFO - 使用备用方法添加产品: Amazon Buy for Me
+2025-04-07 06:14:20,839 - INFO - 使用备用方法添加产品: Wishoom
+2025-04-07 06:14:20,840 - INFO - 使用备用方法添加产品: FrameShare
+2025-04-07 06:14:20,840 - INFO - 使用备用方法添加产品: ZippCall
+2025-04-07 06:14:20,840 - INFO - 使用备用方法添加产品: Thumb Zone AI
+2025-04-07 06:14:20,840 - INFO - 使用备用方法添加产品: ArbitrageOne
+2025-04-07 06:14:20,841 - INFO - 使用备用方法添加产品: Dreamchanted
+2025-04-07 06:14:20,841 - INFO - 使用备用方法添加产品: CocoKits
+2025-04-07 06:14:20,841 - INFO - 使用备用方法添加产品: Feeedback
+2025-04-07 06:14:20,841 - INFO - 使用备用方法添加产品: MailCheck
+2025-04-07 06:14:20,841 - INFO - 使用备用方法添加产品: ImgFiber - Lossless Image compression!
+2025-04-07 06:14:20,846 - INFO - 成功保存 15 个产品信息到 data/product_2025-04-07.json
+2025-04-08 06:18:16,200 - INFO - 获取 2025-04-08 的Product Hunt热门产品
+2025-04-08 06:18:16,201 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-04-08 06:18:16,684 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-04-08 06:18:16,770 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/4/7/all
+2025-04-08 06:18:19,761 - INFO - 已保存页面源代码到 producthunt_drission_20250408_061819.html
+2025-04-08 06:18:19,762 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-04-08 06:18:19,767 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-04-08 06:18:19,767 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-04-08 06:20:09,400 - INFO - 获取 2025-04-08 的Product Hunt热门产品
+2025-04-08 06:20:09,401 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-04-08 06:20:09,593 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-04-08 06:20:09,596 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/4/7/all
+2025-04-08 06:20:11,881 - INFO - 已保存页面源代码到 producthunt_drission_20250408_062011.html
+2025-04-08 06:20:11,881 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-04-08 06:20:11,936 - INFO - 使用BeautifulSoup找到 17 个产品section
+2025-04-08 06:20:11,936 - INFO - 成功处理产品 1: EverTutor Live
+2025-04-08 06:20:11,936 - INFO - 成功处理产品 2: Amurex
+2025-04-08 06:20:11,937 - INFO - 成功处理产品 3: Llama 4
+2025-04-08 06:20:11,937 - INFO - 成功处理产品 4: Refgrow
+2025-04-08 06:20:11,937 - INFO - 成功处理产品 5: The New Microsoft Copilot
+2025-04-08 06:20:11,937 - INFO - 成功处理产品 6: Dayo
+2025-04-08 06:20:11,937 - INFO - 成功处理产品 7: Mergify
+2025-04-08 06:20:11,938 - INFO - 成功处理产品 8: blakebill
+2025-04-08 06:20:11,938 - INFO - 成功处理产品 9: Redstone AI – Ship What Customers Want
+2025-04-08 06:20:11,938 - INFO - 成功处理产品 10: Sweep AI
+2025-04-08 06:20:11,938 - INFO - 成功处理产品 11: Synchora
+2025-04-08 06:20:11,938 - INFO - 成功处理产品 12: Update
+2025-04-08 06:20:11,938 - INFO - 成功处理产品 13: Klack
+2025-04-08 06:20:11,939 - INFO - 成功处理产品 14: ResumeInvent
+2025-04-08 06:20:11,939 - INFO - 成功处理产品 15: VidifyAI Studio
+2025-04-08 06:20:11,939 - INFO - 成功缓存 15 个产品元素的信息
+2025-04-08 06:20:11,939 - INFO - 找到 15 个产品
+2025-04-08 06:20:11,939 - INFO - 尝试使用DrissionPage方法构建产品数据...
+2025-04-08 06:20:11,948 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/evertutor-live
+2025-04-08 06:20:13,637 - INFO - 已保存产品页面源代码到 producthunt_product_evertutor-live.html
+2025-04-08 06:20:13,793 - INFO - 使用DrissionPage获取到产品名称: EverTutor Live
+2025-04-08 06:20:13,793 - INFO - 使用DrissionPage获取到产品label: Your very own AI Tutor that teaches, adapts, and interacts
+2025-04-08 06:20:13,795 - INFO - 从styles_htmlText获取到description: EverTutor is your AI-powered voice tutor, personalized to your learning style. Engage with it like an interactive Zoom call to master complex topics like GRE prep. Receive instant feedback as your AI tutor tailors lessons to your pace and needs.
+2025-04-08 06:20:13,796 - INFO - 从primaryLink获取到visit_url: https://live.evertutor.ai/onboarding
+2025-04-08 06:20:13,798 - INFO - 使用DrissionPage获取到主题标签: ['Education', 'Online Learning', 'Artificial Intelligence']
+2025-04-08 06:20:13,803 - INFO - 使用DrissionPage获取到投票数: 485
+2025-04-08 06:20:13,803 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/040eee27-aee2-4d42-9b19-4cda3a9b486b.jpeg
+2025-04-08 06:20:13,814 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/amurex
+2025-04-08 06:20:15,665 - INFO - 已保存产品页面源代码到 producthunt_product_amurex.html
+2025-04-08 06:20:15,820 - INFO - 使用DrissionPage获取到产品名称: Amurex
+2025-04-08 06:20:15,820 - INFO - 使用DrissionPage获取到产品label: AI companion to organize, retrieve and act on your workflows
+2025-04-08 06:20:15,822 - INFO - 从styles_htmlText获取到description: Amurex is an open-source AI that integrates in your workflow, connecting and organizing knowledge across your existing tooling. Search, organise, and retrieve insights effortlessly, without switching contexts. Fully self-hostable for complete data control.
+2025-04-08 06:20:15,822 - INFO - 从primaryLink获取到visit_url: https://www.amurex.ai/
+2025-04-08 06:20:15,823 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'Productivity', 'Open Source']
+2025-04-08 06:20:15,826 - INFO - 使用DrissionPage获取到投票数: 409
+2025-04-08 06:20:15,827 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/02ecf6d7-0625-4482-9eea-da969e4570d2.jpeg
+2025-04-08 06:20:15,836 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/llama-4-5
+2025-04-08 06:20:17,386 - INFO - 已保存产品页面源代码到 producthunt_product_llama-4-5.html
+2025-04-08 06:20:17,552 - INFO - 使用DrissionPage获取到产品名称: Llama 4
+2025-04-08 06:20:17,552 - INFO - 使用DrissionPage获取到产品label: A new era of natively multimodal AI innovation
+2025-04-08 06:20:17,554 - INFO - 从styles_htmlText获取到description: The Llama 4 collection of models are natively multimodal AI models that enable text and multimodal experiences. These models leverage a mixture-of-experts architecture to offer industry-leading performance in text and image understanding.
+2025-04-08 06:20:17,554 - INFO - 从primaryLink获取到visit_url: https://llama.com/4
+2025-04-08 06:20:17,555 - INFO - 使用DrissionPage获取到主题标签: ['Developer Tools', 'Artificial Intelligence']
+2025-04-08 06:20:17,559 - INFO - 使用DrissionPage获取到投票数: 346
+2025-04-08 06:20:17,559 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/44208b61-f7ee-4588-8ac9-496747a111a4.png
+2025-04-08 06:20:17,569 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/refgrow-2
+2025-04-08 06:20:18,934 - INFO - 已保存产品页面源代码到 producthunt_product_refgrow-2.html
+2025-04-08 06:20:19,079 - INFO - 使用DrissionPage获取到产品名称: Refgrow
+2025-04-08 06:20:19,079 - INFO - 使用DrissionPage获取到产品label: Add an affiliate program to your SaaS in minutes
+2025-04-08 06:20:19,081 - INFO - 从styles_htmlText获取到description: Turn your users into affiliates — right inside your SaaS. Refgrow lets you embed a native affiliate dashboard into your product in minutes. No external tools. No earnings limits. From just $9/mo.
+2025-04-08 06:20:19,082 - INFO - 从primaryLink获取到visit_url: https://refgrow.com
+2025-04-08 06:20:19,083 - INFO - 使用DrissionPage获取到主题标签: ['Growth Hacking', 'SaaS', 'Affiliate marketing']
+2025-04-08 06:20:19,090 - INFO - 使用DrissionPage获取到投票数: 273
+2025-04-08 06:20:19,091 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/6b0890a1-5d13-4e20-865e-010cb3c5cf11.png
+2025-04-08 06:20:19,103 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/the-new-microsoft-copilot
+2025-04-08 06:20:20,533 - INFO - 已保存产品页面源代码到 producthunt_product_the-new-microsoft-copilot.html
+2025-04-08 06:20:20,688 - INFO - 使用DrissionPage获取到产品名称: The New Microsoft Copilot
+2025-04-08 06:20:20,688 - INFO - 使用DrissionPage获取到产品label: Your AI Companion
+2025-04-08 06:20:20,689 - INFO - 从styles_htmlText获取到description: Meet the new Microsoft Copilot, your AI companion that remembers details (Memory), takes action (Actions), sees your world (Vision), and more. More personal & useful.
+2025-04-08 06:20:20,690 - INFO - 从primaryLink获取到visit_url: https://news.microsoft.com/april-2025-copilot-news/
+2025-04-08 06:20:20,691 - INFO - 使用DrissionPage获取到主题标签: ['Bots', 'Artificial Intelligence', 'Productivity']
+2025-04-08 06:20:20,694 - INFO - 使用DrissionPage获取到投票数: 237
+2025-04-08 06:20:20,694 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/3890b8c9-79d5-4a38-90d6-84fa4197e55a.jpeg
+2025-04-08 06:20:20,703 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/dayo-2
+2025-04-08 06:20:22,262 - INFO - 已保存产品页面源代码到 producthunt_product_dayo-2.html
+2025-04-08 06:20:22,478 - INFO - 使用DrissionPage获取到产品名称: Dayo
+2025-04-08 06:20:22,478 - INFO - 使用DrissionPage获取到产品label: Get paid NOT to use social media
+2025-04-08 06:20:22,481 - INFO - 从styles_htmlText获取到description: Dayo is a free app that pays you to use less social media. Keep your daily use under 30 minutes and get $5 bucks a day. The money can be used in Dayo’s marketplace of goods and services.
+2025-04-08 06:20:22,482 - INFO - 从primaryLink获取到visit_url: https://dayo.co
+2025-04-08 06:20:22,487 - INFO - 使用DrissionPage获取到主题标签: ['Social Media', 'Productivity', 'Fintech']
+2025-04-08 06:20:22,491 - INFO - 使用DrissionPage获取到投票数: 212
+2025-04-08 06:20:22,491 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/02fd2727-6e0e-4dc1-8b07-e894cff96f2c.png
+2025-04-08 06:20:22,500 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/mergify-2
+2025-04-08 06:20:25,048 - INFO - 已保存产品页面源代码到 producthunt_product_mergify-2.html
+2025-04-08 06:20:25,260 - INFO - 使用DrissionPage获取到产品名称: Mergify
+2025-04-08 06:20:25,261 - INFO - 使用DrissionPage获取到产品label: Merge Spotify playlists.
+2025-04-08 06:20:25,264 - INFO - 从styles_htmlText获取到description: Effortlessly merge Spotify playlists, detect and remove duplicates, and sync updates automatically. Combine your playlists with others or Spotify-generated ones to create the ultimate mix. Keep your music clean, organized, and always up-to-date!
+2025-04-08 06:20:25,264 - INFO - 从primaryLink获取到visit_url: https://mergify.marink.me/
+2025-04-08 06:20:25,270 - INFO - 使用DrissionPage获取到主题标签: ['User Experience', 'Music', 'Spotify']
+2025-04-08 06:20:25,276 - INFO - 使用DrissionPage获取到投票数: 161
+2025-04-08 06:20:25,276 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/47e10c71-11e8-452f-aed5-b7c333c7c39e.png
+2025-04-08 06:20:25,289 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/blakebill
+2025-04-08 06:20:26,968 - INFO - 已保存产品页面源代码到 producthunt_product_blakebill.html
+2025-04-08 06:20:27,095 - INFO - 使用DrissionPage获取到产品名称: blakebill
+2025-04-08 06:20:27,096 - INFO - 使用DrissionPage获取到产品label: Send your files. No payment, no download.
+2025-04-08 06:20:27,097 - INFO - 从styles_htmlText获取到description: blakebill lets you set your price, share your work, and get paid—perfect for freelance videographers, coders, designers, music producers, pretty much any creative professional.
+2025-04-08 06:20:27,098 - INFO - 从primaryLink获取到visit_url: https://www.blakebill.com
+2025-04-08 06:20:27,099 - INFO - 使用DrissionPage获取到主题标签: ['Developer Tools', 'Design Tools', 'SaaS']
+2025-04-08 06:20:27,102 - INFO - 使用DrissionPage获取到投票数: 170
+2025-04-08 06:20:27,103 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/3ae881ee-0586-4fd9-a5d6-d35a4b4c902c.png
+2025-04-08 06:20:27,111 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/redstone-ai-ship-what-customers-want
+2025-04-08 06:20:29,754 - INFO - 已保存产品页面源代码到 producthunt_product_redstone-ai-ship-what-customers-want.html
+2025-04-08 06:20:29,951 - INFO - 使用DrissionPage获取到产品名称: Redstone AI – Ship What Customers Want
+2025-04-08 06:20:29,951 - INFO - 使用DrissionPage获取到产品label: Test customer demand via AI sims, then ship.
+2025-04-08 06:20:29,954 - INFO - 从styles_htmlText获取到description: Redstone AI helps you ship exactly what customers want—10x faster. Validate ideas risk-free with AI-powered Review Analysis and AI Personas. Spot trends, prioritize features, and build with confidence. Try for free—no credit card needed
+2025-04-08 06:20:29,955 - INFO - 从primaryLink获取到visit_url: https://www.metabees.org/redstone
+2025-04-08 06:20:29,959 - INFO - 使用DrissionPage获取到主题标签: ['Tech', 'Productivity', 'Analytics']
+2025-04-08 06:20:29,966 - INFO - 使用DrissionPage获取到投票数: 57
+2025-04-08 06:20:29,966 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/dd9a44e5-da16-4332-b266-ffc895768161.jpeg
+2025-04-08 06:20:29,974 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/sweep-ai-2
+2025-04-08 06:20:31,726 - INFO - 已保存产品页面源代码到 producthunt_product_sweep-ai-2.html
+2025-04-08 06:20:31,965 - INFO - 使用DrissionPage获取到产品名称: Sweep AI
+2025-04-08 06:20:31,965 - INFO - 使用DrissionPage获取到产品label: AI coding assistant in IntelliJ, PyCharm, and JetBrains IDEs
+2025-04-08 06:20:31,968 - INFO - 从styles_htmlText获取到description: Sweep is an AI coding assistant purpose-built for JetBrains IDEs. We bring features like multi-file code "apply" and automatic context awareness into a secure, on-prem ready AI plugin for JetBrains.
+2025-04-08 06:20:31,968 - INFO - 从primaryLink获取到visit_url: https://docs.sweep.dev/#install-sweep
+2025-04-08 06:20:31,973 - INFO - 使用DrissionPage获取到主题标签: ['Developer Tools', 'Artificial Intelligence', 'Productivity']
+2025-04-08 06:20:31,982 - INFO - 使用DrissionPage获取到投票数: 143
+2025-04-08 06:20:31,982 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/bad1e21c-7a90-4f87-accb-3be3cdc88d21.png
+2025-04-08 06:20:31,990 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/synchora
+2025-04-08 06:20:33,193 - INFO - 已保存产品页面源代码到 producthunt_product_synchora.html
+2025-04-08 06:20:33,296 - INFO - 使用DrissionPage获取到产品名称: Synchora
+2025-04-08 06:20:33,297 - INFO - 使用DrissionPage获取到产品label: Timezone tracker to visualize how your hours shift
+2025-04-08 06:20:33,298 - INFO - 从styles_htmlText获取到description: Synchora is an app that helps you keep track of time zones around the globe. With simple yet engaging features, Synchora lets you quickly compare time differences and visualize how hours shift throughout the day.
+2025-04-08 06:20:33,299 - INFO - 从primaryLink获取到visit_url: https://synchora.yevhenholota.com/
+2025-04-08 06:20:33,300 - INFO - 使用DrissionPage获取到主题标签: ['Travel', 'Productivity', 'Time Tracking']
+2025-04-08 06:20:33,302 - INFO - 使用DrissionPage获取到投票数: 149
+2025-04-08 06:20:33,304 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/9bcafbff-0ff7-4f86-99d9-651d3920eab8.jpeg
+2025-04-08 06:20:33,316 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/update-3
+2025-04-08 06:20:34,760 - INFO - 已保存产品页面源代码到 producthunt_product_update-3.html
+2025-04-08 06:20:34,956 - INFO - 使用DrissionPage获取到产品名称: Update
+2025-04-08 06:20:34,957 - INFO - 使用DrissionPage获取到产品label: ⚡️ Authentication & Billing Made Easy
+2025-04-08 06:20:34,958 - INFO - 从styles_htmlText获取到description: Build powerful apps with seamless user authentication, organization management, and built-in subscription billing.
+2025-04-08 06:20:34,959 - INFO - 从primaryLink获取到visit_url: https://update.dev
+2025-04-08 06:20:34,960 - INFO - 使用DrissionPage获取到主题标签: ['Developer Tools', 'Payments', 'Development']
+2025-04-08 06:20:34,964 - INFO - 使用DrissionPage获取到投票数: 144
+2025-04-08 06:20:34,964 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/686e359e-e789-4636-9df4-ab5f2155c3bc.png
+2025-04-08 06:20:34,973 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/klack
+2025-04-08 06:20:36,483 - INFO - 已保存产品页面源代码到 producthunt_product_klack.html
+2025-04-08 06:20:36,665 - INFO - 使用DrissionPage获取到产品名称: Klack
+2025-04-08 06:20:36,665 - INFO - 使用DrissionPage获取到产品label: Satisfying sound with every keystroke
+2025-04-08 06:20:36,666 - INFO - 从styles_htmlText获取到description: A blazing fast native menubar app for Mac with high-fidelity sound, immersive spatial audio, instant type feedback, customizable switches, up/down keystrokes, and randomized pitching—designed to make every keystroke feel alive.
+2025-04-08 06:20:36,667 - INFO - 从primaryLink获取到visit_url: https://tryklack.com
+2025-04-08 06:20:36,668 - INFO - 使用DrissionPage获取到主题标签: ['Mac']
+2025-04-08 06:20:36,673 - INFO - 使用DrissionPage获取到投票数: 123
+2025-04-08 06:20:36,673 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/b6170198-23d7-42d9-9e37-43c622fd5dc1.webp
+2025-04-08 06:20:36,682 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/resumeinvent
+2025-04-08 06:20:38,144 - INFO - 已保存产品页面源代码到 producthunt_product_resumeinvent.html
+2025-04-08 06:20:38,269 - INFO - 使用DrissionPage获取到产品名称: ResumeInvent
+2025-04-08 06:20:38,269 - INFO - 使用DrissionPage获取到产品label: Get Noticed, Get Hired – The ATS Way!
+2025-04-08 06:20:38,271 - INFO - 从styles_htmlText获取到description: Tired of wasting time tweaking your resume? Meet ResumeInvent – the internet's first ATS resume builder that gives you a 100% ATS-optimized resume. No more suggestions or content to adjust, just a complete, job-winning resume ready to land you your dream job!
+2025-04-08 06:20:38,272 - INFO - 从primaryLink获取到visit_url: https://resumeinvent.com
+2025-04-08 06:20:38,273 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'Career', 'Writing']
+2025-04-08 06:20:38,276 - INFO - 使用DrissionPage获取到投票数: 46
+2025-04-08 06:20:38,276 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/a924983c-0c4d-4981-9e95-36a8f4189d5e.png
+2025-04-08 06:20:38,287 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/vidifyai-studio
+2025-04-08 06:20:39,552 - INFO - 已保存产品页面源代码到 producthunt_product_vidifyai-studio.html
+2025-04-08 06:20:39,701 - INFO - 使用DrissionPage获取到产品名称: VidifyAI Studio
+2025-04-08 06:20:39,702 - INFO - 使用DrissionPage获取到产品label: Create stunning AI videos from text in minutes.
+2025-04-08 06:20:39,704 - INFO - 从styles_htmlText获取到description: Create studio-quality videos featuring lifelike AI avatars in minutes, not hours. The smarter way to produce engaging content for marketing, education, and business.
+2025-04-08 06:20:39,705 - INFO - 从primaryLink获取到visit_url: https://www.vidifyai.in/
+2025-04-08 06:20:39,706 - INFO - 使用DrissionPage获取到主题标签: ['Marketing', 'Artificial Intelligence', 'SaaS']
+2025-04-08 06:20:39,715 - INFO - 使用DrissionPage获取到投票数: 54
+2025-04-08 06:20:39,715 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/7b3b49ba-b181-4917-b5cb-c3df25dd92f1.png
+2025-04-08 06:20:39,715 - INFO - 使用备用方法添加产品: EverTutor Live
+2025-04-08 06:20:39,715 - INFO - 使用备用方法添加产品: Amurex
+2025-04-08 06:20:39,715 - INFO - 使用备用方法添加产品: Llama 4
+2025-04-08 06:20:39,715 - INFO - 使用备用方法添加产品: Refgrow
+2025-04-08 06:20:39,715 - INFO - 使用备用方法添加产品: The New Microsoft Copilot
+2025-04-08 06:20:39,716 - INFO - 使用备用方法添加产品: Dayo
+2025-04-08 06:20:39,716 - INFO - 使用备用方法添加产品: Mergify
+2025-04-08 06:20:39,716 - INFO - 使用备用方法添加产品: blakebill
+2025-04-08 06:20:39,716 - INFO - 使用备用方法添加产品: Redstone AI – Ship What Customers Want
+2025-04-08 06:20:39,716 - INFO - 使用备用方法添加产品: Sweep AI
+2025-04-08 06:20:39,716 - INFO - 使用备用方法添加产品: Synchora
+2025-04-08 06:20:39,716 - INFO - 使用备用方法添加产品: Update
+2025-04-08 06:20:39,716 - INFO - 使用备用方法添加产品: Klack
+2025-04-08 06:20:39,716 - INFO - 使用备用方法添加产品: ResumeInvent
+2025-04-08 06:20:39,716 - INFO - 使用备用方法添加产品: VidifyAI Studio
+2025-04-08 06:20:39,718 - INFO - 成功保存 15 个产品信息到 data/product_2025-04-08.json
+2025-04-16 06:37:02,118 - INFO - 获取 2025-04-16 的Product Hunt热门产品
+2025-04-16 06:37:02,120 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-04-16 06:37:03,666 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-04-16 06:37:03,682 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/4/15/all
+2025-04-16 06:37:08,582 - INFO - 已保存页面源代码到 producthunt_drission_20250416_063708.html
+2025-04-16 06:37:08,582 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-04-16 06:37:08,610 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-04-16 06:37:08,611 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-04-16 06:37:15,445 - INFO - 获取 2025-04-16 的Product Hunt热门产品
+2025-04-16 06:37:15,445 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-04-16 06:37:15,586 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-04-16 06:37:15,590 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/4/15/all
+2025-04-16 06:37:16,418 - INFO - 已保存页面源代码到 producthunt_drission_20250416_063716.html
+2025-04-16 06:37:16,419 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-04-16 06:37:16,427 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-04-16 06:37:16,427 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-04-16 06:38:00,388 - INFO - 获取 2025-04-16 的Product Hunt热门产品
+2025-04-16 06:38:00,389 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-04-16 06:38:00,722 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-04-16 06:38:00,736 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/4/15/all
+2025-04-16 06:38:03,651 - INFO - 已保存页面源代码到 producthunt_drission_20250416_063803.html
+2025-04-16 06:38:03,658 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-04-16 06:38:03,917 - INFO - 使用BeautifulSoup找到 17 个产品section
+2025-04-16 06:38:03,921 - INFO - 成功处理产品 1: SlashExperts
+2025-04-16 06:38:03,922 - INFO - 成功处理产品 2: Extrovert
+2025-04-16 06:38:03,923 - INFO - 成功处理产品 3: Aqua Voice
+2025-04-16 06:38:03,929 - INFO - 成功处理产品 4: Dropcontact
+2025-04-16 06:38:03,930 - INFO - 成功处理产品 5: Potpie AI
+2025-04-16 06:38:03,931 - INFO - 成功处理产品 6: GPT-4.1 in the API
+2025-04-16 06:38:03,933 - INFO - 成功处理产品 7: Bilanc
+2025-04-16 06:38:03,937 - INFO - 成功处理产品 8: ServiceAgent
+2025-04-16 06:38:03,938 - INFO - 成功处理产品 9: Notion Mail
+2025-04-16 06:38:03,939 - INFO - 成功处理产品 10: n8nChat
+2025-04-16 06:38:03,939 - INFO - 成功处理产品 11: Tiptap Editor Template and UI Components
+2025-04-16 06:38:03,941 - INFO - 成功处理产品 12: DocsHound
+2025-04-16 06:38:03,943 - INFO - 成功处理产品 13: Whyser
+2025-04-16 06:38:03,945 - INFO - 成功处理产品 14: eXo Platform 7.0 Community Edition
+2025-04-16 06:38:03,946 - INFO - 成功处理产品 15: AutoMCP
+2025-04-16 06:38:03,946 - INFO - 成功缓存 15 个产品元素的信息
+2025-04-16 06:38:03,947 - INFO - 找到 15 个产品
+2025-04-16 06:38:03,947 - INFO - 尝试使用DrissionPage方法构建产品数据...
+2025-04-16 06:38:04,099 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/slashexperts
+2025-04-16 06:38:07,709 - INFO - 已保存产品页面源代码到 producthunt_product_slashexperts.html
+2025-04-16 06:38:08,141 - INFO - 使用DrissionPage获取到产品名称: SlashExperts
+2025-04-16 06:38:08,142 - INFO - 使用DrissionPage获取到产品label: Help teams close faster by connecting buyers with real users
+2025-04-16 06:38:08,149 - INFO - 从styles_htmlText获取到description: SlashExperts helps B2B teams close faster by connecting buyers with real users. Authentic peer conversations build trust, answer tough questions, and move deals without the friction of traditional sales tactics.
+2025-04-16 06:38:08,150 - INFO - 从primaryLink获取到visit_url: https://www.slashexperts.com
+2025-04-16 06:38:08,161 - INFO - 使用DrissionPage获取到主题标签: ['Sales', 'Growth Hacking', 'Marketing']
+2025-04-16 06:38:08,171 - INFO - 使用DrissionPage获取到投票数: 107
+2025-04-16 06:38:08,172 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/d786c346-6186-439c-9d61-256316b61783.png
+2025-04-16 06:38:08,191 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/extrovert-2
+2025-04-16 06:38:11,190 - INFO - 已保存产品页面源代码到 producthunt_product_extrovert-2.html
+2025-04-16 06:38:11,680 - INFO - 使用DrissionPage获取到产品名称: Extrovert
+2025-04-16 06:38:11,680 - INFO - 使用DrissionPage获取到产品label: Warm-up and nurture prospects at scale on linkedin
+2025-04-16 06:38:11,687 - INFO - 从styles_htmlText获取到description: Track your customers' posts, spot key conversations with AI, and help your team build trust with thoughtful comments - in minutes a day.
+2025-04-16 06:38:11,689 - INFO - 从primaryLink获取到visit_url: https://goextrovert.com
+2025-04-16 06:38:11,698 - INFO - 使用DrissionPage获取到主题标签: ['Sales', 'LinkedIn', 'Artificial Intelligence']
+2025-04-16 06:38:11,712 - INFO - 使用DrissionPage获取到投票数: 475
+2025-04-16 06:38:11,713 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/3158f361-437c-4d97-8139-997e556a0f13.jpeg
+2025-04-16 06:38:11,739 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/aqua-voice
+2025-04-16 06:38:14,887 - INFO - 已保存产品页面源代码到 producthunt_product_aqua-voice.html
+2025-04-16 06:38:15,337 - INFO - 使用DrissionPage获取到产品名称: Aqua Voice
+2025-04-16 06:38:15,338 - INFO - 使用DrissionPage获取到产品label: Incredibly fast voice input for Mac and Windows
+2025-04-16 06:38:15,347 - INFO - 从styles_htmlText获取到description: Aqua is super fast AI dictation that lets you talk into any text field -- Cursor, Gmail, Slack, even your terminal. It starts up in under 50ms, inserts text as fast as 450ms, and has state-of-the-art accuracy. Write 4x faster anywhere with Aqua. 🌊
+2025-04-16 06:38:15,349 - INFO - 从primaryLink获取到visit_url: https://withaqua.com
+2025-04-16 06:38:15,363 - INFO - 使用DrissionPage获取到主题标签: ['Developer Tools', 'Artificial Intelligence', 'Productivity']
+2025-04-16 06:38:15,375 - INFO - 使用DrissionPage获取到投票数: 377
+2025-04-16 06:38:15,376 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/ce1a3699-1426-4641-968a-600d7226a92a.jpeg
+2025-04-16 06:38:15,413 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/dropcontact-3
+2025-04-16 06:38:18,518 - INFO - 已保存产品页面源代码到 producthunt_product_dropcontact-3.html
+2025-04-16 06:38:19,063 - INFO - 使用DrissionPage获取到产品名称: Dropcontact
+2025-04-16 06:38:19,064 - INFO - 使用DrissionPage获取到产品label: Find verified emails - No database - Just magic
+2025-04-16 06:38:19,069 - INFO - 从styles_htmlText获取到description: The future of email enrichment is here. The only solution powered by algorithms with advanced built-in verification system. Delivering the industry's highest enrichment rates. No outdated databases - just real-time generated and accurate data.
+2025-04-16 06:38:19,071 - INFO - 从primaryLink获取到visit_url: https://www.dropcontact.com/product-hunt
+2025-04-16 06:38:19,084 - INFO - 使用DrissionPage获取到主题标签: ['Sales', 'Email Marketing', 'SaaS']
+2025-04-16 06:38:19,105 - INFO - 使用DrissionPage获取到投票数: 113
+2025-04-16 06:38:19,106 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/2e10f298-09a9-4004-a33d-d0692043851a.png
+2025-04-16 06:38:19,125 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/potpie-ai
+2025-04-16 06:38:22,137 - INFO - 已保存产品页面源代码到 producthunt_product_potpie-ai.html
+2025-04-16 06:38:22,502 - INFO - 使用DrissionPage获取到产品名称: Potpie AI
+2025-04-16 06:38:22,503 - INFO - 使用DrissionPage获取到产品label: Create custom AI agents for your code
+2025-04-16 06:38:22,513 - INFO - 从styles_htmlText获取到description: Build task-oriented custom agents for your codebase that perform engineering tasks with high precision powered by intelligence and context from your data. Build agents for use cases like system design, debugging, integration testing, onboarding etc.
+2025-04-16 06:38:22,548 - INFO - 从primaryLink获取到visit_url: https://github.com/potpie-ai/potpie
+2025-04-16 06:38:22,554 - INFO - 使用DrissionPage获取到主题标签: ['Developer Tools', 'Artificial Intelligence', 'GitHub']
+2025-04-16 06:38:22,566 - INFO - 使用DrissionPage获取到投票数: 291
+2025-04-16 06:38:22,567 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/b3a4e2d1-4931-46b1-9cba-acaf5f345a5d.png
+2025-04-16 06:38:22,723 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/gpt-4-1-in-the-api
+2025-04-16 06:38:27,083 - INFO - 已保存产品页面源代码到 producthunt_product_gpt-4-1-in-the-api.html
+2025-04-16 06:38:27,509 - INFO - 使用DrissionPage获取到产品名称: GPT-4.1 in the API
+2025-04-16 06:38:27,510 - INFO - 使用DrissionPage获取到产品label: Announcing GPT-4.1, GPT-4.1 mini, & GPT-4.1 nano in the API
+2025-04-16 06:38:27,515 - INFO - 从styles_htmlText获取到description: A new series of GPT models featuring major improvements on coding, instruction following, and long context—plus our first-ever nano model.
+2025-04-16 06:38:27,518 - INFO - 从primaryLink获取到visit_url: https://openai.com/index/gpt-4-1/
+2025-04-16 06:38:27,534 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence']
+2025-04-16 06:38:27,550 - INFO - 使用DrissionPage获取到投票数: 276
+2025-04-16 06:38:27,552 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/669e2cfc-2da8-4184-b886-806a494617c0.png
+2025-04-16 06:38:27,577 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/bilanc
+2025-04-16 06:38:30,878 - INFO - 已保存产品页面源代码到 producthunt_product_bilanc.html
+2025-04-16 06:38:31,323 - INFO - 使用DrissionPage获取到产品名称: Bilanc
+2025-04-16 06:38:31,323 - INFO - 使用DrissionPage获取到产品label: Measure the impact of AI on engineering productivity
+2025-04-16 06:38:31,328 - INFO - 从styles_htmlText获取到description: Bilanc is an AI-powered Engineering Management Platform. We help companies measure and improve developer productivity using AI. We use LLM’s to estimate the effort put into every merged PR, and we measure the boost that AI has on engineering productivity.
+2025-04-16 06:38:31,331 - INFO - 从primaryLink获取到visit_url: https://bilanc.co
+2025-04-16 06:38:31,342 - INFO - 使用DrissionPage获取到主题标签: ['Developer Tools', 'Artificial Intelligence', 'Productivity']
+2025-04-16 06:38:31,356 - INFO - 使用DrissionPage获取到投票数: 217
+2025-04-16 06:38:31,357 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/a5a6f58e-e859-4648-b699-6547f8c9e6dd.png
+2025-04-16 06:38:31,377 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/serviceagent
+2025-04-16 06:38:34,832 - INFO - 已保存产品页面源代码到 producthunt_product_serviceagent.html
+2025-04-16 06:38:35,478 - INFO - 使用DrissionPage获取到产品名称: ServiceAgent
+2025-04-16 06:38:35,478 - INFO - 使用DrissionPage获取到产品label: AI voice agent for home services
+2025-04-16 06:38:35,483 - INFO - 从styles_htmlText获取到description: ServiceAgent is a Call Answering AI Agent built specifically for home service businesses. Trained on industry-specific data, conversations  to book appointments, handle customer inquiries, and capturing every lead 24/7 while your team focuses on customers.
+2025-04-16 06:38:35,485 - INFO - 从primaryLink获取到visit_url: https://serviceagent.ai
+2025-04-16 06:38:35,497 - INFO - 使用DrissionPage获取到主题标签: ['Sales', 'Android', 'Productivity']
+2025-04-16 06:38:35,523 - INFO - 使用DrissionPage获取到投票数: 206
+2025-04-16 06:38:35,527 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/af5dc3fa-eaba-4229-8e53-b694b41ffe12.png
+2025-04-16 06:38:35,553 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/notion-mail
+2025-04-16 06:38:38,363 - INFO - 已保存产品页面源代码到 producthunt_product_notion-mail.html
+2025-04-16 06:38:38,819 - INFO - 使用DrissionPage获取到产品名称: Notion Mail
+2025-04-16 06:38:38,820 - INFO - 使用DrissionPage获取到产品label: The first inbox that thinks like you
+2025-04-16 06:38:38,824 - INFO - 从styles_htmlText获取到description: Introducing Notion Mail: it organizes itself, drafts emails, and schedules meetings any way you’d like. Connect your Gmail—it’s free to get started.
+2025-04-16 06:38:38,827 - INFO - 从primaryLink获取到visit_url: https://notion.com/mail
+2025-04-16 06:38:38,841 - INFO - 使用DrissionPage获取到主题标签: ['Email', 'Notion', 'Productivity']
+2025-04-16 06:38:38,858 - INFO - 使用DrissionPage获取到投票数: 204
+2025-04-16 06:38:38,859 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/de4baf78-b796-45fa-a139-369fc069946d.png
+2025-04-16 06:38:38,882 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/n8nchat
+2025-04-16 06:38:41,788 - INFO - 已保存产品页面源代码到 producthunt_product_n8nchat.html
+2025-04-16 06:38:42,239 - INFO - 使用DrissionPage获取到产品名称: n8nChat
+2025-04-16 06:38:42,239 - INFO - 使用DrissionPage获取到产品label: Create automations in seconds by generating n8n workflows
+2025-04-16 06:38:42,242 - INFO - 从styles_htmlText获取到description: n8nChat brings AI directly into your n8n workflow editor. Describe what you want to automate in plain English, and watch as it instantly generates complete nodes and workflows. Like Cursor but for n8n, it can create, edit, debug, and optimize your workflows.
+2025-04-16 06:38:42,242 - INFO - 从primaryLink获取到visit_url: https://n8nchat.com
+2025-04-16 06:38:42,247 - INFO - 使用DrissionPage获取到主题标签: ['Developer Tools', 'Artificial Intelligence', 'Productivity']
+2025-04-16 06:38:42,272 - INFO - 使用DrissionPage获取到投票数: 197
+2025-04-16 06:38:42,274 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/8813c600-e04f-4b2d-b53c-8f35a0baacdb.png
+2025-04-16 06:38:42,295 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/tiptap-editor-template-and-ui-components
+2025-04-16 06:38:45,187 - INFO - 已保存产品页面源代码到 producthunt_product_tiptap-editor-template-and-ui-components.html
+2025-04-16 06:38:45,667 - INFO - 使用DrissionPage获取到产品名称: Tiptap Editor Template and UI Components
+2025-04-16 06:38:45,667 - INFO - 使用DrissionPage获取到产品label: Build rich editor UIs faster with React components
+2025-04-16 06:38:45,673 - INFO - 从styles_htmlText获取到description: We released a free simple editor template and a library of MIT-licensed React UI components for Tiptap. Drop in pre-built toolbars, menus, and more, or customize every detail. Includes a CLI to scaffold your editor UI in seconds.
+2025-04-16 06:38:45,677 - INFO - 从primaryLink获取到visit_url: https://tiptap.dev/product/ui-components
+2025-04-16 06:38:45,696 - INFO - 使用DrissionPage获取到主题标签: ['Developer Tools', 'GitHub', 'Open Source']
+2025-04-16 06:38:45,716 - INFO - 使用DrissionPage获取到投票数: 170
+2025-04-16 06:38:45,717 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/e8d42430-d2f7-47c4-b6c0-50af4c355091.png
+2025-04-16 06:38:45,744 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/docshound
+2025-04-16 06:38:49,122 - INFO - 已保存产品页面源代码到 producthunt_product_docshound.html
+2025-04-16 06:38:49,654 - INFO - 使用DrissionPage获取到产品名称: DocsHound
+2025-04-16 06:38:49,655 - INFO - 使用DrissionPage获取到产品label: AI turns demos into instant docs, chatbots & user insights
+2025-04-16 06:38:49,659 - INFO - 从styles_htmlText获取到description: DocsHound turns product demos into full documentation, chatbots, and product education. Capture your UI once—get docs, support bots, and marketing content auto-generated. Perfect for onboarding, support, customer-facing teams, and internal operations.
+2025-04-16 06:38:49,661 - INFO - 从primaryLink获取到visit_url: https://docshound.com
+2025-04-16 06:38:49,678 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'Productivity', 'SaaS']
+2025-04-16 06:38:49,696 - INFO - 使用DrissionPage获取到投票数: 169
+2025-04-16 06:38:49,697 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/47ffc366-fc1a-477a-8c53-53b250f30dd6.png
+2025-04-16 06:38:49,719 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/whyser
+2025-04-16 06:38:52,367 - INFO - 已保存产品页面源代码到 producthunt_product_whyser.html
+2025-04-16 06:38:52,904 - INFO - 使用DrissionPage获取到产品名称: Whyser
+2025-04-16 06:38:52,904 - INFO - 使用DrissionPage获取到产品label: Conduct and analyze user interviews at scale
+2025-04-16 06:38:52,909 - INFO - 从styles_htmlText获取到description: Whyser is a qualitative research platform that conducts AI-moderated user interviews on your behalf—so you can uncover actionable customer insights at scale in hours instead of weeks.
+
+Whyser makes research happen when it otherwise wouldn’t.
+2025-04-16 06:38:52,912 - INFO - 从primaryLink获取到visit_url: https://whyser.ai
+2025-04-16 06:38:52,929 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'User Experience', 'UX Design']
+2025-04-16 06:38:52,944 - INFO - 使用DrissionPage获取到投票数: 155
+2025-04-16 06:38:52,945 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/70b6f4ca-749b-455b-831f-c905aba08a18.png
+2025-04-16 06:38:52,967 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/exo-platform-7-0-community-edition
+2025-04-16 06:38:56,295 - INFO - 已保存产品页面源代码到 producthunt_product_exo-platform-7-0-community-edition.html
+2025-04-16 06:38:56,836 - INFO - 使用DrissionPage获取到产品名称: eXo Platform 7.0 Community Edition
+2025-04-16 06:38:56,836 - INFO - 使用DrissionPage获取到产品label: An open-source and full-featured Digital Workplace
+2025-04-16 06:38:56,841 - INFO - 从styles_htmlText获取到description: eXo Platform Community Edition 7.0 includes a lot of changes compared to the previous Community Editions, in terms of new features but also in terms of features packaged by default.
+2025-04-16 06:38:56,844 - INFO - 从primaryLink获取到visit_url: https://www.exoplatform.com/
+2025-04-16 06:38:56,861 - INFO - 使用DrissionPage获取到主题标签: ['Remote Work', 'Productivity', 'Open Source']
+2025-04-16 06:38:56,879 - INFO - 使用DrissionPage获取到投票数: 54
+2025-04-16 06:38:56,880 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/e216fe3c-879e-4424-ab9e-291e1d7f59f9.png
+2025-04-16 06:38:56,898 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/automcp
+2025-04-16 06:38:59,548 - INFO - 已保存产品页面源代码到 producthunt_product_automcp.html
+2025-04-16 06:38:59,953 - INFO - 使用DrissionPage获取到产品名称: AutoMCP
+2025-04-16 06:38:59,954 - INFO - 使用DrissionPage获取到产品label: Easily deploy your existing AI agent projects as MCP servers
+2025-04-16 06:38:59,959 - INFO - 从styles_htmlText获取到description: A library and platform to easily convert and deploy your existing agent and multi-agent projects as MCP servers for use with MCP clients like Cursor and Claude Desktop.
+2025-04-16 06:38:59,961 - INFO - 从primaryLink获取到visit_url: https://auto-mcp.com/
+2025-04-16 06:38:59,971 - INFO - 使用DrissionPage获取到主题标签: ['Developer Tools', 'Tech', 'Artificial Intelligence']
+2025-04-16 06:38:59,982 - INFO - 使用DrissionPage获取到投票数: 139
+2025-04-16 06:38:59,982 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/76ecac1b-8f42-412a-89ff-989467a5f0a9.png
+2025-04-16 06:38:59,983 - INFO - 使用备用方法添加产品: SlashExperts
+2025-04-16 06:38:59,983 - INFO - 使用备用方法添加产品: Extrovert
+2025-04-16 06:38:59,983 - INFO - 使用备用方法添加产品: Aqua Voice
+2025-04-16 06:38:59,984 - INFO - 使用备用方法添加产品: Dropcontact
+2025-04-16 06:38:59,984 - INFO - 使用备用方法添加产品: Potpie AI
+2025-04-16 06:38:59,984 - INFO - 使用备用方法添加产品: GPT-4.1 in the API
+2025-04-16 06:38:59,984 - INFO - 使用备用方法添加产品: Bilanc
+2025-04-16 06:38:59,984 - INFO - 使用备用方法添加产品: ServiceAgent
+2025-04-16 06:38:59,985 - INFO - 使用备用方法添加产品: Notion Mail
+2025-04-16 06:38:59,985 - INFO - 使用备用方法添加产品: n8nChat
+2025-04-16 06:38:59,986 - INFO - 使用备用方法添加产品: Tiptap Editor Template and UI Components
+2025-04-16 06:38:59,986 - INFO - 使用备用方法添加产品: DocsHound
+2025-04-16 06:38:59,987 - INFO - 使用备用方法添加产品: Whyser
+2025-04-16 06:38:59,989 - INFO - 使用备用方法添加产品: eXo Platform 7.0 Community Edition
+2025-04-16 06:38:59,989 - INFO - 使用备用方法添加产品: AutoMCP
+2025-04-16 06:38:59,993 - INFO - 成功保存 15 个产品信息到 data/product_2025-04-16.json

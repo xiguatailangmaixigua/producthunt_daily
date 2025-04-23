@@ -1,0 +1,343 @@
+[
+  {
+    "name": "Openspot",
+    "description": "Openspot helps you share your professional potential through thoughtful prompts, short videos, and audio clips, not just boring resumes. It makes finding jobs and connecting with others feel friendly, meaningful, and way less scary.",
+    "product_hunt_url": "https://www.producthunt.com/posts/openspot-3",
+    "created_at": "",
+    "id": "openspot-3",
+    "label": "A modern, no-BS alternative to LinkedIn​",
+    "topics": [
+      "Tech",
+      "Career",
+      "Hiring"
+    ],
+    "votes": 497,
+    "visit_url": "https://heyopenspot.com",
+    "image": "https://ph-files.imgix.net/e87edad7-fe3a-4fea-a1b7-d7e821520064.png",
+    "label_zh": "一种现代、不扯淡的 LinkedIn 替代方案",
+    "topics_zh": [
+      "技术",
+      "职业",
+      "招聘"
+    ],
+    "content_zh": "Openspot 帮助你通过精心设计的提示、短视频和音频片段来展示你的专业潜力，而不仅仅是枯燥的简历。它让找工作和与他人建立联系变得更加友好、有意义，并且没那么可怕。"
+  },
+  {
+    "name": "HCB",
+    "description": "Built by students, for students—HCB is the nonprofit neobank powering local hackathons, clubs, and teams with 501(c)(3) status. Collect donations, send payments, issue cards, and manage funds with ease. Focus on building—we’ll handle money.",
+    "product_hunt_url": "https://www.producthunt.com/posts/hcb",
+    "created_at": "",
+    "id": "hcb",
+    "label": "The open-source, nonprofit neobank",
+    "topics": [
+      "Charity & Giving",
+      "Education",
+      "Fintech"
+    ],
+    "votes": 387,
+    "visit_url": "https://hcb.hackclub.com",
+    "image": "https://ph-files.imgix.net/88122758-9d96-4120-b884-a3d9016d4742.png",
+    "label_zh": "开源的非营利新银行",
+    "topics_zh": [
+      "慈善与捐赠",
+      "教育",
+      "金融科技"
+    ],
+    "content_zh": "HCB是由学生为学生打造的非营利性新银行，支持具有501(c)(3)资格的本地黑客马拉松、俱乐部和团队。你可以轻松地收集捐款、发送付款、发放卡片和管理资金。你们专注于建设，我们来处理财务问题。"
+  },
+  {
+    "name": "React Email 4.0",
+    "description": "Announcing React Email 4.0. Built-in Linter, Spam Score, Compatibility Checker, Responsive Preview, and New Components",
+    "product_hunt_url": "https://www.producthunt.com/posts/react-email-4-0",
+    "created_at": "",
+    "id": "react-email-4-0",
+    "label": "Completely new set of tools to help you build better emails",
+    "topics": [
+      "Email",
+      "Email Marketing"
+    ],
+    "votes": 349,
+    "visit_url": "https://resend.com/blog/react-email-4",
+    "image": "https://ph-files.imgix.net/f56d0f21-77a7-4015-a267-a6896b5afafe.png",
+    "label_zh": "全新工具套装，助您打造更优质的电子邮件",
+    "topics_zh": [
+      "电子邮件",
+      "电子邮件营销"
+    ],
+    "content_zh": "宣布推出React Email 4.0。内置代码检查工具、垃圾邮件评分、兼容性检查、响应式预览以及新组件。"
+  },
+  {
+    "name": "Sindo",
+    "description": "Sindo is an AI-powered platform for collecting, managing, and sharing customer testimonials. Automate social proof gathering from various sources and display the reviews on your website, emails, and socials to boost trust and conversions.",
+    "product_hunt_url": "https://www.producthunt.com/posts/sindo",
+    "created_at": "",
+    "id": "sindo",
+    "label": "Effortless AI-powered testimonials: collect, manage & share",
+    "topics": [
+      "Artificial Intelligence",
+      "Marketing",
+      "Growth Hacking"
+    ],
+    "votes": 279,
+    "visit_url": "https://www.getsindo.com/",
+    "image": "https://ph-files.imgix.net/e2417ca5-8640-44e5-a647-241c415858e7.png",
+    "label_zh": "轻松的AI驱动的客户评价：收集、管理和分享",
+    "topics_zh": [
+      "人工智能",
+      "市场营销",
+      "增长黑客"
+    ],
+    "content_zh": "Sindo 是一个由 AI 驱动的平台，用于收集、管理和分享客户评价。它可以自动从各种渠道收集社交证明，并将这些评价展示在你的网站、电子邮件和社交媒体上，从而提高信任度和转化率。"
+  },
+  {
+    "name": "Spaceloadr",
+    "description": "Importing structured data into Notion shouldn’t be a hassle. Our tool simplifies the process with smart column mapping and duplicate prevention—ensuring a seamless and error-free experience.  Save time and let your Notion data work for you. 🚀",
+    "product_hunt_url": "https://www.producthunt.com/posts/spaceloadr",
+    "created_at": "",
+    "id": "spaceloadr",
+    "label": "A faster, smarter way to import data into Notion",
+    "topics": [
+      "Data",
+      "Notion",
+      "SaaS"
+    ],
+    "votes": 248,
+    "visit_url": "https://www.spaceloadr.com",
+    "image": "https://ph-files.imgix.net/b92c6b1a-7896-4164-a677-b1882153b717.png",
+    "label_zh": "一种更快、更智能的数据导入Notion的方式",
+    "topics_zh": [
+      "数据",
+      "Notion",
+      "SaaS\n\n注：这里的\"Notion\"和\"SaaS\"是专有名词，通常在中文中直接使用英文原文。如果你希望进一步解释这些术语，可以如下所示：\n\n数据",
+      "Notion（笔记与协作工具）",
+      "SaaS（软件即服务）"
+    ],
+    "content_zh": "将结构化数据导入Notion应该简单便捷。我们的工具通过智能列映射和防止重复功能，确保整个过程顺畅无误。节省时间，让您的Notion数据更高效地为您服务。🚀"
+  },
+  {
+    "name": "Gapflow.io",
+    "description": "Are you dealing with spam on your Webflow site? Do you need to route job applications to HR and sales inquiries to the right team? Or perhaps you just want to send an auto-reply using Webflow’s native forms?\n\nTry Gapflow.io today!",
+    "product_hunt_url": "https://www.producthunt.com/posts/gapflow-io",
+    "created_at": "",
+    "id": "gapflow-io",
+    "label": "Spam filter, autoreply & forwarding for Webflow native Forms",
+    "topics": [
+      "Developer Tools",
+      "Design Tools",
+      "No-Code"
+    ],
+    "votes": 190,
+    "visit_url": "https://gapflow.io",
+    "image": "https://ph-files.imgix.net/b6fb0a8f-2373-4ee2-ae01-c8fabeeb19a0.png",
+    "label_zh": "垃圾邮件过滤、自动回复和转发功能，适用于 Webflow 原生表单",
+    "topics_zh": [
+      "开发者工具",
+      "设计工具",
+      "无代码"
+    ],
+    "content_zh": "你在Webflow网站上遇到垃圾邮件问题了吗？你需要将求职申请转发给人事部门，将销售咨询转给合适的团队吗？或者你只是想使用Webflow的原生表单发送自动回复？\n\n试试Gapflow.io吧！"
+  },
+  {
+    "name": "Vocao.ai",
+    "description": "Vocao transforms language practice with lifelike voice conversations powered by AI! Skip the drills—talk naturally, receive instant feedback, and build confidence effortlessly. Dive into fun, everyday topics and practice speaking anytime, anywhere.",
+    "product_hunt_url": "https://www.producthunt.com/posts/vocao-ai",
+    "created_at": "",
+    "id": "vocao-ai",
+    "label": "Speak naturally with AI to boost your language fluency",
+    "topics": [
+      "Artificial Intelligence",
+      "Online Learning",
+      "Education"
+    ],
+    "votes": 202,
+    "visit_url": "https://vocao.ai",
+    "image": "https://ph-files.imgix.net/4763ca10-1227-4b44-92ad-a6f132bc3c2b.png",
+    "label_zh": "用自然的语言与AI交流，提升你的语言流利度",
+    "topics_zh": [
+      "人工智能",
+      "在线学习",
+      "教育"
+    ],
+    "content_zh": "Vocao 通过 AI 驱动的逼真语音对话来改变语言练习方式！无需死记硬背，自然对话，即时获得反馈，轻松建立自信。随时随地畅聊有趣、日常的话题，进行口语练习。"
+  },
+  {
+    "name": "GitHub Chat",
+    "description": "The simplest way for developers to chat and explore GitHub repositories programmatically. GitHub Chat API gives you API access to chat with any public GitHub repository.",
+    "product_hunt_url": "https://www.producthunt.com/posts/github-chat-2",
+    "created_at": "",
+    "id": "github-chat-2",
+    "label": "API for devs to chat and explore GitHub repositories",
+    "topics": [
+      "GitHub",
+      "Developer Tools",
+      "API"
+    ],
+    "votes": 56,
+    "visit_url": "https://github-chat.com",
+    "image": "https://ph-files.imgix.net/a0f61ec6-f3d3-47df-b173-c85acf248ce9.png",
+    "label_zh": "面向开发者的API，用于聊天和探索GitHub仓库",
+    "topics_zh": [
+      "GitHub",
+      "开发者工具",
+      "API"
+    ],
+    "content_zh": "开发者可以通过编程方式聊天和探索GitHub仓库的最简单方法。GitHub Chat API让你能够与任何公开的GitHub仓库进行聊天互动。"
+  },
+  {
+    "name": "Zenkan",
+    "description": "Zenkan is a personal note-taking app with a 3-level nested board system for effortless organization. Drag, resize, and arrange your notes and tasks freely in a flexible workspace with Markdown support for rich text formatting.",
+    "product_hunt_url": "https://www.producthunt.com/posts/zenkan",
+    "created_at": "",
+    "id": "zenkan",
+    "label": "Drag and drop your notes in flexible nested boards",
+    "topics": [
+      "Productivity",
+      "Task Management",
+      "Notes"
+    ],
+    "votes": 152,
+    "visit_url": "https://zenkan.app",
+    "image": "https://ph-files.imgix.net/69fc2f44-c0dc-4d9a-ab56-ccb4686d0df5.png",
+    "label_zh": "拖放你的笔记到灵活的嵌套板中",
+    "topics_zh": [
+      "生产力",
+      "任务管理",
+      "笔记"
+    ],
+    "content_zh": "Zenkan 是一款个人笔记应用，采用三层嵌套看板系统，让你轻松整理笔记。你可以在这个灵活的工作空间里自由拖动、调整大小和排列笔记与任务，并支持 Markdown 格式，方便进行富文本编辑。"
+  },
+  {
+    "name": "Rainy Skies 2.0",
+    "description": "Rainy Skies is an indie iOS weather app designed by a solo developer based on the foundation of the now defunct Dark Sky weather app. Rainy Skies now supports radar and has an Apple Watch app with widgets and complications.",
+    "product_hunt_url": "https://www.producthunt.com/posts/rainy-skies-2-0",
+    "created_at": "",
+    "id": "rainy-skies-2-0",
+    "label": "Your weather app, now with Radar and Apple Watch App",
+    "topics": [
+      "Weather",
+      "Apple Watch",
+      "iOS"
+    ],
+    "votes": 136,
+    "visit_url": "https://apps.apple.com/us/app/rainy-skies/id1637453069?uo=4",
+    "image": "https://ph-files.imgix.net/b34c2b8f-74c2-45f7-a485-c26ac7339dba.png",
+    "label_zh": "您的天气应用，现已支持雷达和 Apple Watch 应用",
+    "topics_zh": [
+      "天气",
+      "Apple Watch",
+      "iOS"
+    ],
+    "content_zh": "Rainy Skies 是一款由独立开发者设计的 iOS 天气应用，基于现已停用的 Dark Sky 天气应用的基础开发。现在 Rainy Skies 支持雷达功能，并且有 Apple Watch 应用，包含小组件和复杂功能。"
+  },
+  {
+    "name": "Skybox",
+    "description": "Your all-in-one platform for finding creators, sharing campaign details, gifting influencers products, approving their content, and forecasting impact. Unlock Data-driven influencer marketing strategy with SkyBox Media at www.skyboxqi today!",
+    "product_hunt_url": "https://www.producthunt.com/posts/skybox-3",
+    "created_at": "",
+    "id": "skybox-3",
+    "label": "The world’s smartest AI influencer marketing platform",
+    "topics": [
+      "Artificial Intelligence",
+      "Marketing",
+      "Influencer marketing"
+    ],
+    "votes": 53,
+    "visit_url": "https://skyboxqi.com",
+    "image": "https://ph-files.imgix.net/a0ed28b1-e796-4666-9c11-13d29c764a11.png",
+    "label_zh": "全球最智能的AI影响力营销平台",
+    "topics_zh": [
+      "人工智能",
+      "市场营销",
+      "网红营销"
+    ],
+    "content_zh": "Skybox 是一个全方位的平台，可以帮助你找到创作者、分享活动详情、向影响者赠送产品、审批他们的内容以及预测影响力。今天就访问 www.skyboxqi，解锁数据驱动的影响者营销策略！"
+  },
+  {
+    "name": "Valora: Stock Market Analysis",
+    "description": "An app designed to show the true value of stocks without the excess complexity and hype. Focussed on value seeking investors that want to grow their capital long-term.",
+    "product_hunt_url": "https://www.producthunt.com/posts/valora-stock-market-analysis",
+    "created_at": "",
+    "id": "valora-stock-market-analysis",
+    "label": "Find undervalued stocks in minutes",
+    "topics": [
+      "Money",
+      "Investing",
+      "Android"
+    ],
+    "votes": 37,
+    "visit_url": "https://play.google.com/store/apps/details?id=com.icartatechnologies.valuecapital\\u0026hl=en",
+    "image": "https://ph-files.imgix.net/b5ef356a-b3f1-4c31-9dfd-38e8e81f269c.png",
+    "label_zh": "在几分钟内找到被低估的股票",
+    "topics_zh": [
+      "金钱、投资、安卓"
+    ],
+    "content_zh": "这是一款旨在揭示股票真实价值的应用，去除了多余的复杂性和炒作。它专注于寻找长期资本增值的价值投资者。"
+  },
+  {
+    "name": "Giblify AI",
+    "description": "Generate Studio Ghibli style photos using AI and then convert them into mesmerising videos!\n\nShare directly with friends and family and have fun!",
+    "product_hunt_url": "https://www.producthunt.com/posts/giblify-ai",
+    "created_at": "",
+    "id": "giblify-ai",
+    "label": "Convert your photos to Ghibli Style Images and Videos!",
+    "topics": [
+      "Artificial Intelligence",
+      "Photo editing",
+      "Photo & Video"
+    ],
+    "votes": 24,
+    "visit_url": "https://ghiblistudioai.com",
+    "image": "https://ph-files.imgix.net/4f38bdd1-e6ba-4f3e-8758-a237401f730c.png",
+    "label_zh": "将你的照片转换成吉卜力风格的图片和视频！",
+    "topics_zh": [
+      "人工智能",
+      "图片编辑",
+      "图片与视频"
+    ],
+    "content_zh": "使用Giblify AI生成宫崎骏风格的照片，然后将它们转换成迷人的视频！\n\n直接与朋友和家人分享，享受乐趣！"
+  },
+  {
+    "name": "Centrate",
+    "description": "Inspired by a dilated vision technique mentioned by Dr. Andrew Huberman’s, Centrate helps you practice mindfulness for your focus. \n\nThis app is designed to calm your mind, expand focus, and reduce anxiety. No signup, for free — just clarity.",
+    "product_hunt_url": "https://www.producthunt.com/posts/centrate",
+    "created_at": "",
+    "id": "centrate",
+    "label": "Train your focus with 30sec exercises backed by neuroscience",
+    "topics": [
+      "Meditation",
+      "Health & Fitness",
+      "Productivity"
+    ],
+    "votes": 13,
+    "visit_url": "https://centrate.app",
+    "image": "https://ph-files.imgix.net/9c03825c-d192-4da6-84fb-7c859a3f2f0f.png",
+    "label_zh": "训练你的专注力，通过神经科学支持的30秒练习",
+    "topics_zh": [
+      "冥想、健康与健身、生产力"
+    ],
+    "content_zh": "Centrate 这款应用的灵感来源于 Andrew Huberman 博士提到的一种扩展视野技术，旨在帮助你练习专注冥想。\n\n这款应用可以帮助你放松心情、提升专注力并减轻焦虑。无需注册，完全免费，让你轻松获得清晰的思维。"
+  },
+  {
+    "name": "Feedback Hunter",
+    "description": "Feedback Hunter helps you collect, organize, and prioritize user feedback to build better products that your customers will love.\n\nIntegrate it seamlessly into your application and start collecting users' feedback today!",
+    "product_hunt_url": "https://www.producthunt.com/posts/feedback-hunter",
+    "created_at": "",
+    "id": "feedback-hunter",
+    "label": "Transform your user's feedback into product success",
+    "topics": [
+      "Customer Communication",
+      "User Experience",
+      "SaaS"
+    ],
+    "votes": 18,
+    "visit_url": "https://feedback-hunter.com",
+    "image": "https://ph-files.imgix.net/2f2b9fb7-ccfe-4196-a547-d689144c28df.png",
+    "label_zh": "将用户的反馈转化为产品成功",
+    "topics_zh": [
+      "客户沟通",
+      "用户体验",
+      "SaaS"
+    ],
+    "content_zh": "Feedback Hunter 帮助你收集、整理和优先处理用户反馈，从而打造出更受客户喜爱的产品。\n\n它可以无缝集成到你的应用程序中，让你从今天开始就能收集用户的反馈！"
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "name": "Agent Simulate",
+    "description": "Agent Simulate lets you simulate and test LLM agents in a sandbox before shipping. Debug behaviors, iterate faster, and reduce production risks with an interactive testbed built for agent developers. Save time with reproducible, automated runs.",
+    "product_hunt_url": "https://www.producthunt.com/posts/agent-simulate",
+    "created_at": "",
+    "id": "agent-simulate",
+    "label": "Test Your AI apps with thousands of digital humans",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Bots"
+    ],
+    "votes": 361,
+    "visit_url": "https://agentsimulate.com",
+    "image": "https://ph-files.imgix.net/3af5de61-6fbd-4ffc-9110-935dd92d5d24.png",
+    "label_zh": "用数千个数字人测试您的AI应用程序",
+    "topics_zh": [
+      "人工智能",
+      "开发者工具",
+      "机器人"
+    ],
+    "content_zh": "Agent Simulate 可以让你在发布前在一个沙盒环境中模拟和测试大语言模型代理。通过为代理开发者设计的交互式测试平台，你可以调试行为、加快迭代速度并降低生产风险。利用可复现且自动化的运行来节省时间。"
+  },
+  {
+    "name": "Cap",
+    "description": "Cap is a lightweight, modern open-source CAPTCHA alternative designed using SHA-256 proof-of-work.\n\nIt's:\n- ⚡️ 250x smaller than hCaptcha\n- 🔒️ Private\n- 🌈 Fully customizable\n- 🤖 PoW-based\n- 🌳 Fully FOSS\n- 💨 Invisible",
+    "product_hunt_url": "https://www.producthunt.com/posts/cap-5",
+    "created_at": "",
+    "id": "cap-5",
+    "label": "A lightweight, modern open-source captcha",
+    "topics": [
+      "User Experience",
+      "Developer Tools",
+      "GitHub"
+    ],
+    "votes": 309,
+    "visit_url": "https://capjs.js.org/",
+    "image": "https://ph-files.imgix.net/a4b15102-bb80-4711-bc3d-86f426cb29cd.png",
+    "label_zh": "一种轻量级、现代化的开源验证码",
+    "topics_zh": [
+      "用户体验",
+      "开发者工具",
+      "GitHub"
+    ],
+    "content_zh": "Cap 是一种轻量级的现代开源验证码替代方案，采用 SHA-256 工作量证明机制设计。\n\n它的特点包括：\n- ⚡️ 比 hCaptcha 小 250 倍\n- 🔒️ 保护隐私\n- 🌈 完全可定制\n- 🤖 基于工作量证明\n- 🌳 完全开源\n- 💨 隐形"
+  },
+  {
+    "name": "All Voice Lab",
+    "description": "All Voice Lab is the AI voice platform for ultra-realistic TTS & voice cloning. Powered by SOTA MaskGCT 2.0 model. Multilingual, expressive audio for creators & devs.",
+    "product_hunt_url": "https://www.producthunt.com/posts/all-voice-lab",
+    "created_at": "",
+    "id": "all-voice-lab",
+    "label": "Ultra-realistic AI voices & cloning",
+    "topics": [
+      "API",
+      "Audio",
+      "Artificial Intelligence"
+    ],
+    "votes": 268,
+    "visit_url": "https://www.allvoicelab.com/",
+    "image": "https://ph-files.imgix.net/2f599b22-e3db-4240-990e-17822e5b5781.jpeg",
+    "label_zh": "超逼真AI语音及克隆",
+    "topics_zh": [
+      "API",
+      "音频",
+      "人工智能"
+    ],
+    "content_zh": "All Voice Lab 是一个用于生成超逼真文本转语音和声音克隆的人工智能语音平台。它采用最先进的 MaskGCT 2.0 模型，支持多语言和富有表现力的音频，适用于创作者和开发者。"
+  },
+  {
+    "name": "Cipherwill",
+    "description": "When you pass away, make sure your data (such as crypto, bank details, investments, properties, digital assets, etc.) gets delivered to your beneficiaries with end-to-end encryption.",
+    "product_hunt_url": "https://www.producthunt.com/posts/cipherwill",
+    "created_at": "",
+    "id": "cipherwill",
+    "label": "Ensure your data reaches your loved ones when you pass away",
+    "topics": [
+      "GitHub",
+      "SaaS",
+      "Legal"
+    ],
+    "votes": 217,
+    "visit_url": "https://www.cipherwill.com",
+    "image": "https://ph-files.imgix.net/da66d577-13e7-4566-8ecb-b74a25897f36.png",
+    "label_zh": "确保您离世后，您的数据能够传递给您的亲人。",
+    "topics_zh": [
+      "GitHub",
+      "SaaS",
+      "法律"
+    ],
+    "content_zh": "当你去世后，确保你的数据（如加密货币、银行信息、投资、房产、数字资产等）能够通过端到端加密的方式安全地传递给你的受益人。"
+  },
+  {
+    "name": "RapidMCP",
+    "description": "RapidMCP convert your REST API into MCP Servers in minutes! No code required.",
+    "product_hunt_url": "https://www.producthunt.com/posts/rapidmcp",
+    "created_at": "",
+    "id": "rapidmcp",
+    "label": "Convert your REST API into an MCP Server in minutes!",
+    "topics": [
+      "API",
+      "Developer Tools",
+      "Tech"
+    ],
+    "votes": 206,
+    "visit_url": "https://rapid-mcp.com",
+    "image": "https://ph-files.imgix.net/02b039a2-7661-449a-adc1-87b14d3b3bcf.png",
+    "label_zh": "将您的REST API在几分钟内转换为MCP服务器！",
+    "topics_zh": [
+      "API",
+      "开发者工具",
+      "技术"
+    ],
+    "content_zh": "RapidMCP 可以在几分钟内将你的 REST API 转换为 MCP 服务器，无需编写任何代码。"
+  },
+  {
+    "name": "Outtloud",
+    "description": "With Outtloud, you can turn any document, research paper, ebook or article into an audiobook & AI podcasts.\n\nComplete your reading faster & effortlessly with 4x speed, AI summaries & more. Enjoy celebrity voices such as Morgan Freeman, Emilia Clarke and more.",
+    "product_hunt_url": "https://www.producthunt.com/posts/outtloud-2",
+    "created_at": "",
+    "id": "outtloud-2",
+    "label": "Create unlimited audiobooks & podcasts from your documents!",
+    "topics": [
+      "eBook Reader",
+      "Productivity",
+      "Artificial Intelligence"
+    ],
+    "votes": 198,
+    "visit_url": "https://www.outtloud.com",
+    "image": "https://ph-files.imgix.net/9d82fcb2-b08e-477f-a2bf-47b909b9c518.png",
+    "label_zh": "将您的文档转换为无限的有声书和播客！",
+    "topics_zh": [
+      "电子书阅读器",
+      "生产力",
+      "人工智能"
+    ],
+    "content_zh": "使用Outtloud，你可以将任何文档、研究论文、电子书或文章转换成有声书和AI播客。\n\n通过4倍速播放、AI摘要等功能，让你更快速、轻松地完成阅读。还可以享受摩根·弗里曼、艾米莉亚·克拉克等名人声音的朗读。"
+  },
+  {
+    "name": "EyesOff",
+    "description": "EyesOff is a privacy focused macOS app which makes use of a locally running neural network (YuNet), to notify you if other people are looking at your screen. YuNet runs fully on-device with no data leaving your computer.",
+    "product_hunt_url": "https://www.producthunt.com/posts/eyesoff",
+    "created_at": "",
+    "id": "eyesoff",
+    "label": "Alerts you when someone peeps at your screen",
+    "topics": [
+      "Artificial Intelligence",
+      "Privacy",
+      "GitHub"
+    ],
+    "votes": 165,
+    "visit_url": "https://www.eyesoff.app",
+    "image": "https://ph-files.imgix.net/91ab356a-bca1-4463-950e-7abfd0e62df5.gif",
+    "label_zh": "提醒您有人偷看您的屏幕",
+    "topics_zh": [
+      "人工智能",
+      "隐私",
+      "GitHub"
+    ],
+    "content_zh": "EyesOff 是一款注重隐私的 macOS 应用，它利用本地运行的神经网络（YuNet）来提醒你是否有其他人正在看你屏幕。YuNet 完全在设备上运行，不会将任何数据传到电脑外。"
+  },
+  {
+    "name": "Every.io HR & Payroll",
+    "description": "For founders: Hire anywhere—all 50 states and 200+ countries—with zero compliance headaches. State tax registrations, tech-optimized benefits, and payroll all on autopilot. Expert support included, no extra charge.",
+    "product_hunt_url": "https://www.producthunt.com/posts/every-io-hr-payroll",
+    "created_at": "",
+    "id": "every-io-hr-payroll",
+    "label": "Payroll for founders: compliant, global, expertly supported",
+    "topics": [
+      "Human Resources",
+      "Fintech",
+      "Hiring"
+    ],
+    "votes": 168,
+    "visit_url": "https://bit.ly/4iiM7Z6",
+    "image": "https://ph-files.imgix.net/6d7b8847-73bd-46fe-8cab-b22fba5620e9.png",
+    "label_zh": "薪酬管理服务：合规、全球化、专业支持",
+    "topics_zh": [
+      "人力资源",
+      "金融科技",
+      "招聘"
+    ],
+    "content_zh": "对于创始人来说，可以在美国所有50个州和200多个国家轻松招聘员工，无需担心合规问题。州税登记、技术优化的福利以及薪资发放都可以自动完成。专家支持包含在内，不额外收费。"
+  },
+  {
+    "name": "Dbits",
+    "description": "You ask a question. Dbits gives you a data-backed answer.\nWe analyse social and traditional media to show you sentiment, trends, topics, and demographics—so you can understand what people think, feel, and say.\nBuilt for marketers, analysts, and researchers.",
+    "product_hunt_url": "https://www.producthunt.com/posts/dbits",
+    "created_at": "",
+    "id": "dbits",
+    "label": "Making Data Accessible for Your Everyday Decisions",
+    "topics": [
+      "API",
+      "Marketing",
+      "Data & Analytics"
+    ],
+    "votes": 53,
+    "visit_url": "https://dbits.io",
+    "image": "https://ph-files.imgix.net/dca581e5-14f4-4593-9675-89bb57c8b94b.jpeg",
+    "label_zh": "让数据为您的日常决策提供便利",
+    "topics_zh": [
+      "API",
+      "营销",
+      "数据与分析"
+    ],
+    "content_zh": "你提出一个问题，Dbits 会给你一个基于数据的答案。\n我们分析社交媒体和传统媒体，向你展示情感、趋势、话题和人口统计数据，帮助你了解人们的想法、感受和言论。\n专为营销人员、分析师和研究人员打造。"
+  },
+  {
+    "name": "Blastable",
+    "description": "Ridiculously easy to use, insanely smart under the hood — make certain your emails get delivered, opened & clicked on thanks to Blastable AI. Supported by the people who built it.",
+    "product_hunt_url": "https://www.producthunt.com/posts/blastable",
+    "created_at": "",
+    "id": "blastable",
+    "label": "Send emails at the perfect time using AI deliverability",
+    "topics": [
+      "Artificial Intelligence",
+      "Email Marketing",
+      "Email"
+    ],
+    "votes": 152,
+    "visit_url": "https://blastable.com/ph.php",
+    "image": "https://ph-files.imgix.net/f0d82b99-bba4-458c-8035-368053669bf9.png",
+    "label_zh": "使用AI优化发送时间，确保邮件送达最佳时机",
+    "topics_zh": [
+      "人工智能",
+      "电子邮件营销",
+      "电子邮件"
+    ],
+    "content_zh": "使用起来超级简单，背后的技术却非常智能——Blastable AI 确保你的邮件能够成功送达、被打开并点击。由开发它的团队提供支持。"
+  },
+  {
+    "name": "Siyaa.ai",
+    "description": "Siyaa.ai redefines how you manage your work day. Siyaa auto-resolves conflicts, handles inbound meeting requests, and finds the best slots for everyone (even when no empty slots are available)—so you can focus on work, not your calendar.",
+    "product_hunt_url": "https://www.producthunt.com/posts/siyaa-ai",
+    "created_at": "",
+    "id": "siyaa-ai",
+    "label": "AI assistant to manage your work calendar",
+    "topics": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Virtual Assistants"
+    ],
+    "votes": 152,
+    "visit_url": "https://www.siyaa.ai",
+    "image": "https://ph-files.imgix.net/f1f6001c-519c-4a00-94fa-cbd7ca8d50a0.png",
+    "label_zh": "AI助手管理您的工作日历",
+    "topics_zh": [
+      "人工智能",
+      "生产力",
+      "虚拟助手"
+    ],
+    "content_zh": "Siyaa.ai 重新定义了你管理日常工作的方式。它能自动解决日程冲突，处理会议请求，并为所有人找到最佳的时间段（即使没有空闲时间也能搞定）——这样你就可以专注于工作，而不必操心日程安排。"
+  },
+  {
+    "name": "Seedream 3.0",
+    "description": "We are officially launching Seedream 3.0, a native high-resolution bilingual image generation foundational model (Chinese-English).",
+    "product_hunt_url": "https://www.producthunt.com/posts/seedream-3-0",
+    "created_at": "",
+    "id": "seedream-3-0",
+    "label": "Next-gen text-to-image model by Bytedance",
+    "topics": [
+      "Artificial Intelligence",
+      "Design Tools",
+      "Photo editing"
+    ],
+    "votes": 149,
+    "visit_url": "https://team.doubao.com/en/tech/seedream3_0",
+    "image": "https://ph-files.imgix.net/59827da9-0e20-4698-8cd7-06cee36fe6cf.jpeg",
+    "label_zh": "字节跳动出品的新一代文本转图像模型",
+    "topics_zh": [
+      "人工智能",
+      "设计工具",
+      "图片编辑"
+    ],
+    "content_zh": "我们正式推出Seedream 3.0，这是一个支持高分辨率中英文双语图像生成的基础模型。"
+  },
+  {
+    "name": "Modelify",
+    "description": "Bring 2D photos to life with AI! Modelify transforms your images into stunning 3D models in seconds. Easy, fast, and export-ready—perfect for creators, designers, and curious minds. Tap into the future of visual creativity today.",
+    "product_hunt_url": "https://www.producthunt.com/posts/modelify",
+    "created_at": "",
+    "id": "modelify",
+    "label": "Transform 2D photos into stunning 3D models instantly.",
+    "topics": [
+      "Artificial Intelligence",
+      "Design Tools",
+      "3D Modeling"
+    ],
+    "votes": 142,
+    "visit_url": "https://apps.apple.com/tr/app/modelify/id6740539347?l=en",
+    "image": "https://ph-files.imgix.net/4bbec090-717a-4b81-a70f-a943720f31b5.png",
+    "label_zh": "将2D照片瞬间转换为惊艳的3D模型。",
+    "topics_zh": [
+      "人工智能",
+      "设计工具",
+      "三维建模"
+    ],
+    "content_zh": "用AI让2D照片栩栩如生！Modelify可以在几秒钟内将你的图片转换成惊艳的3D模型。操作简单、速度快，且随时可以导出——非常适合创作者、设计师和好奇心旺盛的人。今天就来体验视觉创作的未来吧。"
+  },
+  {
+    "name": "Ghostrun",
+    "description": "Ghostrun is one API for all AI models. Switch providers with one parameter, keep context across threads, store one credential, and use a single payment method. Ghostrun unifies responses and tracks pricing with no markup.",
+    "product_hunt_url": "https://www.producthunt.com/posts/ghostrun",
+    "created_at": "",
+    "id": "ghostrun",
+    "label": "Ghostrun unifies your AI workflow across multiple providers",
+    "topics": [
+      "API",
+      "Artificial Intelligence"
+    ],
+    "votes": 134,
+    "visit_url": "https://www.revenantai.com",
+    "image": "https://ph-files.imgix.net/bb91771f-8724-4922-acaf-4f969d35ca69.png",
+    "label_zh": "Ghostrun 统一了多个供应商的 AI 工作流程",
+    "topics_zh": [
+      "API",
+      "人工智能"
+    ],
+    "content_zh": "Ghostrun 是一个适用于所有 AI 模型的统一 API。只需更改一个参数，你就可以切换不同的服务提供商，同时保持跨线程的上下文信息。使用 Ghostrun，你可以存储一个凭证，并使用单一的支付方式。Ghostrun 统一了响应格式并跟踪费用，没有任何额外加价。"
+  },
+  {
+    "name": "Pontoon",
+    "description": "Connect, transform, and deliver data anywhere – no APIs, no code, no headaches. Your product’s data, delivered exactly where your customers need it.",
+    "product_hunt_url": "https://www.producthunt.com/posts/pontoon-2",
+    "created_at": "",
+    "id": "pontoon-2",
+    "label": "Data sharing made easy",
+    "topics": [
+      "Data",
+      "Business Intelligence",
+      "Analytics"
+    ],
+    "votes": 132,
+    "visit_url": "https://getpontoon.com",
+    "image": "https://ph-files.imgix.net/1d7c0e33-f416-42d9-b3d9-baed06002f00.png",
+    "label_zh": "数据共享，轻松实现",
+    "topics_zh": [
+      "数据",
+      "商业智能",
+      "分析"
+    ],
+    "content_zh": "随时随地连接、转换和传输数据——无需API，无需编码，省心省力。将您产品的数据准确送达客户需要的地方。"
+  }
+]

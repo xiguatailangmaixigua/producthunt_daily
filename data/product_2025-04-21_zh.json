@@ -1,0 +1,341 @@
+[
+  {
+    "name": "Google Whisk 2.0",
+    "description": "Whisk, a Google Labs experiment, now features Whisk Animate—transforming your images into vivid 8-second videos with Veo 2. Available for Google One AI Premium users in 60+ countries.",
+    "product_hunt_url": "https://www.producthunt.com/posts/google-whisk-2-0",
+    "created_at": "",
+    "id": "google-whisk-2-0",
+    "label": "Turn images into eight-second animated clips",
+    "topics": [
+      "Design Tools",
+      "Graphics & Design",
+      "Artificial Intelligence"
+    ],
+    "votes": 416,
+    "visit_url": "https://labs.google/fx/tools/whisk/",
+    "image": "https://ph-files.imgix.net/d4dc9730-2e89-4d38-acbe-d80b2b3992b8.jpeg",
+    "label_zh": "将图片转换成8秒动态视频片段",
+    "topics_zh": [
+      "设计工具",
+      "图形与设计",
+      "人工智能"
+    ],
+    "content_zh": "Google Labs 的实验项目 Whisk 现在推出了 Whisk Animate 功能，可以将你的图片转换成生动的8秒视频，使用的是 Veo 2 技术。这一功能现已面向60多个国家的 Google One AI 高级用户开放。"
+  },
+  {
+    "name": "404tomb",
+    "description": "A digital graveyard for forgotten startups, where cold ambitions sleep and lost code lies in frost—no mourning, just monuments to the internet's silent failures.",
+    "product_hunt_url": "https://www.producthunt.com/posts/404tomb",
+    "created_at": "",
+    "id": "404tomb",
+    "label": "Digital tombstones for dead startups",
+    "topics": [
+      "Entertainment",
+      "Web App",
+      "Funny"
+    ],
+    "votes": 304,
+    "visit_url": "https://404tomb.com",
+    "image": "https://ph-files.imgix.net/7e2aea31-68d7-4b74-8ac0-8f1f1a105e73.png",
+    "label_zh": "数字墓碑，纪念逝去的创业公司",
+    "topics_zh": [
+      "娱乐",
+      "网页应用",
+      "搞笑"
+    ],
+    "content_zh": "一个数字墓地，专门存放那些被遗忘的初创公司。在这里，曾经炽热的梦想已经冷却，遗失的代码静静地躺在冰封之中——没有哀悼，只有对互联网默默失败者的纪念。"
+  },
+  {
+    "name": "Flow",
+    "description": "Flow is a free and open source expense tracker that focuses on privacy, and simplicity. Available on Android, iOS, and more!",
+    "product_hunt_url": "https://www.producthunt.com/posts/flow-2cbe921f-2ed9-4ed1-b8d7-26dff1c2c49d",
+    "created_at": "",
+    "id": "flow-2cbe921f-2ed9-4ed1-b8d7-26dff1c2c49d",
+    "label": "A FOSS expense tracker that focuses on privacy and UX",
+    "topics": [
+      "Privacy",
+      "Android",
+      "Open Source"
+    ],
+    "votes": 190,
+    "visit_url": "https://flow.gege.mn",
+    "image": "https://ph-files.imgix.net/28477f4a-225a-44a6-afc6-f99abacf864b.png",
+    "label_zh": "一个注重隐私和用户体验的开源支出跟踪器",
+    "topics_zh": [
+      "隐私",
+      "安卓",
+      "开源"
+    ],
+    "content_zh": "Flow 是一个免费且开源的记账应用，注重隐私保护和简洁易用。支持 Android、iOS 等多个平台！"
+  },
+  {
+    "name": "Mirror",
+    "description": "Mirror is a simple habit-tracking app that helps you stay consistent, build streaks, and track progress with visual reports. Log habits, set goals, and review trends—all offline, with no sign-in required. Designed to make habit building clear and sustainable.",
+    "product_hunt_url": "https://www.producthunt.com/posts/mirror-12",
+    "created_at": "",
+    "id": "mirror-12",
+    "label": "Track habits, log activities, build streaks & view insights",
+    "topics": [
+      "User Experience",
+      "Android",
+      "Productivity"
+    ],
+    "votes": 185,
+    "visit_url": "https://play.google.com/store/apps/details?id=com.pradiv.habitduo\\u0026pcampaignid=web_share",
+    "image": "https://ph-files.imgix.net/869afab1-59e3-4e42-955a-cd4d3a742b44.png",
+    "label_zh": "追踪习惯，记录活动，累积连续天数并查看分析见解",
+    "topics_zh": [
+      "用户体验",
+      "安卓",
+      "生产力"
+    ],
+    "content_zh": "Mirror 是一个简洁的习惯追踪应用，帮助你保持一致性，建立连续记录，并通过可视化报告跟踪进度。你可以记录习惯、设定目标并查看趋势，所有操作都无需联网或登录。设计目的是让习惯养成变得清晰且可持续。"
+  },
+  {
+    "name": "Controol",
+    "description": "Organize your personal finances by dividing your income by percentages. Ideal for controlling your expenses, saving, and much more with our app.",
+    "product_hunt_url": "https://www.producthunt.com/posts/controol",
+    "created_at": "",
+    "id": "controol",
+    "label": "Focus on what you can spend, not what you already did",
+    "topics": [
+      "Personal Finance"
+    ],
+    "votes": 173,
+    "visit_url": "https://controol.app",
+    "image": "https://ph-files.imgix.net/776dea9d-7be9-4c1a-8b81-92cb5a3a8f15.webp",
+    "label_zh": "专注于你能花的钱，而不是已经花掉的錢",
+    "topics_zh": [
+      "个人理财"
+    ],
+    "content_zh": "通过将收入按百分比分配，来管理你的个人财务。我们的Controol应用非常适合控制开支、储蓄等更多功能。"
+  },
+  {
+    "name": "NotePolls",
+    "description": "NotePolls lets you add polls to Notion pages seamlessly and watch votes save to your Notion database automatically. Ditch spreadsheets — it’s magic!",
+    "product_hunt_url": "https://www.producthunt.com/posts/notepolls",
+    "created_at": "",
+    "id": "notepolls",
+    "label": "Create and share polls that integrate seamlessly with Notion",
+    "topics": [
+      "Notion",
+      "SaaS",
+      "Productivity"
+    ],
+    "votes": 144,
+    "visit_url": "https://notepolls.com",
+    "image": "https://ph-files.imgix.net/5a038d6e-c77f-47f9-8aad-ca81e8de890d.png",
+    "label_zh": "创建并分享与Notion无缝集成的投票\n\n创建并分享与Notion完美融合的投票",
+    "topics_zh": [
+      "Notion",
+      "SaaS",
+      "生产力"
+    ],
+    "content_zh": "NotePolls 可以让你在 Notion 页面中轻松添加投票，并自动将投票结果保存到你的 Notion 数据库中。告别繁琐的电子表格，体验这种神奇的功能吧！"
+  },
+  {
+    "name": "Bookaroozie",
+    "description": "Take your reading to the next level with the AI powered book reader & distraction-free reading for PDF, EPUB, and MOBI formats. \n\nWhen you hit a confusing part, instead of giving up, you can clarify & explore related ideas right there\n\nConverse with AI",
+    "product_hunt_url": "https://www.producthunt.com/posts/bookaroozie",
+    "created_at": "",
+    "id": "bookaroozie",
+    "label": "AI powered Kindle alternative that works with PDFs, EPUBs",
+    "topics": [
+      "Artificial Intelligence",
+      "eBook Reader",
+      "Productivity"
+    ],
+    "votes": 138,
+    "visit_url": "https://bookaroozie.com",
+    "image": "https://ph-files.imgix.net/c1654cb0-1fa6-4241-80d1-206bda188300.png",
+    "label_zh": "AI驱动的Kindle替代品，支持PDF和EPUB格式",
+    "topics_zh": [
+      "人工智能",
+      "电子书阅读器",
+      "生产力"
+    ],
+    "content_zh": "用Bookaroozie提升你的阅读体验，它是一款由AI驱动的电子书阅读器，支持PDF、EPUB和MOBI格式，让你享受无干扰的阅读。\n\n遇到困惑的部分时，不必放弃，你可以直接在书中澄清并探索相关概念。\n\n与AI对话"
+  },
+  {
+    "name": "Orpheus TTS",
+    "description": "Orpheus TTS is the open-source TTS using a Llama-3b backbone for human-like speech with natural emotion/intonation. Features zero-shot cloning, guided emotion & low latency streaming.",
+    "product_hunt_url": "https://www.producthunt.com/posts/orpheus-tts",
+    "created_at": "",
+    "id": "orpheus-tts",
+    "label": "Open-source TTS with emotion & voice cloning",
+    "topics": [
+      "Artificial Intelligence",
+      "GitHub",
+      "Open Source"
+    ],
+    "votes": 127,
+    "visit_url": "https://canopylabs.ai/releases/towards_human_sounding_tts",
+    "image": "https://ph-files.imgix.net/fc572f24-be6b-45f2-8f4b-db837696d924.png",
+    "label_zh": "开源TTS，支持情感和声音克隆",
+    "topics_zh": [
+      "人工智能",
+      "GitHub",
+      "开源"
+    ],
+    "content_zh": "Orpheus TTS 是一个开源的文本转语音工具，使用 Llama-3b 作为基础模型，能够生成具有自然情感和语调的人声。它支持零样本克隆、情感引导以及低延迟流式传输。"
+  },
+  {
+    "name": "Highlights.Email",
+    "description": "A quick and easy way to export your highlights and annotations from your Kobo eReader. It removes the need to connect your Kobo to your computer with a cable and fiddle with databases just to export your latest book highlights.",
+    "product_hunt_url": "https://www.producthunt.com/posts/highlights-email",
+    "created_at": "",
+    "id": "highlights-email",
+    "label": "Export Kobo Highlights via Email",
+    "topics": [
+      "Email",
+      "eBook Reader",
+      "Productivity"
+    ],
+    "votes": 120,
+    "visit_url": "https://highlights.email",
+    "image": "https://ph-files.imgix.net/9d64d4a1-c4bf-4990-94c5-3327079a93ed.png",
+    "label_zh": "通过电子邮件导出Kobo笔记/highlight",
+    "topics_zh": [
+      "电子邮件",
+      "电子书阅读器",
+      "生产力工具"
+    ],
+    "content_zh": "Highlights.Email 是一种快速简便的方法，可以从你的 Kobo 电子阅读器中导出高亮和注释。它省去了用数据线将 Kobo 连接到电脑并处理数据库的麻烦，让你轻松导出最新的书籍高亮内容。"
+  },
+  {
+    "name": "TripSyncPro",
+    "description": "Plan, manage, and collaborate on your travel adventures with TripSync - the AI-powered travel platform for seamless group trip planning.",
+    "product_hunt_url": "https://www.producthunt.com/posts/tripsyncpro",
+    "created_at": "",
+    "id": "tripsyncpro",
+    "label": "Collaborative travel planning",
+    "topics": [
+      "SaaS",
+      "Productivity",
+      "Travel"
+    ],
+    "votes": 51,
+    "visit_url": "https://tripsyncpro.com",
+    "image": "https://ph-files.imgix.net/1f0f3cd1-202e-45fb-87a9-74e1088cd9b5.png",
+    "label_zh": "协作旅行规划",
+    "topics_zh": [
+      "SaaS",
+      "生产力",
+      "旅行"
+    ],
+    "content_zh": "用TripSyncPro来规划、管理和协作你的旅行冒险吧，这是一个由AI驱动的旅行平台，让团队旅行计划变得无缝顺畅。"
+  },
+  {
+    "name": "LinguaLive",
+    "description": "Read or listen to a translation of any youtube livestream into any any language directly on your phone's browser —no special software or apps required",
+    "product_hunt_url": "https://www.producthunt.com/posts/lingualive",
+    "created_at": "",
+    "id": "lingualive",
+    "label": "Hear YouTube livestreams instantly in your language",
+    "topics": [
+      "Artificial Intelligence",
+      "Audio",
+      "Live Events"
+    ],
+    "votes": 44,
+    "visit_url": "https://pastors.ai/sermon-translations",
+    "image": "https://ph-files.imgix.net/b55479c0-9104-43d0-8751-50b620bef2e1.jpeg",
+    "label_zh": "即时听到你语言的YouTube直播流",
+    "topics_zh": [
+      "人工智能",
+      "音频",
+      "现场活动"
+    ],
+    "content_zh": "在手机浏览器上直接阅读或收听任何YouTube直播的翻译，支持多种语言，无需安装特殊软件或应用。"
+  },
+  {
+    "name": "PostRoast",
+    "description": "Get your X (Twitter) posts roasted by AI! PostRoast analyzes your content for engagement, clarity, and provides actionable feedback to improve.",
+    "product_hunt_url": "https://www.producthunt.com/posts/postroast",
+    "created_at": "",
+    "id": "postroast",
+    "label": "AI insights to improve your post performance",
+    "topics": [
+      "Social Media",
+      "Marketing",
+      "Productivity"
+    ],
+    "votes": 35,
+    "visit_url": "https://postroast.app",
+    "image": "https://ph-files.imgix.net/4f5fd5bf-e4b9-475d-aa24-5bce84124ae6.png",
+    "label_zh": "AI洞察，提升您的帖子表现",
+    "topics_zh": [
+      "社交媒体、市场营销、生产力"
+    ],
+    "content_zh": "用AI来点评你的X（Twitter）帖子吧！PostRoast会分析你的内容，评估其互动性和清晰度，并提供切实可行的改进建议。"
+  },
+  {
+    "name": "txtNest",
+    "description": "Private, secure note-taking app that stores your text entirely in your browser's local storage. No servers, no data collection, just privacy.",
+    "product_hunt_url": "https://www.producthunt.com/posts/txtnest",
+    "created_at": "",
+    "id": "txtnest",
+    "label": "Private text storage in your browser",
+    "topics": [
+      "Privacy",
+      "Notes",
+      "Productivity"
+    ],
+    "votes": 22,
+    "visit_url": "https://txtnest.vercel.app/",
+    "image": "https://ph-files.imgix.net/604e089e-94e0-4b93-9353-efb20f346969.png",
+    "label_zh": "私人文本存储在您的浏览器中\n\n浏览器中的私人文本存储",
+    "topics_zh": [
+      "隐私",
+      "笔记",
+      "生产力"
+    ],
+    "content_zh": "私人安全的笔记应用，完全将你的文本存储在浏览器的本地存储中。没有服务器，不收集数据，只为保护你的隐私。"
+  },
+  {
+    "name": "SuperMindMaps AI",
+    "description": "Chat conversations make it difficult to grasp relationships between concepts, resulting in fragmented understanding. \n\n- Visualizing connections between concepts that chat interfaces miss\n- Providing in-depth research on demand for any node in your mind map",
+    "product_hunt_url": "https://www.producthunt.com/posts/supermindmaps-ai",
+    "created_at": "",
+    "id": "supermindmaps-ai",
+    "label": "Deep Research Using MindMaps. Say Goodbye to Confusing Chats",
+    "topics": [
+      "SaaS",
+      "Productivity",
+      "Online Learning"
+    ],
+    "votes": 14,
+    "visit_url": "https://super-mind-maps.wroffle.com/",
+    "image": "https://ph-files.imgix.net/7c2f6503-1e77-45cd-9ad1-5498c5e83bc7.jpeg",
+    "label_zh": "深度研究使用思维导图。告别混乱的聊天",
+    "topics_zh": [
+      "SaaS",
+      "生产力",
+      "在线学习"
+    ],
+    "content_zh": "聊天对话很难让人理解概念之间的关系，导致理解零散。\n\n- 展示聊天界面中忽略的概念之间的联系\n- 为思维导图中的任何节点提供深入的研究资料"
+  },
+  {
+    "name": "Chrome Reader Mode",
+    "description": "Chrome Reader Mode is a tool designed to enhance your online reading experience. It allows you to customize font size, choose your preferred font type, and adjust line spacing for maximum readability. It can also remove distracting ads from articles",
+    "product_hunt_url": "https://www.producthunt.com/posts/chrome-reader-mode",
+    "created_at": "",
+    "id": "chrome-reader-mode",
+    "label": "Customize the article view to your liking",
+    "topics": [
+      "User Experience",
+      "Chrome Extensions",
+      "Productivity"
+    ],
+    "votes": 11,
+    "visit_url": "https://chromewebstore.google.com/detail/chrome-reader-mode/opfflfgjinednmneaiplkponjphblmmc?hl=en\\u0026utm_source=product_hunt\\u0026utm_medium=post",
+    "image": "https://ph-files.imgix.net/460760dc-cf72-4b96-93bb-0f7780aa2527.png",
+    "label_zh": "自定义文章视图，随心所欲",
+    "topics_zh": [
+      "用户体验",
+      "Chrome 扩展程序",
+      "生产力"
+    ],
+    "content_zh": "Chrome Reader Mode 是一个旨在提升在线阅读体验的工具。它允许你调整字体大小、选择喜欢的字体类型，并调节行间距，以达到最佳的阅读效果。此外，它还能去除文章中的干扰性广告。"
+  }
+]

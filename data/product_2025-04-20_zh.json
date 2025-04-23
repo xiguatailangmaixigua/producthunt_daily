@@ -1,0 +1,339 @@
+[
+  {
+    "name": "Checklist GG",
+    "description": "checklist.gg is an AI-driven checklist management tool designed to help organizations get things done right every time.",
+    "product_hunt_url": "https://www.producthunt.com/posts/checklist-gg-2",
+    "created_at": "",
+    "id": "checklist-gg-2",
+    "label": "AI-driven checklist management tool",
+    "topics": [
+      "Task Management",
+      "Productivity"
+    ],
+    "votes": 317,
+    "visit_url": "https://checklist.gg",
+    "image": "https://ph-files.imgix.net/673783e5-6c46-4489-a250-b8e36b8bc49f.png",
+    "label_zh": "AI驱动的检查清单管理工具",
+    "topics_zh": [
+      "任务管理，生产力"
+    ],
+    "content_zh": "Checklist GG 是一款由人工智能驱动的清单管理工具，旨在帮助组织每次都能正确完成任务。"
+  },
+  {
+    "name": "Stupid Notes",
+    "description": "Stupid Notes is a minimalist note-taking app that focuses on what matters. No fancy formatting, just plain text and checklists.\n\nOpen it, type your thoughts, and get on with your day.\n\nAI powered Stupid Search helps you make sense of your notes.",
+    "product_hunt_url": "https://www.producthunt.com/posts/stupid-notes",
+    "created_at": "",
+    "id": "stupid-notes",
+    "label": "Minimalist note taking app",
+    "topics": [
+      "Notes",
+      "Productivity",
+      "iOS"
+    ],
+    "votes": 270,
+    "visit_url": "https://stupidnotes.com",
+    "image": "https://ph-files.imgix.net/ac90a14a-b6dd-4781-8f9d-0df99af6d185.png",
+    "label_zh": "极简笔记应用",
+    "topics_zh": [
+      "笔记",
+      "生产力",
+      "iOS"
+    ],
+    "content_zh": "Stupid Notes 是一款极简的笔记应用，专注于最重要的事情。没有花哨的格式，只有纯文本和清单。\n\n打开它，写下你的想法，然后继续你的一天。\n\n由 AI 驱动的 Stupid Search 功能可以帮助你更好地理解和管理你的笔记。"
+  },
+  {
+    "name": "Microagents (Beta)",
+    "description": "Create your AI dream team in three simple steps: connect your tools (Gmail, Notion, Slack etc), group them together and tell what you want them to do.\n\nWatch them collaborate in real-time, solving problems while you focus on what matters.",
+    "product_hunt_url": "https://www.producthunt.com/posts/microagents-beta",
+    "created_at": "",
+    "id": "microagents-beta",
+    "label": "Tiny agents in a group chat; working for you.",
+    "topics": [
+      "Artificial Intelligence",
+      "Bots",
+      "Productivity"
+    ],
+    "votes": 226,
+    "visit_url": "https://microagents.io",
+    "image": "https://ph-files.imgix.net/603aecbe-dd6c-4ec7-a38b-fad12d6c123f.png",
+    "label_zh": "小小代理在群聊中；为你工作。",
+    "topics_zh": [
+      "人工智能",
+      "机器人",
+      "生产力"
+    ],
+    "content_zh": "创建你的AI梦幻团队只需三个简单步骤：连接你的工具（如Gmail、Notion、Slack等），将它们组合在一起，然后告诉它们你希望它们做什么。\n\n实时观察它们协同工作，解决问题，而你可以专注于更重要的事情。"
+  },
+  {
+    "name": "Summarization AI",
+    "description": "Instantly condense any webpage to your chosen length. Pick Gemini, Claude or OpenAI models; output in English or Japanese and translate across languages. Auto‑detect URL, one‑click copy/share, keep/export history as CSV. Save time, break language barriers.",
+    "product_hunt_url": "https://www.producthunt.com/posts/summarization-ai",
+    "created_at": "",
+    "id": "summarization-ai",
+    "label": "Instantly summarize web pages and save time",
+    "topics": [
+      "Languages",
+      "Developer Tools",
+      "Chrome Extensions"
+    ],
+    "votes": 220,
+    "visit_url": "https://chromewebstore.google.com/detail/hdcogjeiiheanehmhccehpgkpmdhpaek",
+    "image": "https://ph-files.imgix.net/84ddaf8b-df13-431a-88f7-3c68f7d26432.jpeg",
+    "label_zh": "立即总结网页，节省时间",
+    "topics_zh": [
+      "语言",
+      "开发者工具",
+      "Chrome扩展程序"
+    ],
+    "content_zh": "立即把任何网页压缩到你想要的长度。选择Gemini、Claude或OpenAI模型；输出语言可选英语或日语，并支持多种语言翻译。自动检测网址，一键复制/分享，保存和导出历史记录为CSV文件。节省时间，打破语言障碍。"
+  },
+  {
+    "name": "Dream 7B",
+    "description": "Introducing Dream 7B, the most powerful open diffusion large language model to date. Matches/exceeds similar-sized AR models (LLaMA3, Qwen2.5). Excels at planning & offers flexible inference.",
+    "product_hunt_url": "https://www.producthunt.com/posts/dream-7b",
+    "created_at": "",
+    "id": "dream-7b",
+    "label": "Powerful Open Diffusion LLM, Beyond Autoregressive",
+    "topics": [
+      "Artificial Intelligence",
+      "GitHub",
+      "Open Source"
+    ],
+    "votes": 180,
+    "visit_url": "https://hkunlp.github.io/blog/2025/dream/",
+    "image": "https://ph-files.imgix.net/3c8dfc16-99ae-4a35-a725-a2c4a5ea4979.png",
+    "label_zh": "强大的开放式扩散大语言模型，超越自回归模型",
+    "topics_zh": [
+      "人工智能",
+      "GitHub",
+      "开源"
+    ],
+    "content_zh": "介绍Dream 7B，这是迄今为止最强大的开源扩散大语言模型。它的性能与同规模的AR模型（如LLaMA3、Qwen2.5）相当甚至更优。它在规划方面表现出色，并提供灵活的推理能力。"
+  },
+  {
+    "name": "Ambient",
+    "description": "Mix your own sleep sounds, save sets. Use premade sounds to relax, meditate, or sleep. Visualize your sleep with beautiful graphs. Keep a dream journal so you don’t forget. Try our new feature: record your sleep sounds like snores and more!",
+    "product_hunt_url": "https://www.producthunt.com/posts/ambient-2",
+    "created_at": "",
+    "id": "ambient-2",
+    "label": "Sleep sounds, insights, and dream journal",
+    "topics": [
+      "Meditation",
+      "Health & Fitness"
+    ],
+    "votes": 149,
+    "visit_url": "https://apps.apple.com/gb/app/ambient-sleep-app/id6476965747",
+    "image": "https://ph-files.imgix.net/5112138c-bb23-48ff-b76e-196daab9e826.png",
+    "label_zh": "睡眠声音、洞察分析和梦境日记",
+    "topics_zh": [
+      "冥想、健康与健身"
+    ],
+    "content_zh": "混合你自己的助眠声音，保存组合。使用预设的声音来放松、冥想或入睡。通过精美的图表可视化你的睡眠情况。记录梦境日记，以免忘记。试试我们的新功能：录制你的睡眠声音，比如打呼噜声等！"
+  },
+  {
+    "name": "Consta",
+    "description": "Train a model with your own images, whether it’s yourself, any virtual influencer or any character. Then, generate stunning visuals of the same, using just text. Train just once and generate images for lifetime",
+    "product_hunt_url": "https://www.producthunt.com/posts/consta",
+    "created_at": "",
+    "id": "consta",
+    "label": "Generate images of yourself",
+    "topics": [
+      "Artificial Intelligence",
+      "Influencer marketing",
+      "Social Media"
+    ],
+    "votes": 54,
+    "visit_url": "https://link.vestra.ai/consta",
+    "image": "https://ph-files.imgix.net/56e7d4dc-8d0d-4959-8bd9-c2f2c80d1cc2.png",
+    "label_zh": "生成自己的图像",
+    "topics_zh": [
+      "人工智能",
+      "网红营销",
+      "社交媒体"
+    ],
+    "content_zh": "使用你自己的图片训练一个模型，无论是你自己、虚拟网红还是任何角色。然后，只需输入文字就能生成令人惊叹的视觉效果。只需训练一次，就可以终生生成图片。"
+  },
+  {
+    "name": "RSSence",
+    "description": "A modern RSS feed visualizer that helps you stay updated with your favorite news sources in a beautiful, organized way. No login needed, open-source and completely free.",
+    "product_hunt_url": "https://www.producthunt.com/posts/rssence",
+    "created_at": "",
+    "id": "rssence",
+    "label": "Your modern RSS feed, reimagined.",
+    "topics": [
+      "News",
+      "Open Source",
+      "GitHub"
+    ],
+    "votes": 143,
+    "visit_url": "https://try.rssence.com/",
+    "image": "https://ph-files.imgix.net/324ce1ab-6bdf-4527-a6fa-d4eab90cbb39.jpeg",
+    "label_zh": "你的现代RSS订阅，重新构想。",
+    "topics_zh": [
+      "新闻",
+      "开源",
+      "GitHub"
+    ],
+    "content_zh": "一个现代化的RSS订阅源可视化工具，帮助你以美观、有序的方式关注你喜欢的新闻来源。无需登录，开源且完全免费。"
+  },
+  {
+    "name": "PainPointFinder",
+    "description": "PainPointFinder scans real online questions to uncover pain points and instantly suggests SaaS ideas you can build.",
+    "product_hunt_url": "https://www.producthunt.com/posts/painpointfinder",
+    "created_at": "",
+    "id": "painpointfinder",
+    "label": "Find real pain points. Build real SaaS",
+    "topics": [
+      "Artificial Intelligence",
+      "Productivity",
+      "SaaS"
+    ],
+    "votes": 29,
+    "visit_url": "https://painpointfinder.com/",
+    "image": "https://ph-files.imgix.net/e93f9381-c5e1-4bc5-8f6e-36720ce713ec.jpeg",
+    "label_zh": "找到真正的痛点。打造真正的SaaS",
+    "topics_zh": [
+      "人工智能",
+      "生产力",
+      "SaaS（软件即服务）"
+    ],
+    "content_zh": "PainPointFinder 会扫描真实的在线问题，找出痛点，并立即为你提供可以开发的 SaaS 产品创意。"
+  },
+  {
+    "name": "AI Essay Grader",
+    "description": "AI Essay Grader saves teachers hours by instantly grading essays with AI. Get accurate scores and detailed feedback in seconds—no more late nights with red pens and coffee.",
+    "product_hunt_url": "https://www.producthunt.com/posts/ai-essay-grader",
+    "created_at": "",
+    "id": "ai-essay-grader",
+    "label": "Save Hours Grading Student's Essays",
+    "topics": [
+      "Artificial Intelligence",
+      "Education",
+      "Productivity"
+    ],
+    "votes": 19,
+    "visit_url": "https://ai-essay-grader.com/",
+    "image": "https://ph-files.imgix.net/0f38c488-a813-47fa-89b5-2abdf8ee81cd.png",
+    "label_zh": "节省批改学生论文的数小时时间",
+    "topics_zh": [
+      "人工智能",
+      "教育",
+      "生产力"
+    ],
+    "content_zh": "AI Essay Grader 通过使用人工智能即时批改作文，为老师节省了大量时间。几秒钟内就能获得准确的分数和详细的反馈，再也不用熬夜用红笔批改作文了。"
+  },
+  {
+    "name": "productburst",
+    "description": "Launch your startup on ProductBurst - The ultimate platform for founders to showcase products, get feedback, upvotes, and connect with early adopters & users. Get noticed and grow fast! Built by and for makers.",
+    "product_hunt_url": "https://www.producthunt.com/posts/productburst",
+    "created_at": "",
+    "id": "productburst",
+    "label": "Launch product. Get Feedback. Grow Fast",
+    "topics": [
+      "Marketing",
+      "Productivity"
+    ],
+    "votes": 18,
+    "visit_url": "https://productburst.com",
+    "image": "https://ph-files.imgix.net/b3d64f5a-98c6-430a-8ba5-98e28960666f.png",
+    "label_zh": "推出产品。获取反馈。快速成长",
+    "topics_zh": [
+      "市场营销",
+      "生产力"
+    ],
+    "content_zh": "在ProductBurst上启动你的创业项目——这是一个为创始人打造的终极平台，可以展示产品、获取反馈和点赞，并与早期用户建立联系。让你的产品受到关注并快速成长！这个平台由创业者为创业者打造。"
+  },
+  {
+    "name": "Fluxy AI",
+    "description": "At Fluxy AI, we turn your company’s knowledge into intelligent, real-time action. Our AI agents work just like your best human team members — only faster, always on, and endlessly scalable. 💻 ⚡️",
+    "product_hunt_url": "https://www.producthunt.com/posts/fluxy-ai-2",
+    "created_at": "",
+    "id": "fluxy-ai-2",
+    "label": "AI Agents That Breathe Life Into Business Knowledge",
+    "topics": [
+      "Artificial Intelligence",
+      "Bots",
+      "SaaS"
+    ],
+    "votes": 17,
+    "visit_url": "https://www.fluxyai.co/",
+    "image": "https://ph-files.imgix.net/b283bd95-5522-4574-8b7f-f3b6a2d20a32.jpeg",
+    "label_zh": "让业务知识焕发生机的AI代理",
+    "topics_zh": [
+      "人工智能",
+      "机器人",
+      "软件即服务"
+    ],
+    "content_zh": "在Fluxy AI，我们将您公司的知识转化为智能的实时行动。我们的AI代理就像您最优秀的团队成员一样工作——只是更快、全天候运行，并且可以无限扩展。"
+  },
+  {
+    "name": "Notably",
+    "description": "Notably is your AI-powered thinking partner. Summarize meetings, extract tasks, find notes by meaning, and link ideas — automatically. Join the waitlist to help shape the future of smarter note-taking.",
+    "product_hunt_url": "https://www.producthunt.com/posts/notably-5",
+    "created_at": "",
+    "id": "notably-5",
+    "label": "AI notes that think, link, and grow with you.",
+    "topics": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Notes"
+    ],
+    "votes": 14,
+    "visit_url": "https://notably.jaivardhan.codes/",
+    "image": "https://ph-files.imgix.net/fa383731-3e7f-4c86-ad44-20e652410393.png",
+    "label_zh": "AI笔记，与你一起思考、链接、成长。",
+    "topics_zh": [
+      "人工智能",
+      "生产力",
+      "笔记"
+    ],
+    "content_zh": "Notably 是你的人工智能思维伙伴。它可以自动总结会议内容，提取任务，根据意思查找笔记，并将想法关联起来。加入等待名单，帮助塑造更智能的笔记未来。"
+  },
+  {
+    "name": "Soofte",
+    "description": "Monetize communities. Connect platforms. Grow faster. Soofte helps creators turn any social platform into premium hubs with automation, analytics, and discovery. All-in-one place.",
+    "product_hunt_url": "https://www.producthunt.com/posts/soofte-2",
+    "created_at": "",
+    "id": "soofte-2",
+    "label": "Where creators sell smarter and communities grow faster.",
+    "topics": [
+      "Community",
+      "Monetization",
+      "Analytics"
+    ],
+    "votes": 12,
+    "visit_url": "https://soofte.com/homepage",
+    "image": "https://ph-files.imgix.net/44a0386d-320e-485a-a05f-6ee8b33425d0.jpeg",
+    "label_zh": "创作者更聪明地销售，社区更快地成长。",
+    "topics_zh": [
+      "社区",
+      "变现",
+      "分析"
+    ],
+    "content_zh": "通过Soofte，你可以将任何社交平台变成高级中心，实现变现、连接平台和加速增长。它提供自动化工具、数据分析和发现功能，一站式解决所有问题。"
+  },
+  {
+    "name": "PostPilo",
+    "description": "Create, schedule, and optimize posts across multiple social platforms with AI-powered content refinement.",
+    "product_hunt_url": "https://www.producthunt.com/posts/postpilo",
+    "created_at": "",
+    "id": "postpilo",
+    "label": "Social media automation tool",
+    "topics": [
+      "Social Media",
+      "Marketing",
+      "SaaS"
+    ],
+    "votes": 11,
+    "visit_url": "https://www.postpilo.com/",
+    "image": "https://ph-files.imgix.net/3964d863-337c-419f-97c5-3bab5a9284ed.png",
+    "label_zh": "社交媒体自动化工具",
+    "topics_zh": [
+      "社交媒体",
+      "市场营销",
+      "SaaS（软件即服务）"
+    ],
+    "content_zh": "使用PostPilo，你可以借助AI优化内容，在多个社交平台上创建、安排和优化帖子。"
+  }
+]

@@ -1,0 +1,241 @@
+[
+  {
+    "name": "Agent Simulate",
+    "description": "Agent Simulate lets you simulate and test LLM agents in a sandbox before shipping. Debug behaviors, iterate faster, and reduce production risks with an interactive testbed built for agent developers. Save time with reproducible, automated runs.",
+    "product_hunt_url": "https://www.producthunt.com/posts/agent-simulate",
+    "created_at": "",
+    "id": "agent-simulate",
+    "label": "Test Your AI apps with thousands of digital humans",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Bots"
+    ],
+    "votes": 361,
+    "visit_url": "https://agentsimulate.com",
+    "image": "https://ph-files.imgix.net/3af5de61-6fbd-4ffc-9110-935dd92d5d24.png"
+  },
+  {
+    "name": "Cap",
+    "description": "Cap is a lightweight, modern open-source CAPTCHA alternative designed using SHA-256 proof-of-work.\n\nIt's:\n- ⚡️ 250x smaller than hCaptcha\n- 🔒️ Private\n- 🌈 Fully customizable\n- 🤖 PoW-based\n- 🌳 Fully FOSS\n- 💨 Invisible",
+    "product_hunt_url": "https://www.producthunt.com/posts/cap-5",
+    "created_at": "",
+    "id": "cap-5",
+    "label": "A lightweight, modern open-source captcha",
+    "topics": [
+      "User Experience",
+      "Developer Tools",
+      "GitHub"
+    ],
+    "votes": 309,
+    "visit_url": "https://capjs.js.org/",
+    "image": "https://ph-files.imgix.net/a4b15102-bb80-4711-bc3d-86f426cb29cd.png"
+  },
+  {
+    "name": "All Voice Lab",
+    "description": "All Voice Lab is the AI voice platform for ultra-realistic TTS & voice cloning. Powered by SOTA MaskGCT 2.0 model. Multilingual, expressive audio for creators & devs.",
+    "product_hunt_url": "https://www.producthunt.com/posts/all-voice-lab",
+    "created_at": "",
+    "id": "all-voice-lab",
+    "label": "Ultra-realistic AI voices & cloning",
+    "topics": [
+      "API",
+      "Audio",
+      "Artificial Intelligence"
+    ],
+    "votes": 268,
+    "visit_url": "https://www.allvoicelab.com/",
+    "image": "https://ph-files.imgix.net/2f599b22-e3db-4240-990e-17822e5b5781.jpeg"
+  },
+  {
+    "name": "Cipherwill",
+    "description": "When you pass away, make sure your data (such as crypto, bank details, investments, properties, digital assets, etc.) gets delivered to your beneficiaries with end-to-end encryption.",
+    "product_hunt_url": "https://www.producthunt.com/posts/cipherwill",
+    "created_at": "",
+    "id": "cipherwill",
+    "label": "Ensure your data reaches your loved ones when you pass away",
+    "topics": [
+      "GitHub",
+      "SaaS",
+      "Legal"
+    ],
+    "votes": 217,
+    "visit_url": "https://www.cipherwill.com",
+    "image": "https://ph-files.imgix.net/da66d577-13e7-4566-8ecb-b74a25897f36.png"
+  },
+  {
+    "name": "RapidMCP",
+    "description": "RapidMCP convert your REST API into MCP Servers in minutes! No code required.",
+    "product_hunt_url": "https://www.producthunt.com/posts/rapidmcp",
+    "created_at": "",
+    "id": "rapidmcp",
+    "label": "Convert your REST API into an MCP Server in minutes!",
+    "topics": [
+      "API",
+      "Developer Tools",
+      "Tech"
+    ],
+    "votes": 206,
+    "visit_url": "https://rapid-mcp.com",
+    "image": "https://ph-files.imgix.net/02b039a2-7661-449a-adc1-87b14d3b3bcf.png"
+  },
+  {
+    "name": "Outtloud",
+    "description": "With Outtloud, you can turn any document, research paper, ebook or article into an audiobook & AI podcasts.\n\nComplete your reading faster & effortlessly with 4x speed, AI summaries & more. Enjoy celebrity voices such as Morgan Freeman, Emilia Clarke and more.",
+    "product_hunt_url": "https://www.producthunt.com/posts/outtloud-2",
+    "created_at": "",
+    "id": "outtloud-2",
+    "label": "Create unlimited audiobooks & podcasts from your documents!",
+    "topics": [
+      "eBook Reader",
+      "Productivity",
+      "Artificial Intelligence"
+    ],
+    "votes": 198,
+    "visit_url": "https://www.outtloud.com",
+    "image": "https://ph-files.imgix.net/9d82fcb2-b08e-477f-a2bf-47b909b9c518.png"
+  },
+  {
+    "name": "EyesOff",
+    "description": "EyesOff is a privacy focused macOS app which makes use of a locally running neural network (YuNet), to notify you if other people are looking at your screen. YuNet runs fully on-device with no data leaving your computer.",
+    "product_hunt_url": "https://www.producthunt.com/posts/eyesoff",
+    "created_at": "",
+    "id": "eyesoff",
+    "label": "Alerts you when someone peeps at your screen",
+    "topics": [
+      "Artificial Intelligence",
+      "Privacy",
+      "GitHub"
+    ],
+    "votes": 165,
+    "visit_url": "https://www.eyesoff.app",
+    "image": "https://ph-files.imgix.net/91ab356a-bca1-4463-950e-7abfd0e62df5.gif"
+  },
+  {
+    "name": "Every.io HR & Payroll",
+    "description": "For founders: Hire anywhere—all 50 states and 200+ countries—with zero compliance headaches. State tax registrations, tech-optimized benefits, and payroll all on autopilot. Expert support included, no extra charge.",
+    "product_hunt_url": "https://www.producthunt.com/posts/every-io-hr-payroll",
+    "created_at": "",
+    "id": "every-io-hr-payroll",
+    "label": "Payroll for founders: compliant, global, expertly supported",
+    "topics": [
+      "Human Resources",
+      "Fintech",
+      "Hiring"
+    ],
+    "votes": 168,
+    "visit_url": "https://bit.ly/4iiM7Z6",
+    "image": "https://ph-files.imgix.net/6d7b8847-73bd-46fe-8cab-b22fba5620e9.png"
+  },
+  {
+    "name": "Dbits",
+    "description": "You ask a question. Dbits gives you a data-backed answer.\nWe analyse social and traditional media to show you sentiment, trends, topics, and demographics—so you can understand what people think, feel, and say.\nBuilt for marketers, analysts, and researchers.",
+    "product_hunt_url": "https://www.producthunt.com/posts/dbits",
+    "created_at": "",
+    "id": "dbits",
+    "label": "Making Data Accessible for Your Everyday Decisions",
+    "topics": [
+      "API",
+      "Marketing",
+      "Data & Analytics"
+    ],
+    "votes": 53,
+    "visit_url": "https://dbits.io",
+    "image": "https://ph-files.imgix.net/dca581e5-14f4-4593-9675-89bb57c8b94b.jpeg"
+  },
+  {
+    "name": "Blastable",
+    "description": "Ridiculously easy to use, insanely smart under the hood — make certain your emails get delivered, opened & clicked on thanks to Blastable AI. Supported by the people who built it.",
+    "product_hunt_url": "https://www.producthunt.com/posts/blastable",
+    "created_at": "",
+    "id": "blastable",
+    "label": "Send emails at the perfect time using AI deliverability",
+    "topics": [
+      "Artificial Intelligence",
+      "Email Marketing",
+      "Email"
+    ],
+    "votes": 152,
+    "visit_url": "https://blastable.com/ph.php",
+    "image": "https://ph-files.imgix.net/f0d82b99-bba4-458c-8035-368053669bf9.png"
+  },
+  {
+    "name": "Siyaa.ai",
+    "description": "Siyaa.ai redefines how you manage your work day. Siyaa auto-resolves conflicts, handles inbound meeting requests, and finds the best slots for everyone (even when no empty slots are available)—so you can focus on work, not your calendar.",
+    "product_hunt_url": "https://www.producthunt.com/posts/siyaa-ai",
+    "created_at": "",
+    "id": "siyaa-ai",
+    "label": "AI assistant to manage your work calendar",
+    "topics": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Virtual Assistants"
+    ],
+    "votes": 152,
+    "visit_url": "https://www.siyaa.ai",
+    "image": "https://ph-files.imgix.net/f1f6001c-519c-4a00-94fa-cbd7ca8d50a0.png"
+  },
+  {
+    "name": "Seedream 3.0",
+    "description": "We are officially launching Seedream 3.0, a native high-resolution bilingual image generation foundational model (Chinese-English).",
+    "product_hunt_url": "https://www.producthunt.com/posts/seedream-3-0",
+    "created_at": "",
+    "id": "seedream-3-0",
+    "label": "Next-gen text-to-image model by Bytedance",
+    "topics": [
+      "Artificial Intelligence",
+      "Design Tools",
+      "Photo editing"
+    ],
+    "votes": 149,
+    "visit_url": "https://team.doubao.com/en/tech/seedream3_0",
+    "image": "https://ph-files.imgix.net/59827da9-0e20-4698-8cd7-06cee36fe6cf.jpeg"
+  },
+  {
+    "name": "Modelify",
+    "description": "Bring 2D photos to life with AI! Modelify transforms your images into stunning 3D models in seconds. Easy, fast, and export-ready—perfect for creators, designers, and curious minds. Tap into the future of visual creativity today.",
+    "product_hunt_url": "https://www.producthunt.com/posts/modelify",
+    "created_at": "",
+    "id": "modelify",
+    "label": "Transform 2D photos into stunning 3D models instantly.",
+    "topics": [
+      "Artificial Intelligence",
+      "Design Tools",
+      "3D Modeling"
+    ],
+    "votes": 142,
+    "visit_url": "https://apps.apple.com/tr/app/modelify/id6740539347?l=en",
+    "image": "https://ph-files.imgix.net/4bbec090-717a-4b81-a70f-a943720f31b5.png"
+  },
+  {
+    "name": "Ghostrun",
+    "description": "Ghostrun is one API for all AI models. Switch providers with one parameter, keep context across threads, store one credential, and use a single payment method. Ghostrun unifies responses and tracks pricing with no markup.",
+    "product_hunt_url": "https://www.producthunt.com/posts/ghostrun",
+    "created_at": "",
+    "id": "ghostrun",
+    "label": "Ghostrun unifies your AI workflow across multiple providers",
+    "topics": [
+      "API",
+      "Artificial Intelligence"
+    ],
+    "votes": 134,
+    "visit_url": "https://www.revenantai.com",
+    "image": "https://ph-files.imgix.net/bb91771f-8724-4922-acaf-4f969d35ca69.png"
+  },
+  {
+    "name": "Pontoon",
+    "description": "Connect, transform, and deliver data anywhere – no APIs, no code, no headaches. Your product’s data, delivered exactly where your customers need it.",
+    "product_hunt_url": "https://www.producthunt.com/posts/pontoon-2",
+    "created_at": "",
+    "id": "pontoon-2",
+    "label": "Data sharing made easy",
+    "topics": [
+      "Data",
+      "Business Intelligence",
+      "Analytics"
+    ],
+    "votes": 132,
+    "visit_url": "https://getpontoon.com",
+    "image": "https://ph-files.imgix.net/1d7c0e33-f416-42d9-b3d9-baed06002f00.png"
+  }
+]

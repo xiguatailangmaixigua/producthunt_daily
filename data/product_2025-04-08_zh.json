@@ -1,0 +1,339 @@
+[
+  {
+    "name": "EverTutor Live",
+    "description": "EverTutor is your AI-powered voice tutor, personalized to your learning style. Engage with it like an interactive Zoom call to master complex topics like GRE prep. Receive instant feedback as your AI tutor tailors lessons to your pace and needs.",
+    "product_hunt_url": "https://www.producthunt.com/posts/evertutor-live",
+    "created_at": "",
+    "id": "evertutor-live",
+    "label": "Your very own AI Tutor that teaches, adapts, and interacts",
+    "topics": [
+      "Education",
+      "Online Learning",
+      "Artificial Intelligence"
+    ],
+    "votes": 485,
+    "visit_url": "https://live.evertutor.ai/onboarding",
+    "image": "https://ph-files.imgix.net/040eee27-aee2-4d42-9b19-4cda3a9b486b.jpeg",
+    "label_zh": "你的专属AI导师，教学、适应并互动",
+    "topics_zh": [
+      "教育，在线学习，人工智能"
+    ],
+    "content_zh": "EverTutor Live 是你的人工智能语音导师，能够根据你的学习风格进行个性化教学。你可以像参加互动式 Zoom 通话一样与它交流，掌握复杂的主题，比如 GRE 备考。AI 导师会即时反馈，并根据你的进度和需求调整课程内容。"
+  },
+  {
+    "name": "Amurex",
+    "description": "Amurex is an open-source AI that integrates in your workflow, connecting and organizing knowledge across your existing tooling. Search, organise, and retrieve insights effortlessly, without switching contexts. Fully self-hostable for complete data control.",
+    "product_hunt_url": "https://www.producthunt.com/posts/amurex",
+    "created_at": "",
+    "id": "amurex",
+    "label": "AI companion to organize, retrieve and act on your workflows",
+    "topics": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Open Source"
+    ],
+    "votes": 409,
+    "visit_url": "https://www.amurex.ai/",
+    "image": "https://ph-files.imgix.net/02ecf6d7-0625-4482-9eea-da969e4570d2.jpeg",
+    "label_zh": "AI 伴侣，助您整理、检索和执行工作流程",
+    "topics_zh": [
+      "人工智能",
+      "生产力",
+      "开源"
+    ],
+    "content_zh": "Amurex 是一个开源的人工智能工具，可以整合到你的工作流程中，连接和组织你现有工具中的知识。你可以轻松地搜索、整理和获取信息，无需切换不同的应用。它完全支持自托管，让你完全掌控数据。"
+  },
+  {
+    "name": "Llama 4",
+    "description": "The Llama 4 collection of models are natively multimodal AI models that enable text and multimodal experiences. These models leverage a mixture-of-experts architecture to offer industry-leading performance in text and image understanding.",
+    "product_hunt_url": "https://www.producthunt.com/posts/llama-4-5",
+    "created_at": "",
+    "id": "llama-4-5",
+    "label": "A new era of natively multimodal AI innovation",
+    "topics": [
+      "Developer Tools",
+      "Artificial Intelligence"
+    ],
+    "votes": 346,
+    "visit_url": "https://llama.com/4",
+    "image": "https://ph-files.imgix.net/44208b61-f7ee-4588-8ac9-496747a111a4.png",
+    "label_zh": "一个全新原生多模态人工智能创新时代",
+    "topics_zh": [
+      "开发工具",
+      "人工智能"
+    ],
+    "content_zh": "Llama 4 系列模型是原生的多模态 AI 模型，能够实现文本和多模态体验。这些模型采用专家混合架构，提供行业领先的文本和图像理解性能。"
+  },
+  {
+    "name": "Refgrow",
+    "description": "Turn your users into affiliates — right inside your SaaS. Refgrow lets you embed a native affiliate dashboard into your product in minutes. No external tools. No earnings limits. From just $9/mo.",
+    "product_hunt_url": "https://www.producthunt.com/posts/refgrow-2",
+    "created_at": "",
+    "id": "refgrow-2",
+    "label": "Add an affiliate program to your SaaS in minutes",
+    "topics": [
+      "Growth Hacking",
+      "SaaS",
+      "Affiliate marketing"
+    ],
+    "votes": 273,
+    "visit_url": "https://refgrow.com",
+    "image": "https://ph-files.imgix.net/6b0890a1-5d13-4e20-865e-010cb3c5cf11.png",
+    "label_zh": "几分钟内为您的SaaS添加联属营销计划",
+    "topics_zh": [
+      "增长黑客",
+      "SaaS",
+      "联盟营销"
+    ],
+    "content_zh": "将你的用户变成推广员——直接在你的SaaS产品中实现。Refgrow让你在几分钟内将原生的推广仪表板嵌入到你的产品中，无需外部工具，没有收益限制。每月只需9美元起。"
+  },
+  {
+    "name": "The New Microsoft Copilot",
+    "description": "Meet the new Microsoft Copilot, your AI companion that remembers details (Memory), takes action (Actions), sees your world (Vision), and more. More personal & useful.",
+    "product_hunt_url": "https://www.producthunt.com/posts/the-new-microsoft-copilot",
+    "created_at": "",
+    "id": "the-new-microsoft-copilot",
+    "label": "Your AI Companion",
+    "topics": [
+      "Bots",
+      "Artificial Intelligence",
+      "Productivity"
+    ],
+    "votes": 237,
+    "visit_url": "https://news.microsoft.com/april-2025-copilot-news/",
+    "image": "https://ph-files.imgix.net/3890b8c9-79d5-4a38-90d6-84fa4197e55a.jpeg",
+    "label_zh": "你的AI伙伴",
+    "topics_zh": [
+      "机器人",
+      "人工智能",
+      "生产力"
+    ],
+    "content_zh": "认识一下The New Microsoft Copilot，你的AI助手。它能记住细节（记忆功能），执行任务（操作功能），理解你所见的世界（视觉功能），并且还有更多实用功能。更加个性化且有用。"
+  },
+  {
+    "name": "Dayo",
+    "description": "Dayo is a free app that pays you to use less social media. Keep your daily use under 30 minutes and get $5 bucks a day. The money can be used in Dayo’s marketplace of goods and services.",
+    "product_hunt_url": "https://www.producthunt.com/posts/dayo-2",
+    "created_at": "",
+    "id": "dayo-2",
+    "label": "Get paid NOT to use social media",
+    "topics": [
+      "Social Media",
+      "Productivity",
+      "Fintech"
+    ],
+    "votes": 212,
+    "visit_url": "https://dayo.co",
+    "image": "https://ph-files.imgix.net/02fd2727-6e0e-4dc1-8b07-e894cff96f2c.png",
+    "label_zh": "获得报酬不使用社交媒体",
+    "topics_zh": [
+      "社交媒体",
+      "生产力",
+      "金融科技"
+    ],
+    "content_zh": "Dayo 是一个免费的应用程序，通过减少社交媒体使用时间来支付你报酬。每天的使用时间不超过30分钟，就可以获得5美元。这笔钱可以在 Dayo 的商品和服务市场上使用。"
+  },
+  {
+    "name": "Mergify",
+    "description": "Effortlessly merge Spotify playlists, detect and remove duplicates, and sync updates automatically. Combine your playlists with others or Spotify-generated ones to create the ultimate mix. Keep your music clean, organized, and always up-to-date!",
+    "product_hunt_url": "https://www.producthunt.com/posts/mergify-2",
+    "created_at": "",
+    "id": "mergify-2",
+    "label": "Merge Spotify playlists.",
+    "topics": [
+      "User Experience",
+      "Music",
+      "Spotify"
+    ],
+    "votes": 161,
+    "visit_url": "https://mergify.marink.me/",
+    "image": "https://ph-files.imgix.net/47e10c71-11e8-452f-aed5-b7c333c7c39e.png",
+    "label_zh": "合并Spotify播放列表。",
+    "topics_zh": [
+      "用户体验",
+      "音乐",
+      "Spotify"
+    ],
+    "content_zh": "轻松合并Spotify播放列表，自动检测并删除重复项，并自动同步更新。你可以将你的播放列表与其他人的或Spotify生成的播放列表结合起来，创建终极混音。让你的音乐保持整洁、有序且始终最新！"
+  },
+  {
+    "name": "blakebill",
+    "description": "blakebill lets you set your price, share your work, and get paid—perfect for freelance videographers, coders, designers, music producers, pretty much any creative professional.",
+    "product_hunt_url": "https://www.producthunt.com/posts/blakebill",
+    "created_at": "",
+    "id": "blakebill",
+    "label": "Send your files. No payment, no download.",
+    "topics": [
+      "Developer Tools",
+      "Design Tools",
+      "SaaS"
+    ],
+    "votes": 170,
+    "visit_url": "https://www.blakebill.com",
+    "image": "https://ph-files.imgix.net/3ae881ee-0586-4fd9-a5d6-d35a4b4c902c.png",
+    "label_zh": "发送你的文件。无需付款，无需下载。",
+    "topics_zh": [
+      "开发者工具",
+      "设计工具",
+      "SaaS"
+    ],
+    "content_zh": "blakebill 让你可以自己定价，分享作品，并获得报酬——非常适合自由职业的摄像师、程序员、设计师、音乐制作人以及其他各类创意专业人士。"
+  },
+  {
+    "name": "Redstone AI – Ship What Customers Want",
+    "description": "Redstone AI helps you ship exactly what customers want—10x faster. Validate ideas risk-free with AI-powered Review Analysis and AI Personas. Spot trends, prioritize features, and build with confidence. Try for free—no credit card needed",
+    "product_hunt_url": "https://www.producthunt.com/posts/redstone-ai-ship-what-customers-want",
+    "created_at": "",
+    "id": "redstone-ai-ship-what-customers-want",
+    "label": "Test customer demand via AI sims, then ship.",
+    "topics": [
+      "Tech",
+      "Productivity",
+      "Analytics"
+    ],
+    "votes": 57,
+    "visit_url": "https://www.metabees.org/redstone",
+    "image": "https://ph-files.imgix.net/dd9a44e5-da16-4332-b266-ffc895768161.jpeg",
+    "label_zh": "通过AI模拟测试客户需求，然后发货。",
+    "topics_zh": [
+      "科技",
+      "生产力",
+      "分析"
+    ],
+    "content_zh": "Redstone AI 帮助你更快地推出客户真正想要的产品，速度提升十倍。利用基于AI的评论分析和AI角色来无风险验证想法。发现趋势，优先处理功能，并自信地进行开发。免费试用，无需信用卡。"
+  },
+  {
+    "name": "Sweep AI",
+    "description": "Sweep is an AI coding assistant purpose-built for JetBrains IDEs. We bring features like multi-file code \"apply\" and automatic context awareness into a secure, on-prem ready AI plugin for JetBrains.",
+    "product_hunt_url": "https://www.producthunt.com/posts/sweep-ai-2",
+    "created_at": "",
+    "id": "sweep-ai-2",
+    "label": "AI coding assistant in IntelliJ, PyCharm, and JetBrains IDEs",
+    "topics": [
+      "Developer Tools",
+      "Artificial Intelligence",
+      "Productivity"
+    ],
+    "votes": 143,
+    "visit_url": "https://docs.sweep.dev/#install-sweep",
+    "image": "https://ph-files.imgix.net/bad1e21c-7a90-4f87-accb-3be3cdc88d21.png",
+    "label_zh": "AI 编码助手，适用于 IntelliJ、PyCharm 和 JetBrains IDE",
+    "topics_zh": [
+      "开发工具",
+      "人工智能",
+      "生产力"
+    ],
+    "content_zh": "Sweep AI 是专为 JetBrains IDE 设计的 AI 编码助手。我们将多文件代码“应用”和自动上下文感知等功能整合到一个安全、支持本地部署的 JetBrains 插件中。"
+  },
+  {
+    "name": "Synchora",
+    "description": "Synchora is an app that helps you keep track of time zones around the globe. With simple yet engaging features, Synchora lets you quickly compare time differences and visualize how hours shift throughout the day.",
+    "product_hunt_url": "https://www.producthunt.com/posts/synchora",
+    "created_at": "",
+    "id": "synchora",
+    "label": "Timezone tracker to visualize how your hours shift",
+    "topics": [
+      "Travel",
+      "Productivity",
+      "Time Tracking"
+    ],
+    "votes": 149,
+    "visit_url": "https://synchora.yevhenholota.com/",
+    "image": "https://ph-files.imgix.net/9bcafbff-0ff7-4f86-99d9-651d3920eab8.jpeg",
+    "label_zh": "时区跟踪器，可视化您的时间变化",
+    "topics_zh": [
+      "旅行",
+      "生产力",
+      "时间跟踪"
+    ],
+    "content_zh": "Synchora 是一款帮助你跟踪全球时区的应用。它通过简单而实用的功能，让你可以快速比较不同时区的时间差，并直观地看到一天中时间的变化。"
+  },
+  {
+    "name": "Update",
+    "description": "Build powerful apps with seamless user authentication, organization management, and built-in subscription billing.",
+    "product_hunt_url": "https://www.producthunt.com/posts/update-3",
+    "created_at": "",
+    "id": "update-3",
+    "label": "⚡️ Authentication & Billing Made Easy",
+    "topics": [
+      "Developer Tools",
+      "Payments",
+      "Development"
+    ],
+    "votes": 144,
+    "visit_url": "https://update.dev",
+    "image": "https://ph-files.imgix.net/686e359e-e789-4636-9df4-ab5f2155c3bc.png",
+    "label_zh": "⚡️ 身份验证和账单处理变得简单",
+    "topics_zh": [
+      "开发工具",
+      "支付",
+      "开发"
+    ],
+    "content_zh": "构建强大的应用程序，实现无缝的用户认证、组织管理和内置的订阅计费功能。"
+  },
+  {
+    "name": "Klack",
+    "description": "A blazing fast native menubar app for Mac with high-fidelity sound, immersive spatial audio, instant type feedback, customizable switches, up/down keystrokes, and randomized pitching—designed to make every keystroke feel alive.",
+    "product_hunt_url": "https://www.producthunt.com/posts/klack",
+    "created_at": "",
+    "id": "klack",
+    "label": "Satisfying sound with every keystroke",
+    "topics": [
+      "Mac"
+    ],
+    "votes": 123,
+    "visit_url": "https://tryklack.com",
+    "image": "https://ph-files.imgix.net/b6170198-23d7-42d9-9e37-43c622fd5dc1.webp",
+    "label_zh": "每次按键都能发出令人满意的声音",
+    "topics_zh": [
+      "Mac\n\n麦\n\n---\n\n根据您的要求，我保留了原始格式，并将“Mac”翻译成了中文中常见的“麦”。但需要注意的是，在中文环境中，“Mac”通常直接使用英文原文，而不进行翻译。如果您有其他特定的翻译需求或上下文，请告诉我。"
+    ],
+    "content_zh": "Klack 是一款适用于 Mac 的超快原生菜单栏应用，具备高保真音效、沉浸式空间音频、即时按键反馈、可自定义的开关、上下键操作和随机音调功能，旨在让每一次按键都充满活力。"
+  },
+  {
+    "name": "ResumeInvent",
+    "description": "Tired of wasting time tweaking your resume? Meet ResumeInvent – the internet's first ATS resume builder that gives you a 100% ATS-optimized resume. No more suggestions or content to adjust, just a complete, job-winning resume ready to land you your dream job!",
+    "product_hunt_url": "https://www.producthunt.com/posts/resumeinvent",
+    "created_at": "",
+    "id": "resumeinvent",
+    "label": "Get Noticed, Get Hired – The ATS Way!",
+    "topics": [
+      "Artificial Intelligence",
+      "Career",
+      "Writing"
+    ],
+    "votes": 46,
+    "visit_url": "https://resumeinvent.com",
+    "image": "https://ph-files.imgix.net/a924983c-0c4d-4981-9e95-36a8f4189d5e.png",
+    "label_zh": "引起注意，获得聘用 – ATS 的方式！",
+    "topics_zh": [
+      "人工智能",
+      "职业",
+      "写作"
+    ],
+    "content_zh": "厌倦了反复修改简历？试试ResumeInvent吧——这是互联网上首个ATS简历生成器，能为你提供100%优化的简历。再也不用费心调整内容或接受建议，直接拿到一份完整的、能帮你赢得心仪工作的简历！"
+  },
+  {
+    "name": "VidifyAI Studio",
+    "description": "Create studio-quality videos featuring lifelike AI avatars in minutes, not hours. The smarter way to produce engaging content for marketing, education, and business.",
+    "product_hunt_url": "https://www.producthunt.com/posts/vidifyai-studio",
+    "created_at": "",
+    "id": "vidifyai-studio",
+    "label": "Create stunning AI videos from text in minutes.",
+    "topics": [
+      "Marketing",
+      "Artificial Intelligence",
+      "SaaS"
+    ],
+    "votes": 54,
+    "visit_url": "https://www.vidifyai.in/",
+    "image": "https://ph-files.imgix.net/7b3b49ba-b181-4917-b5cb-c3df25dd92f1.png",
+    "label_zh": "在几分钟内将文本转换为令人惊艳的AI视频。",
+    "topics_zh": [
+      "市场营销",
+      "人工智能",
+      "SaaS（软件即服务）"
+    ],
+    "content_zh": "几分钟内就能制作出高质量的视频，其中包含逼真的AI虚拟人物，而不是耗费数小时。这是一种更智能的方法，可以为营销、教育和商业制作引人入胜的内容。"
+  }
+]
