@@ -1,0 +1,328 @@
+[
+  {
+    "name": "Viral Marketing Lab",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/viral-marketing-lab",
+    "created_at": "",
+    "id": "viral-marketing-lab",
+    "label": "Viral Marketing Resources for Bootstrapped Founders 🦄",
+    "topics": [
+      "Marketing",
+      "Internet of Things",
+      "Growth Hacking"
+    ],
+    "votes": 115,
+    "visit_url": "https://viralmarketinglab.com/",
+    "image": "https://ph-files.imgix.net/14b01310-73fc-4788-8e6e-cb12c66e1049.png",
+    "label_zh": "病毒式营销资源，助力初创创始人 🦄",
+    "topics_zh": [
+      "市场营销",
+      "物联网",
+      "增长黑客"
+    ]
+  },
+  {
+    "name": "mrge",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/mrge",
+    "created_at": "",
+    "id": "mrge",
+    "label": "Cursor for code review",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "votes": 460,
+    "visit_url": "https://mrge.io/home",
+    "image": "https://ph-files.imgix.net/57fe90fc-04ad-42e6-91a8-4b300b8f50a2.png",
+    "label_zh": "代码审查光标",
+    "topics_zh": [
+      "人工智能",
+      "开发者工具"
+    ]
+  },
+  {
+    "name": "Kotae",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/kotae-2",
+    "created_at": "",
+    "id": "kotae-2",
+    "label": "Convert website visitors into customers",
+    "topics": [
+      "Artificial Intelligence",
+      "Marketing",
+      "Customer Communication"
+    ],
+    "votes": 352,
+    "visit_url": "https://kotae.ai/",
+    "image": "https://ph-files.imgix.net/c7d75d74-7907-4699-9fc7-473c25e54d3d.png",
+    "label_zh": "将网站访客转化为客户",
+    "topics_zh": [
+      "人工智能",
+      "市场营销",
+      "客户沟通"
+    ]
+  },
+  {
+    "name": "Ztalk.ai",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/ztalk-ai",
+    "created_at": "",
+    "id": "ztalk-ai",
+    "label": "Real-time voice translation",
+    "topics": [
+      "Audio",
+      "Artificial Intelligence",
+      "Languages"
+    ],
+    "votes": 351,
+    "visit_url": "https://ztalk.ai/",
+    "image": "https://ph-files.imgix.net/e76733d1-f0df-4537-a99e-4e81ec1e25a5.png",
+    "label_zh": "实时语音翻译",
+    "topics_zh": [
+      "音频",
+      "人工智能",
+      "语言"
+    ]
+  },
+  {
+    "name": "AI Email Signature Generator",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/ai-email-signature-generator",
+    "created_at": "",
+    "id": "ai-email-signature-generator",
+    "label": "Create stunning, professional email signatures instantly",
+    "topics": [
+      "Email",
+      "Design Tools",
+      "Marketing"
+    ],
+    "votes": 248,
+    "visit_url": "https://www.mailmodo.com/tools/email-signature-generator/",
+    "image": "https://ph-files.imgix.net/4a07a568-a014-4a5c-9465-60160cab26d9.png",
+    "label_zh": "立即创建令人惊艳的专业电子邮件签名",
+    "topics_zh": [
+      "电子邮件",
+      "设计工具",
+      "市场营销"
+    ]
+  },
+  {
+    "name": "Competely AI Agent",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/competely-ai-agent",
+    "created_at": "",
+    "id": "competely-ai-agent",
+    "label": "Instantly find, analyze, and track your competitors with AI",
+    "topics": [
+      "Artificial Intelligence",
+      "Business Intelligence",
+      "Marketing"
+    ],
+    "votes": 243,
+    "visit_url": "https://competely.ai",
+    "image": "https://ph-files.imgix.net/5f7501f1-d9cf-42a0-abe7-ec4c600a3de9.png",
+    "label_zh": "即时发现、分析并跟踪您的竞争对手，借助人工智能的力量",
+    "topics_zh": [
+      "人工智能",
+      "商业智能",
+      "市场营销"
+    ]
+  },
+  {
+    "name": "Ingage",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/ingage-3",
+    "created_at": "",
+    "id": "ingage-3",
+    "label": "Build LinkedIn influence with AI-driven organic engagement",
+    "topics": [
+      "LinkedIn",
+      "Artificial Intelligence",
+      "Marketing"
+    ],
+    "votes": 66,
+    "visit_url": "https://ingagenow.co/",
+    "image": "https://ph-files.imgix.net/299cdf4c-577e-4e37-97fe-fbcde32ff598.png",
+    "label_zh": "用AI驱动的自然互动来建立领英影响力",
+    "topics_zh": [
+      "领英",
+      "人工智能",
+      "市场营销"
+    ]
+  },
+  {
+    "name": "Create.ad",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/create-ad",
+    "created_at": "",
+    "id": "create-ad",
+    "label": "Create ads by adding 'create.ad' to any link",
+    "topics": [
+      "Design Tools",
+      "Advertising",
+      "Marketing"
+    ],
+    "votes": 189,
+    "visit_url": "https://create.ad",
+    "image": "https://ph-files.imgix.net/323338aa-3fe2-4814-81a4-3d5898589573.png",
+    "label_zh": "创建广告，只需在任何链接后添加 'create.ad'",
+    "topics_zh": [
+      "设计工具",
+      "广告",
+      "营销"
+    ]
+  },
+  {
+    "name": "Impakt",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/impakt-2",
+    "created_at": "",
+    "id": "impakt-2",
+    "label": "Find purpose-driven jobs in climate, health, tech & more",
+    "topics": [
+      "Hiring",
+      "Career",
+      "Social Impact"
+    ],
+    "votes": 178,
+    "visit_url": "https://impakt.work",
+    "image": "https://ph-files.imgix.net/b75408d5-3b9e-4414-9442-fea76716a090.jpeg",
+    "label_zh": "找到有目标的工作，涵盖气候、健康、科技等领域",
+    "topics_zh": [
+      "招聘",
+      "职业",
+      "社会影响"
+    ]
+  },
+  {
+    "name": "Lyra",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/lyra-4",
+    "created_at": "",
+    "id": "lyra-4",
+    "label": "Your personal shopping assistant",
+    "topics": [
+      "E-Commerce",
+      "Artificial Intelligence",
+      "Chrome Extensions"
+    ],
+    "votes": 63,
+    "visit_url": "https://getlyra.ai/",
+    "image": "https://ph-files.imgix.net/d00dce42-a4ea-40c0-a05c-2f6c3f448b89.jpeg",
+    "label_zh": "您的私人购物助手",
+    "topics_zh": [
+      "电子商务",
+      "人工智能",
+      "Chrome扩展程序"
+    ]
+  },
+  {
+    "name": "notclass",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/notclass-3",
+    "created_at": "",
+    "id": "notclass-3",
+    "label": "Turn YouTube videos into courses w/AI",
+    "topics": [
+      "YouTube",
+      "Online Learning",
+      "Education"
+    ],
+    "votes": 171,
+    "visit_url": "https://notclass.com",
+    "image": "https://ph-files.imgix.net/0db9aa91-7d47-49c1-8b17-814a0c23ad1a.png",
+    "label_zh": "将YouTube视频转化为课程，借助AI力量",
+    "topics_zh": [
+      "YouTube",
+      "在线学习",
+      "教育"
+    ]
+  },
+  {
+    "name": "Hirenga",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/hirenga",
+    "created_at": "",
+    "id": "hirenga",
+    "label": "ATS that smartly organizes, scores, and tracks candidates",
+    "topics": [
+      "Hiring",
+      "Artificial Intelligence",
+      "Productivity"
+    ],
+    "votes": 167,
+    "visit_url": "https://hirenga.com",
+    "image": "https://ph-files.imgix.net/f21566b7-6fc9-4ba7-9574-a119cd43a7a6.png",
+    "label_zh": "智能ATS，高效整理、评分和追踪候选人",
+    "topics_zh": [
+      "招聘",
+      "人工智能",
+      "生产力"
+    ]
+  },
+  {
+    "name": "SLATE",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/slate-e3d70180-08ee-44c0-8476-892a36c479f5",
+    "created_at": "",
+    "id": "slate-e3d70180-08ee-44c0-8476-892a36c479f5",
+    "label": "The affordable, all-electric truck that adapts to your life",
+    "topics": [
+      "Cars",
+      "Transportation",
+      "Climate Tech"
+    ],
+    "votes": 166,
+    "visit_url": "https://slate.auto",
+    "image": "https://ph-files.imgix.net/33570fe0-04bc-4238-b872-e7e2fa429cb0.jpeg",
+    "label_zh": "经济实惠的全电动卡车，适应您的生活",
+    "topics_zh": [
+      "汽车、交通运输、气候科技"
+    ]
+  },
+  {
+    "name": "NeuraPrep",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/neuraprep",
+    "created_at": "",
+    "id": "neuraprep",
+    "label": "The first autonomous technical interviewer you can prep with",
+    "topics": [
+      "Audio",
+      "Artificial Intelligence",
+      "Career"
+    ],
+    "votes": 57,
+    "visit_url": "https://neuraprep.com",
+    "image": "https://ph-files.imgix.net/ff2e1c82-d1b9-4812-90fe-b31258768020.png",
+    "label_zh": "第一个可以用来准备面试的自主技术面试官",
+    "topics_zh": [
+      "音频",
+      "人工智能",
+      "职业发展"
+    ]
+  },
+  {
+    "name": "Shepherd",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/shepherd-977b334c-383a-4ca3-ae25-1499442d79c6",
+    "created_at": "",
+    "id": "shepherd-977b334c-383a-4ca3-ae25-1499442d79c6",
+    "label": "All in one personalized learning assistant",
+    "topics": [
+      "Artificial Intelligence",
+      "Online Learning",
+      "Education"
+    ],
+    "votes": 148,
+    "visit_url": "https://www.shepherd.study",
+    "image": "https://ph-files.imgix.net/b3d7004f-aca0-46c1-8354-6e1349246bad.png",
+    "label_zh": "全能个性化学习助手",
+    "topics_zh": [
+      "人工智能",
+      "在线学习",
+      "教育"
+    ]
+  }
+]
