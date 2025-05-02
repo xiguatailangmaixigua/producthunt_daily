@@ -1,0 +1,241 @@
+[
+  {
+    "name": "Raycast for iOS",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/raycast-for-ios",
+    "created_at": "",
+    "id": "raycast-for-ios",
+    "label": "Powerful productivity on the go",
+    "topics": [
+      "Productivity",
+      "Artificial Intelligence",
+      "iOS"
+    ],
+    "votes": 608,
+    "visit_url": "https://raycast.com/ios",
+    "image": "https://ph-files.imgix.net/934da8ac-639b-453b-b90c-0577427c850f.png"
+  },
+  {
+    "name": "Postiz v2",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/postiz-v2",
+    "created_at": "",
+    "id": "postiz-v2",
+    "label": "Social Media Scheduling with MCP support",
+    "topics": [
+      "Marketing",
+      "SaaS",
+      "Social Media"
+    ],
+    "votes": 530,
+    "visit_url": "https://postiz.com",
+    "image": "https://ph-files.imgix.net/83225eb1-5aac-41f4-9ea5-4ae17ff5cf2b.png"
+  },
+  {
+    "name": "Indilingo",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/indilingo",
+    "created_at": "",
+    "id": "indilingo",
+    "label": "Learn Indian languages for FREE",
+    "topics": [
+      "Education",
+      "Android",
+      "Artificial Intelligence"
+    ],
+    "votes": 77,
+    "visit_url": "https://www.indilingo.in",
+    "image": "https://ph-files.imgix.net/b3c56b29-6466-47c6-956e-ef4ee3263602.png"
+  },
+  {
+    "name": "LLMrefs",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/llmrefs",
+    "created_at": "",
+    "id": "llmrefs",
+    "label": "AI SEO Keyword Rank Tracker for LLM Search Engines",
+    "topics": [
+      "SEO",
+      "Artificial Intelligence",
+      "Search"
+    ],
+    "votes": 234,
+    "visit_url": "https://llmrefs.com/",
+    "image": "https://ph-files.imgix.net/51e2dd3f-e014-4bbb-a2c8-56367754a23c.png"
+  },
+  {
+    "name": "Foodee",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/foodee",
+    "created_at": "",
+    "id": "foodee",
+    "label": "Transform google sheets into digital menus and landing pages",
+    "topics": [
+      "Spreadsheets",
+      "Food & Drink",
+      "SaaS"
+    ],
+    "votes": 227,
+    "visit_url": "https://foodee.store/",
+    "image": "https://ph-files.imgix.net/65ed12ab-0815-4a51-8939-6a34ce552d94.png"
+  },
+  {
+    "name": "GoCodeo SaaS Builder",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/gocodeo-saas-builder",
+    "created_at": "",
+    "id": "gocodeo-saas-builder",
+    "label": "An open-source AI agent that builds full-stack SaaS apps",
+    "topics": [
+      "Open Source",
+      "Productivity",
+      "Developer Tools"
+    ],
+    "votes": 172,
+    "visit_url": "https://github.com/jatingarg619/saas-builder",
+    "image": "https://ph-files.imgix.net/8758d5a4-6bdf-4099-8d00-22db5a856fe8.png"
+  },
+  {
+    "name": "Product Hunt for Raycast",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/product-hunt-for-raycast",
+    "created_at": "",
+    "id": "product-hunt-for-raycast",
+    "label": "View the leaderboard directly in Raycast",
+    "topics": [
+      "Productivity",
+      "Product Hunt",
+      "GitHub"
+    ],
+    "votes": 165,
+    "visit_url": "https://www.raycast.com/ragnor/producthunt",
+    "image": "https://ph-files.imgix.net/658e883e-4f45-4e56-9652-3c7a5869cb03.png"
+  },
+  {
+    "name": "Dazzle",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/dazzle-3",
+    "created_at": "",
+    "id": "dazzle-3",
+    "label": "Create Ads at Light Speed",
+    "topics": [
+      "Advertising",
+      "Marketing",
+      "Design Tools"
+    ],
+    "votes": 162,
+    "visit_url": "https://dazzle.ad",
+    "image": "https://ph-files.imgix.net/70399b8e-6f31-40b7-b3a3-764cd9e02ae2.jpeg"
+  },
+  {
+    "name": "omiGPT",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/omigpt",
+    "created_at": "",
+    "id": "omigpt",
+    "label": "Connect 100+ tools to ChatGPT and make it 5x more personal",
+    "topics": [
+      "Productivity",
+      "Artificial Intelligence",
+      "GitHub"
+    ],
+    "votes": 156,
+    "visit_url": "https://personas.omi.me",
+    "image": "https://ph-files.imgix.net/acaf83be-85e9-48a2-8a1e-8ccdc42060a3.png"
+  },
+  {
+    "name": "Songjam - X/Twitter Space Insights & CRM",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/songjam-x-twitter-space-insights-crm",
+    "created_at": "",
+    "id": "songjam-x-twitter-space-insights-crm",
+    "label": "Capture Every Conversation",
+    "topics": [
+      "Notes",
+      "Twitter",
+      "Artificial Intelligence"
+    ],
+    "votes": 51,
+    "visit_url": "https://songjam.space",
+    "image": "https://ph-files.imgix.net/cc130c16-f12b-466f-a643-368ef13da9dd.png"
+  },
+  {
+    "name": "Querri",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/querri",
+    "created_at": "",
+    "id": "querri",
+    "label": "Making data ridiculously easy for teams without data pros",
+    "topics": [
+      "Artificial Intelligence",
+      "Data & Analytics",
+      "Business Intelligence"
+    ],
+    "votes": 147,
+    "visit_url": "https://www.querri.ai",
+    "image": "https://ph-files.imgix.net/97000a88-6751-460c-ba38-718d72c6c262.jpeg"
+  },
+  {
+    "name": "Vibesuite",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/vibesuite",
+    "created_at": "",
+    "id": "vibesuite",
+    "label": "Work 3x faster with v0, Lovable, and more",
+    "topics": [
+      "No-Code",
+      "Chrome Extensions",
+      "Developer Tools"
+    ],
+    "votes": 153,
+    "visit_url": "https://vibesuite.co",
+    "image": "https://ph-files.imgix.net/1163b352-b491-4347-a04b-08126b1db155.png"
+  },
+  {
+    "name": "Graphtracks",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/graphtracks-2",
+    "created_at": "",
+    "id": "graphtracks-2",
+    "label": "Discover BlueSky marketing analytics & business statistics",
+    "topics": [
+      "SaaS",
+      "Social Media",
+      "Analytics"
+    ],
+    "votes": 52,
+    "visit_url": "https://www.graphtracks.com/",
+    "image": "https://ph-files.imgix.net/46868276-2eb7-4b39-919d-1dd104734d19.png"
+  },
+  {
+    "name": "Infogrammy",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/infogrammy",
+    "created_at": "",
+    "id": "infogrammy",
+    "label": "Create data infographics with AI",
+    "topics": [
+      "Data Visualization",
+      "Design Tools"
+    ],
+    "votes": 127,
+    "visit_url": "https://infogrammy.com",
+    "image": "https://ph-files.imgix.net/b142e6a7-0644-42c1-a777-f4248760f6a8.png"
+  },
+  {
+    "name": "LetMeName",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/posts/letmename",
+    "created_at": "",
+    "id": "letmename",
+    "label": "Pet naming community - real votes, zero AI, all love ❤️",
+    "topics": [
+      "Community",
+      "Pets",
+      "Entertainment"
+    ],
+    "votes": 47,
+    "visit_url": "https://letmename.com",
+    "image": "https://ph-files.imgix.net/30ea38b0-a383-462b-bb8b-2b63f2aa23e8.webp"
+  }
+]

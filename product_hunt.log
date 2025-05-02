@@ -31496,3 +31496,198 @@ Version: 4.1.0.17
 2025-05-02 10:53:36,138 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
 2025-05-02 10:53:46,970 - INFO - 获取 2025-05-02 的Product Hunt热门产品
 2025-05-02 10:53:46,971 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-05-02 10:54:16,973 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: 
+Browser connect failed, check whether the port 9222 is a browser and "--remote-debugging-port=9222" startup item is added.
+Address: 127.0.0.1:9222
+Version: 4.1.0.17
+2025-05-02 10:54:16,974 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-05-02 10:54:23,858 - INFO - 获取 2025-05-02 的Product Hunt热门产品
+2025-05-02 10:54:23,858 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-05-02 10:54:53,861 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: 
+Browser connect failed, check whether the port 9222 is a browser and "--remote-debugging-port=9222" startup item is added.
+Address: 127.0.0.1:9222
+Version: 4.1.0.17
+2025-05-02 10:54:53,862 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-05-02 10:55:00,892 - INFO - 获取 2025-05-02 的Product Hunt热门产品
+2025-05-02 10:55:00,892 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-05-02 10:55:54,501 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: 
+Browser connect failed, check whether the port 9222 is a browser and "--remote-debugging-port=9222" startup item is added.
+Address: 127.0.0.1:9222
+Version: 4.1.0.17
+2025-05-02 10:55:54,502 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-05-02 10:56:18,645 - INFO - 获取 2025-05-02 的Product Hunt热门产品
+2025-05-02 10:56:18,645 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-05-02 10:56:48,648 - ERROR - 使用DrissionPage获取Product Hunt页面内容时出错: 
+Browser connect failed, check whether the port 9222 is a browser and "--remote-debugging-port=9222" startup item is added.
+Address: 127.0.0.1:9222
+Version: 4.1.0.17
+2025-05-02 10:56:48,648 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-05-02 10:57:06,519 - INFO - 获取 2025-05-02 的Product Hunt热门产品
+2025-05-02 10:57:06,519 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-05-02 10:57:23,409 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-05-02 10:57:23,415 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/5/1/all
+2025-05-02 10:57:27,284 - INFO - 已保存页面源代码到 producthunt_drission_20250502_105727.html
+2025-05-02 10:57:27,285 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-05-02 10:57:27,289 - INFO - 使用BeautifulSoup找到 0 个产品section
+2025-05-02 10:57:27,289 - ERROR - 使用DrissionPage获取Product Hunt页面内容失败
+2025-05-02 10:57:52,577 - INFO - 获取 2025-05-02 的Product Hunt热门产品
+2025-05-02 10:57:52,578 - INFO - 尝试使用DrissionPage获取Product Hunt页面内容...
+2025-05-02 10:57:52,609 - WARNING - 无法设置DrissionPage的超时时间，使用默认值
+2025-05-02 10:57:52,612 - INFO - 访问昨天的Product Hunt排行榜页面: https://www.producthunt.com/leaderboard/daily/2025/5/1/all
+2025-05-02 10:57:55,055 - INFO - 已保存页面源代码到 producthunt_drission_20250502_105755.html
+2025-05-02 10:57:55,055 - INFO - 尝试使用BeautifulSoup解析页面...
+2025-05-02 10:57:55,115 - INFO - 使用BeautifulSoup找到 17 个产品section
+2025-05-02 10:57:55,115 - INFO - 成功处理产品 1: Raycast for iOS
+2025-05-02 10:57:55,116 - INFO - 成功处理产品 2: Postiz v2
+2025-05-02 10:57:55,116 - INFO - 成功处理产品 3: Indilingo
+2025-05-02 10:57:55,116 - INFO - 成功处理产品 4: LLMrefs
+2025-05-02 10:57:55,117 - INFO - 成功处理产品 5: Foodee
+2025-05-02 10:57:55,117 - INFO - 成功处理产品 6: GoCodeo SaaS Builder
+2025-05-02 10:57:55,117 - INFO - 成功处理产品 7: Product Hunt for Raycast
+2025-05-02 10:57:55,117 - INFO - 成功处理产品 8: Dazzle
+2025-05-02 10:57:55,118 - INFO - 成功处理产品 9: omiGPT
+2025-05-02 10:57:55,118 - INFO - 成功处理产品 10: Songjam - X/Twitter Space Insights & CRM
+2025-05-02 10:57:55,118 - INFO - 成功处理产品 11: Querri
+2025-05-02 10:57:55,119 - INFO - 成功处理产品 12: Vibesuite
+2025-05-02 10:57:55,119 - INFO - 成功处理产品 13: Graphtracks
+2025-05-02 10:57:55,119 - INFO - 成功处理产品 14: Infogrammy
+2025-05-02 10:57:55,119 - INFO - 成功处理产品 15: LetMeName
+2025-05-02 10:57:55,120 - INFO - 成功缓存 15 个产品元素的信息
+2025-05-02 10:57:55,120 - INFO - 找到 15 个产品
+2025-05-02 10:57:55,120 - INFO - 尝试使用DrissionPage方法构建产品数据...
+2025-05-02 10:57:55,130 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/raycast-for-ios
+2025-05-02 10:57:57,367 - INFO - 已保存产品页面源代码到 producthunt_product_raycast-for-ios.html
+2025-05-02 10:57:57,782 - INFO - 使用DrissionPage获取到产品名称: Raycast for iOS
+2025-05-02 10:57:57,782 - INFO - 使用DrissionPage获取到产品label: Powerful productivity on the go
+2025-05-02 10:57:57,791 - INFO - 从primaryLink获取到visit_url: https://raycast.com/ios
+2025-05-02 10:57:57,797 - INFO - 使用DrissionPage获取到主题标签: ['Productivity', 'Artificial Intelligence', 'iOS']
+2025-05-02 10:57:57,804 - INFO - 使用DrissionPage获取到投票数: 608
+2025-05-02 10:57:57,805 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/934da8ac-639b-453b-b90c-0577427c850f.png
+2025-05-02 10:57:57,813 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/postiz-v2
+2025-05-02 10:57:59,399 - INFO - 已保存产品页面源代码到 producthunt_product_postiz-v2.html
+2025-05-02 10:57:59,547 - INFO - 使用DrissionPage获取到产品名称: Postiz v2
+2025-05-02 10:57:59,548 - INFO - 使用DrissionPage获取到产品label: Social Media Scheduling with MCP support
+2025-05-02 10:57:59,552 - INFO - 从primaryLink获取到visit_url: https://postiz.com
+2025-05-02 10:57:59,553 - INFO - 使用DrissionPage获取到主题标签: ['Marketing', 'SaaS', 'Social Media']
+2025-05-02 10:57:59,556 - INFO - 使用DrissionPage获取到投票数: 530
+2025-05-02 10:57:59,557 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/83225eb1-5aac-41f4-9ea5-4ae17ff5cf2b.png
+2025-05-02 10:57:59,565 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/indilingo
+2025-05-02 10:58:01,367 - INFO - 已保存产品页面源代码到 producthunt_product_indilingo.html
+2025-05-02 10:58:01,509 - INFO - 使用DrissionPage获取到产品名称: Indilingo
+2025-05-02 10:58:01,509 - INFO - 使用DrissionPage获取到产品label: Learn Indian languages for FREE
+2025-05-02 10:58:01,512 - INFO - 从primaryLink获取到visit_url: https://www.indilingo.in
+2025-05-02 10:58:01,513 - INFO - 使用DrissionPage获取到主题标签: ['Education', 'Android', 'Artificial Intelligence']
+2025-05-02 10:58:01,517 - INFO - 使用DrissionPage获取到投票数: 77
+2025-05-02 10:58:01,517 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/b3c56b29-6466-47c6-956e-ef4ee3263602.png
+2025-05-02 10:58:01,526 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/llmrefs
+2025-05-02 10:58:03,190 - INFO - 已保存产品页面源代码到 producthunt_product_llmrefs.html
+2025-05-02 10:58:03,323 - INFO - 使用DrissionPage获取到产品名称: LLMrefs
+2025-05-02 10:58:03,323 - INFO - 使用DrissionPage获取到产品label: AI SEO Keyword Rank Tracker for LLM Search Engines
+2025-05-02 10:58:03,326 - INFO - 从primaryLink获取到visit_url: https://llmrefs.com/
+2025-05-02 10:58:03,327 - INFO - 使用DrissionPage获取到主题标签: ['SEO', 'Artificial Intelligence', 'Search']
+2025-05-02 10:58:03,333 - INFO - 使用DrissionPage获取到投票数: 234
+2025-05-02 10:58:03,334 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/51e2dd3f-e014-4bbb-a2c8-56367754a23c.png
+2025-05-02 10:58:03,342 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/foodee
+2025-05-02 10:58:05,431 - INFO - 已保存产品页面源代码到 producthunt_product_foodee.html
+2025-05-02 10:58:05,678 - INFO - 使用DrissionPage获取到产品名称: Foodee
+2025-05-02 10:58:05,679 - INFO - 使用DrissionPage获取到产品label: Transform google sheets into digital menus and landing pages
+2025-05-02 10:58:05,685 - INFO - 从primaryLink获取到visit_url: https://foodee.store/
+2025-05-02 10:58:05,690 - INFO - 使用DrissionPage获取到主题标签: ['Spreadsheets', 'Food & Drink', 'SaaS']
+2025-05-02 10:58:05,696 - INFO - 使用DrissionPage获取到投票数: 227
+2025-05-02 10:58:05,696 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/65ed12ab-0815-4a51-8939-6a34ce552d94.png
+2025-05-02 10:58:05,702 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/gocodeo-saas-builder
+2025-05-02 10:58:07,375 - INFO - 已保存产品页面源代码到 producthunt_product_gocodeo-saas-builder.html
+2025-05-02 10:58:07,674 - INFO - 使用DrissionPage获取到产品名称: GoCodeo SaaS Builder
+2025-05-02 10:58:07,674 - INFO - 使用DrissionPage获取到产品label: An open-source AI agent that builds full-stack SaaS apps
+2025-05-02 10:58:07,677 - INFO - 从primaryLink获取到visit_url: https://github.com/jatingarg619/saas-builder
+2025-05-02 10:58:07,679 - INFO - 使用DrissionPage获取到主题标签: ['Open Source', 'Productivity', 'Developer Tools']
+2025-05-02 10:58:07,683 - INFO - 使用DrissionPage获取到投票数: 172
+2025-05-02 10:58:07,684 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/8758d5a4-6bdf-4099-8d00-22db5a856fe8.png
+2025-05-02 10:58:07,693 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/product-hunt-for-raycast
+2025-05-02 10:58:09,394 - INFO - 已保存产品页面源代码到 producthunt_product_product-hunt-for-raycast.html
+2025-05-02 10:58:09,571 - INFO - 使用DrissionPage获取到产品名称: Product Hunt for Raycast
+2025-05-02 10:58:09,583 - INFO - 使用DrissionPage获取到产品label: View the leaderboard directly in Raycast
+2025-05-02 10:58:09,594 - INFO - 从primaryLink获取到visit_url: https://www.raycast.com/ragnor/producthunt
+2025-05-02 10:58:09,615 - INFO - 使用DrissionPage获取到主题标签: ['Productivity', 'Product Hunt', 'GitHub']
+2025-05-02 10:58:09,625 - INFO - 使用DrissionPage获取到投票数: 165
+2025-05-02 10:58:09,626 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/658e883e-4f45-4e56-9652-3c7a5869cb03.png
+2025-05-02 10:58:09,636 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/dazzle-3
+2025-05-02 10:58:11,480 - INFO - 已保存产品页面源代码到 producthunt_product_dazzle-3.html
+2025-05-02 10:58:11,671 - INFO - 使用DrissionPage获取到产品名称: Dazzle
+2025-05-02 10:58:11,671 - INFO - 使用DrissionPage获取到产品label: Create Ads at Light Speed
+2025-05-02 10:58:11,676 - INFO - 从primaryLink获取到visit_url: https://dazzle.ad
+2025-05-02 10:58:11,679 - INFO - 使用DrissionPage获取到主题标签: ['Advertising', 'Marketing', 'Design Tools']
+2025-05-02 10:58:11,683 - INFO - 使用DrissionPage获取到投票数: 162
+2025-05-02 10:58:11,683 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/70399b8e-6f31-40b7-b3a3-764cd9e02ae2.jpeg
+2025-05-02 10:58:11,690 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/omigpt
+2025-05-02 10:58:13,616 - INFO - 已保存产品页面源代码到 producthunt_product_omigpt.html
+2025-05-02 10:58:13,728 - INFO - 使用DrissionPage获取到产品名称: omiGPT
+2025-05-02 10:58:13,729 - INFO - 使用DrissionPage获取到产品label: Connect 100+ tools to ChatGPT and make it 5x more personal
+2025-05-02 10:58:13,733 - INFO - 从primaryLink获取到visit_url: https://personas.omi.me
+2025-05-02 10:58:13,735 - INFO - 使用DrissionPage获取到主题标签: ['Productivity', 'Artificial Intelligence', 'GitHub']
+2025-05-02 10:58:13,738 - INFO - 使用DrissionPage获取到投票数: 156
+2025-05-02 10:58:13,738 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/acaf83be-85e9-48a2-8a1e-8ccdc42060a3.png
+2025-05-02 10:58:13,744 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/songjam-x-twitter-space-insights-crm
+2025-05-02 10:58:15,603 - INFO - 已保存产品页面源代码到 producthunt_product_songjam-x-twitter-space-insights-crm.html
+2025-05-02 10:58:15,733 - INFO - 使用DrissionPage获取到产品名称: Songjam - X/Twitter Space Insights & CRM
+2025-05-02 10:58:15,733 - INFO - 使用DrissionPage获取到产品label: Capture Every Conversation
+2025-05-02 10:58:15,736 - INFO - 从primaryLink获取到visit_url: https://songjam.space
+2025-05-02 10:58:15,737 - INFO - 使用DrissionPage获取到主题标签: ['Notes', 'Twitter', 'Artificial Intelligence']
+2025-05-02 10:58:15,740 - INFO - 使用DrissionPage获取到投票数: 51
+2025-05-02 10:58:15,741 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/cc130c16-f12b-466f-a643-368ef13da9dd.png
+2025-05-02 10:58:15,748 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/querri
+2025-05-02 10:58:21,172 - INFO - 已保存产品页面源代码到 producthunt_product_querri.html
+2025-05-02 10:58:21,512 - INFO - 使用DrissionPage获取到产品名称: Querri
+2025-05-02 10:58:21,513 - INFO - 使用DrissionPage获取到产品label: Making data ridiculously easy for teams without data pros
+2025-05-02 10:58:21,527 - INFO - 从primaryLink获取到visit_url: https://www.querri.ai
+2025-05-02 10:58:21,533 - INFO - 使用DrissionPage获取到主题标签: ['Artificial Intelligence', 'Data & Analytics', 'Business Intelligence']
+2025-05-02 10:58:21,540 - INFO - 使用DrissionPage获取到投票数: 147
+2025-05-02 10:58:21,541 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/97000a88-6751-460c-ba38-718d72c6c262.jpeg
+2025-05-02 10:58:21,548 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/vibesuite
+2025-05-02 10:58:23,118 - INFO - 已保存产品页面源代码到 producthunt_product_vibesuite.html
+2025-05-02 10:58:23,227 - INFO - 使用DrissionPage获取到产品名称: Vibesuite
+2025-05-02 10:58:23,227 - INFO - 使用DrissionPage获取到产品label: Work 3x faster with v0, Lovable, and more
+2025-05-02 10:58:23,229 - INFO - 从primaryLink获取到visit_url: https://vibesuite.co
+2025-05-02 10:58:23,231 - INFO - 使用DrissionPage获取到主题标签: ['No-Code', 'Chrome Extensions', 'Developer Tools']
+2025-05-02 10:58:23,234 - INFO - 使用DrissionPage获取到投票数: 153
+2025-05-02 10:58:23,234 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/1163b352-b491-4347-a04b-08126b1db155.png
+2025-05-02 10:58:23,242 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/graphtracks-2
+2025-05-02 10:58:24,875 - INFO - 已保存产品页面源代码到 producthunt_product_graphtracks-2.html
+2025-05-02 10:58:25,173 - INFO - 使用DrissionPage获取到产品名称: Graphtracks
+2025-05-02 10:58:25,174 - INFO - 使用DrissionPage获取到产品label: Discover BlueSky marketing analytics & business statistics
+2025-05-02 10:58:25,179 - INFO - 从primaryLink获取到visit_url: https://www.graphtracks.com/
+2025-05-02 10:58:25,183 - INFO - 使用DrissionPage获取到主题标签: ['SaaS', 'Social Media', 'Analytics']
+2025-05-02 10:58:25,188 - INFO - 使用DrissionPage获取到投票数: 52
+2025-05-02 10:58:25,189 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/46868276-2eb7-4b39-919d-1dd104734d19.png
+2025-05-02 10:58:25,199 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/infogrammy
+2025-05-02 10:58:27,309 - INFO - 已保存产品页面源代码到 producthunt_product_infogrammy.html
+2025-05-02 10:58:27,552 - INFO - 使用DrissionPage获取到产品名称: Infogrammy
+2025-05-02 10:58:27,552 - INFO - 使用DrissionPage获取到产品label: Create data infographics with AI
+2025-05-02 10:58:27,650 - INFO - 从primaryLink获取到visit_url: https://infogrammy.com
+2025-05-02 10:58:27,677 - INFO - 使用DrissionPage获取到主题标签: ['Data Visualization', 'Design Tools']
+2025-05-02 10:58:27,691 - INFO - 使用DrissionPage获取到投票数: 127
+2025-05-02 10:58:27,691 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/b142e6a7-0644-42c1-a777-f4248760f6a8.png
+2025-05-02 10:58:27,701 - INFO - 使用DrissionPage访问产品页面: https://www.producthunt.com/posts/letmename
+2025-05-02 10:58:33,425 - INFO - 已保存产品页面源代码到 producthunt_product_letmename.html
+2025-05-02 10:58:33,650 - INFO - 使用DrissionPage获取到产品名称: LetMeName
+2025-05-02 10:58:33,650 - INFO - 使用DrissionPage获取到产品label: Pet naming community - real votes, zero AI, all love ❤️
+2025-05-02 10:58:33,657 - INFO - 从primaryLink获取到visit_url: https://letmename.com
+2025-05-02 10:58:33,661 - INFO - 使用DrissionPage获取到主题标签: ['Community', 'Pets', 'Entertainment']
+2025-05-02 10:58:33,667 - INFO - 使用DrissionPage获取到投票数: 47
+2025-05-02 10:58:33,668 - INFO - 成功从meta标签获取产品图片: https://ph-files.imgix.net/30ea38b0-a383-462b-bb8b-2b63f2aa23e8.webp
+2025-05-02 10:58:33,668 - INFO - 使用备用方法添加产品: Raycast for iOS
+2025-05-02 10:58:33,668 - INFO - 使用备用方法添加产品: Postiz v2
+2025-05-02 10:58:33,668 - INFO - 使用备用方法添加产品: Indilingo
+2025-05-02 10:58:33,668 - INFO - 使用备用方法添加产品: LLMrefs
+2025-05-02 10:58:33,668 - INFO - 使用备用方法添加产品: Foodee
+2025-05-02 10:58:33,668 - INFO - 使用备用方法添加产品: GoCodeo SaaS Builder
+2025-05-02 10:58:33,668 - INFO - 使用备用方法添加产品: Product Hunt for Raycast
+2025-05-02 10:58:33,668 - INFO - 使用备用方法添加产品: Dazzle
+2025-05-02 10:58:33,669 - INFO - 使用备用方法添加产品: omiGPT
+2025-05-02 10:58:33,669 - INFO - 使用备用方法添加产品: Songjam - X/Twitter Space Insights & CRM
+2025-05-02 10:58:33,669 - INFO - 使用备用方法添加产品: Querri
+2025-05-02 10:58:33,669 - INFO - 使用备用方法添加产品: Vibesuite
+2025-05-02 10:58:33,669 - INFO - 使用备用方法添加产品: Graphtracks
+2025-05-02 10:58:33,669 - INFO - 使用备用方法添加产品: Infogrammy
+2025-05-02 10:58:33,669 - INFO - 使用备用方法添加产品: LetMeName
+2025-05-02 10:58:33,670 - INFO - 成功保存 15 个产品信息到 data/product_2025-05-02.json
