@@ -1,0 +1,341 @@
+[
+  {
+    "name": "Tate-A-Tate",
+    "description": "Tate-A-Tate is a no-code platform to rapidly turn ideas into full-stack AI agents — complete with user systems, subscription payments, and complex business logic powered by AI. Launch a business in minutes, using just natural language.",
+    "product_hunt_url": "https://www.producthunt.com/posts/tate-a-tate",
+    "created_at": "",
+    "id": "tate-a-tate",
+    "label": "From idea to Al Agent in minutes—zero coding",
+    "topics": [
+      "Bots",
+      "Artificial Intelligence",
+      "No-Code"
+    ],
+    "votes": 299,
+    "visit_url": "https://www.tate-a-tate.com",
+    "image": "https://ph-files.imgix.net/88c4e213-1f33-4bd6-bb48-62ece64ea8a7.png",
+    "label_zh": "从创意到AI代理只需几分钟——无需编写代码",
+    "topics_zh": [
+      "机器人",
+      "人工智能",
+      "无代码"
+    ],
+    "content_zh": "Tate-A-Tate 是一个无代码平台，可以快速将想法转化为完整的 AI 代理系统，包括用户系统、订阅支付以及由 AI 驱动的复杂业务逻辑。只需使用自然语言，几分钟内就能启动一个业务。"
+  },
+  {
+    "name": "DeckSpeed",
+    "description": "DeckSpeed is a revolutionary AI presentation tool that creates professional, personalized slides based on your conversations, without templates. In other words, it's \"Cursor for Slides\", \"McKinsey for everyone\".",
+    "product_hunt_url": "https://www.producthunt.com/posts/deckspeed",
+    "created_at": "",
+    "id": "deckspeed",
+    "label": "Cursor for slides",
+    "topics": [
+      "Productivity",
+      "Design Tools",
+      "Artificial Intelligence"
+    ],
+    "votes": 417,
+    "visit_url": "https://www.deckspeed.com/en",
+    "image": "https://ph-files.imgix.net/0d0e2137-9a91-478f-bcfd-7d45d6839288.jpeg",
+    "label_zh": "幻灯片光标",
+    "topics_zh": [
+      "生产力",
+      "设计工具",
+      "人工智能"
+    ],
+    "content_zh": "DeckSpeed 是一款革命性的 AI 演示工具，可以根据你的对话内容生成专业且个性化的幻灯片，无需使用模板。简单来说，它就像是“演示文稿的光标”，让每个人都能像麦肯锡一样制作高质量的幻灯片。"
+  },
+  {
+    "name": "AI Knowledge Search by Amurex",
+    "description": "Our AI-powered search connects Gmail, Google Docs, Notion, Obsidian, and more - so you can find anything across all your knowledge sources instantly, from one simple search bar. No more silos, no more wasted time. Just instant answers.",
+    "product_hunt_url": "https://www.producthunt.com/posts/ai-knowledge-search-by-amurex",
+    "created_at": "",
+    "id": "ai-knowledge-search-by-amurex",
+    "label": "One search. Your emails, docs, notes - all connected.",
+    "topics": [
+      "Productivity",
+      "Open Source",
+      "Artificial Intelligence"
+    ],
+    "votes": 172,
+    "visit_url": "https://search.amurex.ai/",
+    "image": "https://ph-files.imgix.net/a3f18512-0b66-4119-8642-f92cce284ad3.png",
+    "label_zh": "一次搜索。您的邮件、文档、笔记——全部关联。",
+    "topics_zh": [
+      "生产力",
+      "开源",
+      "人工智能"
+    ],
+    "content_zh": "我们的AI驱动的搜索工具可以连接Gmail、Google Docs、Notion、Obsidian等平台，让你通过一个简单的搜索栏就能立即找到所有知识来源中的信息。再也不用在各个平台之间来回切换，也不再浪费时间。只需一键搜索，答案即刻呈现。"
+  },
+  {
+    "name": "Snek",
+    "description": "A web version of the mobile classic.",
+    "product_hunt_url": "https://www.producthunt.com/posts/snek",
+    "created_at": "",
+    "id": "snek",
+    "label": "A web version of the mobile classic",
+    "topics": [
+      "Free Games",
+      "Games"
+    ],
+    "votes": 202,
+    "visit_url": "https://seemingly-adventurous-pajama.instance.app",
+    "image": "https://ph-files.imgix.net/415fdee7-7dc7-4287-a261-1f7cd27340ae.png",
+    "label_zh": "移动经典版的网页版本",
+    "topics_zh": [
+      "免费游戏",
+      "游戏"
+    ],
+    "content_zh": "经典的手机游戏的网页版。"
+  },
+  {
+    "name": "Znote",
+    "description": "Znote combines ChatGPT, Notion, and a terminal — in one private, local app. Continue your AI chats inside smart notes, run code, build reports, automate workflows. No subscription. Full control. One workspace to think, write, and build.",
+    "product_hunt_url": "https://www.producthunt.com/posts/znote-5",
+    "created_at": "",
+    "id": "znote-5",
+    "label": "Continue your ChatGPT chats inside smart notes",
+    "topics": [
+      "Writing",
+      "Notion",
+      "Artificial Intelligence"
+    ],
+    "votes": 187,
+    "visit_url": "https://znote.io",
+    "image": "https://ph-files.imgix.net/ac139d01-a41c-48e5-9a84-833e320e8d46.png",
+    "label_zh": "继续在智能笔记中进行你的ChatGPT对话",
+    "topics_zh": [
+      "写作",
+      "Notion",
+      "人工智能"
+    ],
+    "content_zh": "Znote 是一个集成了 ChatGPT、Notion 和终端的本地应用。你可以在智能笔记中继续与 AI 对话，运行代码，生成报告，自动化工作流程。无需订阅，完全掌控。一个工作空间，让你可以思考、写作和构建。"
+  },
+  {
+    "name": "ZenPersonal",
+    "description": "Generate personalized deep-rest guided meditations. Based on Andrew Huberman’s NSDR protocol. Choose from many languages and different voices. Even short sessions can help you relieve stress, boost focus, and improve sleep. No meditation experience needed.",
+    "product_hunt_url": "https://www.producthunt.com/posts/zenpersonal",
+    "created_at": "",
+    "id": "zenpersonal",
+    "label": "Generate personalized NSDR-style short meditations.",
+    "topics": [
+      "Health & Fitness",
+      "Meditation",
+      "Artificial Intelligence"
+    ],
+    "votes": 60,
+    "visit_url": "https://zenpersonal.app/",
+    "image": "https://ph-files.imgix.net/57c08bbe-3f48-4195-bc12-a7cb3accc854.png",
+    "label_zh": "生成个性化的NSDR风格短冥想。",
+    "topics_zh": [
+      "健康与健身",
+      "冥想",
+      "人工智能"
+    ],
+    "content_zh": "生成个性化的深度休息引导冥想。基于Andrew Huberman的NSDR协议。你可以选择多种语言和不同的声音。即使短时间的练习也能帮助你缓解压力、提高专注力并改善睡眠。无需任何冥想经验。"
+  },
+  {
+    "name": "DockDoor",
+    "description": "DockDoor brings Window 10-style window previews to your macOS dock. Free, open-source app with intuitive window management. Enhance your Mac workflow.",
+    "product_hunt_url": "https://www.producthunt.com/posts/dockdoor",
+    "created_at": "",
+    "id": "dockdoor",
+    "label": "Window peeking and alt-tab functionality for macOS",
+    "topics": [
+      "Open Source",
+      "Mac",
+      "GitHub"
+    ],
+    "votes": 148,
+    "visit_url": "https://dockdoor.net",
+    "image": "https://ph-files.imgix.net/fdc851b4-fed1-4a88-b9f4-3cc4b4bba926.png",
+    "label_zh": "窗口预览和 alt-tab 功能适用于 macOS",
+    "topics_zh": [
+      "开源",
+      "Mac",
+      "GitHub"
+    ],
+    "content_zh": "DockDoor 可以让你的 macOS 码头拥有 Windows 10 风格的窗口预览。这是一款免费且开源的应用程序，具有直观的窗口管理功能，可以提升你的 Mac 工作效率。"
+  },
+  {
+    "name": "RockPic",
+    "description": "Identify stones, gems and jewelry in seconds with RockPic — our AI-powered scanner app. Just upload a picture to get accurate insights about any kind of rock.",
+    "product_hunt_url": "https://www.producthunt.com/posts/rockpic",
+    "created_at": "",
+    "id": "rockpic",
+    "label": "Identify all kind of rocks instantly",
+    "topics": [
+      "Jewelry",
+      "Artificial Intelligence",
+      "Outdoors"
+    ],
+    "votes": 134,
+    "visit_url": "https://rockidentifier.net",
+    "image": "https://ph-files.imgix.net/1901ca13-1d04-4c57-a8af-853e46a8bb85.png",
+    "label_zh": "立即识别各种岩石",
+    "topics_zh": [
+      "珠宝",
+      "人工智能",
+      "户外"
+    ],
+    "content_zh": "用RockPic几秒钟就能识别石头、宝石和珠宝——这是一款由AI驱动的扫描应用。只需上传一张图片，就能获得关于任何种类岩石的准确信息。"
+  },
+  {
+    "name": "SpeakingAI",
+    "description": "SpeakingAI is a mobile app that helps you practice and improve your spoken language skills through realistic, interactive conversations with an adaptive AI tutor. \nGet instant feedback, personalized grammar tips, and learn at your own pace",
+    "product_hunt_url": "https://www.producthunt.com/posts/speakingai",
+    "created_at": "",
+    "id": "speakingai",
+    "label": "Practice speaking skills with personalized AI conversations",
+    "topics": [
+      "Artificial Intelligence",
+      "Languages",
+      "Education"
+    ],
+    "votes": 132,
+    "visit_url": "https://speakingai.co",
+    "image": "https://ph-files.imgix.net/e15d127b-03b5-4bd8-b831-db7e34ef2fa0.png",
+    "label_zh": "练习口语技巧，通过个性化AI对话",
+    "topics_zh": [
+      "人工智能",
+      "语言",
+      "教育"
+    ],
+    "content_zh": "SpeakingAI 是一款手机应用，通过与自适应 AI 导师进行真实互动对话，帮助你练习和提高口语技能。它能即时提供反馈、个性化的语法建议，并让你按照自己的节奏学习。"
+  },
+  {
+    "name": "Mids",
+    "description": "In world where everybody can build apps, mids.dev is a launchpad for easy sharing, discovery and following. Before the domain, get the Mid. \n\nPost projects, capture interest, build followers, follow others too. Launching has never been easier.",
+    "product_hunt_url": "https://www.producthunt.com/posts/mids",
+    "created_at": "",
+    "id": "mids",
+    "label": "The vibe launch platform",
+    "topics": [
+      "Developer Tools",
+      "Artificial Intelligence",
+      "Marketing"
+    ],
+    "votes": 134,
+    "visit_url": "https://mids.ai",
+    "image": "https://ph-files.imgix.net/75980cb3-c438-4940-8502-8705afc7f60e.png",
+    "label_zh": "氛围启动平台",
+    "topics_zh": [
+      "开发者工具",
+      "人工智能",
+      "市场营销"
+    ],
+    "content_zh": "在这个人人都能开发应用的世界里，mids.dev 是一个方便分享、发现和关注的平台。在拥有域名之前，先获取 Mid。\n\n发布项目，吸引关注，积累粉丝，也可以关注他人。启动项目从未如此简单。"
+  },
+  {
+    "name": "eBay AI Shopping Agent",
+    "description": "eBay's new AI Shopping Agent offers hyper-personalized product picks and guidance. Currently rolling out to U.S. users, it aims to make discovery on eBay effortless and tailored to your preferences.",
+    "product_hunt_url": "https://www.producthunt.com/posts/ebay-ai-shopping-agent",
+    "created_at": "",
+    "id": "ebay-ai-shopping-agent",
+    "label": "Your AI assistant for truly personal eBay shopping",
+    "topics": [
+      "E-Commerce",
+      "Artificial Intelligence"
+    ],
+    "votes": 125,
+    "visit_url": "https://innovation.ebayinc.com/stories/ebay-uses-agentic-ai-to-supercharge-personalized-ecommerce/",
+    "image": "https://ph-files.imgix.net/5a61d8a1-676c-4880-9b77-7793a0e006f2.jpeg",
+    "label_zh": "您的AI购物助手，为您打造真正个性化的eBay购物体验",
+    "topics_zh": [
+      "电子商务",
+      "人工智能"
+    ],
+    "content_zh": "eBay的新产品eBay AI Shopping Agent提供高度个性化的商品推荐和购物指导。目前该功能正在向美国用户推出，旨在让在eBay上的发现过程变得轻松且符合你的个人喜好。"
+  },
+  {
+    "name": "LinkedBoost AI",
+    "description": "Attract recruiters and get more job invites with an AI-powered tool that upgrades your LinkedIn profile in just 15 minutes. Boost visibility, improve summaries, and stand out to the right people. Users see 3x more views and 62% more interview invites.",
+    "product_hunt_url": "https://www.producthunt.com/posts/linkedboost-ai",
+    "created_at": "",
+    "id": "linkedboost-ai",
+    "label": "AI that Upgrades LinkedIn for More Job Offers",
+    "topics": [
+      "LinkedIn",
+      "Career",
+      "Artificial Intelligence"
+    ],
+    "votes": 24,
+    "visit_url": "https://linkedboostai.xyz/",
+    "image": "https://ph-files.imgix.net/50497c89-69b7-43ad-8af9-87700802747c.jpeg",
+    "label_zh": "AI升级LinkedIn，获得更多工作机会",
+    "topics_zh": [
+      "领英",
+      "职业",
+      "人工智能"
+    ],
+    "content_zh": "使用LinkedBoost AI这款由人工智能驱动的工具，只需15分钟就能提升你的领英个人资料，吸引更多招聘人员的关注并获得更多的工作邀请。它能提高你的可见度，优化个人简介，让你在合适的人群中脱颖而出。用户发现自己的个人资料浏览量增加了3倍，面试邀请也增加了62%。"
+  },
+  {
+    "name": "Video Memories AI",
+    "description": "Upload images and let AI create studio-quality animated videos in no time. High-quality videos to post on socials and share with family and friends. Bring your best memories to life with Video Memories AI.",
+    "product_hunt_url": "https://www.producthunt.com/posts/video-memories-ai",
+    "created_at": "",
+    "id": "video-memories-ai",
+    "label": "Generate animated videos from images in minutes",
+    "topics": [
+      "Video",
+      "Design Tools",
+      "Artificial Intelligence"
+    ],
+    "votes": 18,
+    "visit_url": "https://videomemories.ai",
+    "image": "https://ph-files.imgix.net/e529fb61-3df2-4574-a77c-5c8e8935f8f6.png",
+    "label_zh": "几分钟内将图片转换成动画视频",
+    "topics_zh": [
+      "视频，设计工具，人工智能"
+    ],
+    "content_zh": "上传图片，让AI快速生成高质量的动画视频。这些视频可以发布在社交媒体上，也可以与家人和朋友分享。使用Video Memories AI，让你的美好回忆栩栩如生。"
+  },
+  {
+    "name": "investmatch AI",
+    "description": "InvestMatch is a Telegram mini-app that revolutionizes how founders find funding and how investors discover the next big thing. We’ve taken Tinder’s swipe mechanics and applied them to the startup world:",
+    "product_hunt_url": "https://www.producthunt.com/posts/investmatch-ai",
+    "created_at": "",
+    "id": "investmatch-ai",
+    "label": "Startup tinder",
+    "topics": [
+      "Crowdfunding",
+      "Investing",
+      "Venture Capital"
+    ],
+    "votes": 13,
+    "visit_url": "https://t.me/InvestmatchBot",
+    "image": "https://ph-files.imgix.net/f9b9c4e7-9577-43d9-aae9-fb13a82f5af6.jpeg",
+    "label_zh": "创业火种",
+    "topics_zh": [
+      "众筹",
+      "投资",
+      "风险投资"
+    ],
+    "content_zh": "InvestMatch 是一个 Telegram 小程序，彻底改变了创业者寻找资金和投资者发现下一个大热门的方式。我们将 Tinder 的滑动匹配机制应用到了创业领域："
+  },
+  {
+    "name": "Orbits",
+    "description": "Orbits is a space navigation game. Hop between orbits to reach wormholes!\n\n🚀 One-tap controls\n⚫ Time dilation near black holes\n🎶 Chill lofi vibes\n⏱️ 90-sec survival rounds\n✨ Endless gameplay\n\n~ Built with pure JS and physics!",
+    "product_hunt_url": "https://www.producthunt.com/posts/orbits-3",
+    "created_at": "",
+    "id": "orbits-3",
+    "label": "Navigate through orbits to reach the wormhole",
+    "topics": [
+      "Indie Games",
+      "Free Games",
+      "Games"
+    ],
+    "votes": 11,
+    "visit_url": "https://snazzy-manatee-4540ec.netlify.app/",
+    "image": "https://ph-files.imgix.net/a8e587e9-871d-4b4e-883c-10ddd6f87441.gif",
+    "label_zh": "穿梭轨道，抵达虫洞",
+    "topics_zh": [
+      "独立游戏",
+      "免费游戏",
+      "游戏"
+    ],
+    "content_zh": "Orbits 是一款太空导航游戏。在轨道之间跳跃，到达虫洞！\n\n🚀 一键控制\n⚫ 黑洞附近的时空扭曲\n🎶 轻松的 lofi 音乐\n⏱️ 90秒生存回合\n✨ 无尽的游戏体验\n\n~ 用纯 JS 和物理引擎打造！"
+  }
+]

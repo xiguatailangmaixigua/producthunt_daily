@@ -1,0 +1,240 @@
+[
+  {
+    "name": "SeeMuseums",
+    "description": "We enhance museum visits with personalized contextual insights powered by AI—making art appreciation accessible to all. At SeeMuseums, we believe every artwork tells a story, and that art should speak to everyone, not just experts.",
+    "product_hunt_url": "https://www.producthunt.com/posts/seemuseums",
+    "created_at": "",
+    "id": "seemuseums",
+    "label": "The first agentive art museum tour guide",
+    "topics": [
+      "User Experience",
+      "Education",
+      "Art"
+    ],
+    "votes": 351,
+    "visit_url": "https://seemuseums.art/",
+    "image": "https://ph-files.imgix.net/66425d55-a4fc-4ba3-8868-ffba02a5690f.png"
+  },
+  {
+    "name": "AI Chat",
+    "description": "AI Chat unites all top AI models in one app - but the real magic is Husky AI: our own AI Search Engine that combines Web + Telegram for real-time, local, uncensored answers. Save $800+/year by using one tool instead of paying for each model separately.",
+    "product_hunt_url": "https://www.producthunt.com/posts/ai-chat-7",
+    "created_at": "",
+    "id": "ai-chat-7",
+    "label": "Husky, ChatGPT, Gemini, Claude, Grok & more - all in one app",
+    "topics": [
+      "Artificial Intelligence",
+      "Bots",
+      "SaaS"
+    ],
+    "votes": 150,
+    "visit_url": "https://aichat.fm/",
+    "image": "https://ph-files.imgix.net/7ff9d4c4-95e0-4554-8fd4-29602a9dfeec.png"
+  },
+  {
+    "name": "Rubber Duck Armada",
+    "description": "A fun clicker-game that's all about rubber ducks.",
+    "product_hunt_url": "https://www.producthunt.com/posts/rubber-duck-armada",
+    "created_at": "",
+    "id": "rubber-duck-armada",
+    "label": "A fun clicker-game that's all about rubber ducks",
+    "topics": [
+      "Games",
+      "Free Games"
+    ],
+    "votes": 246,
+    "visit_url": "https://heavily-pushy-saw.instance.app",
+    "image": "https://ph-files.imgix.net/667a1dc8-e107-4d1e-b730-52e8a7aaff38.png"
+  },
+  {
+    "name": "Aladin",
+    "description": "Aladin brings AI to every site, doc, and video—right where you work. With built-in tools, context-aware buttons in every tab, and support for your favorite apps, it’s always ready to help, right when you need it.",
+    "product_hunt_url": "https://www.producthunt.com/posts/aladin",
+    "created_at": "",
+    "id": "aladin",
+    "label": "Supercharge your browser with AI",
+    "topics": [
+      "Artificial Intelligence",
+      "Browser Extensions",
+      "Productivity"
+    ],
+    "votes": 224,
+    "visit_url": "https://aladin-ai.com",
+    "image": "https://ph-files.imgix.net/adae1d0e-750b-481d-aa0d-adf22ea5d3c3.png"
+  },
+  {
+    "name": "Photo AI 4",
+    "description": "Make good photos great. Sharpen, denoise, and upscale your images with tomorrow’s technology.",
+    "product_hunt_url": "https://www.producthunt.com/posts/photo-ai-4",
+    "created_at": "",
+    "id": "photo-ai-4",
+    "label": "Studio-level focus, detail, and clarity anywhere you shoot",
+    "topics": [
+      "Photo editing",
+      "Photography",
+      "Design Tools"
+    ],
+    "votes": 190,
+    "visit_url": "https://www.topazlabs.com/topaz-photo-ai",
+    "image": "https://ph-files.imgix.net/59510edd-1bb0-4681-8629-18576c860881.jpeg"
+  },
+  {
+    "name": "Aurascope",
+    "description": "Aurascope is a camera-first mobile app that lets you scan real-world objects, places, and people to see how they affect your energy. Track your daily score, grow your collection, and compete with friends to stay in sync with your surroundings.",
+    "product_hunt_url": "https://www.producthunt.com/posts/aurascope",
+    "created_at": "",
+    "id": "aurascope",
+    "label": "Scan the world, collect aura points, compete with friends",
+    "topics": [
+      "Artificial Intelligence",
+      "Games",
+      "Photography"
+    ],
+    "votes": 170,
+    "visit_url": "https://aurascopeapp.com",
+    "image": "https://ph-files.imgix.net/e81f5d9c-2fae-44b3-9c79-ab4202212f76.png"
+  },
+  {
+    "name": "AI Voice Cloning",
+    "description": "Sick of AI \"robot voices\"? Our model clones voices with SOUL in 3 secs! Tone & pitch so real, it'll wow you—easily outshining others! Core FREE. Experience true voice magic!",
+    "product_hunt_url": "https://www.producthunt.com/posts/ai-voice-cloning",
+    "created_at": "",
+    "id": "ai-voice-cloning",
+    "label": "Clone any voice in 3 seconds – hyper-realistic and free",
+    "topics": [
+      "Artificial Intelligence",
+      "Audio",
+      "Productivity"
+    ],
+    "votes": 165,
+    "visit_url": "https://aivoicecloning.io/",
+    "image": "https://ph-files.imgix.net/ba3546cc-a438-404a-b3f0-4b5c070be8d5.png"
+  },
+  {
+    "name": "Hautedrop",
+    "description": "Your fashion alerts, delivered! \n\nGet notifications of new product releases from your favorite luxury brand.\n\nSelect your category, demographic, brand preferences and signup through email and / or your mobile number to receive new product launch notifications.",
+    "product_hunt_url": "https://www.producthunt.com/posts/hautedrop-2",
+    "created_at": "",
+    "id": "hautedrop-2",
+    "label": "Your fashion alerts, delivered!",
+    "topics": [
+      "SaaS",
+      "Fashion"
+    ],
+    "votes": 52,
+    "visit_url": "https://www.hautedrop.com",
+    "image": "https://ph-files.imgix.net/db90ad28-f537-4c6e-b6a2-a30f4bd39777.png"
+  },
+  {
+    "name": "QU3",
+    "description": "QU3 is a quantum-secure Web3 layer that merges post-quantum cryptography, AI orchestration, and inter-chain routing. Its core MCP server enables encrypted, verifiable AI compute, turning sensitive workloads into tamper-proof, cross-chain transactions.",
+    "product_hunt_url": "https://www.producthunt.com/posts/qu3",
+    "created_at": "",
+    "id": "qu3",
+    "label": "Quantum-safe MCP servers for private, verifiable inference",
+    "topics": [
+      "Artificial Intelligence",
+      "Blockchain",
+      "Tech"
+    ],
+    "votes": 145,
+    "visit_url": "https://qu3.ai/",
+    "image": "https://ph-files.imgix.net/8932425d-b2c1-4f36-aa5f-b7209b434ac2.png"
+  },
+  {
+    "name": "Voila",
+    "description": "oila is an open-source voice-language model family by Maitrix.org & labs for low-latency, emotionally rich AI voice role-play, ASR & TTS.",
+    "product_hunt_url": "https://www.producthunt.com/posts/voila-b7a8fbff-d21c-48fd-b765-e05764262d37",
+    "created_at": "",
+    "id": "voila-b7a8fbff-d21c-48fd-b765-e05764262d37",
+    "label": "Open-source AI for real-time, expressive voice role-play",
+    "topics": [
+      "Artificial Intelligence",
+      "GitHub",
+      "Open Source"
+    ],
+    "votes": 134,
+    "visit_url": "https://voila.maitrix.org/",
+    "image": "https://ph-files.imgix.net/58f2217e-b682-4ca4-98d3-f60521bf67b5.png"
+  },
+  {
+    "name": "Autograph Fair Offer",
+    "description": "Fair Offer uses an algorithm (not just stale survey data) to help you figure out what a reasonable compensation range is... for any title, at any stage of company, anywhere in the world. Built by Autograph, the OS for managing your headcount.",
+    "product_hunt_url": "https://www.producthunt.com/posts/autograph-fair-offer",
+    "created_at": "",
+    "id": "autograph-fair-offer",
+    "label": "Estimate fair compensation for any role",
+    "topics": [
+      "Hiring",
+      "Finance",
+      "Human Resources"
+    ],
+    "votes": 128,
+    "visit_url": "https://fairoffer.ai",
+    "image": "https://ph-files.imgix.net/0b4d1b64-ffcb-40c4-8c0d-9af2f5b70339.webp"
+  },
+  {
+    "name": "duration.ai",
+    "description": "Duration is an AI platform that helps you build, sell, and personalise learning plans effortlessly.\n\nWe made a platform focused on real student outcomes, built around what actually works: personalisation, feedback, and accountability.",
+    "product_hunt_url": "https://www.producthunt.com/posts/duration-ai",
+    "created_at": "",
+    "id": "duration-ai",
+    "label": "AI platform to build and personalize online education plans",
+    "topics": [
+      "Artificial Intelligence",
+      "Business",
+      "Education"
+    ],
+    "votes": 35,
+    "visit_url": "https://duration.ai",
+    "image": "https://ph-files.imgix.net/d603d752-92c1-4c00-bfe8-1d1322a9bc9b.jpeg"
+  },
+  {
+    "name": "VProPle Interview Bites",
+    "description": "VProPle Interview Bites is a video pre-screening tool that helps hiring teams go beyond the resume. It identifies real knowledge, detects malpractice, filters out uninterested candidates, and ensures a more accurate, and cost-effective hiring process.",
+    "product_hunt_url": "https://www.producthunt.com/posts/vprople-interview-bites",
+    "created_at": "",
+    "id": "vprople-interview-bites",
+    "label": "Cut costs, not quality, with performance based pre-screening",
+    "topics": [
+      "Tech",
+      "Hiring",
+      "Human Resources"
+    ],
+    "votes": 32,
+    "visit_url": "https://vprople.com/interview-bites/",
+    "image": "https://ph-files.imgix.net/5a8f9703-9c38-43d0-a562-0f969873d21c.png"
+  },
+  {
+    "name": "RabbitGUI",
+    "description": "Debug, monitor, and manage RabbitMQ with a modern developer interface. RabbitGUI supports multiple connexions, quick search, debug mode, and much more.",
+    "product_hunt_url": "https://www.producthunt.com/posts/rabbitgui",
+    "created_at": "",
+    "id": "rabbitgui",
+    "label": "The missing rabbitmq IDE",
+    "topics": [
+      "Side Project",
+      "Software Engineering",
+      "Developer Tools"
+    ],
+    "votes": 36,
+    "visit_url": "https://rabbitgui.com/",
+    "image": "https://ph-files.imgix.net/966cf430-5dbc-406f-b758-2e321707191e.png"
+  },
+  {
+    "name": "Law Online | Law AI",
+    "description": "Law Online is the AI side-kick built for busy legal professionals. Draft contracts and pleadings, analyse complex documents, transcribe court audio. Plans start at $9.99/mo and Product Hunt users get 20 % off any plan with code PRODUCTHUNT.",
+    "product_hunt_url": "https://www.producthunt.com/posts/law-online-law-ai",
+    "created_at": "",
+    "id": "law-online-law-ai",
+    "label": "Transcribe, draft, analyse & translate legal docs in minutes",
+    "topics": [
+      "Artificial Intelligence",
+      "Legal",
+      "Productivity"
+    ],
+    "votes": 19,
+    "visit_url": "https://lawonline.ai/",
+    "image": "https://ph-files.imgix.net/c5091835-d003-45e5-8df6-9f0a4c07bb32.png"
+  }
+]

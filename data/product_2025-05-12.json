@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Tate-A-Tate",
+    "description": "Tate-A-Tate is a no-code platform to rapidly turn ideas into full-stack AI agents — complete with user systems, subscription payments, and complex business logic powered by AI. Launch a business in minutes, using just natural language.",
+    "product_hunt_url": "https://www.producthunt.com/posts/tate-a-tate",
+    "created_at": "",
+    "id": "tate-a-tate",
+    "label": "From idea to Al Agent in minutes—zero coding",
+    "topics": [
+      "Bots",
+      "Artificial Intelligence",
+      "No-Code"
+    ],
+    "votes": 299,
+    "visit_url": "https://www.tate-a-tate.com",
+    "image": "https://ph-files.imgix.net/88c4e213-1f33-4bd6-bb48-62ece64ea8a7.png"
+  },
+  {
+    "name": "DeckSpeed",
+    "description": "DeckSpeed is a revolutionary AI presentation tool that creates professional, personalized slides based on your conversations, without templates. In other words, it's \"Cursor for Slides\", \"McKinsey for everyone\".",
+    "product_hunt_url": "https://www.producthunt.com/posts/deckspeed",
+    "created_at": "",
+    "id": "deckspeed",
+    "label": "Cursor for slides",
+    "topics": [
+      "Productivity",
+      "Design Tools",
+      "Artificial Intelligence"
+    ],
+    "votes": 417,
+    "visit_url": "https://www.deckspeed.com/en",
+    "image": "https://ph-files.imgix.net/0d0e2137-9a91-478f-bcfd-7d45d6839288.jpeg"
+  },
+  {
+    "name": "AI Knowledge Search by Amurex",
+    "description": "Our AI-powered search connects Gmail, Google Docs, Notion, Obsidian, and more - so you can find anything across all your knowledge sources instantly, from one simple search bar. No more silos, no more wasted time. Just instant answers.",
+    "product_hunt_url": "https://www.producthunt.com/posts/ai-knowledge-search-by-amurex",
+    "created_at": "",
+    "id": "ai-knowledge-search-by-amurex",
+    "label": "One search. Your emails, docs, notes - all connected.",
+    "topics": [
+      "Productivity",
+      "Open Source",
+      "Artificial Intelligence"
+    ],
+    "votes": 172,
+    "visit_url": "https://search.amurex.ai/",
+    "image": "https://ph-files.imgix.net/a3f18512-0b66-4119-8642-f92cce284ad3.png"
+  },
+  {
+    "name": "Snek",
+    "description": "A web version of the mobile classic.",
+    "product_hunt_url": "https://www.producthunt.com/posts/snek",
+    "created_at": "",
+    "id": "snek",
+    "label": "A web version of the mobile classic",
+    "topics": [
+      "Free Games",
+      "Games"
+    ],
+    "votes": 202,
+    "visit_url": "https://seemingly-adventurous-pajama.instance.app",
+    "image": "https://ph-files.imgix.net/415fdee7-7dc7-4287-a261-1f7cd27340ae.png"
+  },
+  {
+    "name": "Znote",
+    "description": "Znote combines ChatGPT, Notion, and a terminal — in one private, local app. Continue your AI chats inside smart notes, run code, build reports, automate workflows. No subscription. Full control. One workspace to think, write, and build.",
+    "product_hunt_url": "https://www.producthunt.com/posts/znote-5",
+    "created_at": "",
+    "id": "znote-5",
+    "label": "Continue your ChatGPT chats inside smart notes",
+    "topics": [
+      "Writing",
+      "Notion",
+      "Artificial Intelligence"
+    ],
+    "votes": 187,
+    "visit_url": "https://znote.io",
+    "image": "https://ph-files.imgix.net/ac139d01-a41c-48e5-9a84-833e320e8d46.png"
+  },
+  {
+    "name": "ZenPersonal",
+    "description": "Generate personalized deep-rest guided meditations. Based on Andrew Huberman’s NSDR protocol. Choose from many languages and different voices. Even short sessions can help you relieve stress, boost focus, and improve sleep. No meditation experience needed.",
+    "product_hunt_url": "https://www.producthunt.com/posts/zenpersonal",
+    "created_at": "",
+    "id": "zenpersonal",
+    "label": "Generate personalized NSDR-style short meditations.",
+    "topics": [
+      "Health & Fitness",
+      "Meditation",
+      "Artificial Intelligence"
+    ],
+    "votes": 60,
+    "visit_url": "https://zenpersonal.app/",
+    "image": "https://ph-files.imgix.net/57c08bbe-3f48-4195-bc12-a7cb3accc854.png"
+  },
+  {
+    "name": "DockDoor",
+    "description": "DockDoor brings Window 10-style window previews to your macOS dock. Free, open-source app with intuitive window management. Enhance your Mac workflow.",
+    "product_hunt_url": "https://www.producthunt.com/posts/dockdoor",
+    "created_at": "",
+    "id": "dockdoor",
+    "label": "Window peeking and alt-tab functionality for macOS",
+    "topics": [
+      "Open Source",
+      "Mac",
+      "GitHub"
+    ],
+    "votes": 148,
+    "visit_url": "https://dockdoor.net",
+    "image": "https://ph-files.imgix.net/fdc851b4-fed1-4a88-b9f4-3cc4b4bba926.png"
+  },
+  {
+    "name": "RockPic",
+    "description": "Identify stones, gems and jewelry in seconds with RockPic — our AI-powered scanner app. Just upload a picture to get accurate insights about any kind of rock.",
+    "product_hunt_url": "https://www.producthunt.com/posts/rockpic",
+    "created_at": "",
+    "id": "rockpic",
+    "label": "Identify all kind of rocks instantly",
+    "topics": [
+      "Jewelry",
+      "Artificial Intelligence",
+      "Outdoors"
+    ],
+    "votes": 134,
+    "visit_url": "https://rockidentifier.net",
+    "image": "https://ph-files.imgix.net/1901ca13-1d04-4c57-a8af-853e46a8bb85.png"
+  },
+  {
+    "name": "SpeakingAI",
+    "description": "SpeakingAI is a mobile app that helps you practice and improve your spoken language skills through realistic, interactive conversations with an adaptive AI tutor. \nGet instant feedback, personalized grammar tips, and learn at your own pace",
+    "product_hunt_url": "https://www.producthunt.com/posts/speakingai",
+    "created_at": "",
+    "id": "speakingai",
+    "label": "Practice speaking skills with personalized AI conversations",
+    "topics": [
+      "Artificial Intelligence",
+      "Languages",
+      "Education"
+    ],
+    "votes": 132,
+    "visit_url": "https://speakingai.co",
+    "image": "https://ph-files.imgix.net/e15d127b-03b5-4bd8-b831-db7e34ef2fa0.png"
+  },
+  {
+    "name": "Mids",
+    "description": "In world where everybody can build apps, mids.dev is a launchpad for easy sharing, discovery and following. Before the domain, get the Mid. \n\nPost projects, capture interest, build followers, follow others too. Launching has never been easier.",
+    "product_hunt_url": "https://www.producthunt.com/posts/mids",
+    "created_at": "",
+    "id": "mids",
+    "label": "The vibe launch platform",
+    "topics": [
+      "Developer Tools",
+      "Artificial Intelligence",
+      "Marketing"
+    ],
+    "votes": 134,
+    "visit_url": "https://mids.ai",
+    "image": "https://ph-files.imgix.net/75980cb3-c438-4940-8502-8705afc7f60e.png"
+  },
+  {
+    "name": "eBay AI Shopping Agent",
+    "description": "eBay's new AI Shopping Agent offers hyper-personalized product picks and guidance. Currently rolling out to U.S. users, it aims to make discovery on eBay effortless and tailored to your preferences.",
+    "product_hunt_url": "https://www.producthunt.com/posts/ebay-ai-shopping-agent",
+    "created_at": "",
+    "id": "ebay-ai-shopping-agent",
+    "label": "Your AI assistant for truly personal eBay shopping",
+    "topics": [
+      "E-Commerce",
+      "Artificial Intelligence"
+    ],
+    "votes": 125,
+    "visit_url": "https://innovation.ebayinc.com/stories/ebay-uses-agentic-ai-to-supercharge-personalized-ecommerce/",
+    "image": "https://ph-files.imgix.net/5a61d8a1-676c-4880-9b77-7793a0e006f2.jpeg"
+  },
+  {
+    "name": "LinkedBoost AI",
+    "description": "Attract recruiters and get more job invites with an AI-powered tool that upgrades your LinkedIn profile in just 15 minutes. Boost visibility, improve summaries, and stand out to the right people. Users see 3x more views and 62% more interview invites.",
+    "product_hunt_url": "https://www.producthunt.com/posts/linkedboost-ai",
+    "created_at": "",
+    "id": "linkedboost-ai",
+    "label": "AI that Upgrades LinkedIn for More Job Offers",
+    "topics": [
+      "LinkedIn",
+      "Career",
+      "Artificial Intelligence"
+    ],
+    "votes": 24,
+    "visit_url": "https://linkedboostai.xyz/",
+    "image": "https://ph-files.imgix.net/50497c89-69b7-43ad-8af9-87700802747c.jpeg"
+  },
+  {
+    "name": "Video Memories AI",
+    "description": "Upload images and let AI create studio-quality animated videos in no time. High-quality videos to post on socials and share with family and friends. Bring your best memories to life with Video Memories AI.",
+    "product_hunt_url": "https://www.producthunt.com/posts/video-memories-ai",
+    "created_at": "",
+    "id": "video-memories-ai",
+    "label": "Generate animated videos from images in minutes",
+    "topics": [
+      "Video",
+      "Design Tools",
+      "Artificial Intelligence"
+    ],
+    "votes": 18,
+    "visit_url": "https://videomemories.ai",
+    "image": "https://ph-files.imgix.net/e529fb61-3df2-4574-a77c-5c8e8935f8f6.png"
+  },
+  {
+    "name": "investmatch AI",
+    "description": "InvestMatch is a Telegram mini-app that revolutionizes how founders find funding and how investors discover the next big thing. We’ve taken Tinder’s swipe mechanics and applied them to the startup world:",
+    "product_hunt_url": "https://www.producthunt.com/posts/investmatch-ai",
+    "created_at": "",
+    "id": "investmatch-ai",
+    "label": "Startup tinder",
+    "topics": [
+      "Crowdfunding",
+      "Investing",
+      "Venture Capital"
+    ],
+    "votes": 13,
+    "visit_url": "https://t.me/InvestmatchBot",
+    "image": "https://ph-files.imgix.net/f9b9c4e7-9577-43d9-aae9-fb13a82f5af6.jpeg"
+  },
+  {
+    "name": "Orbits",
+    "description": "Orbits is a space navigation game. Hop between orbits to reach wormholes!\n\n🚀 One-tap controls\n⚫ Time dilation near black holes\n🎶 Chill lofi vibes\n⏱️ 90-sec survival rounds\n✨ Endless gameplay\n\n~ Built with pure JS and physics!",
+    "product_hunt_url": "https://www.producthunt.com/posts/orbits-3",
+    "created_at": "",
+    "id": "orbits-3",
+    "label": "Navigate through orbits to reach the wormhole",
+    "topics": [
+      "Indie Games",
+      "Free Games",
+      "Games"
+    ],
+    "votes": 11,
+    "visit_url": "https://snazzy-manatee-4540ec.netlify.app/",
+    "image": "https://ph-files.imgix.net/a8e587e9-871d-4b4e-883c-10ddd6f87441.gif"
+  }
+]

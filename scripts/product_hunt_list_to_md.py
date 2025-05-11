@@ -156,10 +156,7 @@ class ProductHuntScraper:
             page = get_drission_page()
             
             # 设置页面加载超时时间
-            try:
-                page.set.load_timeout(40)
-            except Exception as e:
-                logger.warning("无法设置DrissionPage的超时时间，使用默认值")
+            page.set.load_timeout = 80
             
             # 访问昨天的排行榜页面
             yesterday = (datetime.strptime(date_str, '%Y-%m-%d') - timedelta(days=1)).strftime('%Y/%-m/%-d')
@@ -287,45 +284,6 @@ class Product:
             description = description[:497] + "..."
         return description
 
-    # def to_markdown(self):
-    #     """转换为Markdown格式"""
-    #     markdown = f"## [{self.name}]({self.product_hunt_url})\n"
-    #     if self.icon:
-    #         markdown += f"![icon]({self.icon})\n"
-    #     markdown += f"**简介**：{self.label}\n"
-    #     markdown += f"**详细介绍**：{self.format_description(self.maker_introduction)}\n"
-        
-    #     # 添加产品图片
-    #     if self.image:
-    #         markdown += f"![产品图片]({self.image})\n"
-            
-    #     # 添加产品描述
-    #     if self.description:
-    #         markdown += f"**产品描述**：{self.format_description(self.description)}\n"
-            
-    #     # 添加产品链接
-    #     if self.visit_url:
-    #         markdown += f"**访问链接**: [{self.name}]({self.visit_url})\n"
-            
-    #     markdown += f"**Product Hunt**: [View on Product Hunt]({self.product_hunt_url})\n\n"
-        
-    #     # 改进关键词格式
-    #     keywords = []
-    #     unique_topics = list(dict.fromkeys(self.topics))
-    #     for topic in unique_topics:
-    #         # 将英文单词直接添加，不分割字符
-    #         if topic and topic.strip():  # 确保关键词不为空
-    #             keywords.append(topic.strip())
-    #     if keywords:
-    #         markdown += f"**关键词**：{'、'.join(keywords)}\n"
-    #     else:
-    #         markdown += "**关键词**：暂无\n"
-        
-    #     markdown += f"**票数**: {self.votes}\n"
-    #     markdown += f"**是否精选**：{'是' if self.is_featured else '否'}\n"
-    #     markdown += f"**发布时间**：{self.created_at}\n\n"
-    #     markdown += "---\n"
-    #     return markdown
 
     def to_dict(self):
         """将产品对象转换为可JSON序列化的字典"""
@@ -448,7 +406,7 @@ async def main():
                                 logger.info(f"使用DrissionPage获取到产品label: {label}")
                     
                     # 获取产品描述
-                    html_text_div = soup.find('div', class_=re.compile(r'styles_htmlText__.*'))
+                    html_text_div = soup.find('div', class_=re.compile(r'prose text-16 font-normal text-dark-gray text-gray-700'))
                     if html_text_div:
                         description = html_text_div.text.strip()
                         product_data[product_id]['description'] = description
