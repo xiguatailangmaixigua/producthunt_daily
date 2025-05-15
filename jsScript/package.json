@@ -1,0 +1,21 @@
+{
+  "name": "jsscript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node split-markdown.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "html-to-image": "^1.11.13",
+    "markdown-to-image": "0.0.13",
+    "marked": "^15.0.11",
+    "puppeteer": "^24.8.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

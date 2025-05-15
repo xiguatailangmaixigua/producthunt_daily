@@ -1,0 +1,241 @@
+[
+  {
+    "name": "AI Meeting Notes by Notion",
+    "description": "Focus on the conversation while AI captures every word. Meeting notes are always right where you work, so you can skip the recap and get to work faster. Works on any device and connects with your calendar.",
+    "product_hunt_url": "https://www.producthunt.com/posts/ai-meeting-notes-by-notion",
+    "created_at": "",
+    "id": "ai-meeting-notes-by-notion",
+    "label": "Perfect meeting memory in Notion",
+    "topics": [
+      "Meetings",
+      "Productivity",
+      "Artificial Intelligence"
+    ],
+    "votes": 515,
+    "visit_url": "https://www.notion.com/product/ai-meeting-notes",
+    "image": "https://ph-files.imgix.net/00ea5767-a40f-40d6-8051-8608d6331b25.png"
+  },
+  {
+    "name": "Probo",
+    "description": "Probo is an open-source platform for SOC 2, ISO 27001, HIPAA, and more.  If you don't want to lose time doing it, we provide a white-glove service to run everything for you and let you focus on your business. Open-source, transparent, and stress-free.",
+    "product_hunt_url": "https://www.producthunt.com/posts/probo",
+    "created_at": "",
+    "id": "probo",
+    "label": "Compliance for Startups to get SOC2/ISO27001/HIPAA in a week",
+    "topics": [
+      "Open Source",
+      "Artificial Intelligence",
+      "Security"
+    ],
+    "votes": 510,
+    "visit_url": "https://www.getprobo.com/",
+    "image": "https://ph-files.imgix.net/d35978de-4c5a-4925-8ec5-45fe1e934891.png"
+  },
+  {
+    "name": "Mealpreper Guide",
+    "description": "No fluff. No fancy tools. Just real meals. Mealpreper Guide helps you prep once - and feed your crew for days. Tested menus, smart lists, no guesswork. Real food for real people - and real fridges that deserve better than takeout.",
+    "product_hunt_url": "https://www.producthunt.com/posts/mealpreper-guide",
+    "created_at": "",
+    "id": "mealpreper-guide",
+    "label": "Meal prep made simple, for real life",
+    "topics": [
+      "Android",
+      "iOS",
+      "Cooking"
+    ],
+    "votes": 101,
+    "visit_url": "https://mealpreper.guide",
+    "image": "https://ph-files.imgix.net/998d5e8b-a182-44c3-9663-e23858c1270d.png"
+  },
+  {
+    "name": "Syft AI",
+    "description": "Unlike other news apps, you tell us the exact topics you care about, and we bring you time-saving, unbiased takeaways from the world's most trusted sources.",
+    "product_hunt_url": "https://www.producthunt.com/posts/syft-ai",
+    "created_at": "",
+    "id": "syft-ai",
+    "label": "Define Your news & choose your topics for personalized feed",
+    "topics": [
+      "Productivity",
+      "Artificial Intelligence",
+      "News"
+    ],
+    "votes": 361,
+    "visit_url": "https://justsyft.com",
+    "image": "https://ph-files.imgix.net/a08b2189-de31-454a-8664-06f1f2794855.png"
+  },
+  {
+    "name": "CoLaunchly",
+    "description": "CoLaunchly is your launch co-pilot made for developers. Instantly get a personalised launch roadmap, content templates, and channel strategy-built to help your product grow from day one.",
+    "product_hunt_url": "https://www.producthunt.com/posts/colaunchly",
+    "created_at": "",
+    "id": "colaunchly",
+    "label": "Launch your app faster. With zero guesswork",
+    "topics": [
+      "Productivity",
+      "Marketing",
+      "Developer Tools"
+    ],
+    "votes": 315,
+    "visit_url": "https://colaunchly.io",
+    "image": "https://ph-files.imgix.net/74419e74-6ac3-43c9-9ac8-cf7fd5134d4c.png"
+  },
+  {
+    "name": "Sourcery Sentinel",
+    "description": "Sentinel is your on call engineer to investigate and fix any issue Sentry detects in your project. \n\nConnect to Slack to get instant responses on any Sentry alert with an explanation of what the error is, why the error happened, & what the best fix is.",
+    "product_hunt_url": "https://www.producthunt.com/posts/sourcery-sentinel",
+    "created_at": "",
+    "id": "sourcery-sentinel",
+    "label": "AI Agents that investigate and fix Sentry Issues",
+    "topics": [
+      "Artificial Intelligence",
+      "Software Engineering",
+      "Developer Tools"
+    ],
+    "votes": 73,
+    "visit_url": "https://sourcery.ai/production-issues",
+    "image": "https://ph-files.imgix.net/7a04bc55-824f-433e-91dd-bd5d5472aed4.png"
+  },
+  {
+    "name": "AppearOnAI",
+    "description": "AppearOnAI shows how your brand ranks across ChatGPT, Gemini, and Claude, and more—then tells you exactly how to improve. Get your AI Visibility Score, competitor benchmarks, and specific content suggestions.",
+    "product_hunt_url": "https://www.producthunt.com/posts/appearonai",
+    "created_at": "",
+    "id": "appearonai",
+    "label": "Get recommended by ChatGPT, Gemini, and Claude",
+    "topics": [
+      "SEO",
+      "Branding",
+      "Marketing"
+    ],
+    "votes": 231,
+    "visit_url": "https://appearonai.com/",
+    "image": "https://ph-files.imgix.net/5746cd0d-bd1d-4712-b6a0-57fc9644ffe3.png"
+  },
+  {
+    "name": "Velin",
+    "description": "Turn ideas into winning campaigns and market-ready content with Velin's product marketing AI agent. Launch, market and grow with Velin.",
+    "product_hunt_url": "https://www.producthunt.com/posts/velin",
+    "created_at": "",
+    "id": "velin",
+    "label": "Build with Replit. Launch with Velin.",
+    "topics": [
+      "SaaS",
+      "Artificial Intelligence",
+      "Marketing"
+    ],
+    "votes": 85,
+    "visit_url": "https://velin.ai/",
+    "image": "https://ph-files.imgix.net/9a660371-6180-406f-9e81-9a49b9804d43.png"
+  },
+  {
+    "name": "Asendia AI",
+    "description": "The first AI career agent that helps jobseekers practice with AI mock interviews, get personalized feedback, track job applications and land dream jobs. With the power of conversational AI, Asendia AI helps job seekers showcase skills and connect globally 💜",
+    "product_hunt_url": "https://www.producthunt.com/posts/asendia-ai-2",
+    "created_at": "",
+    "id": "asendia-ai-2",
+    "label": "Land your dream job 10x faster with Sarah, your AI job agent",
+    "topics": [
+      "Hiring",
+      "Artificial Intelligence"
+    ],
+    "votes": 191,
+    "visit_url": "https://asendia.ai/job-seekers",
+    "image": "https://ph-files.imgix.net/298cd582-d5c1-4db3-acda-93150bcf306e.png"
+  },
+  {
+    "name": "Adamik",
+    "description": "Think of Adamik as a universal blockchain interface. Our Unified API abstracts 60+ chains into one consistent format, so you can build, transact, and stake at scale without the complexity.",
+    "product_hunt_url": "https://www.producthunt.com/posts/adamik",
+    "created_at": "",
+    "id": "adamik",
+    "label": "One API, 60+ Chains, Instant Scale",
+    "topics": [
+      "Blockchain",
+      "Crypto",
+      "Web3"
+    ],
+    "votes": 65,
+    "visit_url": "https://bit.ly/3SlF5Ix",
+    "image": "https://ph-files.imgix.net/7b78a152-5110-4875-99e8-128b31544015.png"
+  },
+  {
+    "name": "PRDKit",
+    "description": "PRDKit turns half-baked feature ideas into crisp, structured product specs in minutes. It then auto-spins wireframes, Bolt-ready prototyping instructions, and social-ready snippets—handing PMs & builders a clear path forward, aligned on why & what.",
+    "product_hunt_url": "https://www.producthunt.com/posts/prdkit",
+    "created_at": "",
+    "id": "prdkit",
+    "label": "AI-powered product specs and GTM artifacts in one place",
+    "topics": [
+      "Artificial Intelligence",
+      "Development",
+      "Prototyping"
+    ],
+    "votes": 193,
+    "visit_url": "https://prdkit.ai",
+    "image": "https://ph-files.imgix.net/2ef2855f-0f5e-49d2-a168-2266fa9375cc.png"
+  },
+  {
+    "name": "AI Avatar Videos",
+    "description": "Create hyperrealistic avatars with natural gestures and perfect lipsync.\n\nPowered by ZERO SHOT AI LIPSYNC, this means that you don't have to submit any training videos if you want to use to create your AI Clone.\n\nMake your AI Avatar videos in minutes.",
+    "product_hunt_url": "https://www.producthunt.com/posts/ai-avatar-videos",
+    "created_at": "",
+    "id": "ai-avatar-videos",
+    "label": "AI Avatars with natural expressions and perfect lipsync",
+    "topics": [
+      "Artificial Intelligence",
+      "Video",
+      "Marketing"
+    ],
+    "votes": 169,
+    "visit_url": "https://creatorkit.com/ai-avatar-video",
+    "image": "https://ph-files.imgix.net/41170d45-af12-4b5e-b6e0-32faf3defdb4.png"
+  },
+  {
+    "name": "Nayla",
+    "description": "Nayla is an AI companion that combines a browser and workspace. This combination enables all tabs to talk to each other unlocking the following workflows:\n- Talk to Nayla during video calls\n- Infer tasks directly from your inbox \n- Extract data from the web",
+    "product_hunt_url": "https://www.producthunt.com/posts/nayla",
+    "created_at": "",
+    "id": "nayla",
+    "label": "The all-in-one AI browser & workspace that works for you",
+    "topics": [
+      "Productivity",
+      "Artificial Intelligence",
+      "Virtual Assistants"
+    ],
+    "votes": 166,
+    "visit_url": "https://nayla.ai",
+    "image": "https://ph-files.imgix.net/6beead4a-8cc0-4122-b34d-eb9d7d773ccc.png"
+  },
+  {
+    "name": "Zetta",
+    "description": "Zetta is an all-in-one data analytics platform featuring a conversational AI Data Analyst, automated insights, powerful dashboards, and a data warehouse. Empower your business teams with data clarity. No data team required.",
+    "product_hunt_url": "https://www.producthunt.com/posts/zetta-2",
+    "created_at": "",
+    "id": "zetta-2",
+    "label": "Automated business intelligence platform",
+    "topics": [
+      "Data Visualization",
+      "Analytics",
+      "Business Intelligence"
+    ],
+    "votes": 146,
+    "visit_url": "https://zettadata.ai",
+    "image": "https://ph-files.imgix.net/21590b3e-0e89-4c02-bbbb-625772d408a9.png"
+  },
+  {
+    "name": "10Web - Website Builder API",
+    "description": "Developer-first API that turns a single text prompt into a fully-hosted, mobile-ready WordPress site in seconds. Embed white-label site generation, WooCommerce stores, drag-and-drop editing, and hosting directly inside your platform.",
+    "product_hunt_url": "https://www.producthunt.com/posts/10web-website-builder-api",
+    "created_at": "",
+    "id": "10web-website-builder-api",
+    "label": "AI-powered site generation with a single API call",
+    "topics": [
+      "WordPress",
+      "API",
+      "Website Builder"
+    ],
+    "votes": 56,
+    "visit_url": "https://10web.io/website-builder-api/",
+    "image": "https://ph-files.imgix.net/d0ba46ca-3732-4b43-a460-48f882d938ce.png"
+  }
+]

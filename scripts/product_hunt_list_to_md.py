@@ -305,7 +305,7 @@ class Product:
 def get_drission_page():
     """获取DrissionPage实例"""
     page = ChromiumPage()
-    page.set.window.size(1920, 1080)
+    page.set.window.size(1080, 920)
     return page
 
 async def generate_markdown(products, date_str):

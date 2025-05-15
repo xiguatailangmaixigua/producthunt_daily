@@ -1,0 +1,242 @@
+[
+  {
+    "name": "FirstQuadrant",
+    "description": "Sales AI that helps founders and revenue teams move faster, stay organized, and close more deals, by streamlining the behind-the-scenes sales-work so nothing ever slips through the cracks.",
+    "product_hunt_url": "https://www.producthunt.com/posts/firstquadrant",
+    "created_at": "",
+    "id": "firstquadrant",
+    "label": "Maximize B2B sales with human-centered AI",
+    "topics": [
+      "SaaS",
+      "Artificial Intelligence",
+      "Sales"
+    ],
+    "votes": 560,
+    "visit_url": "https://firstquadrant.ai",
+    "image": "https://ph-files.imgix.net/add71459-d7f6-44b6-bf4b-7b23f991df65.png"
+  },
+  {
+    "name": "Sked",
+    "description": "Sked lets you schedule, reschedule, and manage meetings directly in Slack. No switching tabs. No back-and-forth. Just faster scheduling where work already happens.",
+    "product_hunt_url": "https://www.producthunt.com/posts/sked",
+    "created_at": "",
+    "id": "sked",
+    "label": "Schedule meetings inside Slack. Fast.",
+    "topics": [
+      "Artificial Intelligence",
+      "Calendar",
+      "Productivity"
+    ],
+    "votes": 112,
+    "visit_url": "https://getsked.ai",
+    "image": "https://ph-files.imgix.net/0c291e3b-1214-4977-b27c-912c46893c3b.png"
+  },
+  {
+    "name": "Agentic Testing by Testsigma",
+    "description": "Test Management by Testsigma puts AI agents in the hands of QA teams throughout the testing lifecycle - analyzing requirements, generating test cases and test steps, executing tests, tracking progress, and generating detailed bug reports.",
+    "product_hunt_url": "https://www.producthunt.com/posts/agentic-testing-by-testsigma",
+    "created_at": "",
+    "id": "agentic-testing-by-testsigma",
+    "label": "AI agents create and run tests from specs & designs",
+    "topics": [
+      "Developer Tools",
+      "SaaS",
+      "Artificial Intelligence"
+    ],
+    "votes": 361,
+    "visit_url": "https://testsigma.com/test-management",
+    "image": "https://ph-files.imgix.net/d3d9fa72-5122-4d7f-a3d0-c8def70ed61d.png"
+  },
+  {
+    "name": "Bugster",
+    "description": "Transform user flows into automated tests instantly. AI-powered testing solution that helps developers ship bug-free software faster.",
+    "product_hunt_url": "https://www.producthunt.com/posts/bugster",
+    "created_at": "",
+    "id": "bugster",
+    "label": "Software testing agent",
+    "topics": [
+      "Developer Tools",
+      "Artificial Intelligence",
+      "Development"
+    ],
+    "votes": 339,
+    "visit_url": "https://www.bugster.dev",
+    "image": "https://ph-files.imgix.net/7ac44f54-a5ce-4613-b629-13aabf9182f6.jpeg"
+  },
+  {
+    "name": "Granola for iOS",
+    "description": "Trusted by top founders, VCs and recruiters - Granola is now available on your iPhone.Stay present and capture conversations on-the-go with Granola for iPhone - perfect for coffee catch‑ups, conference days or just distilling your thoughts.",
+    "product_hunt_url": "https://www.producthunt.com/posts/granola-for-ios",
+    "created_at": "",
+    "id": "granola-for-ios",
+    "label": "The AI notepad for people in back-to-back meetings",
+    "topics": [
+      "iOS",
+      "Meetings",
+      "Notes"
+    ],
+    "votes": 339,
+    "visit_url": "https://apps.apple.com/us/app/granola-ai-meeting-notes/id6739429409?uo=4",
+    "image": "https://ph-files.imgix.net/955208d9-34ab-4460-bc43-6a0acce29554.png"
+  },
+  {
+    "name": "Migma AI",
+    "description": "Go from a simple prompt to a complete, on-brand email in seconds. Migma fetches live content, generates images, and ensures your emails look perfect everywhere. Once created, choose your audience and hit send. 200x cheaper and faster.",
+    "product_hunt_url": "https://www.producthunt.com/posts/migma-ai",
+    "created_at": "",
+    "id": "migma-ai",
+    "label": "Create on-brand emails in seconds",
+    "topics": [
+      "Email Marketing",
+      "Artificial Intelligence",
+      "Newsletters"
+    ],
+    "votes": 278,
+    "visit_url": "https://migma.ai",
+    "image": "https://ph-files.imgix.net/17ebefdb-475b-4284-b5e1-db79a2fc888c.png"
+  },
+  {
+    "name": "Making Today",
+    "description": "Making Today is your command center to get things done. Create dashboards to manage work, projects, trips, or focus. Organize everything in one place: events, meetings, emails, notes, tasks, links, files, Jira tickets, and more. Work smarter, not scattered.",
+    "product_hunt_url": "https://www.producthunt.com/posts/making-today-2",
+    "created_at": "",
+    "id": "making-today-2",
+    "label": "Stay Organized and Get more done!",
+    "topics": [
+      "Task Management",
+      "Productivity",
+      "Meetings"
+    ],
+    "votes": 72,
+    "visit_url": "https://making.today",
+    "image": "https://ph-files.imgix.net/22c89fff-e896-4343-a404-95b09cca8b8a.gif"
+  },
+  {
+    "name": "EasySketch",
+    "description": "Just draw a rough idea and click a button. We turn your quick, imperfect sketches into beautiful:\n- thumbnails \n- graphs\n- illustrations.\nNo subscription necessary.",
+    "product_hunt_url": "https://www.producthunt.com/posts/easysketch-2",
+    "created_at": "",
+    "id": "easysketch-2",
+    "label": "Turn rough-sketches into beautiful graphics!",
+    "topics": [
+      "Design Tools",
+      "Artificial Intelligence",
+      "Marketing"
+    ],
+    "votes": 63,
+    "visit_url": "https://easysketch.ai",
+    "image": "https://ph-files.imgix.net/fc292e1c-1ce9-481d-8460-c0f9c5170fec.jpeg"
+  },
+  {
+    "name": "BuildShip Tools",
+    "description": "Build MCP-ready tools for your AI agents - just by prompting! Get a visual logic flow of the tool instead of a large code blob. Tweak, test, and perfect your tool’s logic, on an infinite low-code canvas. Host the tool instantly or export the code to self-host.",
+    "product_hunt_url": "https://www.producthunt.com/posts/buildship-tools",
+    "created_at": "",
+    "id": "buildship-tools",
+    "label": "Vibe-code MCP-ready tools for any AI Agent",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Productivity"
+    ],
+    "votes": 184,
+    "visit_url": "https://buildship.com/tools",
+    "image": "https://ph-files.imgix.net/69ecf0aa-1fed-45cb-b129-596504d17c29.png"
+  },
+  {
+    "name": "Interviewiz",
+    "description": "An AI tool designed to level up your interview skills with conversational video avatars, job-specific questions generated from real job descriptions, a comprehensive mock interview library, and actionable, performance-based feedback — available anytime, 24/7",
+    "product_hunt_url": "https://www.producthunt.com/posts/interviewiz",
+    "created_at": "",
+    "id": "interviewiz",
+    "label": "Tailored AI mock interviews with video avatars",
+    "topics": [
+      "Productivity",
+      "Education",
+      "Career"
+    ],
+    "votes": 56,
+    "visit_url": "https://interviewiz.com/",
+    "image": "https://ph-files.imgix.net/f8de834a-d8ea-4622-a511-d628e636870d.png"
+  },
+  {
+    "name": "Matter AI",
+    "description": "Matter AI is open-source AI Code Reviewer Agent enables developers to review code changes focused on bugs, security vulnerabilities and performance issues.",
+    "product_hunt_url": "https://www.producthunt.com/posts/matter-ai",
+    "created_at": "",
+    "id": "matter-ai",
+    "label": "AI Code reviewer to fix bugs, security & performance issues",
+    "topics": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Open Source"
+    ],
+    "votes": 170,
+    "visit_url": "https://matterai.so",
+    "image": "https://ph-files.imgix.net/c75e374e-aec9-44c3-a8f6-f3685e7de6f0.png"
+  },
+  {
+    "name": "Gleo AI",
+    "description": "Replay conversations wishing you'd handled high-stakes moments better? 🤔 Practice negotiations, interviews, sales & much more with Gleo AI, your personal AI coach. Get feedback on how you speak (clarity, tone, impact) & build confidence.",
+    "product_hunt_url": "https://www.producthunt.com/posts/gleo-ai",
+    "created_at": "",
+    "id": "gleo-ai",
+    "label": "Your AI coach for confident communication",
+    "topics": [
+      "Online Learning",
+      "Android",
+      "Education"
+    ],
+    "votes": 162,
+    "visit_url": "https://gleoai.com",
+    "image": "https://ph-files.imgix.net/299e0feb-ad75-4aca-a4ab-1c36687fc928.png"
+  },
+  {
+    "name": "GoBuildMy.App",
+    "description": "Build native iOS and Android apps by just chatting. Turn your ideas into apps in seconds. Connect APIs with just a few prompts, create MVPs in minutes instead of days or design apps together with your clients. All the code is backed-up automatically to GitHub!",
+    "product_hunt_url": "https://www.producthunt.com/posts/gobuildmy-app",
+    "created_at": "",
+    "id": "gobuildmy-app",
+    "label": "Build native mobile apps by chatting.",
+    "topics": [
+      "Developer Tools",
+      "SaaS",
+      "Artificial Intelligence"
+    ],
+    "votes": 160,
+    "visit_url": "https://gobuildmy.app",
+    "image": "https://ph-files.imgix.net/4e757c7c-e951-44a8-8f55-e6054c23abe8.png"
+  },
+  {
+    "name": "VoltAgent",
+    "description": "VoltAgent is an open source TypeScript framework for building and orchestrating AI agents, with built-in observability. Escape the limitations of no-code builders and the complexity of starting from scratch.",
+    "product_hunt_url": "https://www.producthunt.com/posts/voltagent",
+    "created_at": "",
+    "id": "voltagent",
+    "label": "Build TS AI agents with n8n-style observability",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "votes": 160,
+    "visit_url": "https://github.com/voltagent/voltagent",
+    "image": "https://ph-files.imgix.net/23431592-6f37-4db5-b014-74ea4c8cddcb.png"
+  },
+  {
+    "name": "CheatGPT",
+    "description": "Access premium AI models (o4 Mini, Gemini 2.5 Pro, Grok & more) at affordable prices. CheatGPT offers specialized learning tools, and cost-effective subscription plans. Try our free tier today!\nAffiliate program 30% 👇🏻",
+    "product_hunt_url": "https://www.producthunt.com/posts/cheatgpt-4",
+    "created_at": "",
+    "id": "cheatgpt-4",
+    "label": "Your all-in-one AI cheat code for exams, studying & more",
+    "topics": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Education"
+    ],
+    "votes": 143,
+    "visit_url": "https://cheatgpt.app",
+    "image": "https://ph-files.imgix.net/60b561e8-baa9-4ff0-bf81-5b0ee494e37a.png"
+  }
+]

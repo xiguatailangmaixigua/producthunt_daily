@@ -1,0 +1,345 @@
+[
+  {
+    "name": "FirstQuadrant",
+    "description": "Sales AI that helps founders and revenue teams move faster, stay organized, and close more deals, by streamlining the behind-the-scenes sales-work so nothing ever slips through the cracks.",
+    "product_hunt_url": "https://www.producthunt.com/posts/firstquadrant",
+    "created_at": "",
+    "id": "firstquadrant",
+    "label": "Maximize B2B sales with human-centered AI",
+    "topics": [
+      "SaaS",
+      "Artificial Intelligence",
+      "Sales"
+    ],
+    "votes": 560,
+    "visit_url": "https://firstquadrant.ai",
+    "image": "https://ph-files.imgix.net/add71459-d7f6-44b6-bf4b-7b23f991df65.png",
+    "label_zh": "最大化B2B销售，借助以人为本的AI",
+    "topics_zh": [
+      "SaaS",
+      "人工智能",
+      "销售"
+    ],
+    "content_zh": "FirstQuadrant 是一款销售 AI 工具，帮助创始人和销售团队提高效率、保持组织有序，并促成更多交易。它通过简化后台销售工作，确保每个细节都不被遗漏。"
+  },
+  {
+    "name": "Sked",
+    "description": "Sked lets you schedule, reschedule, and manage meetings directly in Slack. No switching tabs. No back-and-forth. Just faster scheduling where work already happens.",
+    "product_hunt_url": "https://www.producthunt.com/posts/sked",
+    "created_at": "",
+    "id": "sked",
+    "label": "Schedule meetings inside Slack. Fast.",
+    "topics": [
+      "Artificial Intelligence",
+      "Calendar",
+      "Productivity"
+    ],
+    "votes": 112,
+    "visit_url": "https://getsked.ai",
+    "image": "https://ph-files.imgix.net/0c291e3b-1214-4977-b27c-912c46893c3b.png",
+    "label_zh": "在Slack中快速安排会议。",
+    "topics_zh": [
+      "人工智能",
+      "日历",
+      "生产力"
+    ],
+    "content_zh": "Sked 让你直接在 Slack 中安排、重新安排和管理会议。无需切换标签页，无需来回沟通，只需在工作已经进行的地方更快地安排会议。"
+  },
+  {
+    "name": "Agentic Testing by Testsigma",
+    "description": "Test Management by Testsigma puts AI agents in the hands of QA teams throughout the testing lifecycle - analyzing requirements, generating test cases and test steps, executing tests, tracking progress, and generating detailed bug reports.",
+    "product_hunt_url": "https://www.producthunt.com/posts/agentic-testing-by-testsigma",
+    "created_at": "",
+    "id": "agentic-testing-by-testsigma",
+    "label": "AI agents create and run tests from specs & designs",
+    "topics": [
+      "Developer Tools",
+      "SaaS",
+      "Artificial Intelligence"
+    ],
+    "votes": 361,
+    "visit_url": "https://testsigma.com/test-management",
+    "image": "https://ph-files.imgix.net/d3d9fa72-5122-4d7f-a3d0-c8def70ed61d.png",
+    "label_zh": "AI 代理根据规格和设计创建并运行测试",
+    "topics_zh": [
+      "开发工具",
+      "SaaS",
+      "人工智能"
+    ],
+    "content_zh": "Testsigma 的 Agentic Testing 将 AI 代理交到 QA 团队手中，贯穿整个测试生命周期。它可以帮助分析需求、生成测试用例和步骤、执行测试、跟踪进度并生成详细的 bug 报告。"
+  },
+  {
+    "name": "Bugster",
+    "description": "Transform user flows into automated tests instantly. AI-powered testing solution that helps developers ship bug-free software faster.",
+    "product_hunt_url": "https://www.producthunt.com/posts/bugster",
+    "created_at": "",
+    "id": "bugster",
+    "label": "Software testing agent",
+    "topics": [
+      "Developer Tools",
+      "Artificial Intelligence",
+      "Development"
+    ],
+    "votes": 339,
+    "visit_url": "https://www.bugster.dev",
+    "image": "https://ph-files.imgix.net/7ac44f54-a5ce-4613-b629-13aabf9182f6.jpeg",
+    "label_zh": "软件测试代理",
+    "topics_zh": [
+      "开发工具",
+      "人工智能",
+      "开发"
+    ],
+    "content_zh": "将用户流程立即转换为自动化测试。这款由AI驱动的测试工具帮助开发者更快地交付无bug的软件。"
+  },
+  {
+    "name": "Granola for iOS",
+    "description": "Trusted by top founders, VCs and recruiters - Granola is now available on your iPhone.Stay present and capture conversations on-the-go with Granola for iPhone - perfect for coffee catch‑ups, conference days or just distilling your thoughts.",
+    "product_hunt_url": "https://www.producthunt.com/posts/granola-for-ios",
+    "created_at": "",
+    "id": "granola-for-ios",
+    "label": "The AI notepad for people in back-to-back meetings",
+    "topics": [
+      "iOS",
+      "Meetings",
+      "Notes"
+    ],
+    "votes": 339,
+    "visit_url": "https://apps.apple.com/us/app/granola-ai-meeting-notes/id6739429409?uo=4",
+    "image": "https://ph-files.imgix.net/955208d9-34ab-4460-bc43-6a0acce29554.png",
+    "label_zh": "适用于连续会议的人工智能记事本",
+    "topics_zh": [
+      "iOS",
+      "会议",
+      "笔记"
+    ],
+    "content_zh": "深受顶级创始人、风险投资人和招聘人员信赖的Granola现已登陆iPhone。使用Granola for iOS，您可以随时随地记录对话，无论是咖啡闲聊、会议日程还是整理思绪，都能轻松应对。"
+  },
+  {
+    "name": "Migma AI",
+    "description": "Go from a simple prompt to a complete, on-brand email in seconds. Migma fetches live content, generates images, and ensures your emails look perfect everywhere. Once created, choose your audience and hit send. 200x cheaper and faster.",
+    "product_hunt_url": "https://www.producthunt.com/posts/migma-ai",
+    "created_at": "",
+    "id": "migma-ai",
+    "label": "Create on-brand emails in seconds",
+    "topics": [
+      "Email Marketing",
+      "Artificial Intelligence",
+      "Newsletters"
+    ],
+    "votes": 278,
+    "visit_url": "https://migma.ai",
+    "image": "https://ph-files.imgix.net/17ebefdb-475b-4284-b5e1-db79a2fc888c.png",
+    "label_zh": "几秒钟内创建符合品牌形象的电子邮件",
+    "topics_zh": [
+      "电子邮件营销",
+      "人工智能",
+      "电子报"
+    ],
+    "content_zh": "从简单的提示到完整的品牌邮件，只需几秒钟。Migma AI 可以获取实时内容，生成图片，并确保你的邮件在任何地方都看起来完美。创建完成后，选择你的受众并发送。成本和时间比传统方式节省200倍。"
+  },
+  {
+    "name": "Making Today",
+    "description": "Making Today is your command center to get things done. Create dashboards to manage work, projects, trips, or focus. Organize everything in one place: events, meetings, emails, notes, tasks, links, files, Jira tickets, and more. Work smarter, not scattered.",
+    "product_hunt_url": "https://www.producthunt.com/posts/making-today-2",
+    "created_at": "",
+    "id": "making-today-2",
+    "label": "Stay Organized and Get more done!",
+    "topics": [
+      "Task Management",
+      "Productivity",
+      "Meetings"
+    ],
+    "votes": 72,
+    "visit_url": "https://making.today",
+    "image": "https://ph-files.imgix.net/22c89fff-e896-4343-a404-95b09cca8b8a.gif",
+    "label_zh": "保持井井有条，事半功倍！",
+    "topics_zh": [
+      "任务管理，生产力，会议"
+    ],
+    "content_zh": "Making Today 是你的指挥中心，帮助你高效完成任务。你可以创建仪表盘来管理工作、项目、旅行或专注事项。将所有内容集中在一个地方：日程、会议、邮件、笔记、任务、链接、文件、Jira 工单等。让你的工作更加智能，不再杂乱无章。"
+  },
+  {
+    "name": "EasySketch",
+    "description": "Just draw a rough idea and click a button. We turn your quick, imperfect sketches into beautiful:\n- thumbnails \n- graphs\n- illustrations.\nNo subscription necessary.",
+    "product_hunt_url": "https://www.producthunt.com/posts/easysketch-2",
+    "created_at": "",
+    "id": "easysketch-2",
+    "label": "Turn rough-sketches into beautiful graphics!",
+    "topics": [
+      "Design Tools",
+      "Artificial Intelligence",
+      "Marketing"
+    ],
+    "votes": 63,
+    "visit_url": "https://easysketch.ai",
+    "image": "https://ph-files.imgix.net/fc292e1c-1ce9-481d-8460-c0f9c5170fec.jpeg",
+    "label_zh": "将粗糙的草图变成精美的图形！",
+    "topics_zh": [
+      "设计工具",
+      "人工智能",
+      "市场营销"
+    ],
+    "content_zh": "只需画出一个大概的想法，然后点击按钮。我们就能将你快速、不完美的草图变成精美的：\n- 缩略图\n- 图表\n- 插图\n无需订阅。"
+  },
+  {
+    "name": "BuildShip Tools",
+    "description": "Build MCP-ready tools for your AI agents - just by prompting! Get a visual logic flow of the tool instead of a large code blob. Tweak, test, and perfect your tool’s logic, on an infinite low-code canvas. Host the tool instantly or export the code to self-host.",
+    "product_hunt_url": "https://www.producthunt.com/posts/buildship-tools",
+    "created_at": "",
+    "id": "buildship-tools",
+    "label": "Vibe-code MCP-ready tools for any AI Agent",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Productivity"
+    ],
+    "votes": 184,
+    "visit_url": "https://buildship.com/tools",
+    "image": "https://ph-files.imgix.net/69ecf0aa-1fed-45cb-b129-596504d17c29.png",
+    "label_zh": "氛围代码：适用于任何AI代理的MCP就绪工具\n\n直译后重新意译：\n氛围代码：适用于任何AI助手的MCP就绪工具",
+    "topics_zh": [
+      "人工智能",
+      "开发者工具",
+      "生产力"
+    ],
+    "content_zh": "为你的AI代理构建MCP就绪的工具——只需通过提示即可！你将获得工具的可视化逻辑流程，而不是一大段代码。在一个无限的低代码画布上调整、测试和完善你的工具逻辑。你可以立即托管工具，或将代码导出以自行托管。"
+  },
+  {
+    "name": "Interviewiz",
+    "description": "An AI tool designed to level up your interview skills with conversational video avatars, job-specific questions generated from real job descriptions, a comprehensive mock interview library, and actionable, performance-based feedback — available anytime, 24/7",
+    "product_hunt_url": "https://www.producthunt.com/posts/interviewiz",
+    "created_at": "",
+    "id": "interviewiz",
+    "label": "Tailored AI mock interviews with video avatars",
+    "topics": [
+      "Productivity",
+      "Education",
+      "Career"
+    ],
+    "votes": 56,
+    "visit_url": "https://interviewiz.com/",
+    "image": "https://ph-files.imgix.net/f8de834a-d8ea-4622-a511-d628e636870d.png",
+    "label_zh": "量身定制的AI模拟面试，配有视频头像",
+    "topics_zh": [
+      "生产力",
+      "教育",
+      "职业发展"
+    ],
+    "content_zh": "Interviewiz 是一款专为提升面试技巧设计的 AI 工具，提供对话式视频虚拟人、根据真实职位描述生成的职位相关问题、全面的模拟面试库以及基于表现的实用反馈。这款工具全天候 24/7 可用，随时帮助你提升面试技能。"
+  },
+  {
+    "name": "Matter AI",
+    "description": "Matter AI is open-source AI Code Reviewer Agent enables developers to review code changes focused on bugs, security vulnerabilities and performance issues.",
+    "product_hunt_url": "https://www.producthunt.com/posts/matter-ai",
+    "created_at": "",
+    "id": "matter-ai",
+    "label": "AI Code reviewer to fix bugs, security & performance issues",
+    "topics": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Open Source"
+    ],
+    "votes": 170,
+    "visit_url": "https://matterai.so",
+    "image": "https://ph-files.imgix.net/c75e374e-aec9-44c3-a8f6-f3685e7de6f0.png",
+    "label_zh": "AI 代码审查工具，修复 bug、安全和性能问题",
+    "topics_zh": [
+      "人工智能",
+      "SaaS",
+      "开源"
+    ],
+    "content_zh": "Matter AI 是一个开源的 AI 代码审查工具，帮助开发者专注于检查代码中的错误、安全漏洞和性能问题。"
+  },
+  {
+    "name": "Gleo AI",
+    "description": "Replay conversations wishing you'd handled high-stakes moments better? 🤔 Practice negotiations, interviews, sales & much more with Gleo AI, your personal AI coach. Get feedback on how you speak (clarity, tone, impact) & build confidence.",
+    "product_hunt_url": "https://www.producthunt.com/posts/gleo-ai",
+    "created_at": "",
+    "id": "gleo-ai",
+    "label": "Your AI coach for confident communication",
+    "topics": [
+      "Online Learning",
+      "Android",
+      "Education"
+    ],
+    "votes": 162,
+    "visit_url": "https://gleoai.com",
+    "image": "https://ph-files.imgix.net/299e0feb-ad75-4aca-a4ab-1c36687fc928.png",
+    "label_zh": "你的AI沟通自信教练",
+    "topics_zh": [
+      "在线学习",
+      "安卓",
+      "教育"
+    ],
+    "content_zh": "回想那些关键时刻，你是否希望自己表现得更好？🤔 用Gleo AI来练习谈判、面试、销售等技能吧，它就是你的私人AI教练。它可以给你提供关于说话清晰度、语气和影响力等方面的反馈，帮助你建立自信。"
+  },
+  {
+    "name": "GoBuildMy.App",
+    "description": "Build native iOS and Android apps by just chatting. Turn your ideas into apps in seconds. Connect APIs with just a few prompts, create MVPs in minutes instead of days or design apps together with your clients. All the code is backed-up automatically to GitHub!",
+    "product_hunt_url": "https://www.producthunt.com/posts/gobuildmy-app",
+    "created_at": "",
+    "id": "gobuildmy-app",
+    "label": "Build native mobile apps by chatting.",
+    "topics": [
+      "Developer Tools",
+      "SaaS",
+      "Artificial Intelligence"
+    ],
+    "votes": 160,
+    "visit_url": "https://gobuildmy.app",
+    "image": "https://ph-files.imgix.net/4e757c7c-e951-44a8-8f55-e6054c23abe8.png",
+    "label_zh": "通过聊天构建原生移动应用。",
+    "topics_zh": [
+      "开发者工具",
+      "SaaS",
+      "人工智能"
+    ],
+    "content_zh": "通过聊天就能构建原生的iOS和Android应用，几秒钟内将你的想法变成应用程序。只需几个简单的提示就能连接API，几分钟内就能创建出最小可行产品（MVP），而不需要几天的时间，或者与客户一起设计应用。所有代码都会自动备份到GitHub！"
+  },
+  {
+    "name": "VoltAgent",
+    "description": "VoltAgent is an open source TypeScript framework for building and orchestrating AI agents, with built-in observability. Escape the limitations of no-code builders and the complexity of starting from scratch.",
+    "product_hunt_url": "https://www.producthunt.com/posts/voltagent",
+    "created_at": "",
+    "id": "voltagent",
+    "label": "Build TS AI agents with n8n-style observability",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "votes": 160,
+    "visit_url": "https://github.com/voltagent/voltagent",
+    "image": "https://ph-files.imgix.net/23431592-6f37-4db5-b014-74ea4c8cddcb.png",
+    "label_zh": "构建具有 n8n 风格可观测性的 TS AI 代理",
+    "topics_zh": [
+      "人工智能",
+      "开发者工具",
+      "开源"
+    ],
+    "content_zh": "VoltAgent 是一个开源的 TypeScript 框架，用于构建和编排 AI 代理，并内置了可观测性功能。它既摆脱了无代码构建工具的限制，又避免了从零开始构建的复杂性。"
+  },
+  {
+    "name": "CheatGPT",
+    "description": "Access premium AI models (o4 Mini, Gemini 2.5 Pro, Grok & more) at affordable prices. CheatGPT offers specialized learning tools, and cost-effective subscription plans. Try our free tier today!\nAffiliate program 30% 👇🏻",
+    "product_hunt_url": "https://www.producthunt.com/posts/cheatgpt-4",
+    "created_at": "",
+    "id": "cheatgpt-4",
+    "label": "Your all-in-one AI cheat code for exams, studying & more",
+    "topics": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Education"
+    ],
+    "votes": 143,
+    "visit_url": "https://cheatgpt.app",
+    "image": "https://ph-files.imgix.net/60b561e8-baa9-4ff0-bf81-5b0ee494e37a.png",
+    "label_zh": "你的全能AI考试和学习秘籍",
+    "topics_zh": [
+      "人工智能",
+      "生产力",
+      "教育"
+    ],
+    "content_zh": "访问高质量的AI模型（如o4 Mini、Gemini 2.5 Pro、Grok等），价格实惠。CheatGPT提供专业的学习工具和经济实惠的订阅计划。今天就来试试我们的免费版本吧！\n联盟计划30%👇🏻"
+  }
+]
