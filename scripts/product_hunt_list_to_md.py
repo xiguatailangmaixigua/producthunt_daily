@@ -208,11 +208,18 @@ class ProductHuntScraper:
                             
                         product_id = product_url.split('/')[-1]
                         
+                        topic_elements = section.find_all('a', href=re.compile(r'^/topics/'))
+                        topic_list = []
+                        if topic_elements:
+                            topic_list = list({topic.text.strip() for topic in topic_elements if topic.text.strip()})
+                            logger.info(f"使用DrissionPage获取到主题标签: {topic_list}")
+                           
                         # 记录产品信息
                         self.product_info[i] = {
                             'link': product_url,
                             'id': product_id,
-                            'text': product_links[1].text.strip()
+                            'text': product_links[1].text.strip(),
+                            'topics': topic_list
                         }
                         
                         logger.info(f"成功处理产品 {i+1}: {product_links[1].text.strip()}")
@@ -357,7 +364,7 @@ async def main():
             for i, info in scraper.product_info.items():
                 product_url = info.get('link')
                 product_id = info.get('id')
-                
+                topic_list = info.get('topics')
                 if not product_url or not product_id:
                     continue
                     
@@ -366,6 +373,8 @@ async def main():
                     page = get_drission_page()
                     logger.info(f"使用DrissionPage访问产品页面: {product_url}")
                     page.get(product_url)
+                    
+                   
                     
                     # 保存页面源代码到临时文件
                     temp_html_path = os.path.join(scraper.temp_dir, f'producthunt_product_{product_id}.html')
@@ -384,7 +393,7 @@ async def main():
                         'created_at': '',
                         'id': product_id,
                         'label': '',
-                        'topics': [],
+                        'topics': topic_list,
                         'votes': 0,
                         'visit_url': '',
                         'image': ''
@@ -423,10 +432,12 @@ async def main():
                     
                     # 获取主题标签
                     topic_elements = soup.find_all('a', href=re.compile(r'^/topics/'))
+                    logger.info("抓到主题标签：%s", ''.join(str(a) for a in topic_elements))
                     if topic_elements:
                         topics = list({topic.text.strip() for topic in topic_elements if topic.text.strip()})
-                        product_data[product_id]['topics'] = topics
                         logger.info(f"使用DrissionPage获取到主题标签: {topics}")
+                        product_data[product_id]['topics'] = topics
+                        logger.info(f"使用DrissionPage获取到主题标签11111: {product_data}")
                     
                     # 获取投票数
                     vote_elements = soup.find_all(attrs={"data-test": "vote-button"})
@@ -454,7 +465,7 @@ async def main():
             for product_id, product in product_data.items():
                 if product['name'] and product['label']:
                     products.append(product)
-                    logger.info(f"添加产品: {product['name']}")
+                    logger.info(f"添加产品: {product}")
             
             # 保存产品信息到JSON文件
             output_file = f'data/product_{current_date}.json'
