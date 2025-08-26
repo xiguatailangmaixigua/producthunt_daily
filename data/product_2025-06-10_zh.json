@@ -1,0 +1,316 @@
+[
+  {
+    "name": "FuseBase /formerly Nimbus/",
+    "description": "Scattered tools and clunky collaboration cost you time and money. FuseBase unifies internal and external teamwork—powered by AI agents that automate admin work, so you focus on what matters most.\nIt’s like Notion, but purpose-built for internal teams and external collaboration. Turbo-charged with always-on AI Agents that live inside your FuseBase workspaces, inside every portal, inside a lightning-fast browser extension, and inside our Zapier-style Automation Hub",
+    "product_hunt_url": "https://www.producthunt.com/products/fusebase",
+    "created_at": "",
+    "id": "fusebase",
+    "label": "Internal and external workspaces powered by AI agents",
+    "topics": [
+      "Team collaboration software",
+      "File storage and sharing apps",
+      "AI",
+      "Money transfer",
+      "Project management software",
+      "No-code platforms",
+      "Video conferencing"
+    ],
+    "votes": 642,
+    "visit_url": "https://thefusebase.com",
+    "image": "https://ph-files.imgix.net/3cd6fe26-acbf-4674-a289-172b61b1e556.jpeg",
+    "label_zh": "内部和外部工作空间由AI代理驱动",
+    "topics_zh": [
+      "团队协作软件",
+      "文件存储与共享应用",
+      "人工智能",
+      "资金转账",
+      "项目管理软件",
+      "无代码平台",
+      "视频会议"
+    ],
+    "content_zh": "分散的工具和笨拙的协作方式浪费了你的时间和金钱。FuseBase 将内部和外部团队合作统一起来，通过 AI 代理自动处理行政工作，让你可以专注于最重要的事情。\n它有点像 Notion，但专门为内部团队和外部协作设计。内置的 AI 代理全天候运行，在你的 FuseBase 工作空间、每个门户、快速浏览器扩展以及我们的类似 Zapier 的自动化中心中都能找到它们的身影。"
+  },
+  {
+    "name": "KLING AI",
+    "description": "KLING AI, a cutting-edge creative studio by Kuaishou Tech, excels in image and video generation. It ignites creativity through prompts and images, producing realistic visuals with advanced text comprehension, intricate details, and diverse styles.",
+    "product_hunt_url": "https://www.producthunt.com/products/kling-ai-4",
+    "created_at": "",
+    "id": "kling-ai-4",
+    "label": "Next-Generation Al Creative Studio",
+    "topics": [
+      "AI Generative Art"
+    ],
+    "votes": 285,
+    "visit_url": "https://app.klingai.com/global",
+    "image": "https://ph-files.imgix.net/a4d6b682-379a-404b-b562-905adae55455.jpeg",
+    "label_zh": "下一代AI创意工作室",
+    "topics_zh": [
+      "AI生成艺术"
+    ],
+    "content_zh": "KLING AI 是快手科技推出的一款前沿创意工作室，擅长图像和视频生成。它通过提示和图片激发创造力，利用先进的文本理解能力，生成细节丰富、风格多样的逼真视觉效果。"
+  },
+  {
+    "name": "Glims  (Beta)",
+    "description": "Glims is like Figma for showreels — the fastest way to turn your photos or frames into catchy videos, right in your browser.",
+    "product_hunt_url": "https://www.producthunt.com/products/glims-beta",
+    "created_at": "",
+    "id": "glims-beta",
+    "label": "Turn static shots into fast-moving showreels – like magic.",
+    "topics": [],
+    "votes": 332,
+    "visit_url": "https://glims.io/",
+    "image": "https://ph-files.imgix.net/97b81674-68bd-4984-8120-acd749f75696.png",
+    "label_zh": "将静态照片变成快速移动的精彩影片——就像魔法一样。",
+    "content_zh": "Glims (Beta) 就像视频制作领域的 Figma，能让你在浏览器中快速将照片或帧转换成吸引人的视频。"
+  },
+  {
+    "name": "Lettre.app",
+    "description": "A new form of deliberate communication with the joys of digital collecting and making pen-pals across the world. Immersive letter-writing experience made for the iPad - now on iPhones!",
+    "product_hunt_url": "https://www.producthunt.com/products/lettre-app",
+    "created_at": "",
+    "id": "lettre-app",
+    "label": "Slow post in the age of instant messaging",
+    "topics": [
+      "Messaging apps",
+      "Social & Community",
+      "Social media management tools",
+      "Writing assistants",
+      "Lead generation software",
+      "Dating apps",
+      "Influencer marketing platforms",
+      "Best SEO tools"
+    ],
+    "votes": 205,
+    "visit_url": "https://www.lettre.app",
+    "image": "https://ph-files.imgix.net/e2a19b8f-5f80-459f-8a54-64fd071a1b4f.png",
+    "label_zh": "在即时通讯的时代，慢速邮寄",
+    "topics_zh": [
+      "消息应用",
+      "社交与社区",
+      "社交媒体管理工具",
+      "写作助手",
+      "潜在客户生成软件",
+      "约会应用",
+      "影响者营销平台",
+      "最佳SEO工具"
+    ],
+    "content_zh": "一种全新的沟通方式，结合了数字收藏的乐趣和全球笔友交流的喜悦。专为iPad设计的沉浸式写信体验，现在也支持iPhone了！"
+  },
+  {
+    "name": "millionship.dev",
+    "description": "🚢 MillionShip is a playful directory for indie devs who want visibility without cringe marketing. ✅Just pick a ship, plant it on the 3D globe, and let the world discover your product — no grind required!",
+    "product_hunt_url": "https://www.producthunt.com/products/millionship-dev",
+    "created_at": "",
+    "id": "millionship-dev",
+    "label": "Playful directory for indie devs",
+    "topics": [],
+    "votes": 249,
+    "visit_url": "https://millionship.dev",
+    "image": "https://ph-files.imgix.net/b3e07052-eac9-47a6-b0f4-e874114329b2.png",
+    "label_zh": "直译：\n独立开发者的游戏目录\n\n意译：\n独立开发者的趣味目录",
+    "content_zh": "MillionShip 是一个有趣的目录，专为那些不想通过尴尬营销手段获得曝光的独立开发者设计。只需选择一艘船，把它放在3D地球仪上，让全世界发现你的产品——无需费力推销！"
+  },
+  {
+    "name": "EmotionSense Pro",
+    "description": "EmotionSense Pro is a Chrome extension that detects real-time emotions in Google Meet using AI—without sending data to servers. Ideal for UX researchers, recruiters, and educators seeking ethical, local emotion analytics.",
+    "product_hunt_url": "https://www.producthunt.com/products/emotionsense-pro-ai-for-google-meet",
+    "created_at": "",
+    "id": "emotionsense-pro-ai-for-google-meet",
+    "label": "Privacy-first emotion AI for Google Meet in real time",
+    "topics": [],
+    "votes": 180,
+    "visit_url": "https://www.emotionsense.pro/",
+    "image": "https://ph-files.imgix.net/fc6ca2c1-fc1e-4472-8699-5e1f0d6d5b4e.png",
+    "label_zh": "隐私优先的情绪AI，实时适用于Google Meet",
+    "content_zh": "EmotionSense Pro 是一款 Chrome 扩展程序，它利用 AI 在 Google Meet 中实时检测情绪，而无需将数据发送到服务器。非常适合那些希望进行道德、本地情绪分析的用户体验研究员、招聘人员和教育工作者。"
+  },
+  {
+    "name": "Skywork Super Agents",
+    "description": "Skywork transforms simple prompts into comprehensive, research-backed content delivered in minutes. Our AI agents explore 10× more sources than rivals, producing polished documents, presentations, spreadsheets, podcasts, & webpages for less.",
+    "product_hunt_url": "https://www.producthunt.com/products/skywork-super-agents",
+    "created_at": "",
+    "id": "skywork-super-agents",
+    "label": "Turn any idea into professional content in minutes—not hours",
+    "topics": [
+      "Presentation Software",
+      "Note and writing apps"
+    ],
+    "votes": 103,
+    "visit_url": "https://skywork.ai/p/u1uZyV",
+    "image": "https://ph-files.imgix.net/c6380972-568f-45f5-9b24-ea5ed46d2839.png",
+    "label_zh": "将任何想法在几分钟内转化为专业内容——而不是几小时",
+    "topics_zh": [
+      "演示软件，笔记和写作应用"
+    ],
+    "content_zh": "Skywork Super Agents 能将简单的提示迅速转化为全面且有研究支持的内容。我们的 AI 代理比竞争对手多探索十倍的资源，生成高质量的文档、演示文稿、电子表格、播客和网页，而且成本更低。"
+  },
+  {
+    "name": "Sunset",
+    "description": "Use Sunset to find and close financial accounts after a death: Bank accounts, 401k, IRA, Life Insurance, Credit Cards, real estate, and more.",
+    "product_hunt_url": "https://www.producthunt.com/products/sunset-4",
+    "created_at": "",
+    "id": "sunset-4",
+    "label": "Find and close bank accounts for dead people",
+    "topics": [],
+    "votes": 180,
+    "visit_url": "https://sunsetapp.com",
+    "image": "https://ph-files.imgix.net/25a83dd9-21eb-442c-8e34-36666f88aef4.png",
+    "label_zh": "查找并关闭逝者的银行账户",
+    "content_zh": "使用Sunset来查找并关闭逝者名下的金融账户：包括银行账户、401k、IRA、人寿保险、信用卡、房产等。"
+  },
+  {
+    "name": "Longist",
+    "description": "Longist – The Biohacker’s Longevity Toolkit, engineered to help you gain up to 13 healthy years of life — built for biohackers, by longevity obsessives.",
+    "product_hunt_url": "https://www.producthunt.com/products/longist",
+    "created_at": "",
+    "id": "longist",
+    "label": "AI longevity health coach",
+    "topics": [
+      "Activity tracking",
+      "AI Chatbots",
+      "Medical"
+    ],
+    "votes": 161,
+    "visit_url": "https://www.longist.io/",
+    "image": "https://ph-files.imgix.net/f86ed7fd-5c92-4082-b598-501da42d0666.png",
+    "label_zh": "AI长寿健康教练",
+    "topics_zh": [
+      "活动追踪",
+      "AI聊天机器人",
+      "医疗"
+    ],
+    "content_zh": "Longist——生物黑客的长寿工具包，旨在帮助你延长13年的健康寿命。它由一群热衷于长寿研究的人专门为生物黑客打造。"
+  },
+  {
+    "name": "Agora",
+    "description": "Agora is an AI search engine for e-commerce products. We've indexed products sold on thousands of stores and made them easy to purchase with a single cart transaction. Think of a decentralized Amazon.",
+    "product_hunt_url": "https://www.producthunt.com/products/agora-13",
+    "created_at": "",
+    "id": "agora-13",
+    "label": "Shop for millions of e-commerce products with AI",
+    "topics": [
+      "Shopify Apps",
+      "Ecommerce platforms",
+      "Marketplace sites"
+    ],
+    "votes": 168,
+    "visit_url": "https://www.searchagora.com",
+    "image": "https://ph-files.imgix.net/cea99533-b973-4bfe-83f0-068ca007cf58.png",
+    "label_zh": "使用AI购买数百万种电商产品",
+    "topics_zh": [
+      "Shopify 应用",
+      "电子商务平台",
+      "市场网站"
+    ],
+    "content_zh": "Agora 是一个针对电商产品的AI搜索引擎。我们已经收录了数千家店铺的商品，并且让你可以通过一次购物车结算轻松购买。你可以把它想象成一个去中心化的亚马逊。"
+  },
+  {
+    "name": "IndieMerger",
+    "description": "Find your co-founder and build your startup together in one shared workspace. From matching to Kanban boards, chat, roles, and launch templates - IndieMerger is where complementary founders connect and get things done.",
+    "product_hunt_url": "https://www.producthunt.com/products/indiemerger",
+    "created_at": "",
+    "id": "indiemerger",
+    "label": "The all-in-one workspace for co-founders",
+    "topics": [
+      "Social Networking",
+      "Professional networking platforms",
+      "Startup communities"
+    ],
+    "votes": 145,
+    "visit_url": "https://indiemerger.com",
+    "image": "https://ph-files.imgix.net/0382de3d-c0bb-4664-9767-4a5b56400445.png",
+    "label_zh": "适用于联合创始人的全能工作空间",
+    "topics_zh": [
+      "社交网络",
+      "职业社交平台",
+      "创业社区"
+    ],
+    "content_zh": "在同一个共享工作空间中找到你的联合创始人，一起建立创业公司。从匹配到看板、聊天、角色分配和启动模板——IndieMerger 是一个让互补的创始人相互连接并高效完成任务的平台。"
+  },
+  {
+    "name": "Posted.ly: Content That Clicks",
+    "description": "Posted.ly is your AI content assistant, built on ChatGPT. Create your Brand Profile once — then get tailored post ideas, captions & calendars in seconds. For creators, coaches & brands who want content that clicks. Would love your feedback! 💛",
+    "product_hunt_url": "https://www.producthunt.com/products/posted-ly-content-that-clicks",
+    "created_at": "",
+    "id": "posted-ly-content-that-clicks",
+    "label": "Post Smarter. Grow Faster.",
+    "topics": [
+      "ChatGPT Prompts",
+      "Social media management tools",
+      "Writing assistants"
+    ],
+    "votes": 45,
+    "visit_url": "https://www.posted.ly",
+    "image": "https://ph-files.imgix.net/9ff6087f-2cd3-4b5c-a975-770d4cde2217.png",
+    "label_zh": "更聪明地发帖。更快地成长。",
+    "topics_zh": [
+      "ChatGPT 提示词",
+      "社交媒体管理工具",
+      "写作助手"
+    ],
+    "content_zh": "Posted.ly 是你的 AI 内容助手，基于 ChatGPT 构建。只需创建一次品牌档案，就能在几秒钟内获得量身定制的帖子创意、配文和日历。适合创作者、教练和希望内容吸引人的品牌。期待您的反馈！ 💛"
+  },
+  {
+    "name": "DockIt",
+    "description": "Create custom dock profiles for different workflows and boost your productivity. DockIt helps you organize your Mac experience with seamless profile switching and smart automatic Dock sorting based on your usage.",
+    "product_hunt_url": "https://www.producthunt.com/products/dockit-2",
+    "created_at": "",
+    "id": "dockit-2",
+    "label": "Your dock, your way",
+    "topics": [
+      "Work & Productivity"
+    ],
+    "votes": 137,
+    "visit_url": "https://dockit.space",
+    "image": "https://ph-files.imgix.net/13c8dcfb-4c39-4f8d-9ebf-185801e461ba.png",
+    "label_zh": "您的扩展坞，您的方式",
+    "topics_zh": [
+      "工作与生产力"
+    ],
+    "content_zh": "创建自定义的Dock配置文件，以适应不同的工作流程，提高工作效率。DockIt能帮助你通过无缝切换配置文件和根据使用情况智能自动排序Dock来整理你的Mac体验。"
+  },
+  {
+    "name": "FlowChefs",
+    "description": "FlowChefs is your AI-powered meal planner. Generate personalized recipes, smart grocery lists, and track nutrition—all synced to your pantry. Cook smarter, shop faster, eat better.",
+    "product_hunt_url": "https://www.producthunt.com/products/chefflow",
+    "created_at": "",
+    "id": "chefflow",
+    "label": "Smart meal planning, image to recipe,  longevity score",
+    "topics": [
+      "ChatGPT Prompts",
+      "AI Metrics and Evaluation",
+      "Startup communities"
+    ],
+    "votes": 33,
+    "visit_url": "https://flowchefs.com/",
+    "image": "https://ph-files.imgix.net/21905a48-b592-435a-b166-e0e7dae897a4.png",
+    "label_zh": "智能 meal 规划，图片转食谱，长寿评分\n\n---\n\n智能餐食规划，图片转食谱，长寿评分",
+    "topics_zh": [
+      "ChatGPT 提示词",
+      "AI 指标与评估",
+      "创业社区"
+    ],
+    "content_zh": "FlowChefs 是你的人工智能餐食规划助手。它可以生成个性化的食谱、智能购物清单，并跟踪营养信息，所有这些都与你的储物柜同步。让你烹饪更聪明，购物更快捷，吃得更健康。"
+  },
+  {
+    "name": "VibeKit",
+    "description": "VibeKit is an open-source SDK to run coding agents like OpenAI Codex and Claude in secure sandboxes. Let agents write code, install packages, or open PRs safely — with streaming, async tasks, and telemetry built-in. MIT licensed, TypeScript, zero lock-in.",
+    "product_hunt_url": "https://www.producthunt.com/products/vibekit",
+    "created_at": "",
+    "id": "vibekit",
+    "label": "Run coding agents in a secure sandbox",
+    "topics": [
+      "AI Coding Assistants",
+      "AI Infrastructure Tools"
+    ],
+    "votes": 128,
+    "visit_url": "https://www.vibekit.sh",
+    "image": "https://ph-files.imgix.net/4c2cca0b-a818-4f84-b760-8d34f6ee43ad.png",
+    "label_zh": "在安全沙箱中运行编码代理",
+    "topics_zh": [
+      "AI 编码助手",
+      "AI 基础设施工具"
+    ],
+    "content_zh": "VibeKit 是一个开源的 SDK，可以在安全的沙箱环境中运行像 OpenAI Codex 和 Claude 这样的编码代理。它能让这些代理安全地编写代码、安装包或打开拉取请求，并且内置了流式处理、异步任务和遥测功能。采用 MIT 许可，用 TypeScript 编写，没有任何锁定。"
+  }
+]

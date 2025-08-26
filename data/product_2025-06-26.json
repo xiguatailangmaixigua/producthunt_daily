@@ -1,0 +1,248 @@
+[
+  {
+    "name": "Twenty",
+    "description": "Twenty is a modern, open-source CRM alternative to Salesforce—fully customizable, affordable, and powered by the community.",
+    "product_hunt_url": "https://www.producthunt.com/products/twenty-crm",
+    "created_at": "",
+    "id": "twenty-crm",
+    "label": "The #1 open-source CRM",
+    "topics": [
+      "CRM software"
+    ],
+    "votes": 736,
+    "visit_url": "https://www.twenty.com",
+    "image": "https://ph-files.imgix.net/9b44d949-2649-43a0-948c-d24cb313d21b.png"
+  },
+  {
+    "name": "FlashDocs API",
+    "description": "FlashDocs lets you generate Google Slides and PowerPoint decks from your product — using just one API call. Markdown, charts, images, tables, merge tags, brand themes — all handled. Build it once, export stunning decks everywhere.",
+    "product_hunt_url": "https://www.producthunt.com/products/flashdocs-api",
+    "created_at": "",
+    "id": "flashdocs-api",
+    "label": "Custom Google Slides & PowerPoints via AI-powered API",
+    "topics": [
+      "AI Coding Assistants",
+      "Presentation Software"
+    ],
+    "votes": 467,
+    "visit_url": "https://flashdocs.com/",
+    "image": "https://ph-files.imgix.net/a6aa7c1a-f2f6-4442-9d88-bf6ab36ffaff.png"
+  },
+  {
+    "name": "Middleware",
+    "description": "Middleware is a YC backend full-stack AI observability platform that helps developers detect, diagnose, and resolve issues in real time—automatically. By providing deep insights across your entire stack, you ensure optimal performance and reliability for AI-powered applications.",
+    "product_hunt_url": "https://www.producthunt.com/products/middleware",
+    "created_at": "",
+    "id": "middleware",
+    "label": "Full-Stack Cloud Observability",
+    "topics": [
+      "Observability tools"
+    ],
+    "votes": 311,
+    "visit_url": "https://middleware.io/product/ops-ai/",
+    "image": "https://ph-files.imgix.net/02ced7e0-143b-45ad-9483-83e903efef6e.png"
+  },
+  {
+    "name": "NativeMind",
+    "description": "NativeMind brings the latest AI models to your browser—powered by Ollama and fully local. It gives you fast, private access to models like Deepseek, Qwen, and LLaMA—all running on your device.",
+    "product_hunt_url": "https://www.producthunt.com/products/nativemind",
+    "created_at": "",
+    "id": "nativemind",
+    "label": "Your fully private, open-source, on-device AI assistant",
+    "topics": [],
+    "votes": 328,
+    "visit_url": "https://nativemind.app/?utm_source=producthunt",
+    "image": "https://ph-files.imgix.net/7c82398e-a4ca-4585-853b-0bf3173a6d16.png"
+  },
+  {
+    "name": "Rumora",
+    "description": "Rumora.ai finds viral content in your niche and helps you mention your startup naturally in the comments. As videos take off, users read these comments and visit your website, converting at a rate 3x higher than average. Try it for 7 days, risk-free.",
+    "product_hunt_url": "https://www.producthunt.com/products/rumora",
+    "created_at": "",
+    "id": "rumora",
+    "label": "Get seen by target users automatically in YouTube comments",
+    "topics": [],
+    "votes": 372,
+    "visit_url": "https://rumora.ai",
+    "image": "https://ph-files.imgix.net/cabdb535-0c4a-4601-b09c-f0c024b1ab70.png"
+  },
+  {
+    "name": "UXArmy",
+    "description": "UXArmy takes the pain out of user research for Product and Marketing teams.  Test your mobile app, website, prototype, and run customer surveys on UXArmy.  Let AI assist you with test analysis and task creation.  Supported by an in-house global user panel because we know recuritment can be a pain.",
+    "product_hunt_url": "https://www.producthunt.com/products/uxarmy",
+    "created_at": "",
+    "id": "uxarmy",
+    "label": "AI powered UX research",
+    "topics": [
+      "Design & Creative",
+      "AI",
+      "User research"
+    ],
+    "votes": 95,
+    "visit_url": "https://uxarmy.com/uxai/",
+    "image": "https://ph-files.imgix.net/98a2c0c8-5d73-4399-9b95-3451873d84f6.jpeg"
+  },
+  {
+    "name": "Warp",
+    "description": "Warp is the agentic development environment, built for coding with multiple AI agents.",
+    "product_hunt_url": "https://www.producthunt.com/products/warp",
+    "created_at": "",
+    "id": "warp",
+    "label": "The first agentic development environment",
+    "topics": [
+      "AI",
+      "AI Coding Assistants",
+      "Command line tools",
+      "Remote workforce tools",
+      "Terminals"
+    ],
+    "votes": 297,
+    "visit_url": "https://warp.dev",
+    "image": ""
+  },
+  {
+    "name": "Wobo AI",
+    "description": "Meet Wobo: Your AI-powered job search assistant. Automating applications and finding matches tailored to your skills, Wobo makes job hunting effortless.",
+    "product_hunt_url": "https://www.producthunt.com/products/wobo-ai",
+    "created_at": "",
+    "id": "wobo-ai",
+    "label": "Your Personal AI Recruiter - Automate your job search",
+    "topics": [
+      "Hiring software",
+      "Automation tools",
+      "Resume tools"
+    ],
+    "votes": 75,
+    "visit_url": "https://www.wobo.ai/ai-resume-builder/",
+    "image": "https://ph-files.imgix.net/d9365951-7212-4712-b34d-3f5abf9e9d8c.png"
+  },
+  {
+    "name": "Airtable",
+    "description": "The AI-native app platform, combining the magic of vibe coding business apps with real production-readiness and scalability.",
+    "product_hunt_url": "https://www.producthunt.com/products/airtable",
+    "created_at": "",
+    "id": "airtable",
+    "label": "AI-Native App Platform",
+    "topics": [
+      "Note and writing apps",
+      "AI Databases",
+      "Search",
+      "Social & Community",
+      "Community management",
+      "Spreadsheets",
+      "Project management software",
+      "No-code platforms",
+      "Team collaboration software",
+      "Email clients"
+    ],
+    "votes": 205,
+    "visit_url": "https://airtable.com",
+    "image": "https://ph-files.imgix.net/7becc621-007f-41c6-872a-da65c5bd3f36.png"
+  },
+  {
+    "name": "Hope AI",
+    "description": "Build maintainable, production-grade applications. Control generation at component-level with prompts and design sketches. Compose with design system and reusable components. Deploy instantly. Generate code that developers love! By Bit Cloud.",
+    "product_hunt_url": "https://www.producthunt.com/products/hope-ai-by-bit-cloud",
+    "created_at": "",
+    "id": "hope-ai-by-bit-cloud",
+    "label": "Architect agent that builds professional software",
+    "topics": [
+      "AI Coding Assistants",
+      "Code editors",
+      "Automation tools"
+    ],
+    "votes": 157,
+    "visit_url": "https://bit.cloud",
+    "image": "https://ph-files.imgix.net/020414b4-0488-4a71-bf6f-8ee475da0c4f.png"
+  },
+  {
+    "name": "ElevenLabs",
+    "description": "The most realistic text to speech and voice cloning software. The most compelling, rich, and lifelike voices for creators and publishers seeking the ultimate tools for storytelling.",
+    "product_hunt_url": "https://www.producthunt.com/products/elevenlabs",
+    "created_at": "",
+    "id": "elevenlabs",
+    "label": "Create natural AI voices instantly in any language",
+    "topics": [
+      "AI",
+      "Text-to-Speech",
+      "AI Voice Agents"
+    ],
+    "votes": 191,
+    "visit_url": "https://play.google.com/store/apps/details?id=io.elevenlabs.coreapp",
+    "image": "https://ph-files.imgix.net/4c0db618-31e3-4f88-a93d-2989a6adadfe.png"
+  },
+  {
+    "name": "rabbit",
+    "description": "rabbit is an AI startup rethinking how humans and machines interact. We're building an AI-native operating system, formed around robust cross-platform agentic capabilities and custom hardware that gives people access to the latest AI.",
+    "product_hunt_url": "https://www.producthunt.com/products/rabbit-inc",
+    "created_at": "",
+    "id": "rabbit-inc",
+    "label": "re-imagining the future of human-machine interaction",
+    "topics": [
+      "Note and writing apps",
+      "Wearables",
+      "AI Chatbots",
+      "Workout platforms",
+      "Medical",
+      "AI"
+    ],
+    "votes": 183,
+    "visit_url": "https://www.rabbit.tech/rabbit-intern/",
+    "image": "https://ph-files.imgix.net/5fe5d08a-622a-4a6f-84ce-8f3b498ad513.gif"
+  },
+  {
+    "name": "Mighty",
+    "description": "Mighty brings enterprise-grade security to AI agents. Drop in our client-side Python SDK to spin up a data vault, secure key exchange and an OAuth-ready policy engine in minutes. Agents can now access private data with full auth, audit and compliance.",
+    "product_hunt_url": "https://www.producthunt.com/products/mighty-7",
+    "created_at": "",
+    "id": "mighty-7",
+    "label": "OAuth for agents",
+    "topics": [
+      "Security software",
+      "Authentication & identity tools"
+    ],
+    "votes": 136,
+    "visit_url": "https://mightynetwork.ai/",
+    "image": "https://ph-files.imgix.net/f5858050-1bc7-4469-aa69-77d3aa56fed4.png"
+  },
+  {
+    "name": "timeOS",
+    "description": "timeOS is the AI that sits in on your calls & meetings, and completes next steps using expert agents, automatically.",
+    "product_hunt_url": "https://www.producthunt.com/products/timeos",
+    "created_at": "",
+    "id": "timeos",
+    "label": "Cursor for calls & meetings",
+    "topics": [
+      "Note and writing apps",
+      "Customer support tools",
+      "Advertising tools",
+      "AI Chatbots",
+      "Chrome Extensions",
+      "Notion Templates",
+      "Writing assistants",
+      "Calendar apps",
+      "Project management software",
+      "AI notetakers",
+      "Automation tools"
+    ],
+    "votes": 171,
+    "visit_url": "https://time.new",
+    "image": "https://ph-files.imgix.net/80a07427-9ff9-4b22-97a1-a04b20eabf3b.png"
+  },
+  {
+    "name": "PulseAI",
+    "description": "Pulse turns your data into dashboards and answers. Connect a database, upload a CSV, or use one of many integrations and Pulse builds charts, KPIs, and insights in seconds. Just ask your data. No complex BI tools, no setup. Built for fast-moving teams.",
+    "product_hunt_url": "https://www.producthunt.com/products/pulseai-2",
+    "created_at": "",
+    "id": "pulseai-2",
+    "label": "From raw data to charts in seconds with AI",
+    "topics": [
+      "Data visualization tools",
+      "Data analysis tools",
+      "LLMs"
+    ],
+    "votes": 156,
+    "visit_url": "https://usepulseai.com",
+    "image": "https://ph-files.imgix.net/b57d164f-96ac-487e-bb70-9928034d9541.jpeg"
+  }
+]

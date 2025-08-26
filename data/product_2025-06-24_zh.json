@@ -1,0 +1,283 @@
+[
+  {
+    "name": "HeyBoss AI Boss Mode",
+    "description": "Boss Mode gives you a full AI team — CEO, Designer, Developer, Marketer & Copywriter. They craft your brand, write copy, design & build your site in minutes, then host, monitor & grow your business 24/7.",
+    "product_hunt_url": "https://www.producthunt.com/products/heyboss-ai-boss-mode",
+    "created_at": "",
+    "id": "heyboss-ai-boss-mode",
+    "label": "Get your AI team to build your site and run your business.",
+    "topics": [],
+    "votes": 497,
+    "visit_url": "https://Heyboss.ai",
+    "image": "https://ph-files.imgix.net/66b412c7-0e7c-4f8f-9610-dbdfad421a95.jpeg",
+    "label_zh": "让您的AI团队为您建站并运营您的业务。",
+    "content_zh": "HeyBoss AI Boss Mode 为你提供了一个完整的 AI 团队，包括 CEO、设计师、开发者、营销人员和文案撰写者。他们能在几分钟内打造你的品牌，撰写文案，设计并构建你的网站，然后全天候托管、监控并发展你的业务。"
+  },
+  {
+    "name": "Read & Give by Bono",
+    "description": "Read & Give is a Chrome extension that uses AI to analyze news content as you browse, and recommends trusted charities tackling the issues in the story. Donate to multiple charities with one tap and get weekly impact reports plus a unified tax receipt.",
+    "product_hunt_url": "https://www.producthunt.com/products/read-give",
+    "created_at": "",
+    "id": "read-give",
+    "label": "Read the news. Make a difference. Instantly.",
+    "topics": [
+      "Fundraising resources"
+    ],
+    "votes": 472,
+    "visit_url": "https://chromewebstore.google.com/detail/read-give/imhpjclknehbmpfmebnipdfcilhadflp",
+    "image": "https://ph-files.imgix.net/f214286b-588b-446a-a843-d1d588aef1ce.png",
+    "label_zh": "阅读新闻。立即产生影响。",
+    "topics_zh": [
+      "筹款资源"
+    ],
+    "content_zh": "Read & Give 是一款 Chrome 浏览器扩展程序，它利用 AI 技术在你浏览新闻时分析内容，并推荐处理相关问题的可信慈善机构。只需一键即可向多个慈善机构捐款，并获得每周影响报告和统一的税务收据。"
+  },
+  {
+    "name": "Mintlify",
+    "description": "The modern standard for public facing documentation. Beautiful out of the box, easy to maintain, and optimized for user engagement.",
+    "product_hunt_url": "https://www.producthunt.com/products/mintlify",
+    "created_at": "",
+    "id": "mintlify",
+    "label": "On a mission to empower builders",
+    "topics": [
+      "Automation tools",
+      "Knowledge base software",
+      "Content Management Systems",
+      "Mobile editing apps",
+      "Team collaboration software",
+      "Customer support tools",
+      "Engineering & Development"
+    ],
+    "votes": 290,
+    "visit_url": "https://mintlify.com/blog/introducing-ai-assistant-2025",
+    "image": "https://ph-files.imgix.net/dedc84df-c200-4db2-9583-9318a4daea8f.png",
+    "label_zh": "### 任务：赋能建设者",
+    "topics_zh": [
+      "自动化工具",
+      "知识库软件",
+      "内容管理系统",
+      "移动编辑应用",
+      "团队协作软件",
+      "客户支持工具",
+      "工程与开发"
+    ],
+    "content_zh": "现代公共文档的标准。开箱即用，美观大方，易于维护，优化用户体验。"
+  },
+  {
+    "name": "Bookster.cc",
+    "description": "Bookster.cc lets you create and publish high-quality AI-generated books in minutes — for business, fiction, or fun. Launch your own ebook empire with stunning designs, real-time editing, and instant publishing to Bookster and Kindle. Built by and for creators.",
+    "product_hunt_url": "https://www.producthunt.com/products/bookster-cc-ideas-to-ebooks-in-minutes",
+    "created_at": "",
+    "id": "bookster-cc-ideas-to-ebooks-in-minutes",
+    "label": "Transform your knowledge into captivating ebooks in minutes.",
+    "topics": [
+      "Books"
+    ],
+    "votes": 225,
+    "visit_url": "https://www.bookster.cc/lifetime",
+    "image": "https://ph-files.imgix.net/b06d5ad6-698a-4274-a766-64869bd73424.png",
+    "label_zh": "将您的知识在几分钟内转化为引人入胜的电子书。",
+    "topics_zh": [
+      "书籍"
+    ],
+    "content_zh": "Bookster.cc 让你几分钟内就能创建和发布高质量的AI生成书籍，无论是商业、小说还是娱乐。通过精美的设计、实时编辑和即时发布到 Bookster 和 Kindle，你可以轻松打造自己的电子书帝国。这个平台由创作者为创作者打造。"
+  },
+  {
+    "name": "Karsa",
+    "description": "Karsa lets you open a digital dollar account from anywhere. Get a virtual US bank account, save in stablecoins, send/receive from 50+ countries, and soon, spend globally with a Visa card.",
+    "product_hunt_url": "https://www.producthunt.com/products/karsa",
+    "created_at": "",
+    "id": "karsa",
+    "label": "Get a virtual US bank account + save/spend dollars globally",
+    "topics": [
+      "Money transfer",
+      "Neobanks"
+    ],
+    "votes": 204,
+    "visit_url": "https://gokarsa.com",
+    "image": "https://ph-files.imgix.net/8737707d-6107-4f71-861c-9f9dae11241a.png",
+    "label_zh": "获得一个虚拟美国银行账户 + 全球存取美元",
+    "topics_zh": [
+      "汇款",
+      "新银行"
+    ],
+    "content_zh": "Karsa 让你随时随地开设数字美元账户。你可以获得一个虚拟的美国银行账户，用稳定币进行储蓄，从50多个国家发送和接收资金，并且很快就能使用 Visa 卡在全球范围内消费。"
+  },
+  {
+    "name": "Reducto Studio",
+    "description": "Reducto Studio is an end-to-end workspace for building and optimizing document pipelines with Reducto APIs. Gain performance visibility, confidence-scored extractions with citations, and self-improving evaluation data—ship to production in days, not months.",
+    "product_hunt_url": "https://www.producthunt.com/products/reducto-studio",
+    "created_at": "",
+    "id": "reducto-studio",
+    "label": "Build production-ready document pipelines in one platform",
+    "topics": [
+      "Note and writing apps",
+      "Automation tools"
+    ],
+    "votes": 185,
+    "visit_url": "https://studio.reducto.ai/",
+    "image": "https://ph-files.imgix.net/af7f4083-d680-494d-b77f-7d23e29b5c1b.png",
+    "label_zh": "在一个平台上构建可用于生产的文档处理流程",
+    "topics_zh": [
+      "笔记和写作应用，自动化工具"
+    ],
+    "content_zh": "Reducto Studio 是一个端到端的工作空间，用于构建和优化基于 Reducto API 的文档处理流程。它能提供性能可视化、带有引用的置信度评分提取以及自我改进的评估数据，让你在几天而不是几个月内就能将项目投入生产。"
+  },
+  {
+    "name": "SidekickBar",
+    "description": "Boost your productivity with 30+ AI assistants like ChatGPT, Copilot, Claude & Gemini in one sidebar. Write, code, translate & create faster with AI across Windows, macOS, and Linux.",
+    "product_hunt_url": "https://www.producthunt.com/products/sidekickbar",
+    "created_at": "",
+    "id": "sidekickbar",
+    "label": "Your new multi-agent AI sidekick",
+    "topics": [
+      "App switcher"
+    ],
+    "votes": 161,
+    "visit_url": "https://sidekickbar.com/",
+    "image": "https://ph-files.imgix.net/e47c9508-3e59-4628-ad7b-59822a5341a1.webp",
+    "label_zh": "你的新多智能体AI助手",
+    "topics_zh": [
+      "应用切换器"
+    ],
+    "content_zh": "通过一个侧边栏集成30多个AI助手，如ChatGPT、Copilot、Claude和Gemini，提升你的工作效率。无论是在Windows、macOS还是Linux系统上，都可以更快地写作、编程、翻译和创作。"
+  },
+  {
+    "name": "Clipgo",
+    "description": "Clipgo is a simple yet powerful clipboard manager for Mac. Instantly access your recent copies, drag and drop items, and find what you need with smart search. Designed to boost your daily workflow without distractions.",
+    "product_hunt_url": "https://www.producthunt.com/products/clipgo",
+    "created_at": "",
+    "id": "clipgo",
+    "label": "The clipboard you’ll never want to live without",
+    "topics": [],
+    "votes": 160,
+    "visit_url": "https://apps.apple.com/kr/app/clipgo/id6747509719?l=en-GB\\u0026mt=12%20Clipgo!",
+    "image": "https://ph-files.imgix.net/0641daf6-b66e-4520-a3b6-72707f9f3dd9.png",
+    "label_zh": "你离不开的剪贴板",
+    "content_zh": "Clipgo 是一款简单而强大的 Mac 剪贴板管理工具。你可以立即访问最近复制的内容，通过拖放操作来管理项目，并使用智能搜索快速找到需要的内容。它旨在提升你的日常工作效率，同时不会分散你的注意力。"
+  },
+  {
+    "name": "Astrid: Personal Shopping Agent",
+    "description": "Astrid is a game changing AI personal shopper and stylist. She's like ChatGPT on steroids for apparel. She can help you decide your style vibe and search tens of thousands of products so you don't have to.",
+    "product_hunt_url": "https://www.producthunt.com/products/astrid-personal-shopping-agent",
+    "created_at": "",
+    "id": "astrid-personal-shopping-agent",
+    "label": "The personal stylist programmed just for you",
+    "topics": [
+      "AI Chatbots",
+      "Marketplace sites"
+    ],
+    "votes": 155,
+    "visit_url": "https://www.astridstyle.com/",
+    "image": "https://ph-files.imgix.net/751a3f8d-9bf6-413c-bea9-3356b8b1aa1a.jpeg",
+    "label_zh": "专为您定制的个人造型师",
+    "topics_zh": [
+      "AI 聊天机器人",
+      "市场平台网站"
+    ],
+    "content_zh": "Astrid 是一个颠覆性的 AI 个人购物助手和时尚顾问。她就像是加强版的 ChatGPT，专门为你挑选服装。她能帮你确定你的风格，并在数万件商品中进行搜索，省去你自己的麻烦。"
+  },
+  {
+    "name": "AdBacklog",
+    "description": "AdBacklog helps digital marketers manage campaigns without jumping between Google Ads, Meta Ads, LinkedIn Ads, GA4, Slack, Notion, emails, and spreadsheets. Plan, track, and optimize campaigns in one place — from idea to insight, across teams and channels.",
+    "product_hunt_url": "https://www.producthunt.com/products/adbacklog",
+    "created_at": "",
+    "id": "adbacklog",
+    "label": "Campaign management tool for digital marketers",
+    "topics": [
+      "Marketing & Sales",
+      "Advertising tools",
+      "Work & Productivity"
+    ],
+    "votes": 121,
+    "visit_url": "https://play.google.com/store/apps/details?id=com.AdBacklog.myappname",
+    "image": "https://ph-files.imgix.net/afec331d-c7da-4a3d-bc5b-2e3c7ccdd931.png",
+    "label_zh": "### 直译\n数字营销人员的活动管理工具\n\n### 意译\n专为数字营销人员设计的活动管理工具",
+    "topics_zh": [
+      "市场营销与销售，广告工具，工作与生产力"
+    ],
+    "content_zh": "AdBacklog 帮助数字营销人员在一个平台上管理广告活动，无需在 Google Ads、Meta Ads、LinkedIn Ads、GA4、Slack、Notion、电子邮件和电子表格之间来回切换。从创意到洞察，跨团队和渠道，在一个地方规划、跟踪和优化广告活动。"
+  },
+  {
+    "name": "Promptless",
+    "description": "Promptless is an AI teammate that keeps your docs up to date, improving your customer experience and reducing lost revenue. It automatically drafts doc updates whenever a new Pull Request is opened, a support ticket is resolved, or you tag it in Slack.",
+    "product_hunt_url": "https://www.producthunt.com/products/promptless",
+    "created_at": "",
+    "id": "promptless",
+    "label": "An AI teammate that proactively updates customer-facing docs",
+    "topics": [],
+    "votes": 151,
+    "visit_url": "https://gopromptless.ai",
+    "image": "https://ph-files.imgix.net/d33c74bc-8c80-4229-8f17-dc82da53777c.png",
+    "label_zh": "一个主动更新面向客户文档的AI队友",
+    "content_zh": "Promptless 是一个 AI 助手，能自动更新你的文档，提升客户体验并减少收入损失。每当有新的 Pull Request 提交、支持工单解决或你在 Slack 中标记它时，它都会自动生成文档更新草稿。"
+  },
+  {
+    "name": "Varlens",
+    "description": "Capture stunning DSLR-quality photos with Varlens. Manual camera controls, RAW shooting, real-time filters, and a pro editor—right on your phone. Whether you're a photography pro or beginner, Varlens turns your mobile camera into a powerhouse.",
+    "product_hunt_url": "https://www.producthunt.com/products/varlens-dslr-in-phone",
+    "created_at": "",
+    "id": "varlens-dslr-in-phone",
+    "label": "DSLR-level photos with your smartphone",
+    "topics": [],
+    "votes": 146,
+    "visit_url": "https://play.google.com/store/apps/details?id=com.auramarker.varlens\\u0026hl=en-US",
+    "image": "https://ph-files.imgix.net/a748e9f7-acd0-414e-9ce1-a6745f554abb.webp",
+    "label_zh": "用智能手机拍出单反级照片",
+    "content_zh": "用Varlens拍出令人惊艳的单反级照片。它提供手动相机控制、RAW格式拍摄、实时滤镜和专业编辑工具，全部都能在手机上实现。无论你是摄影高手还是初学者，Varlens都能让你的手机摄像头变成强大的摄影利器。"
+  },
+  {
+    "name": "Filliny",
+    "description": "Simplify your online form filling with Filliny - the AI-powered Chrome extension that automatically fills forms based on your context. Choose from three subscription plans and enjoy customization options. Try Filliny today!",
+    "product_hunt_url": "https://www.producthunt.com/products/filliny",
+    "created_at": "",
+    "id": "filliny",
+    "label": "AI-powered form filler",
+    "topics": [],
+    "votes": 143,
+    "visit_url": "https://filliny.io?utm_source=producthunt_relaunch",
+    "image": "https://ph-files.imgix.net/c6a3054d-14cb-462e-b79d-22f723b69e6b.png",
+    "label_zh": "AI驱动的表单填写工具",
+    "content_zh": "用Filliny简化你的在线表单填写过程——这是一款基于AI的Chrome扩展程序，可以根据你的上下文自动填写表单。选择三种订阅计划之一，并享受自定义选项。今天就来试试Filliny吧！"
+  },
+  {
+    "name": "MBCompass",
+    "description": "MBCompass is a lightweight, open-source compass app for Android with real-time GPS, OpenStreetMap support, clear cardinal direction, and no ads or tracking. Most compass apps are basic or bloated — MBCompass is accurate, clean, and truly ad-free.",
+    "product_hunt_url": "https://www.producthunt.com/products/mbcompass",
+    "created_at": "",
+    "id": "mbcompass",
+    "label": "A featurish, lightweight compass app",
+    "topics": [
+      "Maps and GPS"
+    ],
+    "votes": 125,
+    "visit_url": "https://github.com/MubarakNative/MBCompass",
+    "image": "https://ph-files.imgix.net/44e8f478-8186-4ca7-9969-fb7df79cb622.png",
+    "label_zh": "一款轻便、功能丰富的指南针应用",
+    "topics_zh": [
+      "地图与GPS"
+    ],
+    "content_zh": "MBCompass 是一款轻量级、开源的安卓指南针应用，支持实时 GPS 和 OpenStreetMap 地图，清晰显示方位，无广告和追踪功能。大多数指南针应用要么功能简单，要么臃肿不堪——而 MBCompass 既准确又简洁，真正做到了无广告。"
+  },
+  {
+    "name": "KeyFlow",
+    "description": "Struggling with broken or missing shortcuts in Adobe Photoshop? KeyFlow lets you remap any key or combo—perfect for non‑QWERTY or damaged keyboards—so you can reclaim tools, panels, and hidden features and keep your workflow fluid.",
+    "product_hunt_url": "https://www.producthunt.com/products/keyflow",
+    "created_at": "",
+    "id": "keyflow",
+    "label": "Custom Adobe Photoshop shortcuts, no matter the keyboard",
+    "topics": [
+      "Product add-ons",
+      "Writing assistants"
+    ],
+    "votes": 124,
+    "visit_url": "https://edgidesign.com/portfolio/keyflow-for-photoshop/",
+    "image": "https://ph-files.imgix.net/2bab23c8-8289-4552-9a7a-9021e2a38d42.png",
+    "label_zh": "自定义 Adobe Photoshop 快捷键，无论使用何种键盘",
+    "topics_zh": [
+      "产品附加组件",
+      "写作助手"
+    ],
+    "content_zh": "在Adobe Photoshop中遇到快捷键失效或缺失的问题吗？KeyFlow可以让你重新映射任何按键或组合键，特别适合非QWERTY键盘或损坏的键盘。这样你可以重新使用工具、面板和隐藏功能，保持流畅的工作流程。"
+  }
+]

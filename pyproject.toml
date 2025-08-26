@@ -1,0 +1,32 @@
+[project]
+name = "producthunt-daily-hot"
+version = "0.1.0"
+description = "Utilities to fetch Product Hunt daily list and export to JSON/Markdown"
+authors = [
+  { name = "zhouqingyi" }
+]
+readme = "README.md"
+requires-python = ">=3.9,<3.13"
+
+# 运行 scripts/product_hunt_list_to_md.py 所需依赖
+# 说明：DrissionPage 与 Selenium 二选一皆可，本项目代码优先使用 DrissionPage（若未安装会降级日志提示）。
+# 为确保可运行，这里同时列出两者及其配套依赖。
+dependencies = [
+  "beautifulsoup4>=4.12.0",
+  "selenium>=4.18.0",
+  "webdriver-manager>=4.0.0",
+  "python-dotenv>=1.0.0",
+  "pytz>=2024.1",
+  "feedparser>=6.0.10",
+  "tenacity>=8.2.0",
+  "requests>=2.31.0",
+  "DrissionPage>=4.0.0",
+]
+
+[tool.uv]
+# 使用 uv 安装时的基础配置，可按需扩展
+# 内置解析器足够，若需更快的 bs4 解析，可额外安装 lxml
+
+[tool.uv.pip]
+# 可在此添加国内镜像等（按需）
+# index-url = "https://pypi.tuna.tsinghua.edu.cn/simple"

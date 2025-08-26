@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Amie",
+    "description": "Turn meeting notes into automated workflows. Handle meetings, summaries, todos and emails with your AI personal assistant.",
+    "product_hunt_url": "https://www.producthunt.com/posts/amie-6",
+    "created_at": "",
+    "id": "amie-6",
+    "label": "AI Meeting Notetaker",
+    "topics": [
+      "Productivity",
+      "Artificial Intelligence",
+      "Meetings"
+    ],
+    "votes": 598,
+    "visit_url": "https://amie.so",
+    "image": "https://ph-files.imgix.net/71e525b3-5885-4889-bc7a-ea259f1d1a1c.png"
+  },
+  {
+    "name": "Tofu Pages",
+    "description": "Get customized landing pages in minutes tailored for your prospect accounts, contacts, industry, persona, ad keywords, and more.",
+    "product_hunt_url": "https://www.producthunt.com/posts/tofu-pages",
+    "created_at": "",
+    "id": "tofu-pages",
+    "label": "Infinite landing pages from your existing website",
+    "topics": [
+      "Chrome Extensions",
+      "Marketing",
+      "SaaS"
+    ],
+    "votes": 509,
+    "visit_url": "https://www.tofuhq.com/tofu-pages",
+    "image": "https://ph-files.imgix.net/a2090a56-c98e-4ebb-bec6-29c5aabf4eb2.png"
+  },
+  {
+    "name": "Token Tactics",
+    "description": "Token Tactics- is a cryptocurrency portfolio simulator designed to teach users about investing in crypto assets through a gamified approach.",
+    "product_hunt_url": "https://www.producthunt.com/posts/token-tactics",
+    "created_at": "",
+    "id": "token-tactics",
+    "label": "Education platform for cryptotrading",
+    "topics": [
+      "Education",
+      "Web3",
+      "Investing"
+    ],
+    "votes": 53,
+    "visit_url": "https://t.me/tokentactics_bot",
+    "image": "https://ph-files.imgix.net/29c257f7-393b-44f6-888e-d8aa3e7b504a.jpeg"
+  },
+  {
+    "name": "Entelligence.ai",
+    "description": "Entelligence AI helps dev teams review code with full context, catch bugs early, and track engineering health. Deep Reviews understands your entire codebase to flag issues before merge. Plus, get auto-generated docs and insights across your team.",
+    "product_hunt_url": "https://www.producthunt.com/posts/entelligence-ai",
+    "created_at": "",
+    "id": "entelligence-ai",
+    "label": "AI Code Reviews with Full Codebase Context",
+    "topics": [
+      "Productivity",
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "votes": 307,
+    "visit_url": "https://www.entelligence.ai/",
+    "image": "https://ph-files.imgix.net/24d065fd-edc8-463d-a170-3b4e527420ce.gif"
+  },
+  {
+    "name": "eSelf",
+    "description": "eSelf’s no-code studio lets you create expressive, human-like AI avatars that serve as tutors, reps, and more. Multilingual and LLM-agnostic, eSelf delivers the fastest interactions on the market — powered by real-time visuals and expressive AI.",
+    "product_hunt_url": "https://www.producthunt.com/posts/eself",
+    "created_at": "",
+    "id": "eself",
+    "label": "Create realistic AI tutors, agents, friends & more",
+    "topics": [
+      "Virtual Assistants",
+      "Artificial Intelligence",
+      "SaaS"
+    ],
+    "votes": 283,
+    "visit_url": "https://www.eself.ai/",
+    "image": "https://ph-files.imgix.net/bda92fb7-fe84-422d-9f2f-93abc6807c57.png"
+  },
+  {
+    "name": "Overlap AI",
+    "description": "Overlap AI is an agent that edits videos, styles captions, and automatically posts for you.\n\nBuild an agentic workflow, drop in a link or file, get perfect clips, and instantly upload to TikTok, Reels, Shorts, and X. \n\nTry it out for free today!",
+    "product_hunt_url": "https://www.producthunt.com/posts/overlap-ai",
+    "created_at": "",
+    "id": "overlap-ai",
+    "label": "The first multimodal video marketing agent",
+    "topics": [
+      "Artificial Intelligence",
+      "Social media marketing",
+      "Video"
+    ],
+    "votes": 250,
+    "visit_url": "https://overlap.ai",
+    "image": "https://ph-files.imgix.net/ea92b11e-0f7a-4df3-9d23-8c57fdb88edb.png"
+  },
+  {
+    "name": "Web Checkout by Paddle",
+    "description": "Direct your app users to external checkouts and bypass Apple's fees. Choose Paddle-managed Hosted Checkouts or Vercel-built Starter Kit. Take advantage of lower fees, more control & faster growth with Paddle — a Merchant of Record trusted by 6,000+ companies.",
+    "product_hunt_url": "https://www.producthunt.com/posts/web-checkout-by-paddle",
+    "created_at": "",
+    "id": "web-checkout-by-paddle",
+    "label": "The smart alternative to in-app payments",
+    "topics": [
+      "Fintech",
+      "SaaS",
+      "Payments"
+    ],
+    "votes": 250,
+    "visit_url": "https://www.paddle.com/in-app-purchase",
+    "image": "https://ph-files.imgix.net/a6bdc207-afe4-41ef-b1cb-d2ea4bb5cd9d.png"
+  },
+  {
+    "name": "Clemta Intelligence",
+    "description": "Clemta Intelligence automates your bookkeeping, tax preparation, and financial reporting so you can stay focused on growing your business.",
+    "product_hunt_url": "https://www.producthunt.com/posts/clemta-intelligence",
+    "created_at": "",
+    "id": "clemta-intelligence",
+    "label": "AI assistant for incorporation, bookkeeping & taxes",
+    "topics": [
+      "Artificial Intelligence",
+      "Accounting",
+      "Fintech"
+    ],
+    "votes": 139,
+    "visit_url": "http://clemta.com/intelligence",
+    "image": "https://ph-files.imgix.net/6eb2f821-bd57-409c-821c-6fd0c043af50.png"
+  },
+  {
+    "name": "Google NotebookLM",
+    "description": "Turn complexity into clarity with NotebookLM, your brain’s new best friend. Join the millions of students, creators, researchers, professionals, CEOs, and more who are saving time, getting stuff done, and learning in new ways.",
+    "product_hunt_url": "https://www.producthunt.com/posts/google-notebooklm-3",
+    "created_at": "",
+    "id": "google-notebooklm-3",
+    "label": "Al conversations on demand on any topic",
+    "topics": [
+      "Education",
+      "Artificial Intelligence",
+      "Android"
+    ],
+    "votes": 203,
+    "visit_url": "https://apps.apple.com/us/app/google-notebooklm/id6737527615",
+    "image": "https://ph-files.imgix.net/57884a37-9a21-40bb-bca5-27ee075ddd48.png"
+  },
+  {
+    "name": "Nestin",
+    "description": "Nestin lets you design, visualise and plan your interiors instantly. Remove clutter, drag in furniture from any site, preview it in AR & generate photorealistic renders in minutes (like a Canva for Interiors). Create your perfect home & shop with confidence.",
+    "product_hunt_url": "https://www.producthunt.com/posts/nestin",
+    "created_at": "",
+    "id": "nestin",
+    "label": "Interior Design, Simplified",
+    "topics": [
+      "Artificial Intelligence",
+      "Design Tools",
+      "Interior design"
+    ],
+    "votes": 122,
+    "visit_url": "https://app.nestin.ai/designer",
+    "image": "https://ph-files.imgix.net/24adab96-1b65-401d-8568-50054e567244.png"
+  },
+  {
+    "name": "TL;DL (Beta) by Headliner",
+    "description": "Too long? Didn't listen? Now you can!\n\nUsing semantic compression, TL;DL creates AI-powered podcast summaries. Pick the episodes, set your timeframe, & get a custom 'podcast' blending real clips with smart narration.\n\nWant more? Get full episodes in 1 click.",
+    "product_hunt_url": "https://www.producthunt.com/posts/tl-dl-beta-by-headliner",
+    "created_at": "",
+    "id": "tl-dl-beta-by-headliner",
+    "label": "TL;DL creates AI-generated podcast summaries, built for you",
+    "topics": [
+      "Artificial Intelligence",
+      "Web App",
+      "Audio"
+    ],
+    "votes": 186,
+    "visit_url": "https://play.headliner.app/tldl",
+    "image": "https://ph-files.imgix.net/2fa89fb4-db4c-4bd6-b4e1-59e003934c2f.png"
+  },
+  {
+    "name": "Prism AI",
+    "description": "Prism is an AI that watches session replays and tells developers what to fix—no setup, no event tagging, just signal.",
+    "product_hunt_url": "https://www.producthunt.com/posts/prism-ai",
+    "created_at": "",
+    "id": "prism-ai",
+    "label": "AI that watches replays and tells developers what to fix",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Analytics"
+    ],
+    "votes": 167,
+    "visit_url": "https://www.prismreplay.com",
+    "image": "https://ph-files.imgix.net/c0d54dde-162d-464c-bb2e-8ca5b966f432.png"
+  },
+  {
+    "name": "GitHub Copilot Coding Agent",
+    "description": "GitHub Copilot has a new feature: a coding agent that can implement a task or issue, run in the background with GitHub Actions, and more.",
+    "product_hunt_url": "https://www.producthunt.com/posts/github-copilot-coding-agent",
+    "created_at": "",
+    "id": "github-copilot-coding-agent",
+    "label": "Agent that implements a task/issue + runs in the background",
+    "topics": [
+      "GitHub",
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "votes": 163,
+    "visit_url": "https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/",
+    "image": "https://ph-files.imgix.net/197c18da-718a-4a3d-9bdd-5f2f66c3bad6.webp"
+  },
+  {
+    "name": "Hunter MCP",
+    "description": "Hunter MCP is an open-source protocol server integrating Hunter B2B data tools with AI assistants like Claude. It enables natural language queries for email finding, email verification, and data enrichment leveraging Hunter’s proven APIs.",
+    "product_hunt_url": "https://www.producthunt.com/posts/hunter-mcp",
+    "created_at": "",
+    "id": "hunter-mcp",
+    "label": "Enable AI Agents with real time B2B Data via Hunter",
+    "topics": [
+      "Artificial Intelligence",
+      "Sales",
+      "API"
+    ],
+    "votes": 158,
+    "visit_url": "https://hunter.io/integrations#mcp",
+    "image": "https://ph-files.imgix.net/f8bcf54f-ee02-4adf-8fbf-b33346296faf.png"
+  },
+  {
+    "name": "GoPolar",
+    "description": "GoPolar is the ultimate app for tracking your cold plunge and sauna sessions. Log your routines, track your streaks, and measure progress over time. Now with groups, challenges, and full support for Apple & Garmin Watches.",
+    "product_hunt_url": "https://www.producthunt.com/posts/gopolar",
+    "created_at": "",
+    "id": "gopolar",
+    "label": "Track your cold plunge & sauna sessions + share with others",
+    "topics": [
+      "Health & Fitness",
+      "Wearables",
+      "iOS"
+    ],
+    "votes": 153,
+    "visit_url": "https://gopolar.app",
+    "image": "https://ph-files.imgix.net/c6e867f7-7601-461e-ac30-c81bb95bc400.png"
+  }
+]

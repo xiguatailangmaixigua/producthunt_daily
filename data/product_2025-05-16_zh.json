@@ -1,0 +1,345 @@
+[
+  {
+    "name": "LilysAI",
+    "description": "Drowning in information, you're likely missing valuable insights. LilysAI instantly extracts key takeaways from YouTube, PDFs, and articles—letting you dive deeper with one-click tools like mind maps and more. Reading alone just isn't enough anymore.",
+    "product_hunt_url": "https://www.producthunt.com/posts/lilysai",
+    "created_at": "",
+    "id": "lilysai",
+    "label": "Cursor for Information Addicts",
+    "topics": [
+      "Productivity",
+      "SaaS",
+      "Artificial Intelligence"
+    ],
+    "votes": 226,
+    "visit_url": "https://lilys.ai?utm_source=producthunt\\u0026utm_campaign=250515",
+    "image": "https://ph-files.imgix.net/a325551b-f340-480b-9888-b9f59f35c100.png",
+    "label_zh": "信息成瘾者的光标",
+    "topics_zh": [
+      "生产效率",
+      "SaaS",
+      "人工智能"
+    ],
+    "content_zh": "信息泛滥，你可能会错过重要的见解。LilysAI 可以立即从 YouTube 视频、PDF 和文章中提取关键要点，并提供一键生成思维导图等工具，帮助你深入理解。仅仅阅读已经不够了。"
+  },
+  {
+    "name": "Tolt",
+    "description": "Tolt helps SaaS startups launch and grow affiliate programs. Get automated payouts, fraud protection, seamless integrations (Stripe, Paddle, Chargebee), and a branded affiliate portal. Track performance with detailed reports and drive extra revenue! 🚀",
+    "product_hunt_url": "https://www.producthunt.com/posts/tolt",
+    "created_at": "",
+    "id": "tolt",
+    "label": "All-in-one affiliate marketing software for SaaS startups",
+    "topics": [
+      "SaaS",
+      "Marketing",
+      "Affiliate marketing"
+    ],
+    "votes": 355,
+    "visit_url": "https://tolt.io",
+    "image": "https://ph-files.imgix.net/d04fcf1b-9f6e-4a6a-95db-d5db2c44007b.png",
+    "label_zh": "适用于SaaS初创公司的一体化联盟营销软件",
+    "topics_zh": [
+      "SaaS",
+      "营销",
+      "联盟营销"
+    ],
+    "content_zh": "Tolt 帮助 SaaS 初创公司启动和扩展联盟营销计划。它提供自动付款、防欺诈保护、无缝集成（如 Stripe、Paddle 和 Chargebee），以及一个品牌化的联盟门户。通过详细的报告跟踪表现，推动额外收入增长！🚀"
+  },
+  {
+    "name": "Bolto",
+    "description": "Bolto is an all in one recruiting and HR platform. It uses AI to source, interview, and match software engineers to startups, then enables startups to pay and manage those engineers in the same place.",
+    "product_hunt_url": "https://www.producthunt.com/posts/bolto-3",
+    "created_at": "",
+    "id": "bolto-3",
+    "label": "Find, interview, and hire engineers with AI",
+    "topics": [
+      "Human Resources",
+      "Hiring",
+      "Artificial Intelligence"
+    ],
+    "votes": 308,
+    "visit_url": "https://www.bolto.com",
+    "image": "https://ph-files.imgix.net/c20bde95-f1cd-4768-9352-cdaa79e1163f.png",
+    "label_zh": "使用AI寻找、面试并雇佣工程师",
+    "topics_zh": [
+      "人力资源",
+      "招聘",
+      "人工智能"
+    ],
+    "content_zh": "Bolto 是一个集招聘和人力资源管理于一体的平台。它利用人工智能技术来寻找、面试并匹配软件工程师给初创公司，同时让这些公司在同一平台上支付和管理员工。"
+  },
+  {
+    "name": "Plakar",
+    "description": "Plakar is an open-source backup and restore solution designed to simplify data protection for businesses of all sizes. It protects anything—from local files to multi-cloud AI pipelines—while keeping every snapshot lean, encrypted, and instantly recoverable.",
+    "product_hunt_url": "https://www.producthunt.com/posts/plakar",
+    "created_at": "",
+    "id": "plakar",
+    "label": "Effortless open source backup platform",
+    "topics": [
+      "GitHub",
+      "Encryption",
+      "Open Source"
+    ],
+    "votes": 281,
+    "visit_url": "https://plakar.io/",
+    "image": "https://ph-files.imgix.net/5dbc995a-4fa8-4814-add4-56da89303cd9.png",
+    "label_zh": "轻松的开源备份平台",
+    "topics_zh": [
+      "GitHub",
+      "加密",
+      "开源"
+    ],
+    "content_zh": "Plakar 是一个开源的备份和恢复解决方案，旨在简化各种规模企业的数据保护。它可以保护从本地文件到多云 AI 流程的所有内容，并确保每个快照都是精简、加密且可以立即恢复的。"
+  },
+  {
+    "name": "PocketShield",
+    "description": "💡 Worried a file you’re about to share might contain something sensitive buried deep inside? Let PocketShield scan it first.\n\n🚀 Local-Only AI. No Cloud. No Risk. Powered by ThirdAI’s efficient CPU-only AI.\n\n✅ Scan up to 5GB of text per month totally free.",
+    "product_hunt_url": "https://www.producthunt.com/posts/pocketshield",
+    "created_at": "",
+    "id": "pocketshield",
+    "label": "Your Private AI for sensitive data discovery",
+    "topics": [
+      "Productivity",
+      "Tech",
+      "Artificial Intelligence"
+    ],
+    "votes": 75,
+    "visit_url": "https://www.thirdai.com/pocketshield/",
+    "image": "https://ph-files.imgix.net/7b7b9f79-cf60-4c0c-bc90-c65cea86e37f.png",
+    "label_zh": "你的私人AI，用于敏感数据发现",
+    "topics_zh": [
+      "生产力",
+      "科技",
+      "人工智能"
+    ],
+    "content_zh": "担心即将分享的文件中可能隐藏着敏感信息？让PocketShield先帮你扫描一下。\n\n🚀 本地AI，无需云端，无风险。由ThirdAI的高效纯CPU AI驱动。\n\n✅ 每月免费扫描最多5GB文本。"
+  },
+  {
+    "name": "Granola 2.0",
+    "description": "Introducing the next chapter for Granola: bringing all your team's conversations into one place, and unlocking them with AI",
+    "product_hunt_url": "https://www.producthunt.com/posts/granola-2-0",
+    "created_at": "",
+    "id": "granola-2-0",
+    "label": "A second brain for your team",
+    "topics": [
+      "Notes",
+      "Meetings",
+      "Artificial Intelligence"
+    ],
+    "votes": 264,
+    "visit_url": "https://www.granola.ai/blog/two-dot-zero",
+    "image": "https://ph-files.imgix.net/9066e502-a991-4a5d-8de0-e508b7080525.png",
+    "label_zh": "团队的第二大脑",
+    "topics_zh": [
+      "笔记",
+      "会议",
+      "人工智能"
+    ],
+    "content_zh": "介绍 Granola 2.0：将团队的所有对话集中在一个地方，并通过 AI 解锁这些对话的价值"
+  },
+  {
+    "name": "Playmaker",
+    "description": "Playmaker is your AI-powered vibe marketing sidekick for GTM success. Using just your work email, it analyzes your product, market, expert-led content, and competitors to deliver sharp, deep-researched growth plays. No fluff, just strategy that scales.",
+    "product_hunt_url": "https://www.producthunt.com/posts/playmaker-3",
+    "created_at": "",
+    "id": "playmaker-3",
+    "label": "Cursor for Vibe Marketing",
+    "topics": [
+      "Marketing automation",
+      "Business Intelligence",
+      "Artificial Intelligence"
+    ],
+    "votes": 79,
+    "visit_url": "https://tryplaymaker.io",
+    "image": "https://ph-files.imgix.net/065e0755-6eda-4d28-8d24-a9c0d1200ac5.png",
+    "label_zh": "光标用于Vibe营销",
+    "topics_zh": [
+      "营销自动化",
+      "商业智能",
+      "人工智能"
+    ],
+    "content_zh": "Playmaker 是你的人工智能营销助手，助力你的产品成功上市。只需使用你的工作邮箱，它就能分析你的产品、市场、专家内容和竞争对手，提供精准且深入的研究结果，帮助你制定可扩展的营销策略。没有废话，只有实用的战略建议。"
+  },
+  {
+    "name": "Flowise",
+    "description": "Open source Generative AI development platform for building AI agents & LLM workflows.",
+    "product_hunt_url": "https://www.producthunt.com/posts/flowise",
+    "created_at": "",
+    "id": "flowise",
+    "label": "Build AI agents, visually",
+    "topics": [
+      "Developer Tools",
+      "Open Source",
+      "Artificial Intelligence"
+    ],
+    "votes": 233,
+    "visit_url": "https://flowiseai.com",
+    "image": "https://ph-files.imgix.net/4ca2eea9-d717-4e7b-b113-66772f6a0e78.png",
+    "label_zh": "构建AI代理，可视化操作",
+    "topics_zh": [
+      "开发工具",
+      "开源",
+      "人工智能"
+    ],
+    "content_zh": "开源的生成式 AI 开发平台，用于构建 AI 代理和大语言模型工作流。"
+  },
+  {
+    "name": "Enigma X",
+    "description": "Create, share, and use encryption keys on your own. Without delegating it to messengers — but still using them at the same time. \n\nEnigma X consists of a main app and a custom keyboard.",
+    "product_hunt_url": "https://www.producthunt.com/posts/enigma-x",
+    "created_at": "",
+    "id": "enigma-x",
+    "label": "New layer of personal privacy",
+    "topics": [
+      "Encryption",
+      "Privacy",
+      "Custom Keyboards"
+    ],
+    "votes": 73,
+    "visit_url": "https://ifonly.tech",
+    "image": "https://ph-files.imgix.net/42031931-5282-4822-b78c-9b6d65e04d00.png",
+    "label_zh": "新一层个人隐私保护",
+    "topics_zh": [
+      "加密",
+      "隐私",
+      "自定义键盘"
+    ],
+    "content_zh": "创建、分享和使用你自己的加密密钥，无需通过第三方信使，但仍然可以同时使用它们。\n\nEnigma X 包括一个主应用程序和一个自定义键盘。"
+  },
+  {
+    "name": "OpenMemory MCP",
+    "description": "OpenMemory MCP is a private, local-first memory layer with a built-in UI, compatible with all MCP-clients. It ensures all memory stays local, structured, and under your control with no cloud sync or external storage.",
+    "product_hunt_url": "https://www.producthunt.com/posts/openmemory-mcp",
+    "created_at": "",
+    "id": "openmemory-mcp",
+    "label": "Your private, local memory layer for all AI tools",
+    "topics": [
+      "GitHub",
+      "Open Source",
+      "Artificial Intelligence"
+    ],
+    "votes": 181,
+    "visit_url": "https://mem0.ai/openmemory-mcp",
+    "image": "https://ph-files.imgix.net/2b4d406b-5e02-44b1-a537-785929155b3b.png",
+    "label_zh": "你的私密本地记忆层，适用于所有AI工具",
+    "topics_zh": [
+      "GitHub",
+      "开源",
+      "人工智能"
+    ],
+    "content_zh": "OpenMemory MCP 是一个私有的、本地优先的记忆层，内置用户界面，并且兼容所有MCP客户端。它确保所有的记忆数据都保存在本地，结构化并且完全由你掌控，不会同步到云端或存储在外部设备上。"
+  },
+  {
+    "name": "Closure",
+    "description": "75M adult Americans experienced ghosting: from friends, loved ones, date partners, and even recruiters. \nVictims of ghosting want answers. They want their confidence back. \nClosure gives it all through AI-powered conversations with those who disappeared.",
+    "product_hunt_url": "https://www.producthunt.com/posts/closure",
+    "created_at": "",
+    "id": "closure",
+    "label": "AI-chats with those who disappeared",
+    "topics": [
+      "Messaging",
+      "Health",
+      "Artificial Intelligence"
+    ],
+    "votes": 56,
+    "visit_url": "https://closure.ink/ph",
+    "image": "https://ph-files.imgix.net/7bff1a26-7290-455c-a0ea-a352635fcb03.jpeg",
+    "label_zh": "与消失的人进行AI聊天",
+    "topics_zh": [
+      "消息传递",
+      "健康",
+      "人工智能"
+    ],
+    "content_zh": "7500万美国成年人经历过被忽视：来自朋友、爱人、约会对象，甚至是招聘人员。  \n被忽视的人想要答案，他们想重拾信心。  \nClosure 通过与消失的人进行AI驱动的对话，为他们提供这一切。"
+  },
+  {
+    "name": "Cuemeet",
+    "description": "CueMeet is an open-source meeting API that gives developers the power to add video calls, real-time transcription, summaries, and insights into any product. Forget reinventing Meeting Bots, just plug in CueMeet and ship faster.",
+    "product_hunt_url": "https://www.producthunt.com/posts/cuemeet-2",
+    "created_at": "",
+    "id": "cuemeet-2",
+    "label": "The world's first universal opensource meeting bot API",
+    "topics": [
+      "Open Source",
+      "Meetings",
+      "API"
+    ],
+    "votes": 54,
+    "visit_url": "https://cuemeet.ai",
+    "image": "https://ph-files.imgix.net/dbbea61b-9dda-47cc-be95-a2844158dd29.png",
+    "label_zh": "世界上首个通用开源会议机器人API",
+    "topics_zh": [
+      "开源",
+      "会议",
+      "API"
+    ],
+    "content_zh": "Cuemeet 是一个开源的会议 API，让开发者可以轻松地在任何产品中添加视频通话、实时转录、摘要和见解功能。无需重新发明会议机器人，只需接入 Cuemeet，就能更快地推出产品。"
+  },
+  {
+    "name": "LightPDF AI Agent",
+    "description": "No more switching between multiple tools or tabs. With LightPDF AI Agent, you can manage your entire PDF workflow in a single window. Just upload your file and tell the AI what you want—it handles the rest.",
+    "product_hunt_url": "https://www.producthunt.com/posts/lightpdf-ai-agent",
+    "created_at": "",
+    "id": "lightpdf-ai-agent",
+    "label": "Your All-in-One PDF Assistant",
+    "topics": [
+      "Web App",
+      "Artificial Intelligence"
+    ],
+    "votes": 56,
+    "visit_url": "https://lightpdf.com/pdf-ai-agent",
+    "image": "https://ph-files.imgix.net/5b7813ab-93d5-4669-8272-39bce897f347.jpeg",
+    "label_zh": "您的全能PDF助手",
+    "topics_zh": [
+      "Web应用",
+      "人工智能"
+    ],
+    "content_zh": "不再需要在多个工具或标签页之间切换。使用LightPDF AI Agent，你可以在一个窗口中管理整个PDF工作流程。只需上传文件并告诉AI你的需求，剩下的事情它会帮你搞定。"
+  },
+  {
+    "name": "Mukh.1",
+    "description": "Mukh.1 is a no‑code visual builder that lets you drag‑drop AI agents, RAG, tools and multi‑agent workflows. Launch in minutes, monitor and scale across 2,500+ integrations, enterprise‑ready, MENA‑first. \nClick. Create. Automate.\nJoin us - Start for Free Today.",
+    "product_hunt_url": "https://www.producthunt.com/posts/mukh-1",
+    "created_at": "",
+    "id": "mukh-1",
+    "label": "Automate work with AI agents",
+    "topics": [
+      "Productivity",
+      "No-Code",
+      "Artificial Intelligence"
+    ],
+    "votes": 149,
+    "visit_url": "https://mukh.one/",
+    "image": "https://ph-files.imgix.net/237a5312-d4e9-4669-88d4-627b8857ded4.png",
+    "label_zh": "用AI代理自动化工作",
+    "topics_zh": [
+      "生产力",
+      "无代码",
+      "人工智能"
+    ],
+    "content_zh": "Mukh.1 是一个无代码可视化构建工具，你可以通过拖放操作来添加 AI 代理、RAG、工具和多代理工作流。几分钟内即可启动，并在2500多个集成中进行监控和扩展，专为企业级应用设计，率先服务于中东和北非地区。\n点击、创建、自动化。\n加入我们 - 现在免费开始。"
+  },
+  {
+    "name": "1Stroke",
+    "description": "Right-click any text field, select \"Reply with AI\" and 1Stroke generates context-aware responses for emails, chats, social media, or reviews. 100% customizable to match your tone and brand. Try it free—works everywhere you type online.",
+    "product_hunt_url": "https://www.producthunt.com/posts/1stroke",
+    "created_at": "",
+    "id": "1stroke",
+    "label": "Right click and reply with AI",
+    "topics": [
+      "Chrome Extensions",
+      "SaaS",
+      "Artificial Intelligence"
+    ],
+    "votes": 145,
+    "visit_url": "https://www.1stroke.ai",
+    "image": "https://ph-files.imgix.net/568c77f9-8ace-4ee7-84ce-412921ef3bed.png",
+    "label_zh": "右键点击并用AI回复",
+    "topics_zh": [
+      "Chrome 扩展程序",
+      "SaaS",
+      "人工智能"
+    ],
+    "content_zh": "右键点击任何文本框，选择“用AI回复”，1Stroke 会生成适合上下文的回复，适用于电子邮件、聊天、社交媒体或评论。完全可定制，以匹配你的语气和品牌形象。免费试用——在你在线输入的任何地方都适用。"
+  }
+]

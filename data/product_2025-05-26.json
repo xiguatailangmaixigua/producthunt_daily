@@ -1,0 +1,239 @@
+[
+  {
+    "name": "LLM SEO Monitor",
+    "description": "Monitor what ChatGPT, Google Gemini and Claude recommend",
+    "product_hunt_url": "https://www.producthunt.com/posts/llm-seo-monitor",
+    "created_at": "",
+    "id": "llm-seo-monitor",
+    "label": "Monitor what ChatGPT, Google Gemini and Claude recommend",
+    "topics": [
+      "Artificial Intelligence",
+      "Marketing",
+      "SEO"
+    ],
+    "votes": 385,
+    "visit_url": "https://llmseomonitor.com",
+    "image": "https://ph-files.imgix.net/0a0f49c7-9a26-4d0f-9415-9a074b03cf94.png"
+  },
+  {
+    "name": "AltPage.ai",
+    "description": "AltPage.ai is an AI Agent that creates SEO-optimized comparison pages that capture competitor brand traffic. It analyzes data, highlights your advantages, and deploys pages to rank high—no technical skills needed.",
+    "product_hunt_url": "https://www.producthunt.com/posts/altpage-ai",
+    "created_at": "",
+    "id": "altpage-ai",
+    "label": "Steal competitor brand traffic with alternative pages",
+    "topics": [
+      "Artificial Intelligence",
+      "Marketing",
+      "SEO"
+    ],
+    "votes": 327,
+    "visit_url": "https://altpage.ai",
+    "image": "https://ph-files.imgix.net/447ff5d4-8b44-435c-8a77-0f69ece83dd9.png"
+  },
+  {
+    "name": "Kibo UI",
+    "description": "Kibo UI is a custom registry of composable, accessible and open source components designed for use with shadcn/ui. They are designed to be fully composable so you can build, customize and extend them to your own needs.",
+    "product_hunt_url": "https://www.producthunt.com/posts/kibo-ui",
+    "created_at": "",
+    "id": "kibo-ui",
+    "label": "Advanced, open-source components for shadcn/ui",
+    "topics": [
+      "GitHub",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "votes": 258,
+    "visit_url": "https://www.kibo-ui.com/",
+    "image": "https://ph-files.imgix.net/c23b2281-a53d-4b81-9a31-d08cf52576d3.png"
+  },
+  {
+    "name": "gitmorph",
+    "description": "GitMorph is a powerful CLI tool that allows you to seamlessly switch between multiple Git identities. Perfect for developers who want to switch between work, personal, or side-project profiles with a single command.",
+    "product_hunt_url": "https://www.producthunt.com/posts/gitmorph",
+    "created_at": "",
+    "id": "gitmorph",
+    "label": "From work to side-project in one command—Gitmorph",
+    "topics": [
+      "GitHub",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "votes": 61,
+    "visit_url": "https://gitmorph.netlify.app/",
+    "image": "https://ph-files.imgix.net/692603ab-c4af-4e4a-9700-075a420d93ae.png"
+  },
+  {
+    "name": "ProxyBlocks",
+    "description": "Experience seamless connec­tions at un­mat­ched speeds, all within a fully custo­mizable and affor­dable package. Our high-quality mobile proxy offers all the features you can imagine within a control panel that lets you tweak every detail!",
+    "product_hunt_url": "https://www.producthunt.com/posts/proxyblocks",
+    "created_at": "",
+    "id": "proxyblocks",
+    "label": "The Mobile Proxy You Will Love to Use!",
+    "topics": [
+      "Marketing automation",
+      "Developer Tools",
+      "Privacy"
+    ],
+    "votes": 158,
+    "visit_url": "https://proxyblocks.io",
+    "image": "https://ph-files.imgix.net/46f76c67-b02f-427e-8a13-b26c64d94a0b.png"
+  },
+  {
+    "name": "Params Editor for Chromium Browsers",
+    "description": "Params Editor is an extension built to simplify how developers, QA testers, & technical professionals work with URL query params. It intelligently detects param types and provides dedicated input controls for each - from simple text to complex JSON objects",
+    "product_hunt_url": "https://www.producthunt.com/posts/params-editor-for-chromium-browsers",
+    "created_at": "",
+    "id": "params-editor-for-chromium-browsers",
+    "label": "Edit URL Query Parameters with Smart Input Types",
+    "topics": [
+      "Developer Tools",
+      "Browser Extensions",
+      "Productivity"
+    ],
+    "votes": 156,
+    "visit_url": "https://params-editor.isolpro.in",
+    "image": "https://ph-files.imgix.net/e9e1c7a4-3ba9-4c53-bbb6-c3a55c46fd9e.png"
+  },
+  {
+    "name": "Bagel",
+    "description": "BAGEL by ByteDance-Seed is an Apache 2.0 open-source unified multimodal model for advanced image/text understanding, generation, editing, and navigation, with capabilities comparable to proprietary systems.",
+    "product_hunt_url": "https://www.producthunt.com/posts/bagel-3",
+    "created_at": "",
+    "id": "bagel-3",
+    "label": "Unified model for multimodal understanding and generation",
+    "topics": [
+      "GitHub",
+      "Artificial Intelligence",
+      "Open Source"
+    ],
+    "votes": 110,
+    "visit_url": "https://bagel-ai.org/",
+    "image": "https://ph-files.imgix.net/e2582628-b16a-40ba-b332-fb1de818fbd2.webp"
+  },
+  {
+    "name": "Anvibe",
+    "description": "Where AI Creators Meet the Vibe\nAn AI driven platform designed to unite vibe creators and innovators through creativity, code, and collaboration.",
+    "product_hunt_url": "https://www.producthunt.com/posts/anvibe",
+    "created_at": "",
+    "id": "anvibe",
+    "label": "Where AI Creators Meet the Vibe An AI driven platform design",
+    "topics": [
+      "Developer Tools",
+      "Design Tools",
+      "Artificial Intelligence"
+    ],
+    "votes": 33,
+    "visit_url": "https://www.anvibe.xyz",
+    "image": "https://ph-files.imgix.net/ef3f7810-4129-45a2-af23-8d853586b82e.png"
+  },
+  {
+    "name": "Nexty",
+    "description": "An all-in-one SaaS starter template built with Next.js and Supabase, featuring complete auth, payment, and content management systems. Launch various business websites quickly - from blogs site to AI application - with everything you need right out of the box.",
+    "product_hunt_url": "https://www.producthunt.com/posts/nexty",
+    "created_at": "",
+    "id": "nexty",
+    "label": "A Flexible, Modern Full-Stack SaaS Template",
+    "topics": [
+      "Developer Tools",
+      "SaaS",
+      "Website Builder"
+    ],
+    "votes": 31,
+    "visit_url": "https://nexty.dev/",
+    "image": "https://ph-files.imgix.net/a39754e2-c137-4fb0-8f6a-3921ce343fbd.png"
+  },
+  {
+    "name": "Ritik's Newsletter",
+    "description": "This newsletter aims to provide readers with a confluence of both worlds by analysing how the public market affects the private market and vice-versa.",
+    "product_hunt_url": "https://www.producthunt.com/posts/ritik-s-newsletter",
+    "created_at": "",
+    "id": "ritik-s-newsletter",
+    "label": "Putting out random thoughts on investing, business and apps",
+    "topics": [
+      "Newsletters",
+      "Business",
+      "Finance"
+    ],
+    "votes": 40,
+    "visit_url": "https://ritikrustagi.substack.com/",
+    "image": "https://ph-files.imgix.net/7062fd72-eb56-4f88-8560-d9ef3aebf605.jpeg"
+  },
+  {
+    "name": "PayScope",
+    "description": "Upload your resume(or someone else's). Get your market salary instantly - no sign-up needed. PayScope analyses your experience against 27M+ job listings and shows where you stand: median, top 10%, and bottom 25%. Fast, private, and weirdly satisfying.",
+    "product_hunt_url": "https://www.producthunt.com/posts/payscope",
+    "created_at": "",
+    "id": "payscope",
+    "label": "Resume-based salary estimate from real-time market data",
+    "topics": [
+      "Career",
+      "Artificial Intelligence",
+      "Remote Work"
+    ],
+    "votes": 28,
+    "visit_url": "https://payscope.ai",
+    "image": "https://ph-files.imgix.net/4718bb1b-b489-4900-8aad-8975fc91ec7b.png"
+  },
+  {
+    "name": "Duplicate Tabs Remover",
+    "description": "Close duplicate tabs with one click — even across multiple Chrome windows and incognito. Just install the plugin, click its icon, and it will instantly close all duplicate tabs. Lightweight, privacy-friendly, and no setup required. 🥳",
+    "product_hunt_url": "https://www.producthunt.com/posts/duplicate-tabs-remover",
+    "created_at": "",
+    "id": "duplicate-tabs-remover",
+    "label": "Close Duplicate Tabs on A Single Click!",
+    "topics": [
+      "Chrome Extensions"
+    ],
+    "votes": 21,
+    "visit_url": "https://medium.com/@hardiktank90/close-duplicate-tabs-on-a-single-click-using-this-chrome-plugin-068e40b9399e",
+    "image": "https://ph-files.imgix.net/bfd09558-c015-49c5-9752-661146fe70ab.png"
+  },
+  {
+    "name": "Opener",
+    "description": "Opener makes finding your business solution, co-founder or dream job easy. Real WINS and LOSSES from leaders across industries. Deep dives on different careers, and networking events. Avoid the mistakes and improve your career.",
+    "product_hunt_url": "https://www.producthunt.com/posts/opener-3",
+    "created_at": "",
+    "id": "opener-3",
+    "label": "Steal the best moves for your career. Avoid the mistakes.",
+    "topics": [
+      "Career",
+      "Newsletters",
+      "Business"
+    ],
+    "votes": 19,
+    "visit_url": "https://joinopener.com/",
+    "image": "https://ph-files.imgix.net/a55d3e11-df84-4d9b-a24e-422b9826816d.png"
+  },
+  {
+    "name": "DevTools",
+    "description": "A browser-based toolbox for developers: JSON formatters, Base64/HEX converters, QR generators, JWT decoders, and more. Clean UI, no tracking, and everything runs offline.",
+    "product_hunt_url": "https://www.producthunt.com/posts/devtools-7",
+    "created_at": "",
+    "id": "devtools-7",
+    "label": "Collection of free online tools to help in web development",
+    "topics": [
+      "Developer Tools",
+      "Web App"
+    ],
+    "votes": 15,
+    "visit_url": "https://onlinewebdevtools.com/",
+    "image": "https://ph-files.imgix.net/76cd557f-ed42-4bfb-9b46-aba489238ffa.png"
+  },
+  {
+    "name": "Bajetier",
+    "description": "Bajetier is a web app designed to give you a clear and simple overview of your income, expenses, and budgets without the clutter. Built for individuals and entrepreneurs, it's powerful enough to manage business finances but simple enough for personal use.",
+    "product_hunt_url": "https://www.producthunt.com/posts/bajetier",
+    "created_at": "",
+    "id": "bajetier",
+    "label": "Effortless budgeting. Powerful financial control",
+    "topics": [
+      "Web App",
+      "SaaS",
+      "Fintech"
+    ],
+    "votes": 15,
+    "visit_url": "https://bajetier.me",
+    "image": "https://ph-files.imgix.net/883dee0b-a5e2-43ef-b790-9ae946afaaa2.png"
+  }
+]

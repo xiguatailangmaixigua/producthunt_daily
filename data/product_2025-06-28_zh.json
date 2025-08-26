@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Dyad",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/dyad-free-local-vibe-coding-tool",
+    "created_at": "",
+    "id": "dyad-free-local-vibe-coding-tool",
+    "label": "Free, local, open-source alternative to Lovable / v0 / Bolt",
+    "topics": [
+      "AI Coding Assistants",
+      "No-code platforms"
+    ],
+    "votes": 344,
+    "visit_url": "https://dyad.sh",
+    "image": "https://ph-files.imgix.net/c690b3e0-8969-4e13-b818-fda912416b9e.png",
+    "label_zh": "免费、本地、开源的 Lovable / v0 / Bolt 替代品",
+    "topics_zh": [
+      "AI 编程助手，无代码平台"
+    ]
+  },
+  {
+    "name": "Integral",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/integral",
+    "created_at": "",
+    "id": "integral",
+    "label": "Slack/Discord alternative for communities and teams",
+    "topics": [
+      "Social & Community",
+      "AI",
+      "Work & Productivity"
+    ],
+    "votes": 220,
+    "visit_url": "https://integralhq.com",
+    "image": "https://ph-files.imgix.net/5da2069e-28ef-4cfd-97ad-9c0c69a20a92.png",
+    "label_zh": "Slack/Discord 替代品，适用于社群和团队",
+    "topics_zh": [
+      "社交与社区",
+      "人工智能",
+      "工作与生产力"
+    ]
+  },
+  {
+    "name": "Stash",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/stash-9",
+    "created_at": "",
+    "id": "stash-9",
+    "label": "Gives you context from your codebase, issues, and docs",
+    "topics": [],
+    "votes": 96,
+    "visit_url": "https://www.usestash.com/",
+    "image": "https://ph-files.imgix.net/ac1db9ad-31a2-48c1-9abc-770ed549df25.png",
+    "label_zh": "为您提供来自代码库、问题和文档的上下文信息"
+  },
+  {
+    "name": "FLUX.1 Kontext",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/flux-1-kontext-4",
+    "created_at": "",
+    "id": "flux-1-kontext-4",
+    "label": "Powerful In-context AI image editing, now open source",
+    "topics": [
+      "Photo editing",
+      "AI Generative Art"
+    ],
+    "votes": 175,
+    "visit_url": "https://bfl.ai/models/flux-kontext",
+    "image": "https://ph-files.imgix.net/e3e32d2f-6123-4c62-8141-b073a9899210.png",
+    "label_zh": "强大的上下文AI图像编辑，现已开源",
+    "topics_zh": [
+      "照片编辑，AI生成艺术"
+    ]
+  },
+  {
+    "name": "TextMarley",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/textmarley",
+    "created_at": "",
+    "id": "textmarley",
+    "label": "iMessage-based reminders integrated with Google Calendar",
+    "topics": [],
+    "votes": 125,
+    "visit_url": "https://textmarley.com",
+    "image": "https://ph-files.imgix.net/326e489f-96b9-4328-bd15-2fc2edeb81ff.png",
+    "label_zh": "基于iMessage的提醒与Google日历集成"
+  },
+  {
+    "name": "HeyGen",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/heygen",
+    "created_at": "",
+    "id": "heygen",
+    "label": "No Camera? No Crew? No Problem!",
+    "topics": [
+      "AI Characters",
+      "Keyword research tools",
+      "Live streaming platforms",
+      "Marketing automation platforms",
+      "Video conferencing",
+      "Video editing",
+      "Writing assistants",
+      "Video hosting platforms",
+      "Avatar generators"
+    ],
+    "votes": 216,
+    "visit_url": "https://www.heygen.com/agent",
+    "image": "",
+    "label_zh": "没有摄像机？没有团队？没问题！",
+    "topics_zh": [
+      "AI角色",
+      "关键词研究工具",
+      "直播平台",
+      "营销自动化平台",
+      "视频会议",
+      "视频编辑",
+      "写作助手",
+      "视频托管平台",
+      "头像生成器"
+    ]
+  },
+  {
+    "name": "Higgsfield",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/higgsfield",
+    "created_at": "",
+    "id": "higgsfield",
+    "label": "The ultimate AI-powered platform for creators",
+    "topics": [
+      "Video editing",
+      "AI Generative Art"
+    ],
+    "votes": 175,
+    "visit_url": "https://higgsfield.ai/soul",
+    "image": "https://ph-files.imgix.net/f92cdc6c-b5e7-440a-8617-ab8a33c701e1.png",
+    "label_zh": "最终的AI驱动创作者平台\n\n---\n\n为了更符合中文表达习惯，可以稍微调整为：\n\n专为创作者打造的终极AI平台",
+    "topics_zh": [
+      "视频编辑，AI生成艺术"
+    ]
+  },
+  {
+    "name": "QuickAgent",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/quickagent",
+    "created_at": "",
+    "id": "quickagent",
+    "label": "Easily build AI agents that connect to any service, no-code",
+    "topics": [],
+    "votes": 137,
+    "visit_url": "https://www.quickagent.app/",
+    "image": "https://ph-files.imgix.net/0ad558ab-0508-419d-8285-f19521f726d8.jpeg",
+    "label_zh": "轻松构建连接到任何服务的AI代理，无需编写代码"
+  },
+  {
+    "name": "Crowd",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/crowd-3",
+    "created_at": "",
+    "id": "crowd-3",
+    "label": "AI-powered 360° customer intelligence platform.",
+    "topics": [
+      "AI Metrics and Evaluation",
+      "Ecommerce platforms",
+      "Data analysis tools"
+    ],
+    "votes": 128,
+    "visit_url": "https://crowdapp.io/",
+    "image": "https://ph-files.imgix.net/97653d87-bb6d-40ef-a67c-79b97795311f.png",
+    "label_zh": "AI驱动的360°客户智能平台。",
+    "topics_zh": [
+      "AI指标与评估",
+      "电商平台",
+      "数据分析工具"
+    ]
+  },
+  {
+    "name": "Google.dev",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/google-dev",
+    "created_at": "",
+    "id": "google-dev",
+    "label": "Google Developer Profiles",
+    "topics": [
+      "Avatar generators",
+      "Online learning",
+      "Payment processors",
+      "AI Generative Art",
+      "Invoicing tools",
+      "AI Metrics and Evaluation",
+      "Unified API",
+      "Testing and QA software",
+      "AI Infrastructure Tools",
+      "Data analysis tools"
+    ],
+    "votes": 133,
+    "visit_url": "https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/",
+    "image": "https://ph-files.imgix.net/4c9789ae-cd18-48ec-8879-c57428e83cb3.png",
+    "label_zh": "谷歌开发者资料",
+    "topics_zh": [
+      "头像生成器",
+      "在线学习",
+      "支付处理",
+      "AI生成艺术",
+      "发票工具",
+      "AI指标与评估",
+      "统一API",
+      "测试和质量保证软件",
+      "AI基础设施工具",
+      "数据分析工具"
+    ]
+  },
+  {
+    "name": "Kubiya Determinstic AI Composer",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/kubiya-ai-composer",
+    "created_at": "",
+    "id": "kubiya-ai-composer",
+    "label": "First context-aware and deterministic ai automation platform",
+    "topics": [],
+    "votes": 57,
+    "visit_url": "https://www.kubiya.ai/composer",
+    "image": "https://ph-files.imgix.net/197132b0-cf38-40b2-be28-49e28c4456e1.png",
+    "label_zh": "首个具备情境感知和确定性的AI自动化平台"
+  },
+  {
+    "name": "Phion.dev",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/phion-dev-cursor-auto-start-and-deploy",
+    "created_at": "",
+    "id": "phion-dev-cursor-auto-start-and-deploy",
+    "label": "Build in Cursor like in Lovable - auto start, save & deploy",
+    "topics": [
+      "Git clients",
+      "Website builders",
+      "Web hosting services"
+    ],
+    "votes": 154,
+    "visit_url": "https://phion.dev",
+    "image": "https://ph-files.imgix.net/493ff336-83e4-4bcb-b666-3d6937589c99.png",
+    "label_zh": "内置光标如同Lovable - 自动启动、保存和部署",
+    "topics_zh": [
+      "Git 客户端",
+      "网站构建器",
+      "网络托管服务"
+    ]
+  },
+  {
+    "name": "eThreads",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/ethreads",
+    "created_at": "",
+    "id": "ethreads",
+    "label": "Email, Reimagined — As Sleek, Messenger-Style Threads",
+    "topics": [],
+    "votes": 48,
+    "visit_url": "https://ethreads.app",
+    "image": "https://ph-files.imgix.net/8e145ada-5155-43e4-859d-cf37a23cafeb.jpeg",
+    "label_zh": "电子邮件，重新构想 — 以简洁、信使风格的对话形式呈现"
+  },
+  {
+    "name": "Parallel AI White Label",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/parallel-ai",
+    "created_at": "",
+    "id": "parallel-ai",
+    "label": "All-in-one AI Platform For Business with White-Label",
+    "topics": [
+      "AI Characters",
+      "Keyword research tools",
+      "No-code platforms",
+      "Writing assistants",
+      "Knowledge base software",
+      "Customer support tools"
+    ],
+    "votes": 114,
+    "visit_url": "https://parallellabs.app",
+    "image": "https://ph-files.imgix.net/2acd5c22-056a-474a-b347-e840deedd094.png",
+    "label_zh": "全能AI商业平台，支持白标定制",
+    "topics_zh": [
+      "AI角色",
+      "关键词研究工具",
+      "无代码平台",
+      "写作助手",
+      "知识库软件",
+      "客户支持工具"
+    ]
+  },
+  {
+    "name": "Google Labs",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/google-labs",
+    "created_at": "",
+    "id": "google-labs",
+    "label": "Generate images using images as prompts, not text prompts",
+    "topics": [
+      "AI Generative Art"
+    ],
+    "votes": 113,
+    "visit_url": "https://labs.google/doppl/",
+    "image": "https://ph-files.imgix.net/039337cb-2fa0-4a46-96c5-73dda6a01ac2.png",
+    "label_zh": "使用图片作为提示生成图像，而不是使用文本提示",
+    "topics_zh": [
+      "AI生成艺术"
+    ]
+  }
+]

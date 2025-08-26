@@ -1,0 +1,343 @@
+[
+  {
+    "name": "Tapflow 2.0",
+    "description": "Tapflow 2.0 turns knowledge — AI, design, dev, marketing & more — into structured, sellable products. Now import files and let AI draft it fast. Plus: schedule drops, structure with sub-pages, collaborate live. Sell with Stripe, PayPal, LemonSqueezy.",
+    "product_hunt_url": "https://www.producthunt.com/posts/tapflow-2-0",
+    "created_at": "",
+    "id": "tapflow-2-0",
+    "label": "Turn your docs into sellable guides, playbooks, workflows",
+    "topics": [
+      "Productivity",
+      "Maker Tools",
+      "Education"
+    ],
+    "votes": 706,
+    "visit_url": "https://tapflow.ai",
+    "image": "https://ph-files.imgix.net/ed279ac7-c5d7-4b54-a072-0063df70466e.png",
+    "label_zh": "将你的文档转化为可销售的指南、手册和工作流程",
+    "topics_zh": [
+      "生产力",
+      "创客工具",
+      "教育"
+    ],
+    "content_zh": "Tapflow 2.0 可以将知识——包括人工智能、设计、开发、市场营销等——转化为结构化且可销售的产品。现在可以导入文件，让 AI 快速起草。此外，还可以安排发布时间，使用子页面进行组织，并实时协作。支持通过 Stripe、PayPal 和 LemonSqueezy 进行销售。"
+  },
+  {
+    "name": "People Dataset",
+    "description": "Power your product or AI Agent with billions of datapoints on hundreds of millions of people, refreshed monthly. \n\nBuild your AI SDR, recruiting platform, internal or commercial investment tool with Crustdata's Full People Dataset.\n\nDelivered as Parquet files",
+    "product_hunt_url": "https://www.producthunt.com/posts/people-dataset",
+    "created_at": "",
+    "id": "people-dataset",
+    "label": "Full people data on hundreds of millions of profile",
+    "topics": [
+      "Data",
+      "Sales",
+      "Marketing automation"
+    ],
+    "votes": 422,
+    "visit_url": "https://crustdata.com",
+    "image": "https://ph-files.imgix.net/c38f12a8-0f00-40f2-9cbb-685c730f282b.png",
+    "label_zh": "数亿个人资料的完整数据",
+    "topics_zh": [
+      "数据",
+      "销售",
+      "营销自动化"
+    ],
+    "content_zh": "利用每月更新的数十亿数据点，涵盖数亿人的信息，为您的产品或AI代理提供强大支持。\n\n使用Crustdata的完整People Dataset构建您的AI销售开发代表、招聘平台、内部或商业投资工具。\n\n以Parquet文件格式交付"
+  },
+  {
+    "name": "JoggAI 3.0",
+    "description": "Meet the next-generation AI ad tool that helps your product sell. Instantly turn your product into scroll-stopping photo and video ads with lifelike AI models that engage and convert like crazy.",
+    "product_hunt_url": "https://www.producthunt.com/posts/joggai-3-0",
+    "created_at": "",
+    "id": "joggai-3-0",
+    "label": "Product QuickAds to create smart ad for any shoot",
+    "topics": [
+      "Advertising",
+      "Artificial Intelligence",
+      "Photo & Video"
+    ],
+    "votes": 335,
+    "visit_url": "https://jogg.ai/ai-ad-generator",
+    "image": "https://ph-files.imgix.net/8d7d9599-813c-47b2-91dd-bbccdb78c140.png",
+    "label_zh": "产品 QuickAds 用于创建适用于任何拍摄的智能广告",
+    "topics_zh": [
+      "广告",
+      "人工智能",
+      "图片与视频"
+    ],
+    "content_zh": "认识一下这款新一代的AI广告工具JoggAI 3.0，它能帮助你的产品更好地销售。只需几秒钟，就能将你的产品变成引人注目的照片和视频广告，这些广告使用逼真的AI模型，能够极大地吸引并转化客户。"
+  },
+  {
+    "name": "Clado",
+    "description": "Clado puts 200 million+ people profiles (and growing) at your fingertips with simple, agentic search. If you’re interested in a global people search for sales, spreadsheets, hiring, and more, try our product.",
+    "product_hunt_url": "https://www.producthunt.com/posts/clado",
+    "created_at": "",
+    "id": "clado",
+    "label": "Deep research for people",
+    "topics": [
+      "Hiring",
+      "Sales",
+      "Artificial Intelligence"
+    ],
+    "votes": 256,
+    "visit_url": "https://clado.ai",
+    "image": "https://ph-files.imgix.net/ab98d246-e3f3-4576-8b4e-9cd1f6e9d048.png",
+    "label_zh": "深入研究，为人服务",
+    "topics_zh": [
+      "招聘",
+      "销售",
+      "人工智能"
+    ],
+    "content_zh": "Clado 让你可以轻松搜索超过两亿份个人资料（而且数量还在不断增加）。如果你需要进行全球范围内的人员搜索，无论是为了销售、数据表格处理还是招聘等工作，都可以试试我们的产品。"
+  },
+  {
+    "name": "CodeRabbit VSCode Extension",
+    "description": "Code, review, commit: all without leaving your IDE. CodeRabbit acts as a backstop that flags hallucination, logical errors, code smells, missed unit tests, and more.",
+    "product_hunt_url": "https://www.producthunt.com/posts/coderabbit-vscode-extension",
+    "created_at": "",
+    "id": "coderabbit-vscode-extension",
+    "label": "Free AI code reviews directly in the IDE",
+    "topics": [
+      "Developer Tools",
+      "Artificial Intelligence",
+      "Software Engineering"
+    ],
+    "votes": 289,
+    "visit_url": "https://coderabbit.ai/ide",
+    "image": "https://ph-files.imgix.net/f2795f6f-2e26-43e9-aaa5-96e62952ef1a.png",
+    "label_zh": "免费的AI代码审查，直接在IDE中进行",
+    "topics_zh": [
+      "开发工具",
+      "人工智能",
+      "软件工程"
+    ],
+    "content_zh": "在IDE中完成编码、审查和提交，无需切换界面。CodeRabbit作为一道防线，能够标记出幻觉、逻辑错误、代码异味、遗漏的单元测试等问题。"
+  },
+  {
+    "name": "Coso.ai",
+    "description": "Automatically creates engaging social media content for your brand each week, based on your brand’s personality and relevant social trends.",
+    "product_hunt_url": "https://www.producthunt.com/posts/coso-ai-2",
+    "created_at": "",
+    "id": "coso-ai-2",
+    "label": "AI Agent for social media that learns from branded content",
+    "topics": [
+      "Social Media",
+      "Artificial Intelligence",
+      "Marketing"
+    ],
+    "votes": 243,
+    "visit_url": "https://coso.ai",
+    "image": "https://ph-files.imgix.net/3ffb07ba-4760-4ab7-8762-25e0a40ebe00.png",
+    "label_zh": "AI 社交媒体助手，从品牌内容中学习",
+    "topics_zh": [
+      "社交媒体",
+      "人工智能",
+      "市场营销"
+    ],
+    "content_zh": "每周根据你品牌的个性和相关社交趋势，自动生成吸引人的社交媒体内容。"
+  },
+  {
+    "name": "Proofs - AI Agents for Sales Engineering",
+    "description": "Build a working full stack Proof-of-Concept in the time it takes to book a demo. Bring your tech stack or idea into Proofs and get deployable code plus a live link you can work, fork or share with your prospects. Sign up and try now for free 👉🏻 app.proofs.io",
+    "product_hunt_url": "https://www.producthunt.com/posts/proofs-ai-agents-for-sales-engineering",
+    "created_at": "",
+    "id": "proofs-ai-agents-for-sales-engineering",
+    "label": "Full-stack apps and PoCs in hours, not weeks.",
+    "topics": [
+      "Sales",
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "votes": 76,
+    "visit_url": "https://go.proofs.io/landing",
+    "image": "https://ph-files.imgix.net/5582c834-0f25-4954-80d3-2433c889b07e.png",
+    "label_zh": "全栈应用和概念验证，几小时搞定，无需数周。",
+    "topics_zh": [
+      "销售",
+      "人工智能",
+      "开发者工具"
+    ],
+    "content_zh": "在安排一次演示的时间里，就能构建一个完整的工作原型。将你的技术栈或想法带入Proofs，即可获得可部署的代码和一个可以操作、分叉或与潜在客户分享的实时链接。立即免费注册并试用 👉🏻 app.proofs.io"
+  },
+  {
+    "name": "Reditus: Free In-app referral program",
+    "description": "Turn your users into advocates and recurring revenue by asking them to recommend you; within your own app. \n\nReditus does all the heavy lifting for you; we track, provide the unique links, and showcase the rewards to you and your users. \n\nFree up to $1K MRR!",
+    "product_hunt_url": "https://www.producthunt.com/posts/reditus-free-in-app-referral-program",
+    "created_at": "",
+    "id": "reditus-free-in-app-referral-program",
+    "label": "Turn your SaaS users in advocates & recurring revenue",
+    "topics": [
+      "Growth Hacks",
+      "SaaS",
+      "Marketing"
+    ],
+    "votes": 75,
+    "visit_url": "https://www.getreditus.com/",
+    "image": "https://ph-files.imgix.net/ed22dd2f-e23b-459c-86b4-26d0c2e5caca.png",
+    "label_zh": "将您的SaaS用户转化为忠实支持者和持续收入来源",
+    "topics_zh": [
+      "增长黑客",
+      "SaaS",
+      "营销"
+    ],
+    "content_zh": "将你的用户变成推荐者和持续收入的来源，让他们在你的应用内为你推荐。\n\nReditus 为你完成所有繁重的工作：我们负责跟踪、提供唯一的链接，并向你和你的用户展示奖励。\n\n每月经常性收入（MRR）达到1000美元前完全免费！"
+  },
+  {
+    "name": "Mistral Agents API",
+    "description": "Mistral AI's new Agents API helps developers build AI agents with persistent memory, tool use (code execution, web search, image gen, MCP) & orchestration. Simplifies complex, actionable AI workflows.",
+    "product_hunt_url": "https://www.producthunt.com/posts/mistral-agents-api",
+    "created_at": "",
+    "id": "mistral-agents-api",
+    "label": "Build capable AI agents with memory & tools",
+    "topics": [
+      "Development",
+      "Artificial Intelligence",
+      "API"
+    ],
+    "votes": 214,
+    "visit_url": "https://mistral.ai/news/agents-api",
+    "image": "https://ph-files.imgix.net/0ef2f065-5c90-4188-baf9-3e5e473f0df4.svg",
+    "label_zh": "构建具备记忆和工具功能的强大AI代理",
+    "topics_zh": [
+      "开发",
+      "人工智能",
+      "API"
+    ],
+    "content_zh": "Mistral AI 的新 Agents API 帮助开发者构建具有持久记忆、工具使用（代码执行、网络搜索、图像生成、多模态处理）和编排功能的 AI 代理。它简化了复杂且可操作的 AI 工作流程。"
+  },
+  {
+    "name": "Flapico",
+    "description": "Flapico lets you version, test & evaluate your prompts, and makes your LLM apps reliable in production.\n\n🔓 Decouple your prompts from your codebase\n📊 Quantitative tests, instead of guesswork\n💻 Have your team collaborate on writing & testing prompts",
+    "product_hunt_url": "https://www.producthunt.com/posts/flapico",
+    "created_at": "",
+    "id": "flapico",
+    "label": "Prompt versioning, testing, and evaluation",
+    "topics": [
+      "Developer Tools",
+      "Artificial Intelligence",
+      "Tech"
+    ],
+    "votes": 163,
+    "visit_url": "https://flapico.com",
+    "image": "https://ph-files.imgix.net/2cd08482-6e45-4095-82c9-02bb3a7c1606.png",
+    "label_zh": "版本管理、测试与评估",
+    "topics_zh": [
+      "开发者工具",
+      "人工智能",
+      "科技"
+    ],
+    "content_zh": "Flapico 可以帮助你对提示进行版本管理、测试和评估，确保你的大语言模型应用在生产环境中稳定可靠。\n\n🔑 将提示与代码库分离\n📊 用定量测试代替猜测\n💻 让团队协作编写和测试提示"
+  },
+  {
+    "name": "IndieCrush - The Pre-Launch Playground",
+    "description": "IndieCru.sh connects indie makers with real beta testers. Get feedback, first users, and testimonials before you launch. \n\nPowered by $indie, the token that rewards testers and boosts app visibility. Build smarter, not later.",
+    "product_hunt_url": "https://www.producthunt.com/posts/indiecrush-the-pre-launch-playground",
+    "created_at": "",
+    "id": "indiecrush-the-pre-launch-playground",
+    "label": "Get Feedback, First Users & Testimonials in Under 24h",
+    "topics": [
+      "Productivity",
+      "Developer Tools",
+      "User Experience"
+    ],
+    "votes": 197,
+    "visit_url": "https://indiecru.sh",
+    "image": "https://ph-files.imgix.net/c3de5836-560f-4427-8b80-15fd4b967ebd.png",
+    "label_zh": "获取反馈、首批用户和评价，只需不到24小时",
+    "topics_zh": [
+      "生产力",
+      "开发者工具",
+      "用户体验"
+    ],
+    "content_zh": "IndieCru.sh 连接独立开发者和真实的测试用户。在正式发布前，你可以获得反馈、首批用户和使用评价。\n\n通过 $indie 代币激励测试用户并提升应用的可见度。更聪明地开发，不要等到最后。"
+  },
+  {
+    "name": "Underlord by Descript",
+    "description": "Underlord is the only AI video editor with the judgment you want in a collaborator, the expertise you want in a video pro, and all the tools it needs to make any video you want. This is vibe editing.",
+    "product_hunt_url": "https://www.producthunt.com/posts/underlord-by-descript-2",
+    "created_at": "",
+    "id": "underlord-by-descript-2",
+    "label": "Descript’s editor agent for the age of vibe editing",
+    "topics": [
+      "Bots",
+      "Video",
+      "Artificial Intelligence"
+    ],
+    "votes": 162,
+    "visit_url": "https://www.descript.com/underlord",
+    "image": "https://ph-files.imgix.net/29d34a05-3e55-404d-a67c-1b8a8b322122.png",
+    "label_zh": "Descript 的编辑助手，为氛围编辑时代而生",
+    "topics_zh": [
+      "机器人",
+      "视频",
+      "人工智能"
+    ],
+    "content_zh": "Underlord 是唯一一款集成了你想要的协作判断力、视频专业技能以及制作任何视频所需的所有工具的 AI 视频编辑器。这就是氛围编辑。"
+  },
+  {
+    "name": "Spoken: Explore",
+    "description": "Explore is a new way to browse for your home by vibe.\nJust click a piece you like, and we’ll show you more with the same feel. Powered by Spoken’s AI, which compares prices across 1,000+ stores by matching identical items—even when they’re renamed.",
+    "product_hunt_url": "https://www.producthunt.com/posts/spoken-explore",
+    "created_at": "",
+    "id": "spoken-explore",
+    "label": "Vibe shop 1M+ products for your home ✨",
+    "topics": [
+      "Shopping",
+      "Furniture",
+      "Artificial Intelligence"
+    ],
+    "votes": 170,
+    "visit_url": "https://www.spoken.io/explore",
+    "image": "https://ph-files.imgix.net/6f01cc3b-843f-4eaf-8d1b-b84c376d6ec8.png",
+    "label_zh": "Vibe商店 100万+商品为您的家增添光彩 ✨",
+    "topics_zh": [
+      "购物",
+      "家具",
+      "人工智能"
+    ],
+    "content_zh": "Explore 是一种全新的按氛围浏览家居的方式。只需点击你喜欢的单品，我们就会展示更多具有相同感觉的商品。这项功能由 Spoken 的 AI 技术支持，能够比对 1000 多家商店的价格，即使商品被重新命名也能找到完全相同的商品。"
+  },
+  {
+    "name": "Embedded GenBI by Upsolve AI",
+    "description": "Upsolve AI's Embedded GenBI turns your app’s customer-facing analytics into an insight engine with hyper-personalized dashboards and AI-powered insights that “just works”. Spoil your users and give them the data experience they deserve.",
+    "product_hunt_url": "https://www.producthunt.com/posts/embedded-genbi-by-upsolve-ai",
+    "created_at": "",
+    "id": "embedded-genbi-by-upsolve-ai",
+    "label": "The data experience your customers deserve",
+    "topics": [
+      "Developer Tools",
+      "Customer Success",
+      "Business Intelligence"
+    ],
+    "votes": 169,
+    "visit_url": "https://upsolve.ai/",
+    "image": "https://ph-files.imgix.net/e0a4a1f9-fd14-482b-af5f-6b5cace5571b.png",
+    "label_zh": "您的客户应得的数据体验",
+    "topics_zh": [
+      "开发工具",
+      "客户成功",
+      "商业智能"
+    ],
+    "content_zh": "Upsolve AI的Embedded GenBI将你应用中的面向客户的分析转变为一个洞察引擎，提供高度个性化的仪表板和由AI驱动的见解，让用户轻松获得所需的数据体验。让你的用户享受他们应得的数据体验。"
+  },
+  {
+    "name": "Facebook Ads Benchmarks by Superads",
+    "description": "Free access to the largest public Facebook Ads dataset. Benchmark CPC, CPM, CTR, CPL, CPA, and CPI using $2B+ in anonymized, aggregated spend. Filter by platform, country, industry, and campaign type. Brought to you by Superads.",
+    "product_hunt_url": "https://www.producthunt.com/posts/facebook-ads-benchmarks-by-superads",
+    "created_at": "",
+    "id": "facebook-ads-benchmarks-by-superads",
+    "label": "Real Facebook Ads data, sourced from $2B+ in ad spend",
+    "topics": [
+      "Advertising"
+    ],
+    "votes": 41,
+    "visit_url": "https://www.superads.ai/facebook-ads-costs/cpc-cost-per-click",
+    "image": "https://ph-files.imgix.net/6cb42f97-bd1d-47ad-af93-c773aa24625b.png",
+    "label_zh": "真实 Facebook 广告数据，源自超过 20 亿美元的广告支出",
+    "topics_zh": [
+      "广告"
+    ],
+    "content_zh": "免费访问最大的公开 Facebook 广告数据集。利用超过 20 亿美元的匿名汇总支出，对比每次点击成本（CPC）、每千次展示成本（CPM）、点击率（CTR）、每次潜在客户成本（CPL）、每次行动成本（CPA）和每次安装成本（CPI）。可以根据平台、国家、行业和广告系列类型进行筛选。由 Superads 提供。"
+  }
+]

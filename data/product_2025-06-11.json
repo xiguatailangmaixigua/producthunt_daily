@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Bubble",
+    "description": "Bubble is a software development platform that enables anyone to build and launch web and mobile applications without writing code. Rather than specializing in one or two aspects of development (like designing landing pages or building databases), Bubble’s full-stack visual programming interface does it all. That means anyone from first-time founders to enterprises can take an idea from concept to fully functional, scalable reality — faster and cheaper than you could with just code.",
+    "product_hunt_url": "https://www.producthunt.com/products/bubble",
+    "created_at": "",
+    "id": "bubble",
+    "label": "Build and launch web and mobile apps without writing code",
+    "topics": [
+      "Email marketing",
+      "Content Management Systems",
+      "Customer support tools",
+      "Work & Productivity",
+      "Landing page builders",
+      "Team collaboration software",
+      "No-code platforms",
+      "Website builders"
+    ],
+    "votes": 806,
+    "visit_url": "https://bble.io/PHBUBBLE",
+    "image": ""
+  },
+  {
+    "name": "Chronicle",
+    "description": "Chronicle combines AI with taste to help you go from raw thoughts to polished presentations. Designed for serious work: Start with templates, create with AI workflows, and collaborate with your team to shape your ideas into impactful narratives.",
+    "product_hunt_url": "https://www.producthunt.com/products/chronicle-6",
+    "created_at": "",
+    "id": "chronicle-6",
+    "label": "Stunning presentations with AI. No design skills required.",
+    "topics": [
+      "Design & Creative",
+      "Team collaboration software",
+      "Presentation Software"
+    ],
+    "votes": 792,
+    "visit_url": "https://chroniclehq.com/",
+    "image": "https://ph-files.imgix.net/2f727933-8173-4bcb-a93b-c0b0a35d9adc.png"
+  },
+  {
+    "name": "Instance",
+    "description": "Instance is an AI-powered app builder for iOS, Android, and the web that lets you create apps, games, and websites by describing them in plain English. If coding has ever slowed you down, Instance will help you bring your ideas to life.",
+    "product_hunt_url": "https://www.producthunt.com/products/instance",
+    "created_at": "",
+    "id": "instance",
+    "label": "From idea to app–in an Instance",
+    "topics": [
+      "No-code platforms",
+      "Website builders",
+      "AI"
+    ],
+    "votes": 289,
+    "visit_url": "https://instance.so",
+    "image": "https://ph-files.imgix.net/fb4d5145-d896-495d-8604-84554b030ceb.png"
+  },
+  {
+    "name": "Desearch",
+    "description": "Desearch is the first decentralized, real-time AI search engine for devs, founders, marketers, and researchers. Get hallucination-free results from X, Reddit, web and more via WebApp or API. Built with AI agents and builders in mind. Powered by Bittensor.",
+    "product_hunt_url": "https://www.producthunt.com/products/desearch",
+    "created_at": "",
+    "id": "desearch",
+    "label": "First Decentralized AI Search for Builders & Agents",
+    "topics": [
+      "AI Infrastructure Tools",
+      "AI Chatbots",
+      "LLMs"
+    ],
+    "votes": 96,
+    "visit_url": "https://desearch.ai",
+    "image": "https://ph-files.imgix.net/08694549-81a6-4d43-983d-2d65c51ee055.png"
+  },
+  {
+    "name": "Wegic",
+    "description": "Wegic now lets you:\n1）Add integrated payments by connecting your account and start receiving funds.\n2）Use conversational AI to collect user needs and leads — say hello to quality data.\n\nAnd here’s a breakthrough: Wegic Ultra — your website grows automatically, powered by data.\nImagine sleeping while your site optimizes itself and drives more revenue!\nThis world-first innovation lets Wegic analyze visitors, spot growth opportunities, and adjust content and design — all to boost sales!",
+    "product_hunt_url": "https://www.producthunt.com/products/wegic",
+    "created_at": "",
+    "id": "wegic",
+    "label": "World’s first AI website team—turning your ideas into income",
+    "topics": [
+      "Wireframing",
+      "Design & Creative",
+      "Interface design tools",
+      "No-code platforms",
+      "Website builders"
+    ],
+    "votes": 200,
+    "visit_url": "https://wegic.ai",
+    "image": ""
+  },
+  {
+    "name": "PhotoFuse",
+    "description": "Turn your selfies into AI characters and generate stunning realistic photos and professional headshots of yourself just in seconds.",
+    "product_hunt_url": "https://www.producthunt.com/products/photofuseai",
+    "created_at": "",
+    "id": "photofuseai",
+    "label": "Your personal AI photographer in your pocket",
+    "topics": [
+      "AI Headshot Generators",
+      "AI Generative Art",
+      "AI Characters"
+    ],
+    "votes": 186,
+    "visit_url": "https://photofuse.ai",
+    "image": "https://ph-files.imgix.net/7bb2b4b4-b391-4e64-812a-17f79d5ba836.jpeg"
+  },
+  {
+    "name": "nCompass Tech",
+    "description": "With the nCompass AI inference platform, you get deployments with reliable uptime, custom GPU kernels for fast inference and model performance & health monitoring built for production deployments of any AI model available on HuggingFace.",
+    "product_hunt_url": "https://www.producthunt.com/products/ncompass-tech",
+    "created_at": "",
+    "id": "ncompass-tech",
+    "label": "Reliable, scalable & fast inference of any HuggingFace model",
+    "topics": [],
+    "votes": 177,
+    "visit_url": "https://ncompass.tech",
+    "image": "https://ph-files.imgix.net/f4c85b86-6a7b-4e58-8886-1a1d6ce74dea.svg"
+  },
+  {
+    "name": "Huntr",
+    "description": "Huntr is your all-in-one job search tool.\nFrom building your resume to reviewing it to a quick job save to a tailored resume and cover letter, Huntr helps job seekers throughout the process of searching for their next exciting opportunity. Whether you're applying for an internship or an executive role, Huntr's AI is sophisticated and will craft a resume for you at the level you're at with the right vocabulary and keywords needed to present yourself at the level you're applying for.",
+    "product_hunt_url": "https://www.producthunt.com/products/huntr",
+    "created_at": "",
+    "id": "huntr",
+    "label": "The job search tool that automates the job search for you",
+    "topics": [
+      "Professional networking platforms",
+      "Hiring software",
+      "CRM software",
+      "Resume tools",
+      "Writing assistants",
+      "Job boards",
+      "Investing",
+      "Startup communities"
+    ],
+    "votes": 169,
+    "visit_url": "https://huntr.co/product/ai-resume-review",
+    "image": "https://ph-files.imgix.net/a2c03ae6-4cd5-4741-9fce-0a02f064dbc4.png"
+  },
+  {
+    "name": "Odyc.js",
+    "description": "Odyc.js is a simple JavaScript library to create interactive narrative games, even without coding experience.",
+    "product_hunt_url": "https://www.producthunt.com/products/odyc-js",
+    "created_at": "",
+    "id": "odyc-js",
+    "label": "Build tiny narrative games in JS",
+    "topics": [],
+    "votes": 164,
+    "visit_url": "https://odyc.dev",
+    "image": "https://ph-files.imgix.net/552903f9-55db-4565-9cb3-3bd65b781c26.png"
+  },
+  {
+    "name": "Ranklytics",
+    "description": "Ranklytics helps you rank on the top page 10x faster by automating content strategy & generation using AI and providing actionable insights to help you optimize your website better. You can put your entire content marketing on auto-pilot.",
+    "product_hunt_url": "https://www.producthunt.com/products/ranklytics-2",
+    "created_at": "",
+    "id": "ranklytics-2",
+    "label": "Rank on the first page 10x faster with AI-enabled SEO.",
+    "topics": [
+      "Best SEO tools"
+    ],
+    "votes": 51,
+    "visit_url": "https://ranklytics.ai",
+    "image": "https://ph-files.imgix.net/aad6e094-d31a-4554-b115-4980197545b4.png"
+  },
+  {
+    "name": "Jina",
+    "description": "Jina is your AI QA engineer that tests apps end-to-end and catches bugs autonomously, at scale. It understands UI, code, and user intent. Doesn't rely on test scripts or CSS selectors and requires no maintenance.\n\nShe also roasts websites - https://roast.usejina.com/",
+    "product_hunt_url": "https://www.producthunt.com/products/jina",
+    "created_at": "",
+    "id": "jina",
+    "label": "AI QA Engineer",
+    "topics": [
+      "Testing and QA software",
+      "AI Coding Assistants"
+    ],
+    "votes": 131,
+    "visit_url": "https://usejina.com",
+    "image": "https://ph-files.imgix.net/92d3f7ba-3c88-4d5d-9eb6-c1436a20d1e6.png"
+  },
+  {
+    "name": "Seekeasy MCP",
+    "description": "Explore Seekeasy's data with our MCP which returns recommendations for restaurants based on social media creator content. Understand the shape and trends of social media through the eyes of your favorite creators.",
+    "product_hunt_url": "https://www.producthunt.com/products/seekeasy-mcp",
+    "created_at": "",
+    "id": "seekeasy-mcp",
+    "label": "Restaurant recs powered by social media creators",
+    "topics": [
+      "Unified API",
+      "LLMs",
+      "Social bookmarking"
+    ],
+    "votes": 149,
+    "visit_url": "https://smithery.ai/server/@seekeasy/seekeasy",
+    "image": "https://ph-files.imgix.net/8030486f-affa-4949-bab3-b82b1e3056ac.png"
+  },
+  {
+    "name": "Blockies Animate",
+    "description": "Blockies Animate is a lightweight React library with plug-and-play animation components. Add smooth, customizable motion to your UI in seconds — no setup hassle, fully responsive, and built for performance.",
+    "product_hunt_url": "https://www.producthunt.com/products/blockies-animate",
+    "created_at": "",
+    "id": "blockies-animate",
+    "label": "Smooth, plug-and-play UI animations for any modern web app",
+    "topics": [
+      "UI frameworks"
+    ],
+    "votes": 146,
+    "visit_url": "https://animate.blockiesui.com",
+    "image": "https://ph-files.imgix.net/a81e0c2f-b32b-437f-bf37-91a2dccb017a.png"
+  },
+  {
+    "name": "CoffeeChat Bot",
+    "description": "Keep your community alive and provide value via automated networking events in your Discord server. Automated scheduling, partner matching, and voice channel assignments.",
+    "product_hunt_url": "https://www.producthunt.com/products/coffeechat-bot",
+    "created_at": "",
+    "id": "coffeechat-bot",
+    "label": "Automated networking events for your Discord community",
+    "topics": [],
+    "votes": 146,
+    "visit_url": "https://coffeechatbot.app",
+    "image": "https://ph-files.imgix.net/f58fe138-14d6-4300-8329-b15adcf63508.png"
+  },
+  {
+    "name": "Promina",
+    "description": "Promina tracks your brand’s visibility across AI tools like ChatGPT, Claude, Gemini, Grok and Perplexity. Get insights, fix content gaps, and win top answer spots with AEO (Answer Engine Optimization). Try it for 2 months with the Product Hunt coupon PH2025",
+    "product_hunt_url": "https://www.producthunt.com/products/promina-win-ai-search-results",
+    "created_at": "",
+    "id": "promina-win-ai-search-results",
+    "label": "If AI is the new Google, are you the answer?",
+    "topics": [
+      "AI Metrics and Evaluation",
+      "Best SEO tools"
+    ],
+    "votes": 51,
+    "visit_url": "https://promina.ai",
+    "image": "https://ph-files.imgix.net/a569a3c9-39da-40dd-ae80-d84c6ff18de5.png"
+  }
+]

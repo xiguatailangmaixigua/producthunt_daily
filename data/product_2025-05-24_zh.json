@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Chance AI: Visual Reasoning",
+    "description": "Chance AI is your visual companion—just snap a photo to reveal the story behind anything you see. With our new Visual Reasoning feature, it doesn’t just recognize, it explains. See the world differently. Smarter. Deeper. Instantly.",
+    "product_hunt_url": "https://www.producthunt.com/posts/chance-ai-visual-reasoning",
+    "created_at": "",
+    "id": "chance-ai-visual-reasoning",
+    "label": "Search by Seeing Instantly with Visual Reasoning Model",
+    "topics": [
+      "Education",
+      "Artificial Intelligence",
+      "Photography"
+    ],
+    "votes": 563,
+    "visit_url": "https://cha.vision/producthunt",
+    "image": "https://ph-files.imgix.net/d34618bd-9837-4b10-b171-f7e801dd5451.png",
+    "label_zh": "直译：\n通过视觉推理模型即时看见搜索\n\n意译：\n一目了然，用视觉推理模型快速搜索",
+    "topics_zh": [
+      "教育",
+      "人工智能",
+      "摄影"
+    ],
+    "content_zh": "Chance AI 是你的视觉助手——只需拍张照片，就能揭示你所看到的任何事物背后的故事。借助我们的新功能“视觉推理”，它不仅能识别，还能解释。让你以更智能、更深入的方式看待世界，瞬间获得更多信息。"
+  },
+  {
+    "name": "Claude 4",
+    "description": "Anthropic's Claude 4 models, Opus 4 & Sonnet 4, set new AI benchmarks in coding, reasoning & agents. Both feature extended thinking with tool use & improved memory.",
+    "product_hunt_url": "https://www.producthunt.com/posts/claude-4",
+    "created_at": "",
+    "id": "claude-4",
+    "label": "Anthropic's next leap in coding, reasoning & AI agents",
+    "topics": [
+      "Development",
+      "Productivity",
+      "Artificial Intelligence"
+    ],
+    "votes": 513,
+    "visit_url": "https://www.anthropic.com/news/claude-4",
+    "image": "https://ph-files.imgix.net/e24ed302-d234-4d59-88d7-3bb611038480.webp",
+    "label_zh": "Anthropic 的编码、推理和 AI 代理的下一步飞跃",
+    "topics_zh": [
+      "开发",
+      "生产力",
+      "人工智能"
+    ],
+    "content_zh": "Anthropic的Claude 4模型，包括Opus 4和Sonnet 4，在编程、推理和代理方面设立了新的AI标准。这两个模型都具备更强大的思考能力，能够使用工具并改进了记忆功能。"
+  },
+  {
+    "name": "CrowdReply",
+    "description": "CrowdReply helps you grow on Reddit by finding and engaging on threads through our network of accounts. You write the message, we handle delivery, tracking, and upvotes — all without proxies, bans, or fake engagement.",
+    "product_hunt_url": "https://www.producthunt.com/posts/crowdreply",
+    "created_at": "",
+    "id": "crowdreply",
+    "label": "Reddit marketing without managing accounts or proxies",
+    "topics": [
+      "reddit",
+      "Marketing",
+      "Social media marketing"
+    ],
+    "votes": 216,
+    "visit_url": "https://crowdreply.io",
+    "image": "https://ph-files.imgix.net/18ecc8da-3732-4d0e-88e0-d14cfb0d4ecc.png",
+    "label_zh": "Reddit 营销无需管理账户或代理",
+    "topics_zh": [
+      "Reddit",
+      "市场营销",
+      "社交媒体营销"
+    ],
+    "content_zh": "CrowdReply 帮助你在Reddit上扩大影响力，通过我们的账户网络找到并参与相关讨论。你只需要撰写消息，我们负责发送、跟踪和点赞——全程无需使用代理，也不会被封号或出现虚假互动。"
+  },
+  {
+    "name": "Generate Ads AI",
+    "description": "Generate scroll-stopping ads in just a few clicks. Or clone competitor ads using the Ad Cloner Chrome extension!",
+    "product_hunt_url": "https://www.producthunt.com/posts/generate-ads-ai",
+    "created_at": "",
+    "id": "generate-ads-ai",
+    "label": "Create scroll-stopping ads in 2 click",
+    "topics": [
+      "Design Tools",
+      "Marketing",
+      "Advertising"
+    ],
+    "votes": 460,
+    "visit_url": "https://generateads.ai/",
+    "image": "https://ph-files.imgix.net/a9411d57-0d59-4d8c-a0d1-af5924c86500.png",
+    "label_zh": "创建引人注目的广告，只需两步点击",
+    "topics_zh": [
+      "设计工具",
+      "市场营销",
+      "广告宣传"
+    ],
+    "content_zh": "只需点击几下，就能生成吸引眼球的广告。或者使用Ad Cloner Chrome扩展程序复制竞争对手的广告！"
+  },
+  {
+    "name": "Framer Workshop",
+    "description": "Workshop turns prompts into powerful, editable components for your site. Describe what you want, tweak in a chat, and deploy. No dev hours needed.",
+    "product_hunt_url": "https://www.producthunt.com/posts/framer-workshop",
+    "created_at": "",
+    "id": "framer-workshop",
+    "label": "Build powerful components through simple instructions",
+    "topics": [
+      "Design Tools",
+      "Productivity",
+      "Artificial Intelligence"
+    ],
+    "votes": 324,
+    "visit_url": "https://www.framer.com/workshop/",
+    "image": "https://ph-files.imgix.net/68ce08af-c9b2-4dd5-8cad-4a68bbf8488d.jpeg",
+    "label_zh": "通过简单指令构建强大的组件",
+    "topics_zh": [
+      "设计工具",
+      "生产力",
+      "人工智能"
+    ],
+    "content_zh": "Workshop 可以将提示转化为强大的可编辑组件，用于你的网站。只需描述你想要的内容，在聊天中进行调整，然后部署即可，无需开发时间。"
+  },
+  {
+    "name": "Udio",
+    "description": "Turn your ideas into fully produced songs with a little help from AI. Start with just a genre, a vibe, a topic, or sample lyrics, and turn it into a high-quality track in seconds. Made for musicians, producers, dreamers, or anyone with a creative spark.",
+    "product_hunt_url": "https://www.producthunt.com/posts/udio-2",
+    "created_at": "",
+    "id": "udio-2",
+    "label": "Generative song creator & mobile studio. Make your music.",
+    "topics": [
+      "Music",
+      "Artificial Intelligence",
+      "Art"
+    ],
+    "votes": 191,
+    "visit_url": "https://apps.apple.com/app/id6511211165",
+    "image": "https://ph-files.imgix.net/f124fa8e-e746-4988-97a0-0957a309c0a3.png",
+    "label_zh": "生成式歌曲创作工具及移动音乐工作室。制作你的音乐。",
+    "topics_zh": [
+      "音乐，人工智能，艺术"
+    ],
+    "content_zh": "用AI的帮助，把你的创意变成完整的歌曲。只需提供一个音乐类型、一种感觉、一个主题或几句歌词，几秒钟内就能生成高质量的曲子。无论是音乐人、制作人、梦想家还是任何有创意灵感的人都可以使用。"
+  },
+  {
+    "name": "Revisual",
+    "description": "Revisual is a sleek utility app that replaces macOS’s default overlays (like brightness and volume) with a beautifully reimagined alternative. It goes beyond the basics — adding smart, customizable overlays for your mic, battery, power, and connectivity too.",
+    "product_hunt_url": "https://www.producthunt.com/posts/revisual",
+    "created_at": "",
+    "id": "revisual",
+    "label": "HUD replacement app for your Mac",
+    "topics": [
+      "Mac",
+      "User Experience",
+      "Productivity"
+    ],
+    "votes": 256,
+    "visit_url": "https://revisualapp.com",
+    "image": "https://ph-files.imgix.net/06df2fcf-e58d-463e-8937-dbb39ea9fd9b.png",
+    "label_zh": "适用于Mac的HUD替换应用",
+    "topics_zh": [
+      "Mac",
+      "用户体验",
+      "生产力"
+    ],
+    "content_zh": "Revisual 是一款简洁实用的应用程序，它将 macOS 系统默认的亮度和音量等覆盖层替换为美观的新设计。不仅如此，它还增加了智能且可自定义的麦克风、电池、电源和连接状态的覆盖层。"
+  },
+  {
+    "name": "Wavedash",
+    "description": "Wavedash uses cutting edge browser technology to let gamers play high quality games instantly, with no downloads or installation.",
+    "product_hunt_url": "https://www.producthunt.com/posts/wavedash-2",
+    "created_at": "",
+    "id": "wavedash-2",
+    "label": "Play the latest games in your web browser",
+    "topics": [
+      "Tech",
+      "Developer Tools",
+      "Games"
+    ],
+    "votes": 235,
+    "visit_url": "https://wavedash.gg",
+    "image": "https://ph-files.imgix.net/a65377c6-fdc8-437d-8ee8-63c959880b53.png",
+    "label_zh": "在您的网页浏览器中畅玩最新游戏",
+    "topics_zh": [
+      "技术",
+      "开发者工具",
+      "游戏"
+    ],
+    "content_zh": "Wavedash 使用了最先进的浏览器技术，让玩家可以即时玩到高质量的游戏，无需下载或安装。"
+  },
+  {
+    "name": "Approval AI",
+    "description": "Approval AI is America’s first AI mortgage platform built to help homebuyers save time, money, and stress. We automate the most painful parts of getting a mortgage: paperwork, rate shopping, and negotiation, all in one place.",
+    "product_hunt_url": "https://www.producthunt.com/posts/approval-ai",
+    "created_at": "",
+    "id": "approval-ai",
+    "label": "Easiest way to get the best home loan",
+    "topics": [
+      "Fintech",
+      "Artificial Intelligence",
+      "Personal Finance"
+    ],
+    "votes": 220,
+    "visit_url": "https://getapproval.ai",
+    "image": "https://ph-files.imgix.net/1198b6ce-767c-454f-a2fe-a26b4c5ef858.png",
+    "label_zh": "获得最佳住房贷款的最简单方法",
+    "topics_zh": [
+      "金融科技",
+      "人工智能",
+      "个人理财"
+    ],
+    "content_zh": "Approval AI 是美国首个旨在帮助购房者节省时间、金钱和精力的AI房贷平台。我们一站式自动化处理房贷中最繁琐的部分：文件准备、利率比较和谈判。"
+  },
+  {
+    "name": "GetReview",
+    "description": "Start up companies can use this to promote their products to google as getting likes, upvotes, stars, followers and comments.",
+    "product_hunt_url": "https://www.producthunt.com/posts/getreview-2",
+    "created_at": "",
+    "id": "getreview-2",
+    "label": "Product that get reviews, likes, upvotes",
+    "topics": [
+      "Marketing"
+    ],
+    "votes": 52,
+    "visit_url": "https://simplegetting.com/home",
+    "image": "https://ph-files.imgix.net/b927e8be-31fb-4bc3-b3a4-efcc88cf4578.png",
+    "label_zh": "获得评论、点赞、支持的产品",
+    "topics_zh": [
+      "市场营销"
+    ],
+    "content_zh": "初创公司可以使用GetReview来推广他们的产品，增加点赞、投票、星级评分、关注者和评论。"
+  },
+  {
+    "name": "Morphik",
+    "description": "Morphik is an open source AI-native knowledge base. Knowledge workers spend so much time in the research phase, Morphik is the research agent over complex data that allows them to save time. Think perplexity for enterprise data, and open source!",
+    "product_hunt_url": "https://www.producthunt.com/posts/morphik",
+    "created_at": "",
+    "id": "morphik",
+    "label": "Open source AI-native knowledge base for enterprises & devs",
+    "topics": [
+      "Open Source",
+      "SaaS",
+      "GitHub"
+    ],
+    "votes": 192,
+    "visit_url": "https://www.morphik.ai",
+    "image": "https://ph-files.imgix.net/f4296c0e-28f9-4bd8-b681-eb27e3faacd3.png",
+    "label_zh": "开源的企业级和开发者AI原生知识库",
+    "topics_zh": [
+      "开源",
+      "SaaS",
+      "GitHub"
+    ],
+    "content_zh": "Morphik 是一个开源的 AI 原生知识库。研究人员在研究阶段花费大量时间，而 Morphik 作为复杂数据的研究助手，能够帮助他们节省时间。你可以把它看作是面向企业数据的困惑度分析工具，并且是开源的！"
+  },
+  {
+    "name": "Reviewradar",
+    "description": "Chat with software reviews to understand what users like, what bothers them, and what they're looking for in a product. \n👉 180,000+ SaaS products analyzed. \n👉 Access to 5+ million reviews (+direct links) \n👉 10x faster than doing interviews or surveys",
+    "product_hunt_url": "https://www.producthunt.com/posts/reviewradar",
+    "created_at": "",
+    "id": "reviewradar",
+    "label": "Figure out what users want, fast. 🚀",
+    "topics": [
+      "Business Intelligence",
+      "SaaS",
+      "Artificial Intelligence"
+    ],
+    "votes": 62,
+    "visit_url": "https://reviewradar.ai/",
+    "image": "https://ph-files.imgix.net/02526467-3a90-430a-acb2-3ffbfd1087db.png",
+    "label_zh": "直译：\n找出用户想要什么，快速。 🚀\n\n意译：\n快速了解用户需求。 🚀",
+    "topics_zh": [
+      "商业智能",
+      "SaaS",
+      "人工智能"
+    ],
+    "content_zh": "通过与软件评论对话，了解用户喜欢什么、讨厌什么以及他们对产品的需求。\n👉 分析了超过18万款SaaS产品。\n👉 访问500多万条评论（附带直接链接）。\n👉 比做访谈或调查快10倍。"
+  },
+  {
+    "name": "QuizzMe",
+    "description": "QuizzMe turns your study materials into interactive lessons powered by AI. Learn concepts in bite-sized chunks, test yourself with smart questions, and get instant feedback to track your progress. It’s like having a personal tutor—on demand.",
+    "product_hunt_url": "https://www.producthunt.com/posts/quizzme",
+    "created_at": "",
+    "id": "quizzme",
+    "label": "Transform your notes into an interactive learning experience",
+    "topics": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Education"
+    ],
+    "votes": 63,
+    "visit_url": "https://www.quizzme.ai",
+    "image": "https://ph-files.imgix.net/66190ba9-4f6d-4ddf-81ec-10e24593bed0.png",
+    "label_zh": "将你的笔记转化为互动学习体验",
+    "topics_zh": [
+      "人工智能",
+      "生产力",
+      "教育"
+    ],
+    "content_zh": "QuizzMe 利用人工智能将你的学习材料变成互动课程。你可以通过小块内容来学习概念，用智能问题进行自我测试，并获得即时反馈来跟踪学习进度。这就像是随时拥有一个私人导师。"
+  },
+  {
+    "name": "Giststack",
+    "description": "Giststack curates your favorite content sources and crafts endless EPIC on-brand social media posts in seconds.",
+    "product_hunt_url": "https://www.producthunt.com/posts/giststack",
+    "created_at": "",
+    "id": "giststack",
+    "label": "Never run out of social media post ideas ever again",
+    "topics": [
+      "LinkedIn",
+      "Marketing",
+      "Social Media"
+    ],
+    "votes": 182,
+    "visit_url": "https://www.giststack.com",
+    "image": "https://ph-files.imgix.net/0b3ac234-0b01-4791-b39d-8244c709964e.jpeg",
+    "label_zh": "永远不再为社交媒体帖子创意发愁",
+    "topics_zh": [
+      "领英",
+      "市场营销",
+      "社交媒体"
+    ],
+    "content_zh": "Giststack 会精选你喜爱的内容来源，并在几秒钟内为你生成无数高质量且符合品牌形象的社交媒体帖子。"
+  },
+  {
+    "name": "Pill Buddy: Cute meds tracker, reminders",
+    "description": "A cute mascot that reminds you to take your medications & supplements on time. But watch out — he gets increasingly annoying if you miss a dose!",
+    "product_hunt_url": "https://www.producthunt.com/posts/pill-buddy-cute-meds-tracker-reminders",
+    "created_at": "",
+    "id": "pill-buddy-cute-meds-tracker-reminders",
+    "label": "Cute way to remember to take your medicines & supplements",
+    "topics": [
+      "Medical",
+      "Health & Fitness"
+    ],
+    "votes": 160,
+    "visit_url": "https://pillbuddy.app/",
+    "image": "https://ph-files.imgix.net/d66da3c1-d1bc-4328-8d1b-e41459289bf9.png",
+    "label_zh": "可爱的方式提醒你按时服用药物和补充剂",
+    "topics_zh": [
+      "医疗、健康与健身"
+    ],
+    "content_zh": "一个可爱的吉祥物，提醒你按时吃药和补充剂。但要注意——如果你错过了一次服药，他会变得越来越烦人！"
+  }
+]

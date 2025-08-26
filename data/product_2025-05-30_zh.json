@@ -1,0 +1,345 @@
+[
+  {
+    "name": "Tyce",
+    "description": "Tyce is the first AI Agent built to craft intelligent documents in seconds.\nWith Tyce’s AI-native editor, you can ask questions, understand content, and instantly update your documents—eliminating the burden of manual paperwork..",
+    "product_hunt_url": "https://www.producthunt.com/posts/tyce",
+    "created_at": "",
+    "id": "tyce",
+    "label": "Cursor for documents.",
+    "topics": [
+      "Productivity",
+      "Writing",
+      "Artificial Intelligence"
+    ],
+    "votes": 532,
+    "visit_url": "https://www.tyce.ai/",
+    "image": "https://ph-files.imgix.net/e3305929-1a03-4690-82ae-a0b08671ea3a.jpeg",
+    "label_zh": "文档光标。",
+    "topics_zh": [
+      "生产力",
+      "写作",
+      "人工智能"
+    ],
+    "content_zh": "Tyce 是首个能够几秒钟内生成智能文档的 AI 代理。通过 Tyce 的原生 AI 编辑器，你可以提问、理解内容，并立即更新文档，彻底摆脱手动处理文件的烦恼。"
+  },
+  {
+    "name": "Lookverse.ai",
+    "description": "AI-driven shopping platform that transforms the way you search and explore styles with a personalized, predictive experience designed just for you.",
+    "product_hunt_url": "https://www.producthunt.com/posts/lookverse-ai",
+    "created_at": "",
+    "id": "lookverse-ai",
+    "label": "App for personalized fashion discovery and shopping",
+    "topics": [
+      "Tech",
+      "Fashion",
+      "Artificial Intelligence"
+    ],
+    "votes": 427,
+    "visit_url": "https://apps.apple.com/us/app/lookverse/id6445923793",
+    "image": "https://ph-files.imgix.net/538806ff-8a7c-4644-a438-39a3b3bb7a3e.png",
+    "label_zh": "应用程序，个性化时尚发现与购物",
+    "topics_zh": [
+      "科技",
+      "时尚",
+      "人工智能"
+    ],
+    "content_zh": "由AI驱动的购物平台，通过个性化和预测性的体验，彻底改变你的搜索和探索风格的方式。"
+  },
+  {
+    "name": "LeadDelta 4.0",
+    "description": "Unlock contact data, organize your network, and collaborate with your team. LeadDelta is a LinkedIn CRM that helps you find business & personal emails, phone numbers, and manage your relationships like a pro. Built for modern teams.",
+    "product_hunt_url": "https://www.producthunt.com/posts/leaddelta-4-0",
+    "created_at": "",
+    "id": "leaddelta-4-0",
+    "label": "Turn your team's LinkedIn connections into opportunities",
+    "topics": [
+      "Productivity",
+      "Sales",
+      "Chrome Extensions"
+    ],
+    "votes": 388,
+    "visit_url": "https://leaddelta.com",
+    "image": "https://ph-files.imgix.net/f6febce3-bf68-4d33-a3ee-265e88b17522.png",
+    "label_zh": "将团队的 LinkedIn 人脉转化为机遇",
+    "topics_zh": [
+      "productivity",
+      "销售",
+      "Chrome 扩展程序"
+    ],
+    "content_zh": "解锁联系人数据，整理你的人脉网络，并与团队协作。LeadDelta 是一款 LinkedIn 客户关系管理工具，可以帮助你找到商业和个人电子邮件、电话号码，并像专业人士一样管理你的人际关系。专为现代团队打造。"
+  },
+  {
+    "name": "Refero 4.0",
+    "description": "100,000+ curated real product screens for web & iOS, ready to search. User flows, pages, UX patterns, UI elements, fonts, and everything in between — all in one place. Built for people who build.",
+    "product_hunt_url": "https://www.producthunt.com/posts/refero-4-0",
+    "created_at": "",
+    "id": "refero-4-0",
+    "label": "Design research companion with 1k user flows & AI search",
+    "topics": [
+      "Productivity",
+      "User Experience",
+      "Design Tools"
+    ],
+    "votes": 237,
+    "visit_url": "https://refero.design",
+    "image": "https://ph-files.imgix.net/a86a059f-7697-4c5a-ae9d-a61d50558582.png",
+    "label_zh": "设计研究伴侣，包含1000个用户流程和AI搜索",
+    "topics_zh": [
+      "生产效率",
+      "用户体验",
+      "设计工具"
+    ],
+    "content_zh": "超过10万张精心整理的真实产品界面，适用于网页和iOS，随时可搜索。用户流程、页面、用户体验模式、用户界面元素、字体等一应俱全，全部集中在一个地方。专为开发者打造。"
+  },
+  {
+    "name": "Primeforge",
+    "description": "Increase deliverability with Google and Microsoft mailboxes created for cold email with free, automated set up.",
+    "product_hunt_url": "https://www.producthunt.com/posts/primeforge",
+    "created_at": "",
+    "id": "primeforge",
+    "label": "Google & Microsoft mailboxes for cold email",
+    "topics": [
+      "Email",
+      "Email Marketing",
+      "Sales"
+    ],
+    "votes": 261,
+    "visit_url": "https://primeforge.ai",
+    "image": "https://ph-files.imgix.net/9d65c9a5-1130-4461-b7a6-1abee80e843d.jpeg",
+    "label_zh": "Google 和 Microsoft 邮箱用于发送冷邮件",
+    "topics_zh": [
+      "电子邮件",
+      "电子邮件营销",
+      "销售"
+    ],
+    "content_zh": "通过免费的自动化设置，为冷邮件创建Google和Microsoft邮箱，提高送达率。"
+  },
+  {
+    "name": "Jazzberry",
+    "description": "Jazzberry is an AI agent for finding bugs that is driven by real code execution. You can add Jazzberry on GitHub to start automatically getting bug reports on your pull requests.",
+    "product_hunt_url": "https://www.producthunt.com/posts/jazzberry",
+    "created_at": "",
+    "id": "jazzberry",
+    "label": "AI bug finding with real code execution",
+    "topics": [
+      "Developer Tools",
+      "Artificial Intelligence"
+    ],
+    "votes": 209,
+    "visit_url": "https://jazzberry.ai",
+    "image": "https://ph-files.imgix.net/9a5fa01d-31c9-446f-b5dc-6c0d2b979c11.png",
+    "label_zh": "通过真实代码执行进行AI bug查找",
+    "topics_zh": [
+      "开发工具",
+      "人工智能"
+    ],
+    "content_zh": "Jazzberry 是一个基于实际代码执行的 AI 代理，用于发现代码中的错误。你可以在 GitHub 上添加 Jazzberry，让它自动为你在拉取请求中生成错误报告。"
+  },
+  {
+    "name": "Retool Agents",
+    "description": "Build autonomous AI systems that execute workflows with judgment and reasoning. Connect to any business system, watch every decision, and start with 20 FREE hours monthly.",
+    "product_hunt_url": "https://www.producthunt.com/posts/retool-agents",
+    "created_at": "",
+    "id": "retool-agents",
+    "label": "Turn your APIs & data into tools AI workers can actually use",
+    "topics": [
+      "Developer Tools",
+      "Software Engineering",
+      "Artificial Intelligence"
+    ],
+    "votes": 206,
+    "visit_url": "https://retool.com/agents?utm_source=producthunt\\u0026utm_medium=referral\\u0026utm_campaign=ai_launch\\u0026rcid=01Qo00000tjqXbIAI",
+    "image": "https://ph-files.imgix.net/6af12072-fe22-461d-8331-8f2a40b8734e.png",
+    "label_zh": "将您的API和数据转化为AI工作者真正能用的工具",
+    "topics_zh": [
+      "开发工具",
+      "软件工程",
+      "人工智能"
+    ],
+    "content_zh": "构建能够自主执行工作流程并具备判断和推理能力的AI系统。连接到任何业务系统，监控每一个决策，并且每月免费提供20小时使用时长。"
+  },
+  {
+    "name": "DeepSeek-R1-0528",
+    "description": "DeepSeek's new R1-0528 open-source LLM reportedly rivals OpenAI's o3 in coding & reasoning. Features a long context window & improved long-text accuracy.",
+    "product_hunt_url": "https://www.producthunt.com/posts/deepseek-r1-0528",
+    "created_at": "",
+    "id": "deepseek-r1-0528",
+    "label": "New open-source LLM that rivals o3 in coding & reasoning",
+    "topics": [
+      "Open Source",
+      "Development",
+      "Artificial Intelligence"
+    ],
+    "votes": 190,
+    "visit_url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528/tree/main",
+    "image": "https://ph-files.imgix.net/4278af8d-86f4-4ab5-8c2d-173866a20407.png",
+    "label_zh": "新推出的开源LLM，在编程和推理方面可与o3媲美",
+    "topics_zh": [
+      "开源",
+      "开发",
+      "人工智能"
+    ],
+    "content_zh": "DeepSeek 的新版本 DeepSeek-R1-0528 是一个开源的大语言模型，据说在编程和推理方面可以与 OpenAI 的 o3 媲美。它具有较长的上下文窗口，并且在处理长文本时准确性更高。"
+  },
+  {
+    "name": "PosterX",
+    "description": "PosterX helps you grow your business with stunning marketing posters - ready in seconds.\n\nNo complex prompting required. Just type 2–3 words about what you need, and we’ll handle the rest.\n\nInstant. Eye-catching. Effortless.",
+    "product_hunt_url": "https://www.producthunt.com/posts/posterx",
+    "created_at": "",
+    "id": "posterx",
+    "label": "Get posters to promote your business in under 3 minutes!",
+    "topics": [
+      "Marketing",
+      "Design Tools",
+      "Artificial Intelligence"
+    ],
+    "votes": 191,
+    "visit_url": "https://kaagaz.app/posterx",
+    "image": "https://ph-files.imgix.net/bd407104-bb37-4e8e-b040-cd188a4ad36b.png",
+    "label_zh": "在3分钟内获取海报来推广您的业务！",
+    "topics_zh": [
+      "市场营销",
+      "设计工具",
+      "人工智能"
+    ],
+    "content_zh": "PosterX 帮助你用精美的营销海报快速拓展业务，只需几秒钟即可完成。\n\n无需复杂的提示。只需输入两三个词描述你需要的内容，剩下的交给我们处理。\n\n即时生成，引人注目，轻松便捷。"
+  },
+  {
+    "name": "Tempo MCP App Store",
+    "description": "Tempo is a visual IDE where designers, PMs, and developers build together. With the new Tempo MCP App Store, instantly add payments, messaging, AI agents, and more. Skip the complex API setup AI handles the logic so you can ship faster.",
+    "product_hunt_url": "https://www.producthunt.com/posts/tempo-mcp-app-store",
+    "created_at": "",
+    "id": "tempo-mcp-app-store",
+    "label": "Quickly add payment, messaging, AI agents + more to your app",
+    "topics": [
+      "Developer Tools",
+      "Design Tools",
+      "Artificial Intelligence"
+    ],
+    "votes": 177,
+    "visit_url": "https://tempo.new",
+    "image": "https://ph-files.imgix.net/cc16f4f9-f451-456f-9df6-c34e843bbdf8.png",
+    "label_zh": "迅速为您的应用添加支付、消息传递、AI代理等功能",
+    "topics_zh": [
+      "开发工具",
+      "设计工具",
+      "人工智能"
+    ],
+    "content_zh": "Tempo 是一个可视化集成开发环境，设计师、产品经理和开发者可以在这里共同工作。通过新的 Tempo MCP App Store，你可以立即添加支付、消息传递、AI 代理等功能。无需复杂的 API 设置，AI 会处理逻辑问题，让你能够更快地发布产品。"
+  },
+  {
+    "name": "Directify",
+    "description": "Directify is a Modern No-Code Directory Website Builder. \n\nDirectory specific functionality will help you to get your directories up and running in minutes. \n\nModern integrations, like Google Sheets, SEOBotAI, ScreenshotOne and OpenAI, will make it even faster",
+    "product_hunt_url": "https://www.producthunt.com/posts/directify",
+    "created_at": "",
+    "id": "directify",
+    "label": "Directory Website Builder with No-Code",
+    "topics": [
+      "SaaS",
+      "No-Code",
+      "Website Builder"
+    ],
+    "votes": 63,
+    "visit_url": "https://directify.app",
+    "image": "https://ph-files.imgix.net/74386170-6ce6-421f-a817-a1e058b92863.png",
+    "label_zh": "无代码目录网站构建器",
+    "topics_zh": [
+      "SaaS",
+      "无代码",
+      "网站构建器"
+    ],
+    "content_zh": "Directify 是一款现代化的无代码目录网站构建工具。\n\n它提供了专门针对目录的功能，帮助你几分钟内就能搭建并运行目录网站。\n\n现代集成工具，如 Google Sheets、SEOBotAI、ScreenshotOne 和 OpenAI，将进一步提升你的工作效率。"
+  },
+  {
+    "name": "UPDF 2.0",
+    "description": "UPDF 2.0 is your next-level AI-powered PDF editor.\nUPDF 2.0 introduces a completely redesigned interface, making navigation smoother and interactions more intuitive. Enjoy a cleaner, more modern look with enhanced usability that streamlines your workflow.",
+    "product_hunt_url": "https://www.producthunt.com/posts/updf-2-0",
+    "created_at": "",
+    "id": "updf-2-0",
+    "label": "AI-powered PDF editor with a completely redesigned interface",
+    "topics": [
+      "Productivity",
+      "Android",
+      "Marketing"
+    ],
+    "votes": 107,
+    "visit_url": "https://updf.com/",
+    "image": "https://ph-files.imgix.net/062d6052-6aa4-417f-b739-8084cb2ec972.png",
+    "label_zh": "AI驱动的PDF编辑器，采用全新设计的界面",
+    "topics_zh": [
+      "生产力",
+      "安卓",
+      "市场营销"
+    ],
+    "content_zh": "UPDF 2.0 是你的下一代 AI 驱动的 PDF 编辑器。\nUPDF 2.0 带来了全新的界面设计，使导航更加流畅，交互更加直观。享受更简洁、更现代的外观，提升易用性，简化你的工作流程。"
+  },
+  {
+    "name": "VisionAR - Create 3D Models with AI",
+    "description": "VisionAR uses cutting-edge AI to turn 1 or 4 photos into pro-level 3D models in just 2 minutes with V-Pix/V-Poly. No photos? Scribble mode transforms sketches into AI-generated references. Export GLB, refine in Blender—fast, smart, AI-powered creation!",
+    "product_hunt_url": "https://www.producthunt.com/posts/visionar-create-3d-models-with-ai",
+    "created_at": "",
+    "id": "visionar-create-3d-models-with-ai",
+    "label": "Transform 2D images into immersive 3D models with AI",
+    "topics": [
+      "SaaS",
+      "3D Modeling",
+      "Artificial Intelligence"
+    ],
+    "votes": 122,
+    "visit_url": "https://www.visionar.dev",
+    "image": "https://ph-files.imgix.net/98eae4d5-1676-4e90-b632-02d837c32e4e.png",
+    "label_zh": "将2D图像通过AI转化为沉浸式3D模型",
+    "topics_zh": [
+      "SaaS",
+      "3D 建模",
+      "人工智能"
+    ],
+    "content_zh": "VisionAR 使用尖端 AI 技术，只需 1 到 4 张照片，就能在短短 2 分钟内生成专业级的 3D 模型，支持 V-Pix 和 V-Poly 格式。没有照片？涂鸦模式可以将草图转换成 AI 生成的参考图。导出 GLB 文件后，还可以在 Blender 中进行精细调整——快速、智能、AI 驱动的创作！"
+  },
+  {
+    "name": "API Hub",
+    "description": "Access APIs and ready-to-use MCP servers for both traditional applications and AI agents. Our platform connects you to powerful APIs with cloud infrastructure and predictable pricing.",
+    "product_hunt_url": "https://www.producthunt.com/posts/api-hub-2",
+    "created_at": "",
+    "id": "api-hub-2",
+    "label": "Your central hub for powerful MCP and API solutions",
+    "topics": [
+      "API",
+      "Software Engineering",
+      "Artificial Intelligence"
+    ],
+    "votes": 131,
+    "visit_url": "https://api-hub.org",
+    "image": "https://ph-files.imgix.net/7498f379-03da-4b2e-86e4-e907f1ceae1b.png",
+    "label_zh": "您的强大MCP和API解决方案的中心枢纽",
+    "topics_zh": [
+      "API",
+      "软件工程",
+      "人工智能"
+    ],
+    "content_zh": "访问API和即用型MCP服务器，适用于传统应用程序和AI代理。我们的平台将您连接到强大的API，提供云基础设施和可预测的价格。"
+  },
+  {
+    "name": "Filo Mail for iOS",
+    "description": "Filo rebuilds email as a to-do list. AI clears clutter, turns requests into actionable tasks, and crafts context-aware replies from whole-thread understanding—so you can act, not sift.",
+    "product_hunt_url": "https://www.producthunt.com/posts/filo-mail-for-ios",
+    "created_at": "",
+    "id": "filo-mail-for-ios",
+    "label": "AI-native inbox that turns emails into actionable to-dos",
+    "topics": [
+      "Productivity",
+      "Email",
+      "Artificial Intelligence"
+    ],
+    "votes": 133,
+    "visit_url": "https://apps.apple.com/us/app/filomail/id6740307388",
+    "image": "https://ph-files.imgix.net/e51402a0-addc-47a3-93b7-a63916bff661.png",
+    "label_zh": "AI原生收件箱，将电子邮件转化为可执行的任务清单",
+    "topics_zh": [
+      "productivity",
+      "电子邮件",
+      "人工智能"
+    ],
+    "content_zh": "Filo Mail for iOS 将电子邮件重新设计成待办事项列表。AI 会帮你清理杂乱的信息，将请求转换为可操作的任务，并通过理解整个邮件线程来生成上下文相关的回复，让你能够直接行动，而不需要花时间筛选信息。"
+  }
+]

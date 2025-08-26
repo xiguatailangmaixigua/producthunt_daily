@@ -1,0 +1,281 @@
+[
+  {
+    "name": "HelloCV AI",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/hellocv-ai-2",
+    "created_at": "",
+    "id": "hellocv-ai-2",
+    "label": "Notion style CV/Resume site with AI on a FREE .cv domain",
+    "topics": [],
+    "votes": 390,
+    "visit_url": "https://www.hellocv.ai/",
+    "image": "https://ph-files.imgix.net/3524ce36-bc0e-438e-99da-881ed6e81a5e.jpeg",
+    "label_zh": "Notion 风格的简历网站，配备 AI 功能，免费 .cv 域名"
+  },
+  {
+    "name": "Wibe for creators",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/wibe-for-creators",
+    "created_at": "",
+    "id": "wibe-for-creators",
+    "label": "Miss the old internet? We reimagined it for today's creators",
+    "topics": [
+      "Link in bio tools",
+      "Professional networking platforms",
+      "Community management"
+    ],
+    "votes": 292,
+    "visit_url": "https://wibe.so",
+    "image": "https://ph-files.imgix.net/271444a9-71e1-4d72-a468-678575720508.jpeg",
+    "label_zh": "怀念旧互联网吗？我们为今天的创作者重新构想了它。",
+    "topics_zh": [
+      "链接在个人简介工具",
+      "专业社交平台",
+      "社群管理"
+    ]
+  },
+  {
+    "name": "Grok 3",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/grok-3",
+    "created_at": "",
+    "id": "grok-3",
+    "label": "The world’s smartest AI (according to Elon)",
+    "topics": [
+      "AI Chatbots",
+      "AI"
+    ],
+    "votes": 301,
+    "visit_url": "https://x.com/i/grok",
+    "image": "https://ph-files.imgix.net/eb9bc2a1-af8d-4677-8c44-5ac2e401807a.png",
+    "label_zh": "根据埃隆的说法，这是世界上最聪明的人工智能",
+    "topics_zh": [
+      "# AI聊天机器人",
+      "人工智能"
+    ]
+  },
+  {
+    "name": "Naya",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/naya-2",
+    "created_at": "",
+    "id": "naya-2",
+    "label": "Your entire creative journey in one beautiful digital studio",
+    "topics": [],
+    "votes": 276,
+    "visit_url": "https://naya.studio?utm_source=product_hunt_link\\u0026utm_medium=product_hunt\\u0026utm_campaign=blocks",
+    "image": "https://ph-files.imgix.net/df15fb0c-0241-4273-9c94-620f02ccb2ad.png",
+    "label_zh": "你的整个创意旅程，尽在这个美丽的数字工作室中"
+  },
+  {
+    "name": "HeronAI",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/heronai",
+    "created_at": "",
+    "id": "heronai",
+    "label": "Connect, visualize, and, ask your business data anything.",
+    "topics": [
+      "Accounting software",
+      "Financial planning",
+      "Spreadsheets"
+    ],
+    "votes": 246,
+    "visit_url": "https://www.heronai.com",
+    "image": "https://ph-files.imgix.net/f9b4ed7b-4833-477d-9410-626b40c01a05.png",
+    "label_zh": "连接、可视化并随时询问您的业务数据。",
+    "topics_zh": [
+      "会计软件",
+      "财务规划",
+      "电子表格"
+    ]
+  },
+  {
+    "name": "Lerian Midaz",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/lerian",
+    "created_at": "",
+    "id": "lerian",
+    "label": "The open core to build financial systems from scratch.",
+    "topics": [
+      "Treasury management platforms",
+      "Money transfer",
+      "Budgeting apps"
+    ],
+    "votes": 63,
+    "visit_url": "https://lps.lerian.studio/en-us/lerian-midaz",
+    "image": "https://ph-files.imgix.net/a505583f-3f5b-48c4-b36a-a11d8dabe281.png",
+    "label_zh": "构建金融系统的核心开源平台。",
+    "topics_zh": [
+      "财资管理平台",
+      "转账汇款",
+      "预算应用程序"
+    ]
+  },
+  {
+    "name": "Uplodio",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/uplodio",
+    "created_at": "",
+    "id": "uplodio",
+    "label": "AI influencer manager to scale your creator marketing",
+    "topics": [
+      "AI Chatbots",
+      "Affiliate marketing",
+      "Influencer marketing platforms"
+    ],
+    "votes": 148,
+    "visit_url": "https://www.uplodio.com/",
+    "image": "https://ph-files.imgix.net/18d47892-54df-4372-841a-308b1ad5a3c9.png",
+    "label_zh": "AI 影响者管理器，助力扩展您的创作者营销规模",
+    "topics_zh": [
+      "AI 聊天机器人",
+      "联盟营销",
+      "网红营销平台"
+    ]
+  },
+  {
+    "name": "Pagey",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/pagey",
+    "created_at": "",
+    "id": "pagey",
+    "label": "Create portfolio in minutes, not hours",
+    "topics": [],
+    "votes": 169,
+    "visit_url": "https://pagey.xyz",
+    "image": "https://ph-files.imgix.net/899a39a5-6795-4b65-be0d-dbaf290a63a0.png",
+    "label_zh": "几分钟内创建投资组合，而不是几小时"
+  },
+  {
+    "name": "SchedulePosts.io",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/scheduleposts-io",
+    "created_at": "",
+    "id": "scheduleposts-io",
+    "label": "AI-powered social media intelligence platform",
+    "topics": [
+      "AI",
+      "Social media management tools",
+      "Work & Productivity"
+    ],
+    "votes": 64,
+    "visit_url": "https://www.scheduleposts.io",
+    "image": "https://ph-files.imgix.net/ff84a2d9-0b5a-48c0-84be-0106b3046cd6.png",
+    "label_zh": "AI驱动的社交媒体智能平台",
+    "topics_zh": [
+      "AI",
+      "社交媒体管理工具",
+      "工作与生产力"
+    ]
+  },
+  {
+    "name": "CozyPet",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/cozypet-pixel-art-pet-for-mac",
+    "created_at": "",
+    "id": "cozypet-pixel-art-pet-for-mac",
+    "label": "A tiny pixel pet that lives on your Mac desktop.",
+    "topics": [],
+    "votes": 70,
+    "visit_url": "https://cozypet.app.br",
+    "image": "https://ph-files.imgix.net/f1ce0bba-4fd1-40c7-83a2-5f417279ea0d.png",
+    "label_zh": "一个住在你Mac桌面上的小像素宠物。"
+  },
+  {
+    "name": "Pixelesq",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/pixelesq",
+    "created_at": "",
+    "id": "pixelesq",
+    "label": "Cursor for websites: AI-native no-code website builder",
+    "topics": [],
+    "votes": 156,
+    "visit_url": "https://pixelesq.com",
+    "image": "https://ph-files.imgix.net/835c582c-e6d8-4655-9af0-8df0326e9f78.png",
+    "label_zh": "光标网站构建器：基于AI的无代码网站构建工具"
+  },
+  {
+    "name": "Builduo",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/builduo",
+    "created_at": "",
+    "id": "builduo",
+    "label": "Build SaaS backends with AI and deploy in minutes",
+    "topics": [
+      "AI Infrastructure Tools",
+      "AI Coding Assistants",
+      "Team collaboration software"
+    ],
+    "votes": 138,
+    "visit_url": "https://builduo.com",
+    "image": "https://ph-files.imgix.net/4d3bbf3c-6fef-41e8-8600-9bb90b3562ae.png",
+    "label_zh": "用AI构建SaaS后端，几分钟内即可部署",
+    "topics_zh": [
+      "AI 基础设施工具",
+      "AI 编码助手",
+      "团队协作软件"
+    ]
+  },
+  {
+    "name": "Hugging Face",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/hugging-face",
+    "created_at": "",
+    "id": "hugging-face",
+    "label": "The AI community building the future.",
+    "topics": [
+      "AI",
+      "Marketplace sites",
+      "Design & Creative",
+      "Design inspiration websites",
+      "AI Infrastructure Tools",
+      "Social media management tools",
+      "Team collaboration software",
+      "Business intelligence software",
+      "LLMs",
+      "Code editors"
+    ],
+    "votes": 147,
+    "visit_url": "https://huggingface.co/blog/reachy-mini",
+    "image": "https://ph-files.imgix.net/348bc2fd-5871-47e0-b07c-f24193aca26f.png",
+    "label_zh": "构建未来的AI社区。",
+    "topics_zh": [
+      "AI",
+      "市场平台网站",
+      "设计与创意",
+      "设计灵感网站",
+      "AI 基础设施工具",
+      "社交媒体管理工具",
+      "团队协作软件",
+      "商业智能软件",
+      "大型语言模型",
+      "代码编辑器"
+    ]
+  },
+  {
+    "name": "LLM SEO Index Crawler Check",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/llm-seo-index-crawler-check",
+    "created_at": "",
+    "id": "llm-seo-index-crawler-check",
+    "label": "Check if your website can get crawled by ChatGPT",
+    "topics": [],
+    "votes": 133,
+    "visit_url": "https://llmseoindex.com",
+    "image": "https://ph-files.imgix.net/513e695c-53b3-4803-b094-3b3798b79717.png",
+    "label_zh": "检查您的网站是否可以被ChatGPT抓取"
+  },
+  {
+    "name": "FormNX",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/formnx",
+    "created_at": "",
+    "id": "formnx",
+    "label": "Create forms fast with our no-code form builder",
+    "topics": [],
+    "votes": 55,
+    "visit_url": "https://FormNX.com",
+    "image": "https://ph-files.imgix.net/c0e5ecb3-55c4-47aa-8d29-91f33e4005e9.png",
+    "label_zh": "使用我们的无代码表单构建器快速创建表单"
+  }
+]

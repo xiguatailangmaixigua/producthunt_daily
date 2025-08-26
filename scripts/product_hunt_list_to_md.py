@@ -197,7 +197,7 @@ class ProductHuntScraper:
                 for i, section in enumerate(product_sections[:15]):
                     try:
                         # 获取产品链接和名称
-                        product_links = section.find_all('a', href=lambda href: href and '/posts/' in href)
+                        product_links = section.find_all('a', href=lambda href: href and '/products/' in href)
                         if not product_links:
                             continue
                             
@@ -397,16 +397,16 @@ async def main():
                         if product_name:
                             product_data[product_id]['name'] = product_name
                             logger.info(f"使用DrissionPage获取到产品名称: {product_name}")
-                            
-                            # 获取label
-                            label_div = h1_element.find_next_sibling('div', class_='text-18')
-                            if label_div:
-                                label = label_div.text.strip()
-                                product_data[product_id]['label'] = label
-                                logger.info(f"使用DrissionPage获取到产品label: {label}")
+                        
+                    # 获取label
+                    label_div = soup.find('h2', class_='text-18 text-gray-700')
+                    if label_div:
+                        label = label_div.text.strip()
+                        product_data[product_id]['label'] = label
+                        logger.info(f"使用DrissionPage获取到产品label: {label}")
                     
                     # 获取产品描述
-                    html_text_div = soup.find('div', class_=re.compile(r'prose text-16 font-normal text-dark-gray text-gray-700'))
+                    html_text_div = soup.find('div', class_=re.compile(r'text-16 font-normal text-gray-700'))
                     if html_text_div:
                         description = html_text_div.text.strip()
                         product_data[product_id]['description'] = description
@@ -454,7 +454,7 @@ async def main():
             for product_id, product in product_data.items():
                 if product['name'] and product['label']:
                     products.append(product)
-                    logger.info(f"使用备用方法添加产品: {product['name']}")
+                    logger.info(f"添加产品: {product['name']}")
             
             # 保存产品信息到JSON文件
             output_file = f'data/product_{current_date}.json'

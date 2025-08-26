@@ -1,0 +1,347 @@
+[
+  {
+    "name": "Amie",
+    "description": "Turn meeting notes into automated workflows. Handle meetings, summaries, todos and emails with your AI personal assistant.",
+    "product_hunt_url": "https://www.producthunt.com/posts/amie-6",
+    "created_at": "",
+    "id": "amie-6",
+    "label": "AI Meeting Notetaker",
+    "topics": [
+      "Productivity",
+      "Artificial Intelligence",
+      "Meetings"
+    ],
+    "votes": 598,
+    "visit_url": "https://amie.so",
+    "image": "https://ph-files.imgix.net/71e525b3-5885-4889-bc7a-ea259f1d1a1c.png",
+    "label_zh": "AI 会议记录员",
+    "topics_zh": [
+      "生产力",
+      "人工智能",
+      "会议"
+    ],
+    "content_zh": "将会议笔记转换为自动化工作流程。用你的AI个人助手处理会议、总结、待办事项和电子邮件。"
+  },
+  {
+    "name": "Tofu Pages",
+    "description": "Get customized landing pages in minutes tailored for your prospect accounts, contacts, industry, persona, ad keywords, and more.",
+    "product_hunt_url": "https://www.producthunt.com/posts/tofu-pages",
+    "created_at": "",
+    "id": "tofu-pages",
+    "label": "Infinite landing pages from your existing website",
+    "topics": [
+      "Chrome Extensions",
+      "Marketing",
+      "SaaS"
+    ],
+    "votes": 509,
+    "visit_url": "https://www.tofuhq.com/tofu-pages",
+    "image": "https://ph-files.imgix.net/a2090a56-c98e-4ebb-bec6-29c5aabf4eb2.png",
+    "label_zh": "从现有网站创建无限着陆页",
+    "topics_zh": [
+      "Chrome 扩展程序",
+      "营销",
+      "SaaS"
+    ],
+    "content_zh": "几分钟内就能为你定制适合潜在客户、联系人、行业、用户画像和广告关键词的落地页。"
+  },
+  {
+    "name": "Token Tactics",
+    "description": "Token Tactics- is a cryptocurrency portfolio simulator designed to teach users about investing in crypto assets through a gamified approach.",
+    "product_hunt_url": "https://www.producthunt.com/posts/token-tactics",
+    "created_at": "",
+    "id": "token-tactics",
+    "label": "Education platform for cryptotrading",
+    "topics": [
+      "Education",
+      "Web3",
+      "Investing"
+    ],
+    "votes": 53,
+    "visit_url": "https://t.me/tokentactics_bot",
+    "image": "https://ph-files.imgix.net/29c257f7-393b-44f6-888e-d8aa3e7b504a.jpeg",
+    "label_zh": "加密交易教育平台",
+    "topics_zh": [
+      "教育",
+      "Web3",
+      "投资"
+    ],
+    "content_zh": "Token Tactics 是一款加密货币投资组合模拟器，通过游戏化的方式教用户如何投资加密资产。"
+  },
+  {
+    "name": "Entelligence.ai",
+    "description": "Entelligence AI helps dev teams review code with full context, catch bugs early, and track engineering health. Deep Reviews understands your entire codebase to flag issues before merge. Plus, get auto-generated docs and insights across your team.",
+    "product_hunt_url": "https://www.producthunt.com/posts/entelligence-ai",
+    "created_at": "",
+    "id": "entelligence-ai",
+    "label": "AI Code Reviews with Full Codebase Context",
+    "topics": [
+      "Productivity",
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "votes": 307,
+    "visit_url": "https://www.entelligence.ai/",
+    "image": "https://ph-files.imgix.net/24d065fd-edc8-463d-a170-3b4e527420ce.gif",
+    "label_zh": "带有完整代码库上下文的AI代码审查",
+    "topics_zh": [
+      "生产力",
+      "人工智能",
+      "开发者工具"
+    ],
+    "content_zh": "Entelligence AI 帮助开发团队在全面了解代码上下文的情况下进行代码审查，及早发现错误，并跟踪工程健康状况。Deep Reviews 功能可以理解整个代码库，在合并前标记出问题。此外，还可以自动生成文档并为团队提供见解。"
+  },
+  {
+    "name": "eSelf",
+    "description": "eSelf’s no-code studio lets you create expressive, human-like AI avatars that serve as tutors, reps, and more. Multilingual and LLM-agnostic, eSelf delivers the fastest interactions on the market — powered by real-time visuals and expressive AI.",
+    "product_hunt_url": "https://www.producthunt.com/posts/eself",
+    "created_at": "",
+    "id": "eself",
+    "label": "Create realistic AI tutors, agents, friends & more",
+    "topics": [
+      "Virtual Assistants",
+      "Artificial Intelligence",
+      "SaaS"
+    ],
+    "votes": 283,
+    "visit_url": "https://www.eself.ai/",
+    "image": "https://ph-files.imgix.net/bda92fb7-fe84-422d-9f2f-93abc6807c57.png",
+    "label_zh": "创建逼真的AI导师、代理、朋友等",
+    "topics_zh": [
+      "虚拟助手",
+      "人工智能",
+      "SaaS（软件即服务）"
+    ],
+    "content_zh": "eSelf的无代码工作室让你可以创建富有表现力、类似真人的AI虚拟形象，这些虚拟形象可以用作导师、代表等角色。支持多语言且与大语言模型无关，eSelf提供了市场上最快的互动体验，这一切都由实时视觉效果和富有表现力的AI技术驱动。"
+  },
+  {
+    "name": "Overlap AI",
+    "description": "Overlap AI is an agent that edits videos, styles captions, and automatically posts for you.\n\nBuild an agentic workflow, drop in a link or file, get perfect clips, and instantly upload to TikTok, Reels, Shorts, and X. \n\nTry it out for free today!",
+    "product_hunt_url": "https://www.producthunt.com/posts/overlap-ai",
+    "created_at": "",
+    "id": "overlap-ai",
+    "label": "The first multimodal video marketing agent",
+    "topics": [
+      "Artificial Intelligence",
+      "Social media marketing",
+      "Video"
+    ],
+    "votes": 250,
+    "visit_url": "https://overlap.ai",
+    "image": "https://ph-files.imgix.net/ea92b11e-0f7a-4df3-9d23-8c57fdb88edb.png",
+    "label_zh": "第一个多模态视频营销代理",
+    "topics_zh": [
+      "人工智能",
+      "社交媒体营销",
+      "视频"
+    ],
+    "content_zh": "Overlap AI 是一个能够编辑视频、设计字幕并自动发布内容的智能助手。\n\n你可以构建一个自动化工作流程，只需放入链接或文件，就能生成完美的剪辑，并立即上传到 TikTok、Reels、Shorts 和 X。\n\n现在就免费试用吧！"
+  },
+  {
+    "name": "Web Checkout by Paddle",
+    "description": "Direct your app users to external checkouts and bypass Apple's fees. Choose Paddle-managed Hosted Checkouts or Vercel-built Starter Kit. Take advantage of lower fees, more control & faster growth with Paddle — a Merchant of Record trusted by 6,000+ companies.",
+    "product_hunt_url": "https://www.producthunt.com/posts/web-checkout-by-paddle",
+    "created_at": "",
+    "id": "web-checkout-by-paddle",
+    "label": "The smart alternative to in-app payments",
+    "topics": [
+      "Fintech",
+      "SaaS",
+      "Payments"
+    ],
+    "votes": 250,
+    "visit_url": "https://www.paddle.com/in-app-purchase",
+    "image": "https://ph-files.imgix.net/a6bdc207-afe4-41ef-b1cb-d2ea4bb5cd9d.png",
+    "label_zh": "智能替代应用内支付",
+    "topics_zh": [
+      "金融科技",
+      "SaaS",
+      "支付"
+    ],
+    "content_zh": "引导你的应用用户使用外部支付，绕过苹果的手续费。你可以选择Paddle管理的托管支付页面或Vercel构建的入门套件。通过Paddle，你可以享受更低的手续费、更多的控制权和更快的增长。Paddle是6000多家公司信赖的商户记录服务提供商。"
+  },
+  {
+    "name": "Clemta Intelligence",
+    "description": "Clemta Intelligence automates your bookkeeping, tax preparation, and financial reporting so you can stay focused on growing your business.",
+    "product_hunt_url": "https://www.producthunt.com/posts/clemta-intelligence",
+    "created_at": "",
+    "id": "clemta-intelligence",
+    "label": "AI assistant for incorporation, bookkeeping & taxes",
+    "topics": [
+      "Artificial Intelligence",
+      "Accounting",
+      "Fintech"
+    ],
+    "votes": 139,
+    "visit_url": "http://clemta.com/intelligence",
+    "image": "https://ph-files.imgix.net/6eb2f821-bd57-409c-821c-6fd0c043af50.png",
+    "label_zh": "AI助手，助您轻松搞定公司注册、记账及税务事宜",
+    "topics_zh": [
+      "人工智能",
+      "会计",
+      "金融科技"
+    ],
+    "content_zh": "Clemta Intelligence 可以自动处理你的记账、报税和财务报告，让你能够专注于业务发展。"
+  },
+  {
+    "name": "Google NotebookLM",
+    "description": "Turn complexity into clarity with NotebookLM, your brain’s new best friend. Join the millions of students, creators, researchers, professionals, CEOs, and more who are saving time, getting stuff done, and learning in new ways.",
+    "product_hunt_url": "https://www.producthunt.com/posts/google-notebooklm-3",
+    "created_at": "",
+    "id": "google-notebooklm-3",
+    "label": "Al conversations on demand on any topic",
+    "topics": [
+      "Education",
+      "Artificial Intelligence",
+      "Android"
+    ],
+    "votes": 203,
+    "visit_url": "https://apps.apple.com/us/app/google-notebooklm/id6737527615",
+    "image": "https://ph-files.imgix.net/57884a37-9a21-40bb-bca5-27ee075ddd48.png",
+    "label_zh": "所有话题的即时对话",
+    "topics_zh": [
+      "教育",
+      "人工智能",
+      "安卓"
+    ],
+    "content_zh": "用NotebookLM将复杂变得简单，成为你大脑的新朋友。加入数百万学生、创作者、研究人员、专业人士、CEO等用户的行列，他们正在节省时间、提高效率，并以新的方式学习。"
+  },
+  {
+    "name": "Nestin",
+    "description": "Nestin lets you design, visualise and plan your interiors instantly. Remove clutter, drag in furniture from any site, preview it in AR & generate photorealistic renders in minutes (like a Canva for Interiors). Create your perfect home & shop with confidence.",
+    "product_hunt_url": "https://www.producthunt.com/posts/nestin",
+    "created_at": "",
+    "id": "nestin",
+    "label": "Interior Design, Simplified",
+    "topics": [
+      "Artificial Intelligence",
+      "Design Tools",
+      "Interior design"
+    ],
+    "votes": 122,
+    "visit_url": "https://app.nestin.ai/designer",
+    "image": "https://ph-files.imgix.net/24adab96-1b65-401d-8568-50054e567244.png",
+    "label_zh": "室内设计，简化版\n\n---\n\n室内设计，简单易懂",
+    "topics_zh": [
+      "人工智能",
+      "设计工具",
+      "室内设计"
+    ],
+    "content_zh": "Nestin 可以让你立即设计、可视化和规划室内布局。你可以清除杂乱的物品，从任何网站拖拽家具到你的设计中，通过 AR 预览效果，并在几分钟内生成逼真的渲染图（就像室内设计版的 Canva）。创建你理想中的家，并自信地购物。"
+  },
+  {
+    "name": "TL;DL (Beta) by Headliner",
+    "description": "Too long? Didn't listen? Now you can!\n\nUsing semantic compression, TL;DL creates AI-powered podcast summaries. Pick the episodes, set your timeframe, & get a custom 'podcast' blending real clips with smart narration.\n\nWant more? Get full episodes in 1 click.",
+    "product_hunt_url": "https://www.producthunt.com/posts/tl-dl-beta-by-headliner",
+    "created_at": "",
+    "id": "tl-dl-beta-by-headliner",
+    "label": "TL;DL creates AI-generated podcast summaries, built for you",
+    "topics": [
+      "Artificial Intelligence",
+      "Web App",
+      "Audio"
+    ],
+    "votes": 186,
+    "visit_url": "https://play.headliner.app/tldl",
+    "image": "https://ph-files.imgix.net/2fa89fb4-db4c-4bd6-b4e1-59e003934c2f.png",
+    "label_zh": "TL;DL 为您打造 AI 生成的播客摘要",
+    "topics_zh": [
+      "人工智能",
+      "网页应用",
+      "音频"
+    ],
+    "content_zh": "太长没听？现在你可以了！\n\nTL;DL 使用语义压缩技术，生成由 AI 驱动的播客摘要。选择你想听的集数，设置时间范围，就能得到一个结合真实片段和智能解说的定制“播客”。\n\n想要更多？一键获取完整集数。"
+  },
+  {
+    "name": "Prism AI",
+    "description": "Prism is an AI that watches session replays and tells developers what to fix—no setup, no event tagging, just signal.",
+    "product_hunt_url": "https://www.producthunt.com/posts/prism-ai",
+    "created_at": "",
+    "id": "prism-ai",
+    "label": "AI that watches replays and tells developers what to fix",
+    "topics": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Analytics"
+    ],
+    "votes": 167,
+    "visit_url": "https://www.prismreplay.com",
+    "image": "https://ph-files.imgix.net/c0d54dde-162d-464c-bb2e-8ca5b966f432.png",
+    "label_zh": "AI观看回放并告诉开发者需要修复什么",
+    "topics_zh": [
+      "人工智能",
+      "开发者工具",
+      "分析"
+    ],
+    "content_zh": "Prism AI 是一种人工智能工具，它可以观看会话回放，并告诉开发者需要修复的问题。无需设置，无需标记事件，直接提供有用的信息。"
+  },
+  {
+    "name": "GitHub Copilot Coding Agent",
+    "description": "GitHub Copilot has a new feature: a coding agent that can implement a task or issue, run in the background with GitHub Actions, and more.",
+    "product_hunt_url": "https://www.producthunt.com/posts/github-copilot-coding-agent",
+    "created_at": "",
+    "id": "github-copilot-coding-agent",
+    "label": "Agent that implements a task/issue + runs in the background",
+    "topics": [
+      "GitHub",
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "votes": 163,
+    "visit_url": "https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/",
+    "image": "https://ph-files.imgix.net/197c18da-718a-4a3d-9bdd-5f2f66c3bad6.webp",
+    "label_zh": "实现在后台运行的任务/问题处理代理",
+    "topics_zh": [
+      "GitHub",
+      "人工智能",
+      "开发者工具"
+    ],
+    "content_zh": "GitHub Copilot 新增了一个功能：一个编码代理，可以执行任务或问题处理，并在后台通过 GitHub Actions 运行。"
+  },
+  {
+    "name": "Hunter MCP",
+    "description": "Hunter MCP is an open-source protocol server integrating Hunter B2B data tools with AI assistants like Claude. It enables natural language queries for email finding, email verification, and data enrichment leveraging Hunter’s proven APIs.",
+    "product_hunt_url": "https://www.producthunt.com/posts/hunter-mcp",
+    "created_at": "",
+    "id": "hunter-mcp",
+    "label": "Enable AI Agents with real time B2B Data via Hunter",
+    "topics": [
+      "Artificial Intelligence",
+      "Sales",
+      "API"
+    ],
+    "votes": 158,
+    "visit_url": "https://hunter.io/integrations#mcp",
+    "image": "https://ph-files.imgix.net/f8bcf54f-ee02-4adf-8fbf-b33346296faf.png",
+    "label_zh": "启用AI代理，通过Hunter获取实时B2B数据",
+    "topics_zh": [
+      "人工智能",
+      "销售",
+      "API"
+    ],
+    "content_zh": "Hunter MCP 是一个开源协议服务器，它将 Hunter 的 B2B 数据工具与 Claude 等 AI 助手集成在一起。通过使用 Hunter 经过验证的 API，它可以实现自然语言查询，用于查找电子邮件、验证电子邮件和数据丰富。"
+  },
+  {
+    "name": "GoPolar",
+    "description": "GoPolar is the ultimate app for tracking your cold plunge and sauna sessions. Log your routines, track your streaks, and measure progress over time. Now with groups, challenges, and full support for Apple & Garmin Watches.",
+    "product_hunt_url": "https://www.producthunt.com/posts/gopolar",
+    "created_at": "",
+    "id": "gopolar",
+    "label": "Track your cold plunge & sauna sessions + share with others",
+    "topics": [
+      "Health & Fitness",
+      "Wearables",
+      "iOS"
+    ],
+    "votes": 153,
+    "visit_url": "https://gopolar.app",
+    "image": "https://ph-files.imgix.net/c6e867f7-7601-461e-ac30-c81bb95bc400.png",
+    "label_zh": "追踪你的冷水浴和桑拿会话 + 与他人分享\n\n直译：\n跟踪你的冷水浸泡和桑拿会话 + 与他人分享\n\n意译：\n记录你的冷水浴和桑拿体验 + 分享给他人",
+    "topics_zh": [
+      "健康与健身",
+      "可穿戴设备",
+      "iOS"
+    ],
+    "content_zh": "GoPolar 是一款终极应用程序，用于记录你的冷水浴和桑拿疗程。你可以记录日常习惯，追踪连续天数，并随时间测量进展。现在还支持群组、挑战以及全面兼容苹果和佳明手表。"
+  }
+]

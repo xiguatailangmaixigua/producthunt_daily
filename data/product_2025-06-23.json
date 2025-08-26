@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Magic Hour",
+    "description": "Magic Hour allows anyone to create engaging video content in just minutes. We take the best open source models and put them in easy-to-use interfaces so you can generate videos in styles including animations, video-to-video, face swap, and text-to-video. You can use the product at magichour.ai",
+    "product_hunt_url": "https://www.producthunt.com/products/magic-hour-2",
+    "created_at": "",
+    "id": "magic-hour-2",
+    "label": "Platform for AI video generation",
+    "topics": [
+      "Photo editing",
+      "Avatar generators",
+      "Stock photo sites",
+      "AI Generative Art",
+      "Presentation Software",
+      "Video editing"
+    ],
+    "votes": 290,
+    "visit_url": "https://magichour.ai/products/ai-selfie-generator",
+    "image": "https://ph-files.imgix.net/74bfcb96-df86-4a33-9596-938287bace35.png"
+  },
+  {
+    "name": "Project Indigo",
+    "description": "Project Indigo is Adobe’s free iPhone camera app for pro-quality photos. Enjoy SLR-like natural looks, full manual controls, multi-frame HDR, raw/JPEG, super-resolution zoom, and seamless Lightroom integration. Capture, edit, and share—no sign-in needed.",
+    "product_hunt_url": "https://www.producthunt.com/products/project-indigo",
+    "created_at": "",
+    "id": "project-indigo",
+    "label": "A computational photography camera app",
+    "topics": [],
+    "votes": 234,
+    "visit_url": "https://research.adobe.com/articles/indigo/indigo.html",
+    "image": "https://ph-files.imgix.net/efa954c5-d408-4469-b964-a03083fea9d4.png"
+  },
+  {
+    "name": "Z3D",
+    "description": "Z3D turns your ideas into 3D reality. Type a prompt or use an image to create pro-grade 3D models and scenes in seconds—no skills needed. Build stunning 3D worlds with ease.",
+    "product_hunt_url": "https://www.producthunt.com/products/z3d",
+    "created_at": "",
+    "id": "z3d",
+    "label": "3D, Done Easy",
+    "topics": [
+      "Design resources",
+      "3D & Animation",
+      "AI Generative Art"
+    ],
+    "votes": 195,
+    "visit_url": "https://z3d.ai",
+    "image": "https://ph-files.imgix.net/6ac81339-6d8e-45e2-bac3-4bedd0891268.png"
+  },
+  {
+    "name": "LLM SEO FAQ",
+    "description": "LLM SEO FAQ lets you generate search intent optimized FAQ content for any URL. Just paste in the URL and LLM SEO FAQ will write the ideal FAQ section optimized for your ideal customer profile within seconds. Great for SEO consultants, marketers and agencies.",
+    "product_hunt_url": "https://www.producthunt.com/products/llm-seo-faq-generator",
+    "created_at": "",
+    "id": "llm-seo-faq-generator",
+    "label": "Generate search intent optimized FAQs for any URL for FREE",
+    "topics": [
+      "Best SEO tools",
+      "LLMs"
+    ],
+    "votes": 153,
+    "visit_url": "https://llmseofaq.com/",
+    "image": "https://ph-files.imgix.net/485ffc9a-9f8c-4255-b2d2-b709d2bec34a.png"
+  },
+  {
+    "name": "CostCuts",
+    "description": "CostCuts is the easiest way for your business to save money and time on software by unlocking discounts through group buying, long-term contracts, and negotiating on your behalf. Did we mention it's free? 💵",
+    "product_hunt_url": "https://www.producthunt.com/products/costcuts",
+    "created_at": "",
+    "id": "costcuts",
+    "label": "The fastest way to save up to 30% on software for free",
+    "topics": [],
+    "votes": 174,
+    "visit_url": "https://costcuts.co/",
+    "image": "https://ph-files.imgix.net/6793d214-41e5-4769-818b-16e0419879f8.png"
+  },
+  {
+    "name": "fluss.studio",
+    "description": "fluss.studio is a project management app helping you spend less time juggling tools and more time doing what you love. Bringing together client communication, task tracking, invoicing and knowledge spaces ✨ Targeted to small teams and freelancers.",
+    "product_hunt_url": "https://www.producthunt.com/products/fluss-studio",
+    "created_at": "",
+    "id": "fluss-studio",
+    "label": "Spend less time juggling tools & more time doing great work.",
+    "topics": [
+      "Team collaboration software",
+      "Project management software"
+    ],
+    "votes": 126,
+    "visit_url": "https://flussstudio.com",
+    "image": "https://ph-files.imgix.net/db096782-e402-4dbe-ac27-e0ae371ae8a2.png"
+  },
+  {
+    "name": "Hartect",
+    "description": "Monitor and remediate your website's reputation. It may be blocked and flagged by Antivirus, ChatGPT, Gemini, Claude, the government, consumer rights, or anything else.",
+    "product_hunt_url": "https://www.producthunt.com/products/hartect",
+    "created_at": "",
+    "id": "hartect",
+    "label": "Monitor Antiviruses & AI blocking your website",
+    "topics": [],
+    "votes": 114,
+    "visit_url": "https://hartect.com/",
+    "image": "https://ph-files.imgix.net/898f9b6f-0a6a-4354-9ecb-8abe16c44bee.jpeg"
+  },
+  {
+    "name": "Realbotix",
+    "description": "AI-powered robots for companionship, entertainment and customer service. Realbotix offers human-like robots for superior social interactions in a variety of settings that improve human experiences through connection, learning and play.",
+    "product_hunt_url": "https://www.producthunt.com/products/realbotix",
+    "created_at": "",
+    "id": "realbotix",
+    "label": "Hyper-realistic AI humanoids for seamless human interaction",
+    "topics": [
+      "AI",
+      "Physical Products"
+    ],
+    "votes": 112,
+    "visit_url": "https://www.realbotix.com/",
+    "image": "https://ph-files.imgix.net/3a0eda20-358c-46db-9459-0a7358c1aa0b.png"
+  },
+  {
+    "name": "RivalFinder",
+    "description": "AI-powered competitor search — Find all competitors and get deep analytics to win your market!",
+    "product_hunt_url": "https://www.producthunt.com/products/rivalfinder",
+    "created_at": "",
+    "id": "rivalfinder",
+    "label": "Find & analyze all startup competitors!",
+    "topics": [],
+    "votes": 24,
+    "visit_url": "https://www.rivalfinder.cv/",
+    "image": "https://ph-files.imgix.net/f5acd0ea-7a31-4ef2-849c-d8eeeb52daff.png"
+  },
+  {
+    "name": "LookCrafted",
+    "description": "LookCrafted is the leading AI headshot generator for stunning, studio-quality photos. Upload selfies and get 100+ professional headshots in minutes — perfect for LinkedIn, resumes, and more.",
+    "product_hunt_url": "https://www.producthunt.com/products/lookcrafted",
+    "created_at": "",
+    "id": "lookcrafted",
+    "label": "Studio-Quality AI Headshots in Minutes, Not Days.",
+    "topics": [],
+    "votes": 19,
+    "visit_url": "https://lookcrafted.com",
+    "image": "https://ph-files.imgix.net/66fa45cc-1dc7-4126-8df1-49466f89efae.png"
+  },
+  {
+    "name": "PIXEL",
+    "description": "A minimal tool for drawing, making frame by frame animations and exporting 8-bit icons and illustrations.",
+    "product_hunt_url": "https://www.producthunt.com/products/pixel-5",
+    "created_at": "",
+    "id": "pixel-5",
+    "label": "Make a Pixel",
+    "topics": [],
+    "votes": 17,
+    "visit_url": "https://red-drop-56077636.figma.site",
+    "image": "https://ph-files.imgix.net/3e61362b-c570-4cff-960c-35da3357e16b.png"
+  },
+  {
+    "name": "VeriDiff",
+    "description": "One tool to compare documents. Engaging UI/UX, download differences to continue working. I have struggled with data comparison in my projects and thus went down this path. I would appreciate if you can have a look and share your thoughts",
+    "product_hunt_url": "https://www.producthunt.com/products/veridiff",
+    "created_at": "",
+    "id": "veridiff",
+    "label": "Document comparison in your browser - Excel, Word, PDF, CSV",
+    "topics": [
+      "Legal services",
+      "Spreadsheets",
+      "Financial planning"
+    ],
+    "votes": 14,
+    "visit_url": "https://veridiff.com",
+    "image": "https://ph-files.imgix.net/c8ce94e2-5d2b-4423-8122-1f968664f050.png"
+  },
+  {
+    "name": "Progressor",
+    "description": "Progressor helps you turn big goals into clear steps with coaching support. It starts by asking smart questions to understand your situation, then builds a tailored plan. Want to launch an app and reach €10k MRR? Progressor walks you through it, step by step.",
+    "product_hunt_url": "https://www.producthunt.com/products/progressor-2",
+    "created_at": "",
+    "id": "progressor-2",
+    "label": "Your coach and blueprint for ambitious goals",
+    "topics": [
+      "Note and writing apps"
+    ],
+    "votes": 12,
+    "visit_url": "https://progressor.me/",
+    "image": "https://ph-files.imgix.net/da353521-b458-4c28-a3fe-73df3ede7718.png"
+  },
+  {
+    "name": "TalktoBuild AI",
+    "description": "TalkToBuild is your AI co-founder. Just talk, and it generates your startup — from name to MVP, branding to monetization — and helps you launch it fast. It’s not a chatbot. It’s an AI-powered OS that actually builds with you.",
+    "product_hunt_url": "https://www.producthunt.com/products/talktobuild-ai",
+    "created_at": "",
+    "id": "talktobuild-ai",
+    "label": "Build smarter. Start faster. Just talk.",
+    "topics": [],
+    "votes": 12,
+    "visit_url": "https://talktobuild.space",
+    "image": "https://ph-files.imgix.net/ad4afa80-3aea-4afd-a54a-ca067b9d7134.png"
+  },
+  {
+    "name": "SUNO Capture",
+    "description": "SUNO Capture enhances your Suno.ai experience by adding download buttons directly to the site. Save any song as MP3 or WAV. Use the batch download feature on your creation list to save all your tracks with a single click. Simple, fast, and free.",
+    "product_hunt_url": "https://www.producthunt.com/products/suno-capture",
+    "created_at": "",
+    "id": "suno-capture",
+    "label": "The one-click downloader for your Suno AI music.",
+    "topics": [
+      "Chrome Extensions",
+      "Social media management tools",
+      "Project management software"
+    ],
+    "votes": 11,
+    "visit_url": "https://chromewebstore.google.com/detail/%25F0%259F%258E%25B5-suno-capture/bdhngeainpppahifmjllmglphnfdohjd",
+    "image": "https://ph-files.imgix.net/ac0b1374-4643-4aa0-8302-c1e33ce8c4c2.png"
+  }
+]

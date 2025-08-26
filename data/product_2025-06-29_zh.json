@@ -1,0 +1,263 @@
+[
+  {
+    "name": "DeskMinder²",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/deskminder",
+    "created_at": "",
+    "id": "deskminder",
+    "label": "Create quick desktop reminders & tasks with just one click",
+    "topics": [
+      "Mental Health",
+      "Calendar apps",
+      "Time tracking apps"
+    ],
+    "votes": 366,
+    "visit_url": "https://appps.od.ua/deskminder",
+    "image": "https://ph-files.imgix.net/77d98453-5e73-491d-81d9-a2e7bcbcf3a5.jpeg",
+    "label_zh": "一键创建桌面提醒和任务",
+    "topics_zh": [
+      "心理健康",
+      "日历应用",
+      "时间跟踪应用"
+    ]
+  },
+  {
+    "name": "Mintly",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/instaclip-ai",
+    "created_at": "",
+    "id": "instaclip-ai",
+    "label": "Clone Ads from the Biggest Companies in the World",
+    "topics": [],
+    "votes": 279,
+    "visit_url": "https://usemintly.com",
+    "image": "https://ph-files.imgix.net/84371624-4f0d-464b-a3f0-628008307c6f.jpeg",
+    "label_zh": "克隆全球大公司的广告"
+  },
+  {
+    "name": "Fullpack",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/fullpack",
+    "created_at": "",
+    "id": "fullpack",
+    "label": "On-Device Item Extraction & Inventory Management",
+    "topics": [],
+    "votes": 219,
+    "visit_url": "https://signerlabs.com/fullpack",
+    "image": "https://ph-files.imgix.net/57343df4-03d1-45b9-bc8f-9be39d8d41aa.png",
+    "label_zh": "设备端物品提取与库存管理"
+  },
+  {
+    "name": "Content Gap Report for LLM SEO",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/content-gap-report",
+    "created_at": "",
+    "id": "content-gap-report",
+    "label": "Turn content gaps into traffic that converts",
+    "topics": [
+      "Best SEO tools",
+      "Keyword research tools"
+    ],
+    "votes": 246,
+    "visit_url": "https://contentgapreport.com",
+    "image": "https://ph-files.imgix.net/3c26ff18-d8c6-419d-98df-7adac44f5cab.png",
+    "label_zh": "将内容空白转化为能带来转化的流量",
+    "topics_zh": [
+      "最佳SEO工具，关键词研究工具"
+    ]
+  },
+  {
+    "name": "Herodot AI",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/herodot-ai",
+    "created_at": "",
+    "id": "herodot-ai",
+    "label": "App to unlock tales of any attraction around, from map&photo",
+    "topics": [
+      "Travel apps",
+      "AI Chatbots",
+      "AI Characters"
+    ],
+    "votes": 191,
+    "visit_url": "https://herodot.ai",
+    "image": "https://ph-files.imgix.net/9a9228d3-7e5a-4898-9bbc-a42897b9861e.jpeg",
+    "label_zh": "应用程序解锁你周围任何景点的故事，从地图和照片开始",
+    "topics_zh": [
+      "旅行应用",
+      "AI 聊天机器人",
+      "AI 角色"
+    ]
+  },
+  {
+    "name": "TimeDay",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/timeday",
+    "created_at": "",
+    "id": "timeday",
+    "label": "your all-in-one focus timer.",
+    "topics": [
+      "Chrome Extensions",
+      "Time tracking apps"
+    ],
+    "votes": 155,
+    "visit_url": "https://timeday.framer.website/",
+    "image": "https://ph-files.imgix.net/1ac42f54-f392-4c66-a96d-c7fe4ab91e06.png",
+    "label_zh": "你的全能专注计时器。",
+    "topics_zh": [
+      "Chrome 扩展程序",
+      "时间跟踪应用"
+    ]
+  },
+  {
+    "name": "FitAndView+",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/fitandview",
+    "created_at": "",
+    "id": "fitandview",
+    "label": "Fitness app with the World",
+    "topics": [
+      "Live streaming platforms",
+      "Fitness"
+    ],
+    "votes": 144,
+    "visit_url": "https://fitandviewapp.com",
+    "image": "https://ph-files.imgix.net/1cde2059-c2e6-4484-9bab-ed4c42cf188e.png",
+    "label_zh": "健身应用，全球通用",
+    "topics_zh": [
+      "直播平台，健身"
+    ]
+  },
+  {
+    "name": "Scira",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/scira",
+    "created_at": "",
+    "id": "scira",
+    "label": "A minimalistic open-source AI-powered search engine",
+    "topics": [
+      "Search",
+      "AI Chatbots"
+    ],
+    "votes": 57,
+    "visit_url": "https://scira.ai",
+    "image": "https://ph-files.imgix.net/b7032d68-6257-4855-864d-b554e63dbca9.png",
+    "label_zh": "一个简约的开源人工智能搜索引擎",
+    "topics_zh": [
+      "搜索，AI聊天机器人"
+    ]
+  },
+  {
+    "name": "SugarLess",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/sugarless-2",
+    "created_at": "",
+    "id": "sugarless-2",
+    "label": "AI tracks sugar. You build better habits.",
+    "topics": [
+      "Mental Health",
+      "Therapy apps",
+      "Health Insurance"
+    ],
+    "votes": 21,
+    "visit_url": "https://sugarlesshealth.com",
+    "image": "https://ph-files.imgix.net/b3d128cf-faad-4b45-a75b-fcbac6f96460.png",
+    "label_zh": "AI跟踪糖分。你培养更好的习惯。",
+    "topics_zh": [
+      "心理健康",
+      "治疗应用",
+      "健康保险"
+    ]
+  },
+  {
+    "name": "HeyCustomer",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/heycustomer",
+    "created_at": "",
+    "id": "heycustomer",
+    "label": "popups people actually like",
+    "topics": [],
+    "votes": 20,
+    "visit_url": "https://heycustomer.co",
+    "image": "https://ph-files.imgix.net/4c6b4700-d1a0-48f3-a09d-6035eecd5447.png",
+    "label_zh": "人们真正喜欢的弹窗"
+  },
+  {
+    "name": "CodeFriends | Learning Platform",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/codefriends",
+    "created_at": "",
+    "id": "codefriends",
+    "label": "Learn Coding and AI, Simply.",
+    "topics": [
+      "Knowledge base software",
+      "AI Coding Assistants",
+      "Online learning"
+    ],
+    "votes": 20,
+    "visit_url": "https://www.codefriends.net",
+    "image": "https://ph-files.imgix.net/26353ae7-ea61-434b-a51c-e1c921cde714.png",
+    "label_zh": "学习编程和人工智能，就这么简单。",
+    "topics_zh": [
+      "知识库软件",
+      "AI 编码助手",
+      "在线学习"
+    ]
+  },
+  {
+    "name": "HealthyAI - Nutrition Scanner",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/healthyai-nutrition-scanner",
+    "created_at": "",
+    "id": "healthyai-nutrition-scanner",
+    "label": "Know What You’re Eating. Scan Smarter. Choose Healthier.",
+    "topics": [],
+    "votes": 16,
+    "visit_url": "https://linktr.ee/healthyai_app",
+    "image": "https://ph-files.imgix.net/9ab1772f-9157-47fa-bf43-e035995fab67.png",
+    "label_zh": "了解你吃的是什么。更智能地扫描。选择更健康的食物。"
+  },
+  {
+    "name": "LLMs In 100 Images",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/llms-in-100-images",
+    "created_at": "",
+    "id": "llms-in-100-images",
+    "label": "100 Concepts You Need To Really Understand LLMs",
+    "topics": [],
+    "votes": 10,
+    "visit_url": "https://bamaniaashish.gumroad.com/l/llmbook/",
+    "image": "https://ph-files.imgix.net/180fbe75-32e2-4b79-88c5-93cec8150a40.png",
+    "label_zh": "100个你需要真正理解的LLM概念"
+  },
+  {
+    "name": "FarmKeep",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/farmkeep",
+    "created_at": "",
+    "id": "farmkeep",
+    "label": "Modern comprehensive farm management app",
+    "topics": [],
+    "votes": 7,
+    "visit_url": "https://www.farmkeep.com",
+    "image": "https://ph-files.imgix.net/4500374c-5b06-4521-bb06-f2d15e1e5b32.png",
+    "label_zh": "现代综合农场管理应用"
+  },
+  {
+    "name": "GutLog",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/gutlog",
+    "created_at": "",
+    "id": "gutlog",
+    "label": "Simple and private bowel movement tracker.",
+    "topics": [
+      "Medical"
+    ],
+    "votes": 8,
+    "visit_url": "https://apps.apple.com/us/app/gutlog-stool-symptom-diary/id6745683985",
+    "image": "https://ph-files.imgix.net/2fad1f4a-704d-446b-99b1-f9b5fd425083.png",
+    "label_zh": "简单且私密的排便记录器。",
+    "topics_zh": [
+      "医疗"
+    ]
+  }
+]

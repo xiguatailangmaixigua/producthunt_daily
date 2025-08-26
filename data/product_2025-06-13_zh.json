@@ -1,0 +1,324 @@
+[
+  {
+    "name": "Flowstep",
+    "description": "Flowstep is your AI design assistant, transforming simple text prompts into UI designs, wireframes, and flows. Accelerate your workflow, iterate effortlessly with built-in suggestions, and collaborate seamlessly in real-time to bring your ideas to life.",
+    "product_hunt_url": "https://www.producthunt.com/products/flowstep",
+    "created_at": "",
+    "id": "flowstep",
+    "label": "Design beautiful UIs instantly with AI",
+    "topics": [
+      "Interface design tools",
+      "Wireframing",
+      "Design mockups"
+    ],
+    "votes": 502,
+    "visit_url": "https://flowstep.ai/",
+    "image": "https://ph-files.imgix.net/6293a4eb-0491-4268-92a5-688ce248929d.png",
+    "label_zh": "设计美丽的用户界面，瞬间完成，借助AI之力",
+    "topics_zh": [
+      "界面设计工具",
+      "线框图",
+      "设计原型"
+    ],
+    "content_zh": "Flowstep 是你的人工智能设计助手，可以将简单的文本提示转化为用户界面设计、线框图和流程图。它能加速你的工作流程，提供内置建议让你轻松迭代，并支持实时无缝协作，帮助你将创意变为现实。"
+  },
+  {
+    "name": "Dia Browser",
+    "description": "Dia is the AI browser from The Browser Company. Chat with your tabs, write in your own voice, learn and plan faster, shop, and more — all with privacy that you control.",
+    "product_hunt_url": "https://www.producthunt.com/products/dia-browser",
+    "created_at": "",
+    "id": "dia-browser",
+    "label": "The AI browser where you can chat with your tabs",
+    "topics": [],
+    "votes": 367,
+    "visit_url": "https://www.diabrowser.com/",
+    "image": "https://ph-files.imgix.net/4f17eed2-91cc-412c-a501-215f597c50e0.png",
+    "label_zh": "可以与标签页聊天的AI浏览器",
+    "content_zh": "Dia Browser 是来自 The Browser Company 的一款 AI 浏览器。你可以与标签页聊天，用你自己的语言写作，更快地学习和规划，购物等，所有这些都由你自己掌控隐私。"
+  },
+  {
+    "name": "CoPilot.Live",
+    "description": "CoPilot.Live is built with a vision to create a versatile AI-driven platform that empowers users with fast, accurate, and context-aware assistance, transforming how information is accessed and data-driven decisions are made across various domains.",
+    "product_hunt_url": "https://www.producthunt.com/products/copilot-live",
+    "created_at": "",
+    "id": "copilot-live",
+    "label": "Your Personalised AI Assistant",
+    "topics": [
+      "Email clients",
+      "Writing assistants",
+      "AI Chatbots",
+      "Customer support tools",
+      "Work & Productivity",
+      "Wearables",
+      "LLMs"
+    ],
+    "votes": 249,
+    "visit_url": "https://www.fynd.com/solutions/ai-agent-builder",
+    "image": "https://ph-files.imgix.net/81de6f00-1fa3-49cb-9b5f-82b149206215.jpeg",
+    "label_zh": "您的个性化AI助手",
+    "topics_zh": [
+      "电子邮件客户端",
+      "写作助手",
+      "AI聊天机器人",
+      "客户支持工具",
+      "工作与生产力",
+      "可穿戴设备",
+      "大型语言模型"
+    ],
+    "content_zh": "CoPilot.Live 是一个多功能的 AI 驱动平台，旨在为用户提供快速、准确且上下文感知的帮助，从而改变各个领域中信息获取和数据驱动决策的方式。"
+  },
+  {
+    "name": "kukumber:",
+    "description": "Built with 100+ parents and teachers, kukumber helps kids aged 5–9 build learning habits, boost confidence, and make real progress—just 20 minutes a day. 1,000+ playful lessons, a talking AI mascot, and zero ads. Frustration-free. Full of fun.",
+    "product_hunt_url": "https://www.producthunt.com/products/kukumber-daily-math-practice-for-kids",
+    "created_at": "",
+    "id": "kukumber-daily-math-practice-for-kids",
+    "label": "Your child’s AI math companion that will make them love math",
+    "topics": [],
+    "votes": 242,
+    "visit_url": "https://kukumber.kids",
+    "image": "https://ph-files.imgix.net/d1446478-8614-4065-8cc1-f95c412df1b4.png",
+    "label_zh": "孩子的AI数学伙伴，让他们爱上数学",
+    "content_zh": "kukumber 是一款与100多位家长和老师共同开发的产品，旨在帮助5到9岁的孩子培养学习习惯、增强自信并取得实际进步。每天只需20分钟，就能享受1000多节趣味课程，还有一个会说话的AI吉祥物，全程无广告。使用起来毫无挫败感，充满乐趣。"
+  },
+  {
+    "name": "PageAI",
+    "description": "The best AI website generator that can plan, design and code your landing page in minutes. Uses open source, well-documented components, builds wireframe, writes copy and selects colors, fonts and allows customization with 1 click. Get the source or deploy!",
+    "product_hunt_url": "https://www.producthunt.com/products/page-ai-websites-a-human-would-build",
+    "created_at": "",
+    "id": "page-ai-websites-a-human-would-build",
+    "label": "The AI that designs & codes websites better than Lovable/v0",
+    "topics": [
+      "Landing page builders",
+      "Website builders"
+    ],
+    "votes": 306,
+    "visit_url": "https://pageai.pro/",
+    "image": "https://ph-files.imgix.net/9533112c-a034-4086-a6dc-0a71c1d31db1.png",
+    "label_zh": "设计和编码网站比 Lovable/v0 更出色的 AI",
+    "topics_zh": [
+      "落地页构建工具，网站构建工具"
+    ],
+    "content_zh": "PageAI 是一款强大的 AI 网站生成器，只需几分钟就能帮你规划、设计和编写着陆页。它使用开源且文档齐全的组件，可以构建线框图、撰写文案，并选择颜色和字体。你还可以一键进行自定义设置。完成后，你可以获取源代码或直接部署！"
+  },
+  {
+    "name": "Scripe",
+    "description": "Scripe knows what works by analyzing thousands of viral LinkedIn posts daily. Like a personal content strategist, Scripe knows what works by analyzing thousands of viral LinkedIn posts daily uniting it with all your knowledge into a repeatable content system. No generic AI fluff - train the AI with your knowledge to generate personalized content. Get weekly post drafts in your inbox that sound exactly like you, tailored to your goals and positioning.",
+    "product_hunt_url": "https://www.producthunt.com/products/scripe-2",
+    "created_at": "",
+    "id": "scripe-2",
+    "label": "Create LinkedIn content the algorithm loves in <5 minutes",
+    "topics": [
+      "Professional networking platforms",
+      "Writing assistants"
+    ],
+    "votes": 171,
+    "visit_url": "https://scripe.io",
+    "image": "https://ph-files.imgix.net/539e59f8-e9f0-44cf-9d54-5a6ba0eae8ff.png",
+    "label_zh": "在5分钟内创建算法喜欢的LinkedIn内容",
+    "topics_zh": [
+      "专业社交平台，写作助手"
+    ],
+    "content_zh": "Scripe 通过每天分析数千篇在 LinkedIn 上走红的帖子，了解哪些内容最受欢迎。就像一个私人内容策略师，Scripe 结合你的知识，将这些热门内容整合成一套可重复使用的内容系统。它不会生成千篇一律的 AI 内容，而是根据你的知识训练 AI，生成个性化的内容。每周你都会收到为你量身定制的帖子草稿，风格和语气都像你自己写的，完全符合你的目标和定位。"
+  },
+  {
+    "name": "Komiko",
+    "description": "Komiko is an AI creation platform for visual storytelling. Easily design characters, generate art, create comics, and produce stunning animations. Built by and for anime and comic fans, Komiko makes it easier than ever to bring your stories to life.",
+    "product_hunt_url": "https://www.producthunt.com/products/framepack-ai-video-generator",
+    "created_at": "",
+    "id": "framepack-ai-video-generator",
+    "label": "All-in-one AI creation platform for anime and comics",
+    "topics": [
+      "3D & Animation",
+      "AI Generative Art"
+    ],
+    "votes": 91,
+    "visit_url": "https://komiko.app",
+    "image": "https://ph-files.imgix.net/aae5fb70-4299-4ab9-af50-74cb706dd463.png",
+    "label_zh": "一站式动漫和漫画AI创作平台",
+    "topics_zh": [
+      "3D与动画",
+      "AI生成艺术"
+    ],
+    "content_zh": "Komiko 是一个用于视觉叙事的 AI 创作平台。你可以轻松设计角色、生成艺术作品、创作漫画，并制作出令人惊艳的动画。这个平台由动漫和漫画爱好者打造，专为同好们服务，让故事呈现变得更加简单。"
+  },
+  {
+    "name": "Async Voice AI",
+    "description": "Transform your applications with our premium voice AI technology. Our easy-to-use API delivers lifelike, expressive voices that capture human intonation, pronunciation, and emotional inflections with exceptional fidelity.",
+    "product_hunt_url": "https://www.producthunt.com/products/async-premium-voice-ai-api",
+    "created_at": "",
+    "id": "async-premium-voice-ai-api",
+    "label": "High-quality text-to-speech, designed for developers",
+    "topics": [
+      "Text-to-Speech",
+      "Unified API"
+    ],
+    "votes": 171,
+    "visit_url": "https://async.ai/",
+    "image": "https://ph-files.imgix.net/c23c958a-4563-4ccb-bd1d-730083cceb64.png",
+    "label_zh": "高质量文本转语音，专为开发者设计",
+    "topics_zh": [
+      "文本转语音",
+      "统一API"
+    ],
+    "content_zh": "通过我们的高端语音AI技术，彻底改变您的应用程序。我们易于使用的API能够生成逼真的、富有表现力的声音，准确捕捉人类的语调、发音和情感变化，具有极高的保真度。"
+  },
+  {
+    "name": "Hugging Face",
+    "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+    "product_hunt_url": "https://www.producthunt.com/products/hugging-face",
+    "created_at": "",
+    "id": "hugging-face",
+    "label": "The AI community building the future.",
+    "topics": [
+      "Team collaboration software",
+      "AI Infrastructure Tools",
+      "AI",
+      "Social media management tools",
+      "Code editors",
+      "Design inspiration websites",
+      "Marketplace sites",
+      "Business intelligence software",
+      "Design & Creative",
+      "LLMs"
+    ],
+    "votes": 172,
+    "visit_url": "https://huggingface.co/aisheets",
+    "image": "https://ph-files.imgix.net/641aa23b-9ce1-4785-98a9-b06dfd54b146.png",
+    "label_zh": "构建未来的AI社区。",
+    "topics_zh": [
+      "团队协作软件",
+      "AI基础设施工具",
+      "人工智能",
+      "社交媒体管理工具",
+      "代码编辑器",
+      "设计灵感网站",
+      "市场平台网站",
+      "商业智能软件",
+      "设计与创意",
+      "大型语言模型"
+    ],
+    "content_zh": "我们致力于通过开源和开放科学来推动和普及人工智能。"
+  },
+  {
+    "name": "Gentoro 1.0",
+    "description": "Go beyond drag-and-drop, no-code, and low-code tools to start vibing with Gentoro. Purpose-built around the Model Context Protocol (MCP), the Gentoro platform lets you generate, manage, and secure MCP Tools with no custom code and no vendor lock-in.",
+    "product_hunt_url": "https://www.producthunt.com/products/gentoro-1-0",
+    "created_at": "",
+    "id": "gentoro-1-0",
+    "label": "The Fastest Way to Build and Run MCP Tools",
+    "topics": [
+      "No-code platforms",
+      "Work & Productivity",
+      "AI Infrastructure Tools"
+    ],
+    "votes": 59,
+    "visit_url": "https://playground.gentoro.com/signup",
+    "image": "https://ph-files.imgix.net/9fade076-91bb-4d38-ad18-d4f05b18b197.jpeg",
+    "label_zh": "最快的构建和运行MCP工具的方法",
+    "topics_zh": [
+      "无代码平台，工作与生产力，AI基础设施工具"
+    ],
+    "content_zh": "超越拖放、无代码和低代码工具，开始使用Gentoro。该平台基于模型上下文协议（MCP）构建，让你无需编写自定义代码，也无需担心供应商锁定，就能生成、管理和保护MCP工具。"
+  },
+  {
+    "name": "Pdforge",
+    "description": "Create reusable PDF templates or one-off documents in minutes using our AI Agents. Fine tune the design with our no-code builder and automate the delivery with our easy-to-use API or native integration with no-code tools.",
+    "product_hunt_url": "https://www.producthunt.com/products/pdforge",
+    "created_at": "",
+    "id": "pdforge",
+    "label": "Automate your PDF Generation with AI",
+    "topics": [
+      "No-code platforms",
+      "Automation tools",
+      "PDF Editor"
+    ],
+    "votes": 59,
+    "visit_url": "https://pdforge.com",
+    "image": "https://ph-files.imgix.net/4ef7c3c3-8990-4d6c-9c3c-6423a1387e19.png",
+    "label_zh": "用AI自动化生成PDF",
+    "topics_zh": [
+      "无代码平台",
+      "自动化工具",
+      "PDF编辑器"
+    ],
+    "content_zh": "使用我们的AI代理，几分钟内即可创建可重复使用的PDF模板或一次性文档。通过我们的无代码构建器微调设计，并通过易于使用的API或与无代码工具的原生集成自动交付。"
+  },
+  {
+    "name": "Orshot – API for Image Generation",
+    "description": "Create and automate marketing assets at scale. Generate dynamic images from AI Generated templates via Rest API, SDKs, Zapier and other integrations",
+    "product_hunt_url": "https://www.producthunt.com/products/orshot",
+    "created_at": "",
+    "id": "orshot",
+    "label": "Creative Automation for Marketing",
+    "topics": [
+      "Automation tools"
+    ],
+    "votes": 150,
+    "visit_url": "https://orshot.com/features/ai-template-generator",
+    "image": "https://ph-files.imgix.net/058f00b7-73b7-440b-89e8-618fc37c6c16.png",
+    "label_zh": "创意自动化营销",
+    "topics_zh": [
+      "自动化工具"
+    ],
+    "content_zh": "创建和自动化大规模的营销素材。通过Rest API、SDKs、Zapier和其他集成工具，从AI生成的模板中生成动态图片。"
+  },
+  {
+    "name": "AppReply",
+    "description": "The only app review management platform that learns from your past responses & replies like your team already does – on autopilot.\n\nStart sending on-brand, personalized replies to Google Play and App Store app reviews in 100+ languages in minites, in a simple, easy-to-use interface.\n\nTrusted by over 150 app & game publishers with a combined total of 160,000,000 downloads.",
+    "product_hunt_url": "https://www.producthunt.com/products/appreply",
+    "created_at": "",
+    "id": "appreply",
+    "label": "Reply to app store reviews automatically",
+    "topics": [
+      "Customer support tools",
+      "Automation tools",
+      "AI"
+    ],
+    "votes": 147,
+    "visit_url": "https://appreply.co",
+    "image": "https://ph-files.imgix.net/7256b702-5e2d-4622-8f29-cc802e72e0bf.png",
+    "label_zh": "自动回复应用商店评论",
+    "topics_zh": [
+      "客户支持工具，自动化工具，人工智能"
+    ],
+    "content_zh": "唯一一个能从你过去的回复中学习并自动回复的应用评论管理平台，就像你的团队已经在做的那样。\n\n几分钟内就能通过简单易用的界面，用100多种语言发送符合品牌风格的个性化回复到Google Play和App Store的应用评论。\n\n已有超过150家应用和游戏发行商信任我们，这些发行商的应用总下载量达到1.6亿次。"
+  },
+  {
+    "name": "Origin AI",
+    "description": "BUILD FASTER THAN EVER BEFORE: Origin AI lets you create and launch internal saas style tools in minutes, tailored exactly to your business. Enjoy full control with complete source-code access, and enterprise-grade security by deploying in our secure AWS cloud or your own. Change features effortlessly just by talking - no coding needed - and include databases and other backend services without signing up to 3rd party services. Traditional SaaS is dead; welcome to a new, smarter way of working.",
+    "product_hunt_url": "https://www.producthunt.com/products/origin-5",
+    "created_at": "",
+    "id": "origin-5",
+    "label": "Turn prompts into full-stack apps - no code needed!",
+    "topics": [
+      "AI Coding Assistants",
+      "No-code platforms",
+      "AI Infrastructure Tools"
+    ],
+    "votes": 120,
+    "visit_url": "https://theorigin.ai",
+    "image": "https://ph-files.imgix.net/3d1d5332-4038-4e35-853d-28600aa3bd7f.png",
+    "label_zh": "将提示转化为全栈应用 - 无需编码！",
+    "topics_zh": [
+      "AI 编码助手",
+      "无代码平台",
+      "AI 基础设施工具"
+    ],
+    "content_zh": "构建速度前所未有的快：Origin AI 让你几分钟内就能创建并发布定制化的内部 SaaS 工具，完全贴合你的业务需求。你可以完全掌控源代码，并通过部署在我们安全的 AWS 云或你自己的服务器上，享受企业级的安全保障。只需简单对话就能轻松更改功能，无需编写任何代码，还能直接集成数据库和其他后端服务，无需注册第三方服务。传统的 SaaS 已经过时，欢迎来到更智能的工作方式。"
+  },
+  {
+    "name": "Ente Photos",
+    "description": "Ente Photos is an open‑source, end‑to‑end encrypted photo & video storage app for mobile, desktop, & web. Enjoy secure backups (3‑cloud redundancy), on‑device AI, privacy-first sharing, family plans & stunning memories. Get started with 10GB free.",
+    "product_hunt_url": "https://www.producthunt.com/products/ente-photos",
+    "created_at": "",
+    "id": "ente-photos",
+    "label": "End-to-end encrypted alternative to Google Photos",
+    "topics": [],
+    "votes": 133,
+    "visit_url": "https://ente.io",
+    "image": "https://ph-files.imgix.net/764b83a0-6e84-42eb-ad10-84e7a050d81c.jpeg",
+    "label_zh": "端到端加密的 Google 相册替代品",
+    "content_zh": "Ente Photos 是一款开源的端到端加密照片和视频存储应用，支持手机、桌面和网页。它提供安全备份（三重云冗余）、设备上的 AI 功能、注重隐私的分享、家庭套餐以及精美的回忆功能。新用户可以免费获得 10GB 存储空间。"
+  }
+]

@@ -1,0 +1,279 @@
+[
+  {
+    "name": "Magic Hour",
+    "description": "Magic Hour allows anyone to create engaging video content in just minutes. We take the best open source models and put them in easy-to-use interfaces so you can generate videos in styles including animations, video-to-video, face swap, and text-to-video. You can use the product at magichour.ai",
+    "product_hunt_url": "https://www.producthunt.com/products/magic-hour-2",
+    "created_at": "",
+    "id": "magic-hour-2",
+    "label": "Platform for AI video generation",
+    "topics": [
+      "Photo editing",
+      "Avatar generators",
+      "Stock photo sites",
+      "AI Generative Art",
+      "Presentation Software",
+      "Video editing"
+    ],
+    "votes": 290,
+    "visit_url": "https://magichour.ai/products/ai-selfie-generator",
+    "image": "https://ph-files.imgix.net/74bfcb96-df86-4a33-9596-938287bace35.png",
+    "label_zh": "用于AI视频生成的平台",
+    "topics_zh": [
+      "照片编辑",
+      "头像生成器",
+      "图库网站",
+      "AI生成艺术",
+      "演示软件",
+      "视频编辑"
+    ],
+    "content_zh": "Magic Hour 让任何人都能在几分钟内制作出吸引人的视频内容。我们采用了最好的开源模型，并将其整合到易于使用的界面中，让你可以生成多种风格的视频，包括动画、视频转视频、换脸和文字转视频。你可以在 magichour.ai 上使用这个产品。"
+  },
+  {
+    "name": "Project Indigo",
+    "description": "Project Indigo is Adobe’s free iPhone camera app for pro-quality photos. Enjoy SLR-like natural looks, full manual controls, multi-frame HDR, raw/JPEG, super-resolution zoom, and seamless Lightroom integration. Capture, edit, and share—no sign-in needed.",
+    "product_hunt_url": "https://www.producthunt.com/products/project-indigo",
+    "created_at": "",
+    "id": "project-indigo",
+    "label": "A computational photography camera app",
+    "topics": [],
+    "votes": 234,
+    "visit_url": "https://research.adobe.com/articles/indigo/indigo.html",
+    "image": "https://ph-files.imgix.net/efa954c5-d408-4469-b964-a03083fea9d4.png",
+    "label_zh": "一款计算摄影相机应用",
+    "content_zh": "Project Indigo 是 Adobe 推出的一款免费 iPhone 摄影应用，可以拍摄出专业级的照片。它能提供类似单反的自然效果、全手动控制、多帧 HDR、RAW 和 JPEG 格式支持、超分辨率变焦以及与 Lightroom 的无缝集成。你可以轻松拍摄、编辑和分享照片，无需登录。"
+  },
+  {
+    "name": "Z3D",
+    "description": "Z3D turns your ideas into 3D reality. Type a prompt or use an image to create pro-grade 3D models and scenes in seconds—no skills needed. Build stunning 3D worlds with ease.",
+    "product_hunt_url": "https://www.producthunt.com/products/z3d",
+    "created_at": "",
+    "id": "z3d",
+    "label": "3D, Done Easy",
+    "topics": [
+      "Design resources",
+      "3D & Animation",
+      "AI Generative Art"
+    ],
+    "votes": 195,
+    "visit_url": "https://z3d.ai",
+    "image": "https://ph-files.imgix.net/6ac81339-6d8e-45e2-bac3-4bedd0891268.png",
+    "label_zh": "3D，轻松搞定",
+    "topics_zh": [
+      "设计资源",
+      "3D与动画",
+      "AI生成艺术"
+    ],
+    "content_zh": "Z3D 可以将你的创意变成三维现实。只需输入提示或使用图片，几秒钟内就能创建出专业级的 3D 模型和场景，无需任何技能。轻松构建令人惊叹的 3D 世界。"
+  },
+  {
+    "name": "LLM SEO FAQ",
+    "description": "LLM SEO FAQ lets you generate search intent optimized FAQ content for any URL. Just paste in the URL and LLM SEO FAQ will write the ideal FAQ section optimized for your ideal customer profile within seconds. Great for SEO consultants, marketers and agencies.",
+    "product_hunt_url": "https://www.producthunt.com/products/llm-seo-faq-generator",
+    "created_at": "",
+    "id": "llm-seo-faq-generator",
+    "label": "Generate search intent optimized FAQs for any URL for FREE",
+    "topics": [
+      "Best SEO tools",
+      "LLMs"
+    ],
+    "votes": 153,
+    "visit_url": "https://llmseofaq.com/",
+    "image": "https://ph-files.imgix.net/485ffc9a-9f8c-4255-b2d2-b709d2bec34a.png",
+    "label_zh": "生成针对搜索意图优化的常见问题解答，适用于任何网址，完全免费",
+    "topics_zh": [
+      "最佳SEO工具，大语言模型"
+    ],
+    "content_zh": "LLM SEO FAQ 可以帮你为任何网址生成优化过的常见问题内容。只需粘贴网址，LLM SEO FAQ 就能在几秒钟内为你写出针对理想客户群体优化的常见问题部分。非常适合SEO顾问、营销人员和代理机构使用。"
+  },
+  {
+    "name": "CostCuts",
+    "description": "CostCuts is the easiest way for your business to save money and time on software by unlocking discounts through group buying, long-term contracts, and negotiating on your behalf. Did we mention it's free? 💵",
+    "product_hunt_url": "https://www.producthunt.com/products/costcuts",
+    "created_at": "",
+    "id": "costcuts",
+    "label": "The fastest way to save up to 30% on software for free",
+    "topics": [],
+    "votes": 174,
+    "visit_url": "https://costcuts.co/",
+    "image": "https://ph-files.imgix.net/6793d214-41e5-4769-818b-16e0419879f8.png",
+    "label_zh": "最快速的方法，免费节省高达30%的软件费用",
+    "content_zh": "CostCuts 是帮助您的企业通过团购、长期合同和代为谈判来节省软件费用和时间的最简单方法。而且它是完全免费的！ 💵"
+  },
+  {
+    "name": "fluss.studio",
+    "description": "fluss.studio is a project management app helping you spend less time juggling tools and more time doing what you love. Bringing together client communication, task tracking, invoicing and knowledge spaces ✨ Targeted to small teams and freelancers.",
+    "product_hunt_url": "https://www.producthunt.com/products/fluss-studio",
+    "created_at": "",
+    "id": "fluss-studio",
+    "label": "Spend less time juggling tools & more time doing great work.",
+    "topics": [
+      "Team collaboration software",
+      "Project management software"
+    ],
+    "votes": 126,
+    "visit_url": "https://flussstudio.com",
+    "image": "https://ph-files.imgix.net/db096782-e402-4dbe-ac27-e0ae371ae8a2.png",
+    "label_zh": "花费更少的时间切换工具，投入更多时间做出色的工作。",
+    "topics_zh": [
+      "团队协作软件",
+      "项目管理软件"
+    ],
+    "content_zh": "fluss.studio 是一款项目管理应用，旨在帮助你减少工具切换的时间，让你有更多时间专注于自己喜欢的事情。它集成了客户沟通、任务跟踪、发票管理和知识空间等功能，特别适合小型团队和自由职业者使用。"
+  },
+  {
+    "name": "Hartect",
+    "description": "Monitor and remediate your website's reputation. It may be blocked and flagged by Antivirus, ChatGPT, Gemini, Claude, the government, consumer rights, or anything else.",
+    "product_hunt_url": "https://www.producthunt.com/products/hartect",
+    "created_at": "",
+    "id": "hartect",
+    "label": "Monitor Antiviruses & AI blocking your website",
+    "topics": [],
+    "votes": 114,
+    "visit_url": "https://hartect.com/",
+    "image": "https://ph-files.imgix.net/898f9b6f-0a6a-4354-9ecb-8abe16c44bee.jpeg",
+    "label_zh": "监控杀毒软件和AI阻止访问您的网站",
+    "content_zh": "监控并修复您网站的声誉。您的网站可能会被杀毒软件、ChatGPT、Gemini、Claude、政府、消费者权益组织或其他任何机构封禁或标记。"
+  },
+  {
+    "name": "Realbotix",
+    "description": "AI-powered robots for companionship, entertainment and customer service. Realbotix offers human-like robots for superior social interactions in a variety of settings that improve human experiences through connection, learning and play.",
+    "product_hunt_url": "https://www.producthunt.com/products/realbotix",
+    "created_at": "",
+    "id": "realbotix",
+    "label": "Hyper-realistic AI humanoids for seamless human interaction",
+    "topics": [
+      "AI",
+      "Physical Products"
+    ],
+    "votes": 112,
+    "visit_url": "https://www.realbotix.com/",
+    "image": "https://ph-files.imgix.net/3a0eda20-358c-46db-9459-0a7358c1aa0b.png",
+    "label_zh": "超逼真AI人形机器人，实现无缝人类互动",
+    "topics_zh": [
+      "AI",
+      "实体产品"
+    ],
+    "content_zh": "Realbotix 提供由人工智能驱动的机器人，适用于陪伴、娱乐和客户服务。这些机器人具有类似人类的特征，能够在各种场景中提供卓越的社交互动，通过连接、学习和娱乐来提升人们的体验。"
+  },
+  {
+    "name": "RivalFinder",
+    "description": "AI-powered competitor search — Find all competitors and get deep analytics to win your market!",
+    "product_hunt_url": "https://www.producthunt.com/products/rivalfinder",
+    "created_at": "",
+    "id": "rivalfinder",
+    "label": "Find & analyze all startup competitors!",
+    "topics": [],
+    "votes": 24,
+    "visit_url": "https://www.rivalfinder.cv/",
+    "image": "https://ph-files.imgix.net/f5acd0ea-7a31-4ef2-849c-d8eeeb52daff.png",
+    "label_zh": "找到并分析所有创业竞争对手！",
+    "content_zh": "RivalFinder：利用AI技术进行竞争对手搜索——找到所有竞争对手并获取深入分析，助你赢得市场！"
+  },
+  {
+    "name": "LookCrafted",
+    "description": "LookCrafted is the leading AI headshot generator for stunning, studio-quality photos. Upload selfies and get 100+ professional headshots in minutes — perfect for LinkedIn, resumes, and more.",
+    "product_hunt_url": "https://www.producthunt.com/products/lookcrafted",
+    "created_at": "",
+    "id": "lookcrafted",
+    "label": "Studio-Quality AI Headshots in Minutes, Not Days.",
+    "topics": [],
+    "votes": 19,
+    "visit_url": "https://lookcrafted.com",
+    "image": "https://ph-files.imgix.net/66fa45cc-1dc7-4126-8df1-49466f89efae.png",
+    "label_zh": "几分钟内获得工作室级AI头像，无需等待数日。",
+    "content_zh": "LookCrafted 是领先的 AI 证件照生成器，可以生成令人惊艳的、达到影棚质量的照片。上传自拍照，几分钟内就能获得100多张专业证件照——非常适合用于 LinkedIn、简历等场合。"
+  },
+  {
+    "name": "PIXEL",
+    "description": "A minimal tool for drawing, making frame by frame animations and exporting 8-bit icons and illustrations.",
+    "product_hunt_url": "https://www.producthunt.com/products/pixel-5",
+    "created_at": "",
+    "id": "pixel-5",
+    "label": "Make a Pixel",
+    "topics": [],
+    "votes": 17,
+    "visit_url": "https://red-drop-56077636.figma.site",
+    "image": "https://ph-files.imgix.net/3e61362b-c570-4cff-960c-35da3357e16b.png",
+    "label_zh": "制作一个像素",
+    "content_zh": "一个简洁的工具，用于绘制、制作逐帧动画，并导出8位图标和插图。"
+  },
+  {
+    "name": "VeriDiff",
+    "description": "One tool to compare documents. Engaging UI/UX, download differences to continue working. I have struggled with data comparison in my projects and thus went down this path. I would appreciate if you can have a look and share your thoughts",
+    "product_hunt_url": "https://www.producthunt.com/products/veridiff",
+    "created_at": "",
+    "id": "veridiff",
+    "label": "Document comparison in your browser - Excel, Word, PDF, CSV",
+    "topics": [
+      "Legal services",
+      "Spreadsheets",
+      "Financial planning"
+    ],
+    "votes": 14,
+    "visit_url": "https://veridiff.com",
+    "image": "https://ph-files.imgix.net/c8ce94e2-5d2b-4423-8122-1f968664f050.png",
+    "label_zh": "浏览器中的文档对比 - Excel、Word、PDF、CSV",
+    "topics_zh": [
+      "法律服务",
+      "电子表格",
+      "财务规划"
+    ],
+    "content_zh": "一个工具，用于比较文档。它具有吸引人的用户界面和用户体验，可以下载差异部分以便继续工作。我在项目中经常遇到数据比较的问题，因此开发了这个工具。希望你能看看并分享你的想法。"
+  },
+  {
+    "name": "Progressor",
+    "description": "Progressor helps you turn big goals into clear steps with coaching support. It starts by asking smart questions to understand your situation, then builds a tailored plan. Want to launch an app and reach €10k MRR? Progressor walks you through it, step by step.",
+    "product_hunt_url": "https://www.producthunt.com/products/progressor-2",
+    "created_at": "",
+    "id": "progressor-2",
+    "label": "Your coach and blueprint for ambitious goals",
+    "topics": [
+      "Note and writing apps"
+    ],
+    "votes": 12,
+    "visit_url": "https://progressor.me/",
+    "image": "https://ph-files.imgix.net/da353521-b458-4c28-a3fe-73df3ede7718.png",
+    "label_zh": "你的雄心目标的教练和蓝图",
+    "topics_zh": [
+      "笔记和写作应用"
+    ],
+    "content_zh": "Progressor 帮助你将大目标分解成清晰的步骤，并提供指导支持。它首先通过提出一些聪明的问题来了解你的情况，然后为你量身定制一个计划。如果你想推出一个应用并实现每月1万欧元的经常性收入，Progressor 会一步步引导你完成这个过程。"
+  },
+  {
+    "name": "TalktoBuild AI",
+    "description": "TalkToBuild is your AI co-founder. Just talk, and it generates your startup — from name to MVP, branding to monetization — and helps you launch it fast. It’s not a chatbot. It’s an AI-powered OS that actually builds with you.",
+    "product_hunt_url": "https://www.producthunt.com/products/talktobuild-ai",
+    "created_at": "",
+    "id": "talktobuild-ai",
+    "label": "Build smarter. Start faster. Just talk.",
+    "topics": [],
+    "votes": 12,
+    "visit_url": "https://talktobuild.space",
+    "image": "https://ph-files.imgix.net/ad4afa80-3aea-4afd-a54a-ca067b9d7134.png",
+    "label_zh": "构建更智能。启动更快。只需对话。",
+    "content_zh": "TalktoBuild AI 是你的创业伙伴。你只需要和它对话，它就能帮你从公司命名到最小可行产品（MVP），从品牌建设到盈利模式，全程协助你快速启动项目。它不仅仅是一个聊天机器人，而是一个真正能与你一起构建项目的AI操作系统。"
+  },
+  {
+    "name": "SUNO Capture",
+    "description": "SUNO Capture enhances your Suno.ai experience by adding download buttons directly to the site. Save any song as MP3 or WAV. Use the batch download feature on your creation list to save all your tracks with a single click. Simple, fast, and free.",
+    "product_hunt_url": "https://www.producthunt.com/products/suno-capture",
+    "created_at": "",
+    "id": "suno-capture",
+    "label": "The one-click downloader for your Suno AI music.",
+    "topics": [
+      "Chrome Extensions",
+      "Social media management tools",
+      "Project management software"
+    ],
+    "votes": 11,
+    "visit_url": "https://chromewebstore.google.com/detail/%25F0%259F%258E%25B5-suno-capture/bdhngeainpppahifmjllmglphnfdohjd",
+    "image": "https://ph-files.imgix.net/ac0b1374-4643-4aa0-8302-c1e33ce8c4c2.png",
+    "label_zh": "一键下载您的Suno AI音乐。",
+    "topics_zh": [
+      "Chrome 扩展程序",
+      "社交媒体管理工具",
+      "项目管理软件"
+    ],
+    "content_zh": "SUNO Capture 通过在网站上直接添加下载按钮，提升了你在 Suno.ai 的使用体验。你可以将任何歌曲保存为 MP3 或 WAV 格式。你还可以使用批量下载功能，在创作列表中一键保存所有曲目。简单、快速且免费。"
+  }
+]

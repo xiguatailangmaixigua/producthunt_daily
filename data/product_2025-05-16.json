@@ -1,0 +1,241 @@
+[
+  {
+    "name": "LilysAI",
+    "description": "Drowning in information, you're likely missing valuable insights. LilysAI instantly extracts key takeaways from YouTube, PDFs, and articles—letting you dive deeper with one-click tools like mind maps and more. Reading alone just isn't enough anymore.",
+    "product_hunt_url": "https://www.producthunt.com/posts/lilysai",
+    "created_at": "",
+    "id": "lilysai",
+    "label": "Cursor for Information Addicts",
+    "topics": [
+      "Productivity",
+      "SaaS",
+      "Artificial Intelligence"
+    ],
+    "votes": 226,
+    "visit_url": "https://lilys.ai?utm_source=producthunt\\u0026utm_campaign=250515",
+    "image": "https://ph-files.imgix.net/a325551b-f340-480b-9888-b9f59f35c100.png"
+  },
+  {
+    "name": "Tolt",
+    "description": "Tolt helps SaaS startups launch and grow affiliate programs. Get automated payouts, fraud protection, seamless integrations (Stripe, Paddle, Chargebee), and a branded affiliate portal. Track performance with detailed reports and drive extra revenue! 🚀",
+    "product_hunt_url": "https://www.producthunt.com/posts/tolt",
+    "created_at": "",
+    "id": "tolt",
+    "label": "All-in-one affiliate marketing software for SaaS startups",
+    "topics": [
+      "SaaS",
+      "Marketing",
+      "Affiliate marketing"
+    ],
+    "votes": 355,
+    "visit_url": "https://tolt.io",
+    "image": "https://ph-files.imgix.net/d04fcf1b-9f6e-4a6a-95db-d5db2c44007b.png"
+  },
+  {
+    "name": "Bolto",
+    "description": "Bolto is an all in one recruiting and HR platform. It uses AI to source, interview, and match software engineers to startups, then enables startups to pay and manage those engineers in the same place.",
+    "product_hunt_url": "https://www.producthunt.com/posts/bolto-3",
+    "created_at": "",
+    "id": "bolto-3",
+    "label": "Find, interview, and hire engineers with AI",
+    "topics": [
+      "Human Resources",
+      "Hiring",
+      "Artificial Intelligence"
+    ],
+    "votes": 308,
+    "visit_url": "https://www.bolto.com",
+    "image": "https://ph-files.imgix.net/c20bde95-f1cd-4768-9352-cdaa79e1163f.png"
+  },
+  {
+    "name": "Plakar",
+    "description": "Plakar is an open-source backup and restore solution designed to simplify data protection for businesses of all sizes. It protects anything—from local files to multi-cloud AI pipelines—while keeping every snapshot lean, encrypted, and instantly recoverable.",
+    "product_hunt_url": "https://www.producthunt.com/posts/plakar",
+    "created_at": "",
+    "id": "plakar",
+    "label": "Effortless open source backup platform",
+    "topics": [
+      "GitHub",
+      "Encryption",
+      "Open Source"
+    ],
+    "votes": 281,
+    "visit_url": "https://plakar.io/",
+    "image": "https://ph-files.imgix.net/5dbc995a-4fa8-4814-add4-56da89303cd9.png"
+  },
+  {
+    "name": "PocketShield",
+    "description": "💡 Worried a file you’re about to share might contain something sensitive buried deep inside? Let PocketShield scan it first.\n\n🚀 Local-Only AI. No Cloud. No Risk. Powered by ThirdAI’s efficient CPU-only AI.\n\n✅ Scan up to 5GB of text per month totally free.",
+    "product_hunt_url": "https://www.producthunt.com/posts/pocketshield",
+    "created_at": "",
+    "id": "pocketshield",
+    "label": "Your Private AI for sensitive data discovery",
+    "topics": [
+      "Productivity",
+      "Tech",
+      "Artificial Intelligence"
+    ],
+    "votes": 75,
+    "visit_url": "https://www.thirdai.com/pocketshield/",
+    "image": "https://ph-files.imgix.net/7b7b9f79-cf60-4c0c-bc90-c65cea86e37f.png"
+  },
+  {
+    "name": "Granola 2.0",
+    "description": "Introducing the next chapter for Granola: bringing all your team's conversations into one place, and unlocking them with AI",
+    "product_hunt_url": "https://www.producthunt.com/posts/granola-2-0",
+    "created_at": "",
+    "id": "granola-2-0",
+    "label": "A second brain for your team",
+    "topics": [
+      "Notes",
+      "Meetings",
+      "Artificial Intelligence"
+    ],
+    "votes": 264,
+    "visit_url": "https://www.granola.ai/blog/two-dot-zero",
+    "image": "https://ph-files.imgix.net/9066e502-a991-4a5d-8de0-e508b7080525.png"
+  },
+  {
+    "name": "Playmaker",
+    "description": "Playmaker is your AI-powered vibe marketing sidekick for GTM success. Using just your work email, it analyzes your product, market, expert-led content, and competitors to deliver sharp, deep-researched growth plays. No fluff, just strategy that scales.",
+    "product_hunt_url": "https://www.producthunt.com/posts/playmaker-3",
+    "created_at": "",
+    "id": "playmaker-3",
+    "label": "Cursor for Vibe Marketing",
+    "topics": [
+      "Marketing automation",
+      "Business Intelligence",
+      "Artificial Intelligence"
+    ],
+    "votes": 79,
+    "visit_url": "https://tryplaymaker.io",
+    "image": "https://ph-files.imgix.net/065e0755-6eda-4d28-8d24-a9c0d1200ac5.png"
+  },
+  {
+    "name": "Flowise",
+    "description": "Open source Generative AI development platform for building AI agents & LLM workflows.",
+    "product_hunt_url": "https://www.producthunt.com/posts/flowise",
+    "created_at": "",
+    "id": "flowise",
+    "label": "Build AI agents, visually",
+    "topics": [
+      "Developer Tools",
+      "Open Source",
+      "Artificial Intelligence"
+    ],
+    "votes": 233,
+    "visit_url": "https://flowiseai.com",
+    "image": "https://ph-files.imgix.net/4ca2eea9-d717-4e7b-b113-66772f6a0e78.png"
+  },
+  {
+    "name": "Enigma X",
+    "description": "Create, share, and use encryption keys on your own. Without delegating it to messengers — but still using them at the same time. \n\nEnigma X consists of a main app and a custom keyboard.",
+    "product_hunt_url": "https://www.producthunt.com/posts/enigma-x",
+    "created_at": "",
+    "id": "enigma-x",
+    "label": "New layer of personal privacy",
+    "topics": [
+      "Encryption",
+      "Privacy",
+      "Custom Keyboards"
+    ],
+    "votes": 73,
+    "visit_url": "https://ifonly.tech",
+    "image": "https://ph-files.imgix.net/42031931-5282-4822-b78c-9b6d65e04d00.png"
+  },
+  {
+    "name": "OpenMemory MCP",
+    "description": "OpenMemory MCP is a private, local-first memory layer with a built-in UI, compatible with all MCP-clients. It ensures all memory stays local, structured, and under your control with no cloud sync or external storage.",
+    "product_hunt_url": "https://www.producthunt.com/posts/openmemory-mcp",
+    "created_at": "",
+    "id": "openmemory-mcp",
+    "label": "Your private, local memory layer for all AI tools",
+    "topics": [
+      "GitHub",
+      "Open Source",
+      "Artificial Intelligence"
+    ],
+    "votes": 181,
+    "visit_url": "https://mem0.ai/openmemory-mcp",
+    "image": "https://ph-files.imgix.net/2b4d406b-5e02-44b1-a537-785929155b3b.png"
+  },
+  {
+    "name": "Closure",
+    "description": "75M adult Americans experienced ghosting: from friends, loved ones, date partners, and even recruiters. \nVictims of ghosting want answers. They want their confidence back. \nClosure gives it all through AI-powered conversations with those who disappeared.",
+    "product_hunt_url": "https://www.producthunt.com/posts/closure",
+    "created_at": "",
+    "id": "closure",
+    "label": "AI-chats with those who disappeared",
+    "topics": [
+      "Messaging",
+      "Health",
+      "Artificial Intelligence"
+    ],
+    "votes": 56,
+    "visit_url": "https://closure.ink/ph",
+    "image": "https://ph-files.imgix.net/7bff1a26-7290-455c-a0ea-a352635fcb03.jpeg"
+  },
+  {
+    "name": "Cuemeet",
+    "description": "CueMeet is an open-source meeting API that gives developers the power to add video calls, real-time transcription, summaries, and insights into any product. Forget reinventing Meeting Bots, just plug in CueMeet and ship faster.",
+    "product_hunt_url": "https://www.producthunt.com/posts/cuemeet-2",
+    "created_at": "",
+    "id": "cuemeet-2",
+    "label": "The world's first universal opensource meeting bot API",
+    "topics": [
+      "Open Source",
+      "Meetings",
+      "API"
+    ],
+    "votes": 54,
+    "visit_url": "https://cuemeet.ai",
+    "image": "https://ph-files.imgix.net/dbbea61b-9dda-47cc-be95-a2844158dd29.png"
+  },
+  {
+    "name": "LightPDF AI Agent",
+    "description": "No more switching between multiple tools or tabs. With LightPDF AI Agent, you can manage your entire PDF workflow in a single window. Just upload your file and tell the AI what you want—it handles the rest.",
+    "product_hunt_url": "https://www.producthunt.com/posts/lightpdf-ai-agent",
+    "created_at": "",
+    "id": "lightpdf-ai-agent",
+    "label": "Your All-in-One PDF Assistant",
+    "topics": [
+      "Web App",
+      "Artificial Intelligence"
+    ],
+    "votes": 56,
+    "visit_url": "https://lightpdf.com/pdf-ai-agent",
+    "image": "https://ph-files.imgix.net/5b7813ab-93d5-4669-8272-39bce897f347.jpeg"
+  },
+  {
+    "name": "Mukh.1",
+    "description": "Mukh.1 is a no‑code visual builder that lets you drag‑drop AI agents, RAG, tools and multi‑agent workflows. Launch in minutes, monitor and scale across 2,500+ integrations, enterprise‑ready, MENA‑first. \nClick. Create. Automate.\nJoin us - Start for Free Today.",
+    "product_hunt_url": "https://www.producthunt.com/posts/mukh-1",
+    "created_at": "",
+    "id": "mukh-1",
+    "label": "Automate work with AI agents",
+    "topics": [
+      "Productivity",
+      "No-Code",
+      "Artificial Intelligence"
+    ],
+    "votes": 149,
+    "visit_url": "https://mukh.one/",
+    "image": "https://ph-files.imgix.net/237a5312-d4e9-4669-88d4-627b8857ded4.png"
+  },
+  {
+    "name": "1Stroke",
+    "description": "Right-click any text field, select \"Reply with AI\" and 1Stroke generates context-aware responses for emails, chats, social media, or reviews. 100% customizable to match your tone and brand. Try it free—works everywhere you type online.",
+    "product_hunt_url": "https://www.producthunt.com/posts/1stroke",
+    "created_at": "",
+    "id": "1stroke",
+    "label": "Right click and reply with AI",
+    "topics": [
+      "Chrome Extensions",
+      "SaaS",
+      "Artificial Intelligence"
+    ],
+    "votes": 145,
+    "visit_url": "https://www.1stroke.ai",
+    "image": "https://ph-files.imgix.net/568c77f9-8ace-4ee7-84ce-412921ef3bed.png"
+  }
+]

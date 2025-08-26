@@ -1,0 +1,190 @@
+[
+  {
+    "name": "Vireel",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/muse-15",
+    "created_at": "",
+    "id": "muse-15",
+    "label": "AI Reels from Proven Viral Formulas",
+    "topics": [],
+    "votes": 391,
+    "visit_url": "https://vireel.com",
+    "image": "https://ph-files.imgix.net/a87567d7-0724-4549-8644-c3e5673d8782.png"
+  },
+  {
+    "name": "Hera",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/hera-6",
+    "created_at": "",
+    "id": "hera-6",
+    "label": "Your AI Motion Designer",
+    "topics": [],
+    "votes": 328,
+    "visit_url": "https://hera.video/",
+    "image": "https://ph-files.imgix.net/460ca251-ad78-4750-8b8b-ed096fdd2ca4.png"
+  },
+  {
+    "name": "CourseCorrect",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/coursecorrect",
+    "created_at": "",
+    "id": "coursecorrect",
+    "label": "AI course matchmaker for real career impact",
+    "topics": [],
+    "votes": 436,
+    "visit_url": "https://coursecorrect.fyi",
+    "image": "https://ph-files.imgix.net/34495328-1a98-401f-a50d-52263cd1ba29.png"
+  },
+  {
+    "name": "DreamCore",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/dreamcore",
+    "created_at": "",
+    "id": "dreamcore",
+    "label": "Develop and share mobile games from a single prompt",
+    "topics": [],
+    "votes": 256,
+    "visit_url": "https://dreamcore.gg/",
+    "image": "https://ph-files.imgix.net/62c89a09-2fd1-43a7-b770-8da62c132b93.png"
+  },
+  {
+    "name": "Wepost",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/wepost",
+    "created_at": "",
+    "id": "wepost",
+    "label": "AI building personal brands for companies",
+    "topics": [
+      "Startup communities",
+      "Social media management tools",
+      "Automation tools",
+      "Business intelligence software"
+    ],
+    "votes": 163,
+    "visit_url": "https://saga.wepost.ai",
+    "image": "https://ph-files.imgix.net/aa735b5f-131b-41e5-833b-39d51a17cb2a.png"
+  },
+  {
+    "name": "Dereference",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/dereference-the-100x-ide",
+    "created_at": "",
+    "id": "dereference-the-100x-ide",
+    "label": "IDE for Claude Code",
+    "topics": [],
+    "votes": 188,
+    "visit_url": "https://dereference.dev",
+    "image": "https://ph-files.imgix.net/c0597e3c-f459-4b37-b651-7cec69acd250.png"
+  },
+  {
+    "name": "Click to Woof",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/click-to-woof",
+    "created_at": "",
+    "id": "click-to-woof",
+    "label": "Tired of AI agents? – Time to woof! 🐶",
+    "topics": [],
+    "votes": 136,
+    "visit_url": "https://clicktowoof.lol",
+    "image": "https://ph-files.imgix.net/c12d7d7d-0191-4cb2-8039-e147d523f5dc.png"
+  },
+  {
+    "name": "CruiseBot by GetMyCruise",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/getmycruise-com",
+    "created_at": "",
+    "id": "getmycruise-com",
+    "label": "AI-powered end-to-end cruise booking on WhatsApp",
+    "topics": [],
+    "votes": 54,
+    "visit_url": "https://getmycruise.com/cruisebot",
+    "image": "https://ph-files.imgix.net/947ac6f0-40b9-4ddb-a2e4-e5174cd696fb.png"
+  },
+  {
+    "name": "Wordin",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/wordin",
+    "created_at": "",
+    "id": "wordin",
+    "label": "Write long content with AI without losing context",
+    "topics": [],
+    "votes": 116,
+    "visit_url": "https://wordin.ai",
+    "image": "https://ph-files.imgix.net/1bde0db9-2730-41ef-abdd-351d19423c8d.png"
+  },
+  {
+    "name": "SelfHostLLM",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/selfhostllm",
+    "created_at": "",
+    "id": "selfhostllm",
+    "label": "Calculate the GPU memory you need for LLM inference",
+    "topics": [],
+    "votes": 114,
+    "visit_url": "https://selfhostllm.org/",
+    "image": "https://ph-files.imgix.net/5b38f343-ebdd-4fb3-80a0-619122cd72ac.png"
+  },
+  {
+    "name": "Provenant Cloud",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/provenant-cloud",
+    "created_at": "",
+    "id": "provenant-cloud",
+    "label": "Self Driving Supply Chains",
+    "topics": [],
+    "votes": 33,
+    "visit_url": "https://www.provenant.eu",
+    "image": "https://ph-files.imgix.net/d24b54dd-1a81-4702-9dd7-9c7dd047a1ff.png"
+  },
+  {
+    "name": "Bublr",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/bublr",
+    "created_at": "",
+    "id": "bublr",
+    "label": "An ultra-minimal, open-source community for writers",
+    "topics": [
+      "Work & Productivity",
+      "Graphic design tools"
+    ],
+    "votes": 129,
+    "visit_url": "https://bublr.life",
+    "image": "https://ph-files.imgix.net/8d41cdda-6da5-43f5-bbb9-d37b5ed5b756.png"
+  },
+  {
+    "name": "Ninja.new",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/ninja-new-browser-using-ai-agent",
+    "created_at": "",
+    "id": "ninja-new-browser-using-ai-agent",
+    "label": "Automate manual tasks with a fully autonomous AI agent",
+    "topics": [],
+    "votes": 111,
+    "visit_url": "https://ninja.new",
+    "image": "https://ph-files.imgix.net/21a1d01b-dcf7-4632-b3ac-2ce6f5949437.png"
+  },
+  {
+    "name": "Battery Life and Health",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/battery-time-health",
+    "created_at": "",
+    "id": "battery-time-health",
+    "label": "A simple, compact battery indicator for macOS",
+    "topics": [],
+    "votes": 96,
+    "visit_url": "https://apps.apple.com/us/app/battery-life-and-health/id976964316",
+    "image": "https://ph-files.imgix.net/46b4a4a3-2478-4b78-87db-64e7c3bb6605.png"
+  },
+  {
+    "name": "ScrollMark",
+    "description": "",
+    "product_hunt_url": "https://www.producthunt.com/products/scrollmark-save-your-place-instantly",
+    "created_at": "",
+    "id": "scrollmark-save-your-place-instantly",
+    "label": "Never lose your place on the web again",
+    "topics": [],
+    "votes": 97,
+    "visit_url": "https://diligent-nature-614938.framer.app",
+    "image": "https://ph-files.imgix.net/63cd5687-f29b-4a2b-8968-45f3e3f6409b.png"
+  }
+]

@@ -1,0 +1,238 @@
+[
+  {
+    "name": "Den",
+    "description": "Den is Slack/Notion, fully rebuilt for AI agents. It gives you one place for all your chats, docs, and agents.",
+    "product_hunt_url": "https://www.producthunt.com/posts/den-4",
+    "created_at": "",
+    "id": "den-4",
+    "label": "Multiplayer AI agent builder",
+    "topics": [
+      "Productivity",
+      "Tech",
+      "Artificial Intelligence"
+    ],
+    "votes": 582,
+    "visit_url": "https://getden.io",
+    "image": "https://ph-files.imgix.net/82ad304c-1adf-4a41-8ea2-3eef66faca61.jpeg"
+  },
+  {
+    "name": "Macaly",
+    "description": "Macaly is the vibe coding assistant that turns your words into working apps and websites. Just describe your idea by typing or talking, and Macaly builds it instantly. No coding skills needed. Perfect for rapid prototyping, marketers, and non-developers.",
+    "product_hunt_url": "https://www.producthunt.com/posts/macaly",
+    "created_at": "",
+    "id": "macaly",
+    "label": "Apps built by conversations, not code",
+    "topics": [
+      "Design Tools",
+      "Website Builder",
+      "Web Design"
+    ],
+    "votes": 544,
+    "visit_url": "https://macaly.com/",
+    "image": "https://ph-files.imgix.net/4c709772-cb3c-4476-99c7-2cf433b2f855.png"
+  },
+  {
+    "name": "Stitch",
+    "description": "Stitch by Google Labs is a new AI experiment that turns prompts & images into UI designs & frontend code. Leverages Gemini 2.5 Pro, exports to Figma & code.",
+    "product_hunt_url": "https://www.producthunt.com/posts/stitch-9",
+    "created_at": "",
+    "id": "stitch-9",
+    "label": "Transform ideas into UI designs",
+    "topics": [
+      "Artificial Intelligence",
+      "Design Tools",
+      "User Experience"
+    ],
+    "votes": 356,
+    "visit_url": "https://stitch.withgoogle.com/",
+    "image": "https://ph-files.imgix.net/a900976f-5be9-44ea-ada9-a95b674f53a5.png"
+  },
+  {
+    "name": "Cua",
+    "description": "Cua is the Docker for Computer-Use Agent, an open-source framework that enables AI agents to control full operating systems within high-performance, lightweight virtual containers.",
+    "product_hunt_url": "https://www.producthunt.com/posts/cua-3",
+    "created_at": "",
+    "id": "cua-3",
+    "label": "Docker for computer-use agents",
+    "topics": [
+      "Artificial Intelligence",
+      "Open Source",
+      "Developer Tools"
+    ],
+    "votes": 328,
+    "visit_url": "https://cua.sh",
+    "image": "https://ph-files.imgix.net/078b9697-27db-4da3-abc0-9a7b4f96500a.png"
+  },
+  {
+    "name": "Enzzo PM",
+    "description": "Enzzo is an AI-powered product manager that turns ideas, feedback, and chats into defined products with requirements, competitive insights, structured docs, and tickets—right in the web or inside your Slack. Less time on busywork, more on building.",
+    "product_hunt_url": "https://www.producthunt.com/posts/enzzo-pm",
+    "created_at": "",
+    "id": "enzzo-pm",
+    "label": "AI-Powered Product Agent: Build Hardware & Software Faster",
+    "topics": [
+      "Productivity",
+      "Artificial Intelligence",
+      "Slack"
+    ],
+    "votes": 65,
+    "visit_url": "https://enzzo.ai/",
+    "image": "https://ph-files.imgix.net/25d5ad6f-d0b0-4c67-9396-53b9a0cc9ff2.png"
+  },
+  {
+    "name": "CoffeeHub",
+    "description": "CoffeeHub lets you book 1:1 calls with founders, VCs, and experts — like a virtual coffee chat.\nNo intros, no cold emails. Just pick, book, and connect.\n\nPerfect for startup advice, career tips, or real talk with people you admire.",
+    "product_hunt_url": "https://www.producthunt.com/posts/coffeehub",
+    "created_at": "",
+    "id": "coffeehub",
+    "label": "The easiest way to book time with professionals you admire",
+    "topics": [
+      "Education"
+    ],
+    "votes": 232,
+    "visit_url": "https://www.coffeehub.jp/",
+    "image": "https://ph-files.imgix.net/0bcdbfe6-61ba-4017-bf86-99af339b47dd.png"
+  },
+  {
+    "name": "Canvas AI Builder's Program",
+    "description": "Got an AI idea but stuck in “demo” mode? Canvas Builders Program is a 2-week, YC-style sprint that turns your rough concept into a live, production-ready agent.",
+    "product_hunt_url": "https://www.producthunt.com/posts/canvas-ai-builder-s-program",
+    "created_at": "",
+    "id": "canvas-ai-builder-s-program",
+    "label": "YC-style sprint that turns AI ideas into live agents",
+    "topics": [
+      "Artificial Intelligence",
+      "Education",
+      "Online Learning"
+    ],
+    "votes": 65,
+    "visit_url": "https://www.canvasx.ai/?utm_source=product_hunt",
+    "image": "https://ph-files.imgix.net/6dc311c9-1aa8-4e70-b428-4886a081bd6e.gif"
+  },
+  {
+    "name": "Saina",
+    "description": "Saina is an AI Interviewer that helps recruiters filter candidates for faster, unbiased screening. \n⚙️ Pick interview parameters \n🧑🏻‍💻 Saina interviews candidates anytime, all day \n📊Get scores based on set parameters \n⏱ Save resume and phone screening time",
+    "product_hunt_url": "https://www.producthunt.com/posts/saina",
+    "created_at": "",
+    "id": "saina",
+    "label": "Filter Top Candidates with AI Interviews ⚡",
+    "topics": [
+      "Career",
+      "Hiring"
+    ],
+    "votes": 169,
+    "visit_url": "https://ai.hirehunch.com/interview/?utm_source=product_hunt\\u0026utm_campaign=HHSIPH25",
+    "image": "https://ph-files.imgix.net/5c1f3723-b2f9-4d5e-8642-b44a2c3371dd.png"
+  },
+  {
+    "name": "InLabels",
+    "description": "Label & DM connections without switching tabs.\n🏷️ Unlimited labels to organize inbox.\n⚡️ Filter to keep track of chats.\n📝 Take notes to remember.",
+    "product_hunt_url": "https://www.producthunt.com/posts/inlabels-2",
+    "created_at": "",
+    "id": "inlabels-2",
+    "label": "Inbox for LinkedIn - Label, Notes & DMs",
+    "topics": [
+      "Sales",
+      "Chrome Extensions",
+      "LinkedIn"
+    ],
+    "votes": 57,
+    "visit_url": "https://inlabels.in/",
+    "image": "https://ph-files.imgix.net/626ff845-c5ac-41e0-b49a-02a598526a3c.png"
+  },
+  {
+    "name": "Voiden API Client",
+    "description": "Voiden.md is a developer-first API client with local storage, Git-integrated all based on markdown + offline support. Voiden's modular API design and open-source plugins offer flexibility and security without the bloat.",
+    "product_hunt_url": "https://www.producthunt.com/posts/voiden-api-client",
+    "created_at": "",
+    "id": "voiden-api-client",
+    "label": "Git-native. Modular. Made for devs who build.",
+    "topics": [
+      "Developer Tools",
+      "Development",
+      "API"
+    ],
+    "votes": 161,
+    "visit_url": "https://voiden.md/",
+    "image": "https://ph-files.imgix.net/b05fa3cb-75da-44e6-a623-74689c07d29c.png"
+  },
+  {
+    "name": "Life Note",
+    "description": "Life Note is a unique experience where you get personal mentorship from history’s most profound thinkers. Reflect with 1,000 history's boldest thinkers and see how your life can change.\n\n❝ The most life-changing tool! ❞ - Life Note User.",
+    "product_hunt_url": "https://www.producthunt.com/posts/life-note-3",
+    "created_at": "",
+    "id": "life-note-3",
+    "label": "Your Mind Meets History’s Greatest Thinkers",
+    "topics": [
+      "Productivity",
+      "Artificial Intelligence",
+      "Virtual Assistants"
+    ],
+    "votes": 60,
+    "visit_url": "https://mylifenote.ai",
+    "image": "https://ph-files.imgix.net/d819e579-0b85-4df3-b802-6146ee99af57.png"
+  },
+  {
+    "name": "Routerra",
+    "description": "Routerra is a fast, user-friendly route planner for couriers, delivery teams, and mobile workers. Use AI to streamline and simplify stop entry from spreadsheets or images, then get optimized routes in seconds — saving time, fuel, and effort.",
+    "product_hunt_url": "https://www.producthunt.com/posts/routerra",
+    "created_at": "",
+    "id": "routerra",
+    "label": "Your AI copilot for delivery route optimization",
+    "topics": [
+      "Delivery",
+      "Transportation",
+      "SaaS"
+    ],
+    "votes": 147,
+    "visit_url": "https://routerra.io/",
+    "image": "https://ph-files.imgix.net/48ff95be-2c24-49db-950a-b0262a11e0b3.png"
+  },
+  {
+    "name": "Spotify Upcoming Releases Hub",
+    "description": "The Upcoming Releases hub is a destination solely dedicated to highlighting soon-to-be-released albums powered by Countdown Pages, providing users with a one-stop shop to explore personalized recommendations based on their listening history.",
+    "product_hunt_url": "https://www.producthunt.com/posts/spotify-upcoming-releases-hub",
+    "created_at": "",
+    "id": "spotify-upcoming-releases-hub",
+    "label": "A new way for fans to get hyped for new albums",
+    "topics": [
+      "E-Commerce",
+      "Music"
+    ],
+    "votes": 145,
+    "visit_url": "https://open.spotify.com/upcoming-releases",
+    "image": "https://ph-files.imgix.net/f10da4fd-4ab9-4f8e-ab78-6657cdca5545.jpeg"
+  },
+  {
+    "name": "Notey",
+    "description": "Notey is a sleek, intuitive note-taking app designed to help you organize your thoughts,ideas, and tasks seamlessly. Users can mark specific notes as private and secure them with PIN protection,ensuring sensitive content stays safe and accessible only to you.",
+    "product_hunt_url": "https://www.producthunt.com/posts/notey-4",
+    "created_at": "",
+    "id": "notey-4",
+    "label": "Capture thoughts effortlessly with smart, secure notes",
+    "topics": [
+      "Privacy",
+      "Notes",
+      "Task Management"
+    ],
+    "votes": 105,
+    "visit_url": "https://www.notey.site",
+    "image": "https://ph-files.imgix.net/a445f3dd-2965-47af-99cd-79366eab720a.png"
+  },
+  {
+    "name": "Mitsuko",
+    "description": "AI Subtitle Translator Mitsuko: Get accurate SRT/ASS translations & precise audio transcription. Experience natural, context-aware results in 100+ languages.",
+    "product_hunt_url": "https://www.producthunt.com/posts/mitsuko",
+    "created_at": "",
+    "id": "mitsuko",
+    "label": "AI-powered subtitle translator & audio transcription",
+    "topics": [
+      "Productivity",
+      "Languages",
+      "Artificial Intelligence"
+    ],
+    "votes": 133,
+    "visit_url": "https://www.mitsuko.app/",
+    "image": "https://ph-files.imgix.net/bb851332-b204-4587-9e15-047ffb298480.png"
+  }
+]

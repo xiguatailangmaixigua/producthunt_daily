@@ -1,0 +1,190 @@
+[
+  {
+    "name": "Trace",
+    "description": "A workflow automation platform that routes tasks to the right agent – human or AI. By connecting tools like Slack, Jira and Notion – Trace breaks down existing workflows, spots automation opportunities and embeds AI agents to repetitive tasks.",
+    "product_hunt_url": "https://www.producthunt.com/products/trace",
+    "created_at": "",
+    "id": "trace",
+    "label": "Workflow Automations for the Human 👾 AI Workforce",
+    "topics": [],
+    "votes": 950,
+    "visit_url": "https://www.trace.so",
+    "image": "https://ph-files.imgix.net/8dc1cda4-025c-442d-a2cd-c6a45721b875.jpeg"
+  },
+  {
+    "name": "Qoder",
+    "description": "Qoder transforms how AI understands real software. Beyond snippets, it grasps your entire architecture—dependencies, patterns, history. Chat naturally for multi-file edits or delegate tasks to AI. From invisible complexity to transparent collaboration.",
+    "product_hunt_url": "https://www.producthunt.com/products/qoder",
+    "created_at": "",
+    "id": "qoder",
+    "label": "Qoder is an agentic IDE for real software development.",
+    "topics": [],
+    "votes": 585,
+    "visit_url": "https://qoder.com",
+    "image": "https://ph-files.imgix.net/be69f977-98e4-49b2-ac8c-a7894a32c71f.png"
+  },
+  {
+    "name": "Onlook",
+    "description": "Onlook is the first-ever developer tool for designers.",
+    "product_hunt_url": "https://www.producthunt.com/products/onlook-2",
+    "created_at": "",
+    "id": "onlook-2",
+    "label": "The open-source, Cursor for Designers",
+    "topics": [],
+    "votes": 447,
+    "visit_url": "https://onlook.com",
+    "image": "https://ph-files.imgix.net/c3e21fe2-3777-4f5a-bcf5-23cb46bacbb1.png"
+  },
+  {
+    "name": "TraceRoot.AI",
+    "description": "Traceroot is an AI-native, open-source observability tool that connects logs, traces, metrics, code, and team discussions. It doesn’t just summarize issues — it helps fix them by creating GitHub issues and PRs in a developer-friendly workflow.",
+    "product_hunt_url": "https://www.producthunt.com/products/traceroot-ai",
+    "created_at": "",
+    "id": "traceroot-ai",
+    "label": "Fix bugs faster with open source, AI native observability",
+    "topics": [],
+    "votes": 468,
+    "visit_url": "https://traceroot.ai/",
+    "image": "https://ph-files.imgix.net/a704cca8-c600-4a4a-ade0-43e596fa0d39.png"
+  },
+  {
+    "name": "With a View",
+    "description": "Discover hotels, apartments, restaurants, cafes and bars with stunning views.",
+    "product_hunt_url": "https://www.producthunt.com/products/tab-with-a-view",
+    "created_at": "",
+    "id": "tab-with-a-view",
+    "label": "Beautiful stories begin with a view",
+    "topics": [],
+    "votes": 244,
+    "visit_url": "https://withaview.co/ext/",
+    "image": "https://ph-files.imgix.net/c4cc53d4-e8f0-4328-9a1f-26544b197288.jpeg"
+  },
+  {
+    "name": "Vercel",
+    "description": "Vercel provides the developer tools and cloud infrastructure to build, scale, and secure a faster, more personalized web.",
+    "product_hunt_url": "https://www.producthunt.com/products/vercel",
+    "created_at": "",
+    "id": "vercel",
+    "label": "The frontend cloud. Creators of Next.js.",
+    "topics": [],
+    "votes": 273,
+    "visit_url": "https://ai-sdk.dev/elements",
+    "image": "https://ph-files.imgix.net/323553da-a468-4b2f-8ddd-ed340bcc07ee.jpeg"
+  },
+  {
+    "name": "Re:Connect",
+    "description": "Revolutionary webcam-based eye-tracking technology that turns any laptop into a powerful text dictation tool. No expensive hardware required.",
+    "product_hunt_url": "https://www.producthunt.com/products/re-connect",
+    "created_at": "",
+    "id": "re-connect",
+    "label": "Speak with Your Eyes No Special Hardware Needed",
+    "topics": [],
+    "votes": 169,
+    "visit_url": "https://reconnect.realeye.io/",
+    "image": "https://ph-files.imgix.net/857d5273-8a7c-47b2-8df8-4b2da0589f60.png"
+  },
+  {
+    "name": "Revyu.AI - Smart Hotel Booking",
+    "description": "Stop endless scrolling: Text search with AI - get personalized results list - see real analysis - Book with Confidence! With Revyu.AI Chrome extension you can search with simple text, summarize hotel reviews and get answers to your questions. Get it for free!",
+    "product_hunt_url": "https://www.producthunt.com/products/revyu-ai",
+    "created_at": "",
+    "id": "revyu-ai",
+    "label": "Find, review and book hotels like you own them!",
+    "topics": [],
+    "votes": 58,
+    "visit_url": "https://revyu.ai",
+    "image": "https://ph-files.imgix.net/63d29156-9167-440c-825f-5cfe5113497e.png"
+  },
+  {
+    "name": "Walk the World",
+    "description": "Have you walked enough this week to finish the Boston marathon? Find out with Walk the World, an addictively healthy new take on step-tracking. It converts your daily steps into iconic map milestones, with souvenirs to collect along the way.",
+    "product_hunt_url": "https://www.producthunt.com/products/walk-the-world",
+    "created_at": "",
+    "id": "walk-the-world",
+    "label": "Transform your daily steps into satisfying map milestones",
+    "topics": [],
+    "votes": 152,
+    "visit_url": "https://apps.apple.com/us/app/walk-the-world-virtual-trails/id6743502929",
+    "image": "https://ph-files.imgix.net/eb34b9e2-afd1-46de-9354-0b0fd72b0309.png"
+  },
+  {
+    "name": "Cohere",
+    "description": "We build high performance, secure language models for the enterprise. Our customizable, high-performance language models work on public, private, or hybrid clouds to ensure data security & exceptional support.",
+    "product_hunt_url": "https://www.producthunt.com/products/cohere-2",
+    "created_at": "",
+    "id": "cohere-2",
+    "label": "Build incredible products with world-class language AI",
+    "topics": [],
+    "votes": 155,
+    "visit_url": "https://cohere.com/blog/command-a-reasoning",
+    "image": "https://ph-files.imgix.net/1cc40799-c18c-49c9-a1de-bf3125958b20.jpeg"
+  },
+  {
+    "name": "MentorCruise",
+    "description": "Get 1:1 guidance from top experts in Software Engineering, Product Management, AI, Design, and Business – only on MentorCruise.",
+    "product_hunt_url": "https://www.producthunt.com/products/mentorcruise",
+    "created_at": "",
+    "id": "mentorcruise",
+    "label": "Connect with the world's greatest mentors",
+    "topics": [],
+    "votes": 47,
+    "visit_url": "https://mentorcruise.com",
+    "image": "https://ph-files.imgix.net/45d3a8d6-27af-4df4-b323-05c33a645ec4.png"
+  },
+  {
+    "name": "Sprout Track",
+    "description": "The Beta Launch! Baby tracking that works for your whole family. Track feeding, sleep, diapers & milestones from any browser. Share access instantly with caregivers via ID/PIN - no downloads or accounts required. Built by parents for parents.",
+    "product_hunt_url": "https://www.producthunt.com/products/sprout-track-the-beta-launch",
+    "created_at": "",
+    "id": "sprout-track-the-beta-launch",
+    "label": "A web-based baby activity app with seamless family sharing",
+    "topics": [
+      "Kids",
+      "Parenting",
+      "Babies"
+    ],
+    "votes": 142,
+    "visit_url": "https://www.sprout-track.com",
+    "image": "https://ph-files.imgix.net/71fb4ac1-b0d8-4c75-9d1e-dc3f807d9223.png"
+  },
+  {
+    "name": "Rexpt - AI Receptionist Service",
+    "description": "Rexpt, Smart AI Receptionist to handle all your Business front desk utilizing Artificial Intelligence. Rexpt handles your business calls 24/7, Nurture Leads, Take Calendar Bookings, Fight Spam Calls, Take Notes & Provide Worry-Free Front-Desk Management.",
+    "product_hunt_url": "https://www.producthunt.com/products/rexpt-ai-receptionist-service",
+    "created_at": "",
+    "id": "rexpt-ai-receptionist-service",
+    "label": "Never Miss a Call, Never Miss a Client with Agentic AI App",
+    "topics": [
+      "Virtual Assistants",
+      "Productivity",
+      "Artificial Intelligence"
+    ],
+    "votes": 51,
+    "visit_url": "https://rxpt.us",
+    "image": "https://ph-files.imgix.net/b7c90c14-112b-4285-b36c-4b7eca6c5d10.png"
+  },
+  {
+    "name": "Hedge UI",
+    "description": "Launch your trading application fast with Hedge UI, a React starter kit for building high-quality, customisable trading apps.",
+    "product_hunt_url": "https://www.producthunt.com/products/hedge-ui",
+    "created_at": "",
+    "id": "hedge-ui",
+    "label": "React starter kit for trading applications",
+    "topics": [],
+    "votes": 21,
+    "visit_url": "https://www.hedgeui.com?utm_source=producthunt\\u0026utm_medium=social\\u0026utm_campaign=launch",
+    "image": "https://ph-files.imgix.net/8c3c253c-4495-4ff6-82d5-d79112fdc6ad.webp"
+  },
+  {
+    "name": "SAS Connect",
+    "description": "SAS Connect simplifies workforce management with automated rostering, real-time tracking, and advanced reporting built to scale from smart tools to full ERP for precision-driven industries.",
+    "product_hunt_url": "https://www.producthunt.com/products/sas-connect",
+    "created_at": "",
+    "id": "sas-connect",
+    "label": "The digital core of construction",
+    "topics": [],
+    "votes": 10,
+    "visit_url": "https://sasconnect.au/",
+    "image": "https://ph-files.imgix.net/d1135228-0e9c-449f-8e1e-5b8a1b637100.jpeg"
+  }
+]

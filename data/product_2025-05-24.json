@@ -1,0 +1,239 @@
+[
+  {
+    "name": "Chance AI: Visual Reasoning",
+    "description": "Chance AI is your visual companion—just snap a photo to reveal the story behind anything you see. With our new Visual Reasoning feature, it doesn’t just recognize, it explains. See the world differently. Smarter. Deeper. Instantly.",
+    "product_hunt_url": "https://www.producthunt.com/posts/chance-ai-visual-reasoning",
+    "created_at": "",
+    "id": "chance-ai-visual-reasoning",
+    "label": "Search by Seeing Instantly with Visual Reasoning Model",
+    "topics": [
+      "Education",
+      "Artificial Intelligence",
+      "Photography"
+    ],
+    "votes": 563,
+    "visit_url": "https://cha.vision/producthunt",
+    "image": "https://ph-files.imgix.net/d34618bd-9837-4b10-b171-f7e801dd5451.png"
+  },
+  {
+    "name": "Claude 4",
+    "description": "Anthropic's Claude 4 models, Opus 4 & Sonnet 4, set new AI benchmarks in coding, reasoning & agents. Both feature extended thinking with tool use & improved memory.",
+    "product_hunt_url": "https://www.producthunt.com/posts/claude-4",
+    "created_at": "",
+    "id": "claude-4",
+    "label": "Anthropic's next leap in coding, reasoning & AI agents",
+    "topics": [
+      "Development",
+      "Productivity",
+      "Artificial Intelligence"
+    ],
+    "votes": 513,
+    "visit_url": "https://www.anthropic.com/news/claude-4",
+    "image": "https://ph-files.imgix.net/e24ed302-d234-4d59-88d7-3bb611038480.webp"
+  },
+  {
+    "name": "CrowdReply",
+    "description": "CrowdReply helps you grow on Reddit by finding and engaging on threads through our network of accounts. You write the message, we handle delivery, tracking, and upvotes — all without proxies, bans, or fake engagement.",
+    "product_hunt_url": "https://www.producthunt.com/posts/crowdreply",
+    "created_at": "",
+    "id": "crowdreply",
+    "label": "Reddit marketing without managing accounts or proxies",
+    "topics": [
+      "reddit",
+      "Marketing",
+      "Social media marketing"
+    ],
+    "votes": 216,
+    "visit_url": "https://crowdreply.io",
+    "image": "https://ph-files.imgix.net/18ecc8da-3732-4d0e-88e0-d14cfb0d4ecc.png"
+  },
+  {
+    "name": "Generate Ads AI",
+    "description": "Generate scroll-stopping ads in just a few clicks. Or clone competitor ads using the Ad Cloner Chrome extension!",
+    "product_hunt_url": "https://www.producthunt.com/posts/generate-ads-ai",
+    "created_at": "",
+    "id": "generate-ads-ai",
+    "label": "Create scroll-stopping ads in 2 click",
+    "topics": [
+      "Design Tools",
+      "Marketing",
+      "Advertising"
+    ],
+    "votes": 460,
+    "visit_url": "https://generateads.ai/",
+    "image": "https://ph-files.imgix.net/a9411d57-0d59-4d8c-a0d1-af5924c86500.png"
+  },
+  {
+    "name": "Framer Workshop",
+    "description": "Workshop turns prompts into powerful, editable components for your site. Describe what you want, tweak in a chat, and deploy. No dev hours needed.",
+    "product_hunt_url": "https://www.producthunt.com/posts/framer-workshop",
+    "created_at": "",
+    "id": "framer-workshop",
+    "label": "Build powerful components through simple instructions",
+    "topics": [
+      "Design Tools",
+      "Productivity",
+      "Artificial Intelligence"
+    ],
+    "votes": 324,
+    "visit_url": "https://www.framer.com/workshop/",
+    "image": "https://ph-files.imgix.net/68ce08af-c9b2-4dd5-8cad-4a68bbf8488d.jpeg"
+  },
+  {
+    "name": "Udio",
+    "description": "Turn your ideas into fully produced songs with a little help from AI. Start with just a genre, a vibe, a topic, or sample lyrics, and turn it into a high-quality track in seconds. Made for musicians, producers, dreamers, or anyone with a creative spark.",
+    "product_hunt_url": "https://www.producthunt.com/posts/udio-2",
+    "created_at": "",
+    "id": "udio-2",
+    "label": "Generative song creator & mobile studio. Make your music.",
+    "topics": [
+      "Music",
+      "Artificial Intelligence",
+      "Art"
+    ],
+    "votes": 191,
+    "visit_url": "https://apps.apple.com/app/id6511211165",
+    "image": "https://ph-files.imgix.net/f124fa8e-e746-4988-97a0-0957a309c0a3.png"
+  },
+  {
+    "name": "Revisual",
+    "description": "Revisual is a sleek utility app that replaces macOS’s default overlays (like brightness and volume) with a beautifully reimagined alternative. It goes beyond the basics — adding smart, customizable overlays for your mic, battery, power, and connectivity too.",
+    "product_hunt_url": "https://www.producthunt.com/posts/revisual",
+    "created_at": "",
+    "id": "revisual",
+    "label": "HUD replacement app for your Mac",
+    "topics": [
+      "Mac",
+      "User Experience",
+      "Productivity"
+    ],
+    "votes": 256,
+    "visit_url": "https://revisualapp.com",
+    "image": "https://ph-files.imgix.net/06df2fcf-e58d-463e-8937-dbb39ea9fd9b.png"
+  },
+  {
+    "name": "Wavedash",
+    "description": "Wavedash uses cutting edge browser technology to let gamers play high quality games instantly, with no downloads or installation.",
+    "product_hunt_url": "https://www.producthunt.com/posts/wavedash-2",
+    "created_at": "",
+    "id": "wavedash-2",
+    "label": "Play the latest games in your web browser",
+    "topics": [
+      "Tech",
+      "Developer Tools",
+      "Games"
+    ],
+    "votes": 235,
+    "visit_url": "https://wavedash.gg",
+    "image": "https://ph-files.imgix.net/a65377c6-fdc8-437d-8ee8-63c959880b53.png"
+  },
+  {
+    "name": "Approval AI",
+    "description": "Approval AI is America’s first AI mortgage platform built to help homebuyers save time, money, and stress. We automate the most painful parts of getting a mortgage: paperwork, rate shopping, and negotiation, all in one place.",
+    "product_hunt_url": "https://www.producthunt.com/posts/approval-ai",
+    "created_at": "",
+    "id": "approval-ai",
+    "label": "Easiest way to get the best home loan",
+    "topics": [
+      "Fintech",
+      "Artificial Intelligence",
+      "Personal Finance"
+    ],
+    "votes": 220,
+    "visit_url": "https://getapproval.ai",
+    "image": "https://ph-files.imgix.net/1198b6ce-767c-454f-a2fe-a26b4c5ef858.png"
+  },
+  {
+    "name": "GetReview",
+    "description": "Start up companies can use this to promote their products to google as getting likes, upvotes, stars, followers and comments.",
+    "product_hunt_url": "https://www.producthunt.com/posts/getreview-2",
+    "created_at": "",
+    "id": "getreview-2",
+    "label": "Product that get reviews, likes, upvotes",
+    "topics": [
+      "Marketing"
+    ],
+    "votes": 52,
+    "visit_url": "https://simplegetting.com/home",
+    "image": "https://ph-files.imgix.net/b927e8be-31fb-4bc3-b3a4-efcc88cf4578.png"
+  },
+  {
+    "name": "Morphik",
+    "description": "Morphik is an open source AI-native knowledge base. Knowledge workers spend so much time in the research phase, Morphik is the research agent over complex data that allows them to save time. Think perplexity for enterprise data, and open source!",
+    "product_hunt_url": "https://www.producthunt.com/posts/morphik",
+    "created_at": "",
+    "id": "morphik",
+    "label": "Open source AI-native knowledge base for enterprises & devs",
+    "topics": [
+      "Open Source",
+      "SaaS",
+      "GitHub"
+    ],
+    "votes": 192,
+    "visit_url": "https://www.morphik.ai",
+    "image": "https://ph-files.imgix.net/f4296c0e-28f9-4bd8-b681-eb27e3faacd3.png"
+  },
+  {
+    "name": "Reviewradar",
+    "description": "Chat with software reviews to understand what users like, what bothers them, and what they're looking for in a product. \n👉 180,000+ SaaS products analyzed. \n👉 Access to 5+ million reviews (+direct links) \n👉 10x faster than doing interviews or surveys",
+    "product_hunt_url": "https://www.producthunt.com/posts/reviewradar",
+    "created_at": "",
+    "id": "reviewradar",
+    "label": "Figure out what users want, fast. 🚀",
+    "topics": [
+      "Business Intelligence",
+      "SaaS",
+      "Artificial Intelligence"
+    ],
+    "votes": 62,
+    "visit_url": "https://reviewradar.ai/",
+    "image": "https://ph-files.imgix.net/02526467-3a90-430a-acb2-3ffbfd1087db.png"
+  },
+  {
+    "name": "QuizzMe",
+    "description": "QuizzMe turns your study materials into interactive lessons powered by AI. Learn concepts in bite-sized chunks, test yourself with smart questions, and get instant feedback to track your progress. It’s like having a personal tutor—on demand.",
+    "product_hunt_url": "https://www.producthunt.com/posts/quizzme",
+    "created_at": "",
+    "id": "quizzme",
+    "label": "Transform your notes into an interactive learning experience",
+    "topics": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Education"
+    ],
+    "votes": 63,
+    "visit_url": "https://www.quizzme.ai",
+    "image": "https://ph-files.imgix.net/66190ba9-4f6d-4ddf-81ec-10e24593bed0.png"
+  },
+  {
+    "name": "Giststack",
+    "description": "Giststack curates your favorite content sources and crafts endless EPIC on-brand social media posts in seconds.",
+    "product_hunt_url": "https://www.producthunt.com/posts/giststack",
+    "created_at": "",
+    "id": "giststack",
+    "label": "Never run out of social media post ideas ever again",
+    "topics": [
+      "LinkedIn",
+      "Marketing",
+      "Social Media"
+    ],
+    "votes": 182,
+    "visit_url": "https://www.giststack.com",
+    "image": "https://ph-files.imgix.net/0b3ac234-0b01-4791-b39d-8244c709964e.jpeg"
+  },
+  {
+    "name": "Pill Buddy: Cute meds tracker, reminders",
+    "description": "A cute mascot that reminds you to take your medications & supplements on time. But watch out — he gets increasingly annoying if you miss a dose!",
+    "product_hunt_url": "https://www.producthunt.com/posts/pill-buddy-cute-meds-tracker-reminders",
+    "created_at": "",
+    "id": "pill-buddy-cute-meds-tracker-reminders",
+    "label": "Cute way to remember to take your medicines & supplements",
+    "topics": [
+      "Medical",
+      "Health & Fitness"
+    ],
+    "votes": 160,
+    "visit_url": "https://pillbuddy.app/",
+    "image": "https://ph-files.imgix.net/d66da3c1-d1bc-4328-8d1b-e41459289bf9.png"
+  }
+]

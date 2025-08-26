@@ -1,0 +1,341 @@
+[
+  {
+    "name": "Appwrite Sites",
+    "description": "With Sites, Appwrite offers a streamlined solution for easily deploying static and server-rendered applications. \n\nEverything is designed to simplify your workflow, from creating a site and connecting a domain to leveraging our templates.",
+    "product_hunt_url": "https://www.producthunt.com/posts/appwrite-sites",
+    "created_at": "",
+    "id": "appwrite-sites",
+    "label": "The open-source Vercel alternative",
+    "topics": [
+      "Developer Tools",
+      "Software Engineering",
+      "Productivity"
+    ],
+    "votes": 595,
+    "visit_url": "https://appwrite.io/products/sites",
+    "image": "https://ph-files.imgix.net/7ea9fa10-e700-4fbc-a1be-d5e7a8caa757.png",
+    "label_zh": "开源的 Vercel 替代品",
+    "topics_zh": [
+      "开发者工具",
+      "软件工程",
+      "生产效率"
+    ],
+    "content_zh": "Appwrite Sites 提供了一种简便的解决方案，可以轻松部署静态和服务器渲染的应用程序。从创建站点、连接域名到使用我们的模板，所有功能都旨在简化你的工作流程。"
+  },
+  {
+    "name": "AI Operator by BLACKBOX AI",
+    "description": "Your Browser AI Agent SEES, TALKS, and GUIDES you through ANY challenge! Get instant, expert help for coding and web tasks—crushing online obstacles in real-time, 24/7!",
+    "product_hunt_url": "https://www.producthunt.com/posts/ai-operator-by-blackbox-ai",
+    "created_at": "",
+    "id": "ai-operator-by-blackbox-ai",
+    "label": "Your browser AI agent for everything on your screen!",
+    "topics": [
+      "Developer Tools",
+      "Artificial Intelligence",
+      "Productivity"
+    ],
+    "votes": 187,
+    "visit_url": "https://www.blackbox.ai",
+    "image": "https://ph-files.imgix.net/d324d7f7-e601-406d-81b1-71694ead81c7.png",
+    "label_zh": "您的浏览器AI助手，屏幕上的万事通！",
+    "topics_zh": [
+      "开发者工具",
+      "人工智能",
+      "生产力"
+    ],
+    "content_zh": "你的浏览器AI助手能看、能说、能指导你应对任何挑战！无论是编程还是网页任务，都能实时提供专家级帮助，全天候解决在线难题。"
+  },
+  {
+    "name": "BnbIcons",
+    "description": "Airbnb surprised the world with its new skeumorphism icons.\nStay ahead of the curve and create your own icons in this style.\n🖼️ Provide a prompt, get an icon, and animate it.\n📸 Over 500 icons have already been created.\nYour creativity is the limit 🎉",
+    "product_hunt_url": "https://www.producthunt.com/posts/bnbicons",
+    "created_at": "",
+    "id": "bnbicons",
+    "label": "Create and animate Airbnb-like isometric icons with AI",
+    "topics": [
+      "Design Tools",
+      "Icons",
+      "Artificial Intelligence"
+    ],
+    "votes": 336,
+    "visit_url": "https://bnbicons.com",
+    "image": "https://ph-files.imgix.net/94bdeb51-43aa-49d1-831f-5dfc7bea51f0.png",
+    "label_zh": "使用AI创建和动画化类似Airbnb的等距图标",
+    "topics_zh": [
+      "设计工具",
+      "图标",
+      "人工智能"
+    ],
+    "content_zh": "Airbnb 推出了新的拟物风格图标，让人眼前一亮。\n紧跟潮流，自己动手创建这种风格的图标吧。\n提供一个提示词，就能生成一个图标，并且还能让它动起来。\n已经有超过500个图标被创建了。\n发挥你的创意，尽情创作吧！"
+  },
+  {
+    "name": "Distro",
+    "description": "Distro is your personal podcast host, turning conversations into ready-to-publish content in minutes. Build your social brand with your AI podcast host, that creates social posts, quotes, and drafts in your voice and grow your brand.",
+    "product_hunt_url": "https://www.producthunt.com/posts/distro-3",
+    "created_at": "",
+    "id": "distro-3",
+    "label": "AI podcast cohost that turns conversations into social posts",
+    "topics": [
+      "Design Tools",
+      "Social Media",
+      "Artificial Intelligence"
+    ],
+    "votes": 305,
+    "visit_url": "https://youdistro.com",
+    "image": "https://ph-files.imgix.net/17e3811f-b8bb-4b6a-ae85-aaf47e25a4b8.png",
+    "label_zh": "AI 播客共同主持人，将对话转化为社交媒体帖子",
+    "topics_zh": [
+      "设计工具",
+      "社交媒体",
+      "人工智能"
+    ],
+    "content_zh": "Distro 是你的私人播客主持人，能在几分钟内将对话转化为可发布的成品内容。通过这个 AI 播客主持人，你可以创建具有个人风格的社交媒体帖子、引用和草稿，帮助你打造和扩大个人品牌。"
+  },
+  {
+    "name": "Tabs Magic",
+    "description": "Drowning in tabs? Tabs Magic turns your browser into a visual productivity board. Create columns, group tabs, and set smart reminders. Now on Chrome, Firefox, and Safari.",
+    "product_hunt_url": "https://www.producthunt.com/posts/tabs-magic",
+    "created_at": "",
+    "id": "tabs-magic",
+    "label": "A visual workspace for your browser tabs",
+    "topics": [
+      "Chrome Extensions",
+      "Browser Extensions",
+      "Productivity"
+    ],
+    "votes": 271,
+    "visit_url": "https://tabsmagic.com/",
+    "image": "https://ph-files.imgix.net/6c7a4d4a-2376-40a8-a2e0-507aa2a2dfd4.png",
+    "label_zh": "一个可视化的工作空间，用于管理你的浏览器标签页",
+    "topics_zh": [
+      "Chrome 扩展程序",
+      "浏览器扩展程序",
+      "生产力工具"
+    ],
+    "content_zh": "被大量标签页困扰？Tabs Magic 可以将你的浏览器变成一个可视化的工作板。你可以创建列、分组标签页，并设置智能提醒。现已支持 Chrome、Firefox 和 Safari。"
+  },
+  {
+    "name": "Ollama v0.7",
+    "description": "Ollama v0.7 introduces a new engine for first-class multimodal AI, starting with vision models like Llama 4 & Gemma 3. Offers improved reliability, accuracy, and memory management for running LLMs locally.",
+    "product_hunt_url": "https://www.producthunt.com/posts/ollama-v0-7",
+    "created_at": "",
+    "id": "ollama-v0-7",
+    "label": "Run leading vision models locally with the new engine",
+    "topics": [
+      "Open Source",
+      "Artificial Intelligence",
+      "GitHub"
+    ],
+    "votes": 233,
+    "visit_url": "https://ollama.com/blog/multimodal-models",
+    "image": "https://ph-files.imgix.net/34bcca34-f3fe-4031-9210-c5549bc1b90c.png",
+    "label_zh": "使用新引擎在本地运行领先的视觉模型",
+    "topics_zh": [
+      "开源",
+      "人工智能",
+      "GitHub"
+    ],
+    "content_zh": "Ollama v0.7 推出了一个新的引擎，支持一流的多模态 AI，首先包括像 Llama 4 和 Gemma 3 这样的视觉模型。它提高了本地运行大语言模型时的可靠性、准确性和内存管理。"
+  },
+  {
+    "name": "Bolna",
+    "description": "Bolna AI is a plug-and-play Voice AI platform for recruiters. Embed human-like voice agents into your CRM or ATS to automate screening, assessments, interview scheduling, and follow-ups - freeing teams to hire 100x faster.",
+    "product_hunt_url": "https://www.producthunt.com/posts/bolna-2",
+    "created_at": "",
+    "id": "bolna-2",
+    "label": "Voice AI agents platform for high volume recruitment & ATS",
+    "topics": [
+      "Artificial Intelligence",
+      "Career",
+      "Hiring"
+    ],
+    "votes": 144,
+    "visit_url": "https://www.bolna.ai/",
+    "image": "https://ph-files.imgix.net/f16dd298-1782-4877-92ac-c2b154152ebe.png",
+    "label_zh": "用于高量招聘和ATS的语音AI代理平台",
+    "topics_zh": [
+      "人工智能",
+      "职业发展",
+      "招聘"
+    ],
+    "content_zh": "Bolna AI 是一个即插即用的语音AI平台，专为招聘人员设计。将类似人类的语音代理嵌入到您的CRM或ATS系统中，可以自动完成筛选、评估、面试安排和跟进工作，从而让团队的招聘速度提高100倍。"
+  },
+  {
+    "name": "QualGent AI",
+    "description": "AI-powered mobile QA agent that automatically tests your iOS and Android apps. No more manual test scripts - our AI understands your app's UI and finds bugs faster. Cursor helps you write code 10x faster, QualGent helps you ship 10x faster.",
+    "product_hunt_url": "https://www.producthunt.com/posts/qualgent-ai",
+    "created_at": "",
+    "id": "qualgent-ai",
+    "label": "AI Mobile App QA Tester",
+    "topics": [
+      "Artificial Intelligence",
+      "iOS",
+      "Android"
+    ],
+    "votes": 174,
+    "visit_url": "https://qualgent.ai",
+    "image": "https://ph-files.imgix.net/b6c35fbf-0205-4e1a-a0dd-aa52d38cb1f9.png",
+    "label_zh": "AI 移动应用质量测试员",
+    "topics_zh": [
+      "人工智能",
+      "iOS",
+      "安卓"
+    ],
+    "content_zh": "QualGent AI 是一款由人工智能驱动的移动质量检测工具，可以自动测试你的 iOS 和 Android 应用。再也不需要手动编写测试脚本了，我们的 AI 能理解你应用的用户界面，并更快地找到 bug。Cursor 帮你提高代码编写速度 10 倍，而 QualGent 则帮你提高发布速度 10 倍。"
+  },
+  {
+    "name": "Sim Studio",
+    "description": "Sim Studio lets you connect LLMs to Slack, Supabase, Pinecone, and Gmail to create research agents, support bots, or file parsers. Collaborate by inviting your team to your visual canvas.",
+    "product_hunt_url": "https://www.producthunt.com/posts/sim-studio-3",
+    "created_at": "",
+    "id": "sim-studio-3",
+    "label": "Figma canvas for AI agent workflows",
+    "topics": [
+      "Open Source",
+      "Artificial Intelligence"
+    ],
+    "votes": 177,
+    "visit_url": "https://simstudio.ai",
+    "image": "https://ph-files.imgix.net/7cadc576-2fe8-494b-9ad0-9c9bba559c70.png",
+    "label_zh": "Figma 画布用于 AI 代理工作流程",
+    "topics_zh": [
+      "开源",
+      "人工智能"
+    ],
+    "content_zh": "Sim Studio 可以让你将大语言模型连接到 Slack、Supabase、Pinecone 和 Gmail，从而创建研究助手、支持机器人或文件解析器。你可以通过邀请团队成员加入你的可视化画布来进行协作。"
+  },
+  {
+    "name": "Mindverse",
+    "description": "Plan, build, manage, and share effortlessly with the largest suite of AI tools. From copywriting and research to image generation and productivity, our all-in-one AI ecosystem empowers you to create smarter and faster. Boost your workflow try it today!",
+    "product_hunt_url": "https://www.producthunt.com/posts/mindverse",
+    "created_at": "",
+    "id": "mindverse",
+    "label": "All-in-one AI ecosystem to boost creativity & productivity",
+    "topics": [
+      "Artificial Intelligence",
+      "Productivity"
+    ],
+    "votes": 152,
+    "visit_url": "https://www.mind-verse.de/en",
+    "image": "https://ph-files.imgix.net/7bba187a-933c-4bff-89fd-20eb34da8339.png",
+    "label_zh": "全能AI生态系统，提升创意与生产力",
+    "topics_zh": [
+      "人工智能",
+      "生产力"
+    ],
+    "content_zh": "计划、构建、管理和分享，使用最全面的AI工具套件轻松搞定。无论是撰写文案、研究资料、生成图片还是提高工作效率，我们的全能AI生态系统都能帮助你更智能、更快速地完成任务。提升你的工作流程，今天就来试试吧！"
+  },
+  {
+    "name": "Ragie",
+    "description": "Transcribe, index, & retrieve answers from spoken and visual content—with precise timestamps and streaming playback. Search recordings to find the moment something was said or shown. Base Chat now supports A/V, so users can ask and instantly watch answers.",
+    "product_hunt_url": "https://www.producthunt.com/posts/ragie-5a6d5feb-5c8c-4199-8ebb-378bbccdddc1",
+    "created_at": "",
+    "id": "ragie-5a6d5feb-5c8c-4199-8ebb-378bbccdddc1",
+    "label": "Your Audio and Video, Now Fully Searchable.",
+    "topics": [
+      "Developer Tools",
+      "Software Engineering",
+      "Video"
+    ],
+    "votes": 145,
+    "visit_url": "https://www.ragie.ai/?utm_source=producthunt\\u0026utm_medium=launch\\u0026utm_campaign=may_2025\\u0026utm_content=live",
+    "image": "https://ph-files.imgix.net/8ef7e429-0962-450a-900f-c3af8f511b8d.png",
+    "label_zh": "您的音频和视频，现在完全可搜索。",
+    "topics_zh": [
+      "开发者工具",
+      "软件工程",
+      "视频"
+    ],
+    "content_zh": "将语音和视觉内容转录、索引并检索答案，附带精确的时间戳和流媒体播放。搜索录音以找到某句话或某个画面出现的时刻。Base Chat现在支持音视频，用户可以即时提问并观看答案。"
+  },
+  {
+    "name": "Handoff AI",
+    "description": "Transform your remodeling and handymen businesses with Handoff. Generate detailed, accurate project estimates instantly. Save time, reduce errors, and win more jobs with our AI-native software. Handoff also supports sending proposals and invoices.",
+    "product_hunt_url": "https://www.producthunt.com/posts/handoff-ai",
+    "created_at": "",
+    "id": "handoff-ai",
+    "label": "Generate instant construction estimates with AI",
+    "topics": [
+      "Artificial Intelligence",
+      "Home",
+      "Construction"
+    ],
+    "votes": 140,
+    "visit_url": "https://handoff.ai",
+    "image": "https://ph-files.imgix.net/406efee1-ac52-49b8-936d-0685cccdd830.png",
+    "label_zh": "使用AI即时生成建筑估算",
+    "topics_zh": [
+      "人工智能",
+      "家居",
+      "建筑"
+    ],
+    "content_zh": "Handoff AI 能彻底改变你的装修和维修业务。它能即时生成详细且准确的项目估价，节省时间，减少错误，并帮助你赢得更多工作机会。此外，Handoff AI 还支持发送提案和发票。"
+  },
+  {
+    "name": "Habicat",
+    "description": "My product launched its iOS version in 2023, and the Android version was completed earlier. We are now available on release it on Google Play, and everyone is welcome to try it out.",
+    "product_hunt_url": "https://www.producthunt.com/posts/habicat-2",
+    "created_at": "",
+    "id": "habicat-2",
+    "label": "Now available on Google Play!",
+    "topics": [
+      "Android",
+      "Productivity"
+    ],
+    "votes": 137,
+    "visit_url": "https://apps.apple.com/us/app/habicat/id6444766871",
+    "image": "https://ph-files.imgix.net/7812bbd3-b10a-47d6-847c-bd89835c7ff7.png",
+    "label_zh": "现在可在 Google Play 上获取！",
+    "topics_zh": [
+      "Android",
+      "生产力"
+    ],
+    "content_zh": "我们的产品Habicat在2023年推出了iOS版本，而安卓版本则更早完成。现在，Habicat已经在Google Play上架，欢迎大家下载体验。"
+  },
+  {
+    "name": "Nodeflow AI",
+    "description": "Transform scattered research into viral content. Our visual AI whiteboard connects YouTube, TikTok, Instagram, Documents, Websites, Linkedin, X, Images and more to powerful AI that creates high-converting content in your authentic voice, not generic AI text.",
+    "product_hunt_url": "https://www.producthunt.com/posts/nodeflow-ai-4",
+    "created_at": "",
+    "id": "nodeflow-ai-4",
+    "label": "Visual AI workspace: create a month of content in hours",
+    "topics": [
+      "Marketing",
+      "Artificial Intelligence",
+      "Productivity"
+    ],
+    "votes": 129,
+    "visit_url": "https://get.nodeflowai.com",
+    "image": "https://ph-files.imgix.net/6fa1f90e-92f8-4832-8afa-9f34073a81a1.png",
+    "label_zh": "视觉AI工作区：几小时内创建一个月的内容",
+    "topics_zh": [
+      "市场营销",
+      "人工智能",
+      "生产力"
+    ],
+    "content_zh": "将零散的研究转化为热门内容。我们的可视化AI白板连接了YouTube、TikTok、Instagram、文档、网站、LinkedIn、X和图片等平台，并利用强大的AI生成具有你独特风格的高转化率内容，而不是千篇一律的AI文本。"
+  },
+  {
+    "name": "VibeShift MCP",
+    "description": "Put cursor in auto feedback loop so that it tries to generate secure, fully working code in one shot. Completely open source.",
+    "product_hunt_url": "https://www.producthunt.com/posts/vibeshift-mcp",
+    "created_at": "",
+    "id": "vibeshift-mcp",
+    "label": "Get secure, working code in 1 shot",
+    "topics": [
+      "Developer Tools",
+      "Artificial Intelligence",
+      "GitHub"
+    ],
+    "votes": 122,
+    "visit_url": "https://github.com/GroundNG/VibeShift",
+    "image": "https://ph-files.imgix.net/c0628018-a173-455f-b83a-93f9297c0c4a.jpeg",
+    "label_zh": "一次搞定，获取安全、可用的代码",
+    "topics_zh": [
+      "开发者工具",
+      "人工智能",
+      "GitHub"
+    ],
+    "content_zh": "将光标放入自动反馈循环中，以便一次性生成安全且完全可用的代码。全部开源。"
+  }
+]

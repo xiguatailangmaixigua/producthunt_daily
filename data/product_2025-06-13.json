@@ -1,0 +1,235 @@
+[
+  {
+    "name": "Flowstep",
+    "description": "Flowstep is your AI design assistant, transforming simple text prompts into UI designs, wireframes, and flows. Accelerate your workflow, iterate effortlessly with built-in suggestions, and collaborate seamlessly in real-time to bring your ideas to life.",
+    "product_hunt_url": "https://www.producthunt.com/products/flowstep",
+    "created_at": "",
+    "id": "flowstep",
+    "label": "Design beautiful UIs instantly with AI",
+    "topics": [
+      "Interface design tools",
+      "Wireframing",
+      "Design mockups"
+    ],
+    "votes": 502,
+    "visit_url": "https://flowstep.ai/",
+    "image": "https://ph-files.imgix.net/6293a4eb-0491-4268-92a5-688ce248929d.png"
+  },
+  {
+    "name": "Dia Browser",
+    "description": "Dia is the AI browser from The Browser Company. Chat with your tabs, write in your own voice, learn and plan faster, shop, and more — all with privacy that you control.",
+    "product_hunt_url": "https://www.producthunt.com/products/dia-browser",
+    "created_at": "",
+    "id": "dia-browser",
+    "label": "The AI browser where you can chat with your tabs",
+    "topics": [],
+    "votes": 367,
+    "visit_url": "https://www.diabrowser.com/",
+    "image": "https://ph-files.imgix.net/4f17eed2-91cc-412c-a501-215f597c50e0.png"
+  },
+  {
+    "name": "CoPilot.Live",
+    "description": "CoPilot.Live is built with a vision to create a versatile AI-driven platform that empowers users with fast, accurate, and context-aware assistance, transforming how information is accessed and data-driven decisions are made across various domains.",
+    "product_hunt_url": "https://www.producthunt.com/products/copilot-live",
+    "created_at": "",
+    "id": "copilot-live",
+    "label": "Your Personalised AI Assistant",
+    "topics": [
+      "Email clients",
+      "Writing assistants",
+      "AI Chatbots",
+      "Customer support tools",
+      "Work & Productivity",
+      "Wearables",
+      "LLMs"
+    ],
+    "votes": 249,
+    "visit_url": "https://www.fynd.com/solutions/ai-agent-builder",
+    "image": "https://ph-files.imgix.net/81de6f00-1fa3-49cb-9b5f-82b149206215.jpeg"
+  },
+  {
+    "name": "kukumber:",
+    "description": "Built with 100+ parents and teachers, kukumber helps kids aged 5–9 build learning habits, boost confidence, and make real progress—just 20 minutes a day. 1,000+ playful lessons, a talking AI mascot, and zero ads. Frustration-free. Full of fun.",
+    "product_hunt_url": "https://www.producthunt.com/products/kukumber-daily-math-practice-for-kids",
+    "created_at": "",
+    "id": "kukumber-daily-math-practice-for-kids",
+    "label": "Your child’s AI math companion that will make them love math",
+    "topics": [],
+    "votes": 242,
+    "visit_url": "https://kukumber.kids",
+    "image": "https://ph-files.imgix.net/d1446478-8614-4065-8cc1-f95c412df1b4.png"
+  },
+  {
+    "name": "PageAI",
+    "description": "The best AI website generator that can plan, design and code your landing page in minutes. Uses open source, well-documented components, builds wireframe, writes copy and selects colors, fonts and allows customization with 1 click. Get the source or deploy!",
+    "product_hunt_url": "https://www.producthunt.com/products/page-ai-websites-a-human-would-build",
+    "created_at": "",
+    "id": "page-ai-websites-a-human-would-build",
+    "label": "The AI that designs & codes websites better than Lovable/v0",
+    "topics": [
+      "Landing page builders",
+      "Website builders"
+    ],
+    "votes": 306,
+    "visit_url": "https://pageai.pro/",
+    "image": "https://ph-files.imgix.net/9533112c-a034-4086-a6dc-0a71c1d31db1.png"
+  },
+  {
+    "name": "Scripe",
+    "description": "Scripe knows what works by analyzing thousands of viral LinkedIn posts daily. Like a personal content strategist, Scripe knows what works by analyzing thousands of viral LinkedIn posts daily uniting it with all your knowledge into a repeatable content system. No generic AI fluff - train the AI with your knowledge to generate personalized content. Get weekly post drafts in your inbox that sound exactly like you, tailored to your goals and positioning.",
+    "product_hunt_url": "https://www.producthunt.com/products/scripe-2",
+    "created_at": "",
+    "id": "scripe-2",
+    "label": "Create LinkedIn content the algorithm loves in <5 minutes",
+    "topics": [
+      "Professional networking platforms",
+      "Writing assistants"
+    ],
+    "votes": 171,
+    "visit_url": "https://scripe.io",
+    "image": "https://ph-files.imgix.net/539e59f8-e9f0-44cf-9d54-5a6ba0eae8ff.png"
+  },
+  {
+    "name": "Komiko",
+    "description": "Komiko is an AI creation platform for visual storytelling. Easily design characters, generate art, create comics, and produce stunning animations. Built by and for anime and comic fans, Komiko makes it easier than ever to bring your stories to life.",
+    "product_hunt_url": "https://www.producthunt.com/products/framepack-ai-video-generator",
+    "created_at": "",
+    "id": "framepack-ai-video-generator",
+    "label": "All-in-one AI creation platform for anime and comics",
+    "topics": [
+      "3D & Animation",
+      "AI Generative Art"
+    ],
+    "votes": 91,
+    "visit_url": "https://komiko.app",
+    "image": "https://ph-files.imgix.net/aae5fb70-4299-4ab9-af50-74cb706dd463.png"
+  },
+  {
+    "name": "Async Voice AI",
+    "description": "Transform your applications with our premium voice AI technology. Our easy-to-use API delivers lifelike, expressive voices that capture human intonation, pronunciation, and emotional inflections with exceptional fidelity.",
+    "product_hunt_url": "https://www.producthunt.com/products/async-premium-voice-ai-api",
+    "created_at": "",
+    "id": "async-premium-voice-ai-api",
+    "label": "High-quality text-to-speech, designed for developers",
+    "topics": [
+      "Text-to-Speech",
+      "Unified API"
+    ],
+    "votes": 171,
+    "visit_url": "https://async.ai/",
+    "image": "https://ph-files.imgix.net/c23c958a-4563-4ccb-bd1d-730083cceb64.png"
+  },
+  {
+    "name": "Hugging Face",
+    "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+    "product_hunt_url": "https://www.producthunt.com/products/hugging-face",
+    "created_at": "",
+    "id": "hugging-face",
+    "label": "The AI community building the future.",
+    "topics": [
+      "Team collaboration software",
+      "AI Infrastructure Tools",
+      "AI",
+      "Social media management tools",
+      "Code editors",
+      "Design inspiration websites",
+      "Marketplace sites",
+      "Business intelligence software",
+      "Design & Creative",
+      "LLMs"
+    ],
+    "votes": 172,
+    "visit_url": "https://huggingface.co/aisheets",
+    "image": "https://ph-files.imgix.net/641aa23b-9ce1-4785-98a9-b06dfd54b146.png"
+  },
+  {
+    "name": "Gentoro 1.0",
+    "description": "Go beyond drag-and-drop, no-code, and low-code tools to start vibing with Gentoro. Purpose-built around the Model Context Protocol (MCP), the Gentoro platform lets you generate, manage, and secure MCP Tools with no custom code and no vendor lock-in.",
+    "product_hunt_url": "https://www.producthunt.com/products/gentoro-1-0",
+    "created_at": "",
+    "id": "gentoro-1-0",
+    "label": "The Fastest Way to Build and Run MCP Tools",
+    "topics": [
+      "No-code platforms",
+      "Work & Productivity",
+      "AI Infrastructure Tools"
+    ],
+    "votes": 59,
+    "visit_url": "https://playground.gentoro.com/signup",
+    "image": "https://ph-files.imgix.net/9fade076-91bb-4d38-ad18-d4f05b18b197.jpeg"
+  },
+  {
+    "name": "Pdforge",
+    "description": "Create reusable PDF templates or one-off documents in minutes using our AI Agents. Fine tune the design with our no-code builder and automate the delivery with our easy-to-use API or native integration with no-code tools.",
+    "product_hunt_url": "https://www.producthunt.com/products/pdforge",
+    "created_at": "",
+    "id": "pdforge",
+    "label": "Automate your PDF Generation with AI",
+    "topics": [
+      "No-code platforms",
+      "Automation tools",
+      "PDF Editor"
+    ],
+    "votes": 59,
+    "visit_url": "https://pdforge.com",
+    "image": "https://ph-files.imgix.net/4ef7c3c3-8990-4d6c-9c3c-6423a1387e19.png"
+  },
+  {
+    "name": "Orshot – API for Image Generation",
+    "description": "Create and automate marketing assets at scale. Generate dynamic images from AI Generated templates via Rest API, SDKs, Zapier and other integrations",
+    "product_hunt_url": "https://www.producthunt.com/products/orshot",
+    "created_at": "",
+    "id": "orshot",
+    "label": "Creative Automation for Marketing",
+    "topics": [
+      "Automation tools"
+    ],
+    "votes": 150,
+    "visit_url": "https://orshot.com/features/ai-template-generator",
+    "image": "https://ph-files.imgix.net/058f00b7-73b7-440b-89e8-618fc37c6c16.png"
+  },
+  {
+    "name": "AppReply",
+    "description": "The only app review management platform that learns from your past responses & replies like your team already does – on autopilot.\n\nStart sending on-brand, personalized replies to Google Play and App Store app reviews in 100+ languages in minites, in a simple, easy-to-use interface.\n\nTrusted by over 150 app & game publishers with a combined total of 160,000,000 downloads.",
+    "product_hunt_url": "https://www.producthunt.com/products/appreply",
+    "created_at": "",
+    "id": "appreply",
+    "label": "Reply to app store reviews automatically",
+    "topics": [
+      "Customer support tools",
+      "Automation tools",
+      "AI"
+    ],
+    "votes": 147,
+    "visit_url": "https://appreply.co",
+    "image": "https://ph-files.imgix.net/7256b702-5e2d-4622-8f29-cc802e72e0bf.png"
+  },
+  {
+    "name": "Origin AI",
+    "description": "BUILD FASTER THAN EVER BEFORE: Origin AI lets you create and launch internal saas style tools in minutes, tailored exactly to your business. Enjoy full control with complete source-code access, and enterprise-grade security by deploying in our secure AWS cloud or your own. Change features effortlessly just by talking - no coding needed - and include databases and other backend services without signing up to 3rd party services. Traditional SaaS is dead; welcome to a new, smarter way of working.",
+    "product_hunt_url": "https://www.producthunt.com/products/origin-5",
+    "created_at": "",
+    "id": "origin-5",
+    "label": "Turn prompts into full-stack apps - no code needed!",
+    "topics": [
+      "AI Coding Assistants",
+      "No-code platforms",
+      "AI Infrastructure Tools"
+    ],
+    "votes": 120,
+    "visit_url": "https://theorigin.ai",
+    "image": "https://ph-files.imgix.net/3d1d5332-4038-4e35-853d-28600aa3bd7f.png"
+  },
+  {
+    "name": "Ente Photos",
+    "description": "Ente Photos is an open‑source, end‑to‑end encrypted photo & video storage app for mobile, desktop, & web. Enjoy secure backups (3‑cloud redundancy), on‑device AI, privacy-first sharing, family plans & stunning memories. Get started with 10GB free.",
+    "product_hunt_url": "https://www.producthunt.com/products/ente-photos",
+    "created_at": "",
+    "id": "ente-photos",
+    "label": "End-to-end encrypted alternative to Google Photos",
+    "topics": [],
+    "votes": 133,
+    "visit_url": "https://ente.io",
+    "image": "https://ph-files.imgix.net/764b83a0-6e84-42eb-ad10-84e7a050d81c.jpeg"
+  }
+]

@@ -1,0 +1,229 @@
+[
+  {
+    "name": "FuseBase /formerly Nimbus/",
+    "description": "Scattered tools and clunky collaboration cost you time and money. FuseBase unifies internal and external teamwork—powered by AI agents that automate admin work, so you focus on what matters most.\nIt’s like Notion, but purpose-built for internal teams and external collaboration. Turbo-charged with always-on AI Agents that live inside your FuseBase workspaces, inside every portal, inside a lightning-fast browser extension, and inside our Zapier-style Automation Hub",
+    "product_hunt_url": "https://www.producthunt.com/products/fusebase",
+    "created_at": "",
+    "id": "fusebase",
+    "label": "Internal and external workspaces powered by AI agents",
+    "topics": [
+      "Team collaboration software",
+      "File storage and sharing apps",
+      "AI",
+      "Money transfer",
+      "Project management software",
+      "No-code platforms",
+      "Video conferencing"
+    ],
+    "votes": 642,
+    "visit_url": "https://thefusebase.com",
+    "image": "https://ph-files.imgix.net/3cd6fe26-acbf-4674-a289-172b61b1e556.jpeg"
+  },
+  {
+    "name": "KLING AI",
+    "description": "KLING AI, a cutting-edge creative studio by Kuaishou Tech, excels in image and video generation. It ignites creativity through prompts and images, producing realistic visuals with advanced text comprehension, intricate details, and diverse styles.",
+    "product_hunt_url": "https://www.producthunt.com/products/kling-ai-4",
+    "created_at": "",
+    "id": "kling-ai-4",
+    "label": "Next-Generation Al Creative Studio",
+    "topics": [
+      "AI Generative Art"
+    ],
+    "votes": 285,
+    "visit_url": "https://app.klingai.com/global",
+    "image": "https://ph-files.imgix.net/a4d6b682-379a-404b-b562-905adae55455.jpeg"
+  },
+  {
+    "name": "Glims  (Beta)",
+    "description": "Glims is like Figma for showreels — the fastest way to turn your photos or frames into catchy videos, right in your browser.",
+    "product_hunt_url": "https://www.producthunt.com/products/glims-beta",
+    "created_at": "",
+    "id": "glims-beta",
+    "label": "Turn static shots into fast-moving showreels – like magic.",
+    "topics": [],
+    "votes": 332,
+    "visit_url": "https://glims.io/",
+    "image": "https://ph-files.imgix.net/97b81674-68bd-4984-8120-acd749f75696.png"
+  },
+  {
+    "name": "Lettre.app",
+    "description": "A new form of deliberate communication with the joys of digital collecting and making pen-pals across the world. Immersive letter-writing experience made for the iPad - now on iPhones!",
+    "product_hunt_url": "https://www.producthunt.com/products/lettre-app",
+    "created_at": "",
+    "id": "lettre-app",
+    "label": "Slow post in the age of instant messaging",
+    "topics": [
+      "Messaging apps",
+      "Social & Community",
+      "Social media management tools",
+      "Writing assistants",
+      "Lead generation software",
+      "Dating apps",
+      "Influencer marketing platforms",
+      "Best SEO tools"
+    ],
+    "votes": 205,
+    "visit_url": "https://www.lettre.app",
+    "image": "https://ph-files.imgix.net/e2a19b8f-5f80-459f-8a54-64fd071a1b4f.png"
+  },
+  {
+    "name": "millionship.dev",
+    "description": "🚢 MillionShip is a playful directory for indie devs who want visibility without cringe marketing. ✅Just pick a ship, plant it on the 3D globe, and let the world discover your product — no grind required!",
+    "product_hunt_url": "https://www.producthunt.com/products/millionship-dev",
+    "created_at": "",
+    "id": "millionship-dev",
+    "label": "Playful directory for indie devs",
+    "topics": [],
+    "votes": 249,
+    "visit_url": "https://millionship.dev",
+    "image": "https://ph-files.imgix.net/b3e07052-eac9-47a6-b0f4-e874114329b2.png"
+  },
+  {
+    "name": "EmotionSense Pro",
+    "description": "EmotionSense Pro is a Chrome extension that detects real-time emotions in Google Meet using AI—without sending data to servers. Ideal for UX researchers, recruiters, and educators seeking ethical, local emotion analytics.",
+    "product_hunt_url": "https://www.producthunt.com/products/emotionsense-pro-ai-for-google-meet",
+    "created_at": "",
+    "id": "emotionsense-pro-ai-for-google-meet",
+    "label": "Privacy-first emotion AI for Google Meet in real time",
+    "topics": [],
+    "votes": 180,
+    "visit_url": "https://www.emotionsense.pro/",
+    "image": "https://ph-files.imgix.net/fc6ca2c1-fc1e-4472-8699-5e1f0d6d5b4e.png"
+  },
+  {
+    "name": "Skywork Super Agents",
+    "description": "Skywork transforms simple prompts into comprehensive, research-backed content delivered in minutes. Our AI agents explore 10× more sources than rivals, producing polished documents, presentations, spreadsheets, podcasts, & webpages for less.",
+    "product_hunt_url": "https://www.producthunt.com/products/skywork-super-agents",
+    "created_at": "",
+    "id": "skywork-super-agents",
+    "label": "Turn any idea into professional content in minutes—not hours",
+    "topics": [
+      "Presentation Software",
+      "Note and writing apps"
+    ],
+    "votes": 103,
+    "visit_url": "https://skywork.ai/p/u1uZyV",
+    "image": "https://ph-files.imgix.net/c6380972-568f-45f5-9b24-ea5ed46d2839.png"
+  },
+  {
+    "name": "Sunset",
+    "description": "Use Sunset to find and close financial accounts after a death: Bank accounts, 401k, IRA, Life Insurance, Credit Cards, real estate, and more.",
+    "product_hunt_url": "https://www.producthunt.com/products/sunset-4",
+    "created_at": "",
+    "id": "sunset-4",
+    "label": "Find and close bank accounts for dead people",
+    "topics": [],
+    "votes": 180,
+    "visit_url": "https://sunsetapp.com",
+    "image": "https://ph-files.imgix.net/25a83dd9-21eb-442c-8e34-36666f88aef4.png"
+  },
+  {
+    "name": "Longist",
+    "description": "Longist – The Biohacker’s Longevity Toolkit, engineered to help you gain up to 13 healthy years of life — built for biohackers, by longevity obsessives.",
+    "product_hunt_url": "https://www.producthunt.com/products/longist",
+    "created_at": "",
+    "id": "longist",
+    "label": "AI longevity health coach",
+    "topics": [
+      "Activity tracking",
+      "AI Chatbots",
+      "Medical"
+    ],
+    "votes": 161,
+    "visit_url": "https://www.longist.io/",
+    "image": "https://ph-files.imgix.net/f86ed7fd-5c92-4082-b598-501da42d0666.png"
+  },
+  {
+    "name": "Agora",
+    "description": "Agora is an AI search engine for e-commerce products. We've indexed products sold on thousands of stores and made them easy to purchase with a single cart transaction. Think of a decentralized Amazon.",
+    "product_hunt_url": "https://www.producthunt.com/products/agora-13",
+    "created_at": "",
+    "id": "agora-13",
+    "label": "Shop for millions of e-commerce products with AI",
+    "topics": [
+      "Shopify Apps",
+      "Ecommerce platforms",
+      "Marketplace sites"
+    ],
+    "votes": 168,
+    "visit_url": "https://www.searchagora.com",
+    "image": "https://ph-files.imgix.net/cea99533-b973-4bfe-83f0-068ca007cf58.png"
+  },
+  {
+    "name": "IndieMerger",
+    "description": "Find your co-founder and build your startup together in one shared workspace. From matching to Kanban boards, chat, roles, and launch templates - IndieMerger is where complementary founders connect and get things done.",
+    "product_hunt_url": "https://www.producthunt.com/products/indiemerger",
+    "created_at": "",
+    "id": "indiemerger",
+    "label": "The all-in-one workspace for co-founders",
+    "topics": [
+      "Social Networking",
+      "Professional networking platforms",
+      "Startup communities"
+    ],
+    "votes": 145,
+    "visit_url": "https://indiemerger.com",
+    "image": "https://ph-files.imgix.net/0382de3d-c0bb-4664-9767-4a5b56400445.png"
+  },
+  {
+    "name": "Posted.ly: Content That Clicks",
+    "description": "Posted.ly is your AI content assistant, built on ChatGPT. Create your Brand Profile once — then get tailored post ideas, captions & calendars in seconds. For creators, coaches & brands who want content that clicks. Would love your feedback! 💛",
+    "product_hunt_url": "https://www.producthunt.com/products/posted-ly-content-that-clicks",
+    "created_at": "",
+    "id": "posted-ly-content-that-clicks",
+    "label": "Post Smarter. Grow Faster.",
+    "topics": [
+      "ChatGPT Prompts",
+      "Social media management tools",
+      "Writing assistants"
+    ],
+    "votes": 45,
+    "visit_url": "https://www.posted.ly",
+    "image": "https://ph-files.imgix.net/9ff6087f-2cd3-4b5c-a975-770d4cde2217.png"
+  },
+  {
+    "name": "DockIt",
+    "description": "Create custom dock profiles for different workflows and boost your productivity. DockIt helps you organize your Mac experience with seamless profile switching and smart automatic Dock sorting based on your usage.",
+    "product_hunt_url": "https://www.producthunt.com/products/dockit-2",
+    "created_at": "",
+    "id": "dockit-2",
+    "label": "Your dock, your way",
+    "topics": [
+      "Work & Productivity"
+    ],
+    "votes": 137,
+    "visit_url": "https://dockit.space",
+    "image": "https://ph-files.imgix.net/13c8dcfb-4c39-4f8d-9ebf-185801e461ba.png"
+  },
+  {
+    "name": "FlowChefs",
+    "description": "FlowChefs is your AI-powered meal planner. Generate personalized recipes, smart grocery lists, and track nutrition—all synced to your pantry. Cook smarter, shop faster, eat better.",
+    "product_hunt_url": "https://www.producthunt.com/products/chefflow",
+    "created_at": "",
+    "id": "chefflow",
+    "label": "Smart meal planning, image to recipe,  longevity score",
+    "topics": [
+      "ChatGPT Prompts",
+      "AI Metrics and Evaluation",
+      "Startup communities"
+    ],
+    "votes": 33,
+    "visit_url": "https://flowchefs.com/",
+    "image": "https://ph-files.imgix.net/21905a48-b592-435a-b166-e0e7dae897a4.png"
+  },
+  {
+    "name": "VibeKit",
+    "description": "VibeKit is an open-source SDK to run coding agents like OpenAI Codex and Claude in secure sandboxes. Let agents write code, install packages, or open PRs safely — with streaming, async tasks, and telemetry built-in. MIT licensed, TypeScript, zero lock-in.",
+    "product_hunt_url": "https://www.producthunt.com/products/vibekit",
+    "created_at": "",
+    "id": "vibekit",
+    "label": "Run coding agents in a secure sandbox",
+    "topics": [
+      "AI Coding Assistants",
+      "AI Infrastructure Tools"
+    ],
+    "votes": 128,
+    "visit_url": "https://www.vibekit.sh",
+    "image": "https://ph-files.imgix.net/4c2cca0b-a818-4f84-b760-8d34f6ee43ad.png"
+  }
+]
